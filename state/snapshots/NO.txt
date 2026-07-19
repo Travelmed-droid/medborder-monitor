@@ -1,0 +1,769 @@
+Forside - Direktoratet for medisinske produkter
+Til hovedinnhold
+Norsk
+Show this page in English
+MENY
+Godkjenning av legemidler
+Slik utvikles og godkjennes legemidler
+Hvilke statuser kan et legemiddel ha?
+Generisk legemiddel og parallellimportert legemiddel
+Klinisk utpr&#xF8;ving av legemidler til mennesker
+Regelverk og veiledninger
+Hva er EUs Biotech Act
+Clinical Trials Information System (CTIS)
+S&#xF8;knad om klinisk utpr&#xF8;ving
+S&#xF8;knad om klinisk utpr&#xF8;ving - krav til dokumentasjon
+S&#xF8;knad om vesentlig endring
+Lavintervensjonsstudier
+Gebyrer for s&#xF8;knad om klinisk utpr&#xF8;ving av legemidler
+Trinnvis innsendelse av s&#xF8;knad om klinisk utpr&#xF8;ving (Article 11 workaround)
+Rapportering for p&#xE5;g&#xE5;ende kliniske studier etter godkjenning
+Rapportering n&#xE5;r klinisk studie er avsluttet
+FAST-EU En pilot for raskere saksbehandling av multinasjonale kliniske studier
+S&#xF8;knad om klinisk utpr&#xF8;ving av GMO i legemidler til mennesker
+Compassionate Use Program
+Desentraliserte kliniske utpr&#xF8;vinger
+Inspeksjon av kliniske studier
+Oversikt over mottatte s&#xF8;knader - klinisk utpr&#xF8;ving og innovasjon
+S&#xF8;knad og oppf&#xF8;lging av markedsf&#xF8;ringstillatelse
+S&#xF8;knad om markedsf&#xF8;ringstillatelse
+Avanserte terapier - sykehusunntak
+Nasjonal prosedyre (NP)
+Gjensidig anerkjennelsesprosedyre (MRP)
+Desentralisert prosedyre (DCP)
+Sentral prosedyre (CP)
+Innsending av elektroniske s&#xF8;knader
+Utlysning av &#xF8;nskede preparater
+Referansepreparat
+P&#xE5;g&#xE5;ende s&#xF8;knader om markedsf&#xF8;ringstillatelser
+Liste over nye markedsf&#xF8;ringstillatelser
+Nasjonale MT s&#xF8;knader til dyr som er trukket
+Fornyelse av markedsf&#xF8;ringstillatelse
+Endring av markedsf&#xF8;ringstillatelse
+Overf&#xF8;ring av MT/endret navn og adresse for MT-innehaver
+Artikkel 61(3)-notifikasjoner og VRA G.I.15z (NP)
+Arbeidsdelingsprosedyre (&#xAB;worksharing&#xBB;) med nasjonalt godkjente legemidler
+Innsendelse av endringss&#xF8;knader
+DMP-svar p&#xE5; ferdigstilte endringss&#xF8;knader
+Implementeringsfrist for endringer som ikke ber&#xF8;rer norsk produktinformasjon
+Relevant informasjon for s&#xF8;knad og oppf&#xF8;lging av MT
+Veiledning ved forslag til navn p&#xE5; legemiddel
+Registreringsgebyr
+Avregistrering, midlertidig utg&#xE5;tt og reaktivering
+Sunset Clause
+Batchspesifikke unntak
+Batchspesifikke unntak relatert til kvalitet
+Databaser og digitale systemet
+Termer i Legemiddelgrunndata
+Substanser er fellesbetegnelsen for virkestoff og hjelpestoff
+RMS og norske kodeverk
+ATC-kodeverk og viktigheten av femte niv&#xE5; for preparater
+Kosttilskudd til FEST og FHIR-tjenesten
+Produktinformasjon
+Preparatomtale og pakningsvedlegg
+Internasjonale enheter (IE) og Enhet (E) har ulik betydning
+Digitalt pakningsvedlegg
+Merking
+QRD-templater
+Implementeringsfrist for merking og pakningsvedlegg
+S&#xF8;knad om batchspesifikke unntak relatert til produktinformasjon
+Anbefalinger om oppdateringer
+Oppdateringer som f&#xF8;lge av &#x201D;Paediatric Regulation&#x201D;, art. 45 og 46 arbeidsdeling/ &#x201D;worksharing&#x201D;
+PRAC etter utredning av signaler
+PRAC etter referral med CMDh-konsensus
+Referral vedtatt av Europakommisjonen
+PSUR Single Assessment (PSUSA)
+Varseltrekantordningen
+Lesbarhetstesting og bridging
+Legemidler som utleveres uten resept - OTC
+Virkestoffrapporter
+S&#xF8;knad om OTC-status og endring i OTC-status
+Harmonisering av pakningsvedlegg og merking for OTC-legemidler med virkestoffrapport
+Plantebaserte legemidler
+Dokumentasjonskrav ved s&#xF8;knad om markedsf&#xF8;ringstillatelse
+Sp&#xF8;rsm&#xE5;l og svar om markedsf&#xF8;ringstillatelse for plantebaserte legemidler
+Plantebaserte legemidler med markedsf&#xF8;ringstillatelse
+Europeisk regelverk, monografier og liste
+Markedsf&#xF8;ringstillatelse for naturlegemidler
+Definisjoner og markedsadgang for plantebaserte legemidler
+Hom&#xF8;opatiske legemidler
+Krav om registrering av hom&#xF8;opatiske legemidler
+Liste over hom&#xF8;opatiske legemidler tillatt omsatt i Norge
+S&#xF8;knad om registrering av hom&#xF8;opatisk legemiddel til mennesker
+S&#xF8;knad om registrering av hom&#xF8;opatisk legemiddel til dyr
+Endringer, fornyelse, tilbakekallelse og bortfall av registrering av hom&#xF8;opatiske legemidler
+Parallellimporterte legemidler
+S&#xF8;knad om markedsf&#xF8;ringstillatelse
+Forpliktelser etter utstedelse av markedsf&#xF8;ringstillatelse
+Annen informasjon
+Hvem skal du kontakte for regulatoriske sp&#xF8;rsm&#xE5;l?
+WHO-sertifikater
+OCABR av blodprodukter og vaksiner til mennesker
+Desinfeksjonsmidler - godkjenning, tilvirkning og import
+Veiledning om godkjenning av desinfeksjonsmidler til teknisk bruk i helse- og sykepleie
+Veiledning om godkjenning av desinfeksjonsmidler til teknisk bruk i akvakulturanlegg med videre
+Klassifisering av legemidler
+Avansert terapi (ATMP)
+CBD &#x2013; hva er det, og hva sier regelverket?
+Definisjon p&#xE5; ulike typer legemiddel
+Er produktet et legemiddel?
+Hvordan tolke klassifiseringsvedtak
+Informasjon om cannabidiol (CBD) for virksomheter
+Klassifisering av legemidler til dyr
+Medisinske p&#xE5;stander
+Produktspesifikke veiledere om klassifisering
+FMT &#x2013; Fekal Mikrobiota Transplantasjon
+Klassifisering av melatonin
+Klassifisering av gassprodukter til medisinsk bruk
+Produkter til injeksjon for fettfjerning er legemidler &#x2013; ikke kosmetikk
+Legemidler og vaksiner mot covid-19
+Oversikt over godkjente koronavaksiner
+Godkjenningsprosessen for koronavaksiner
+Hvordan virker koronavaksinene?
+Aktuelle legemidler mot covid-19
+Godkjenningsprosessen for legemidler mot covid-19
+Norske legemiddelstandarder
+Om publiseringer i NLS og Ph. Eur. i 2026
+Abbrevations and symbols
+Nye, endrede og utg&#xE5;tte titler i NLS 2026
+Standarder
+Standardbetegnelser (Standard Terms)
+Standarder for monografier med titler
+Legemiddelformmonografier
+Monografier som egne lister
+Basic dose forms
+Generelle monografier
+Hom&#xF8;opatiske preparater
+Legemiddelformer uten monografier som fantes i tidligere NLS-utgave
+Monografipreparater
+Radioaktive preparater
+Tr&#xE5;der til medisinsk bruk
+Vaksinestandarder
+Ph. Eur. monografier i NLS database
+NLS-Databasen for monografier
+Referansestandarder
+Fremstilling av farmas&#xF8;ytiske preparater
+Alminnelige p&#xE5;bud
+Bruk av hjelpestoffer
+Hjelpepreparater
+Isotone vandige l&#xF8;sninger
+Inndamping i vakuum
+Utensilier
+Pr&#xF8;ver p&#xE5; tekniske egenskaper
+European paediatric formulary
+Mikrobiologisk kvalitet av legemidler
+Nasjonale veiledninger
+Generelle bestemmelser
+Definisjoner
+Oppbevarings- og transportbetingelser inkludert merking
+Oppbevaringsbetingelser hos bruker
+Oppbevaringsbegreper fra tidligere NLS-utgaver
+Legemidler etter anbrudd
+Veiledende brukstider for legemidler med krav om sterilitet
+Veiledende brukstider for legemidler uten krav om sterilitet
+Bivirkninger og legemiddelsikkerhet
+Bivirkningsmelding og Bivirkningsregisteret
+Bivirkningsregisteret
+Hvordan pasienter kan melde bivirkninger
+Hvordan helsepersonell kan melde bivirkninger
+Informasjonsmateriell bivirkningsmelding
+Bivirkningsrapporter og oversikter
+&#xC5;rsrapporter om bivirkninger
+Temarapporter om bivirkninger
+Bivirkningsrapporter for koronavaksiner
+Koronavaksiner og betennelse i hjertet
+Koronavaksiner og menstruasjonsforstyrrelser
+Meldte bivirkninger av SGLT2-hemmere
+Meldte bivirkninger av HPV-vaksine
+Bivirkninger av ditt legemiddel?
+Oversikt over bivirkningsmeldinger internasjonalt
+Oversikt over bivirkningsmeldinger i Europa
+Legemiddeloverv&#xE5;king
+Slik overv&#xE5;kes bivirkninger av legemidler
+&#x25BC;Svart trekant - kva vil det seie?
+Laboratoriekontroll av legemiddel
+R&#xE5;d til pasienter
+CBD og cannabis - import, omsetning og medisinsk bruk
+10 medisintips for ferien
+R&#xE5;d til helsepersonell
+Hom&#xF8;opatiske legemiddel
+Hormonelle prevensjonsmiddel
+Legemiddelregning-app
+Legemiddelsamstemming og legemiddelgjennomgang
+Nesespray anbefales ikke til barn under 2 &#xE5;r
+Nytt om legemidler (NYL)
+Desinfeksjonsmidler
+Plantebaserte legemiddel
+Interaksjonsdata fra DMP
+St&#xF8;tteinformasjon i interaksjonene
+Prinsipper for s&#xF8;k i interaksjonsdatabasen
+Klassifisering av interaksjonene
+Inklusjonskriterier
+Dokumentasjon av interaksjonsdata
+Forvaltning og oppdatering av interaksjonsdata
+Tiltak for &#xE5; forebygge bivirkninger av legemidler
+Sikkerhetsinformasjon til helsepersonell og pasient
+Kj&#xE6;re helsepersonell-brev
+Reseptfrie legemidler med krav om veiledning
+Reseptfri sildenafil
+Reseptfri tadalafil
+Reseptfri h&#xF8;ykonsentrert fluoridtannpasta
+Reseptfri nalokson nesespray (Ventizolve)
+Sikkerhetsinformasjon for legemiddelfirma
+Regelverk for oppf&#xF8;lging av legemiddelsikkerhet
+Oppl&#xE6;ringsmateriell - veiledning for innsending og distribusjon
+Kj&#xE6;re helsepersonell-brev &#x2013; veiledning for innsending
+Rutiner for innhenting av tilleggsopplysninger for bivirkningsmeldinger
+Rutiner for varsling av Emerging safety issues
+PSUR Repository obligatorisk ved innsendelse av PSUR
+Standardmerking av sikkerhetsinformasjon til helsepersonell
+Ofte stilte sp&#xF8;rsm&#xE5;l om legemiddeloverv&#xE5;king
+Inspeksjon av MT- innehavers systemer for legemiddeloverv&#xE5;king- human
+Inspeksjon av MT-Innehavers systemer for legemiddeloverv&#xE5;king- veterin&#xE6;r
+Varsler fra DMP
+Godkjenningsfritak
+For leger og tannleger
+Rutine for godkjenningsfritak ved sykehus
+Legemidler det ofte er sp&#xF8;rsm&#xE5;l om ved godkjenningsfritak
+Prosedyre for behandling med cannabis innenfor dagens regelverk
+Bruk av markedsf&#xF8;rte Melatonin-produkter
+Medisinske gasser
+For apotek
+Hvilke legemidler kan notifiseres &#x2013; og hvilke m&#xE5; vurderes av DMP f&#xF8;r utlevering?
+Negativlisten
+Ekspederingslisten
+S&#xF8;knadskjema, innsending og saksbehandlingstid
+For firmaer som &#xF8;nsker &#xE5; markedsf&#xF8;re legemidler p&#xE5; godkjenningsfritak
+&#xC5;rsrapporter om godkjenningsfritak
+Godkjenningsfritak for legemidler til dyr
+Forsyningssikkerhet og beredskap
+Legemiddelmangel - oversikt, r&#xE5;d og tiltak
+Oversikt for pasienter og helsepersonell
+Oversikt for apotek
+Nyheter om forsyningsproblemer
+Informasjon for legemiddelfirma
+Innsending av melding om legemiddelmangel
+S&#xF8;knad om tillatelse til salg av utenlandske pakninger
+Forsyningsproblemer - &#xE5;rsaker og tiltak
+Rasjonering av legemidler
+Forsyningssikkerhet og beredskap
+M&#xE5;lbilde
+Akt&#xF8;roversikt
+Beredskapslagre for legemidler og smittevernutstyr
+Utvalg for forsyningssikkerhet og beredskap
+Medisinsk utstyr
+Veiledning og regelverk
+Regelverket for medisinsk utstyr
+Veiledere fra EU-kommisjonen/MDCG
+Overgangsordninger for medisinsk utstyr
+Utstyr til dyr
+Webinarer
+Utvikling og produksjon
+Kvalifisering og klassifisering
+Kvalifisering av medisinsk utstyr
+Klassifisering av medisinsk utstyr
+Grenseprodukter
+Dokumentasjon og kvalitetsstyringsystem
+Teknisk dokumentasjon
+Klinisk evaluering og ytelsesevaluering
+Kvalitetsstyringssystem og risikoh&#xE5;ndtering
+Person med ansvar for &#xE5; overholde regelverket
+Standarder og felles spesifikasjoner
+Spr&#xE5;kkrav og informasjon som skal f&#xF8;lge utstyret
+Unik utstyrsidentifikasjon (UDI)
+Samsvarsvurdering
+Samsvarsvurdering som involverer meldt organ
+Samsvarsvurdering uten meldt organ
+Samsvarserkl&#xE6;ring
+CE-merking
+Unntak fra samsvarsvurdering (CE-merking)
+Free Sales Certificate
+Spesielle typer medisinsk utstyr
+Produkter uten medisinsk form&#xE5;l
+Individuelt tilpasset utstyr
+Systemer og prosedyresett med medisinsk utstyr
+Tilsyn med produsenter
+Overv&#xE5;king etter at utstyr er plassert p&#xE5; markedet
+Programvare som medisinsk utstyr
+Omsetning
+Meldeplikt ved mangel p&#xE5; medisinsk utstyr
+Ulike roller for markedsdeltakere
+Krav til produsenter
+Krav til autoriserte representanter
+Krav til import&#xF8;rer og distribut&#xF8;rer
+Krav til Helseinstitusjoner
+N&#xE5;r gjelder produsentenes forpliktelser for import&#xF8;rer, distribut&#xF8;rer eller andre personer
+Fjernsalg og netthandel med medisinsk utstyr
+Tilsyn med import&#xF8;rer og distribut&#xF8;rer
+Deler og komponenter som endrer ytelse eller tiltenkt bruk
+Reklame for medisinsk utstyr
+Veiledning om markedsf&#xF8;ring av kosmetiske inngrep
+Veiledning om reklame for fillere
+Sanksjonsmuligheter - ulovlig reklame
+Vedtak om brudd p&#xE5; reklameregelverket
+Eudamed
+Registrering som akt&#xF8;r
+Registrering av medisinsk utstyr
+Klinisk utpr&#xF8;ving av medisinsk utstyr
+Introduksjon til klinisk utpr&#xF8;ving av medisinsk utstyr
+S&#xF8;knadspliktige kliniske utpr&#xF8;vinger
+Meldepliktige kliniske utpr&#xF8;vinger
+Andre kliniske utpr&#xF8;vinger
+Sikkerhetsrapportering i kliniske utpr&#xF8;vinger
+Vesentlige endringer av en klinisk utpr&#xF8;ving
+Avslutning eller midlertidig stans av en klinisk utpr&#xF8;ving
+Kliniske utpr&#xF8;vinger startet opp f&#xF8;r 26. mai 2021
+Ytelsesstudie av utstyr til in vitro-diagnostikk (IVD)
+Introduksjon til ytelsesstudier
+S&#xF8;knadspliktige ytelsesstudier
+Meldepliktige ytelsesstudier
+Post-market performance follow-up (PMPF)-studier
+Studier av utstyr til behandlingsveiledende diagnostikk (CDx)
+Andre ytelsesstudier
+Kombinasjonsstudier
+Sikkerhetsrapportering i ytelsesstudier
+Vesentlige endringer av en ytelsesstudie
+Avslutning eller midlertidig stans av en ytelsesstudie
+Alvorlige hendelser og korrigerende sikkerhetstiltak
+Alvorlige hendelser med medisinsk utstyr
+Hvordan rapportere en alvorlig hendelse
+Korrigerende sikkerhetstiltak
+Hvordan rapportere et korrigerende sikkerhetstiltak
+For helsetjenesten
+Melde fra om alvorlige hendelser i helsetjenesten
+Korrigerende sikkerhetstiltak p&#xE5; utstyr i helsetjenesten
+H&#xE5;ndtering av medisinsk utstyr
+Reprosessering av medisinsk utstyr
+Egentilvirkning av medisinsk utstyr i helseinstitusjoner (in-house)
+Sentralgassanlegg for medisinske gasser
+Offentlig finansiering og pris
+Offentlig finansiering av legemidler og medisinsk utstyr
+Prioriteringskriteriene ved offentlig finansiering
+Bruk av nye legemidler i offentlige sykehus f&#xF8;r beslutning om finansiering
+Anmodning og forslag om metodevurdering
+Anmodning og forslag for bl&#xE5;reseptlegemidler
+Metodevarsel av medisinsk utstyr
+Metodevarsler for legemidler
+Pipeline-m&#xF8;ter
+Metodevurdering av medisinske produkter
+Metodevurdering av vaksiner
+Innf&#xF8;ring av vaksiner
+Vaksiner under vurdering
+Anmodning
+Metodevurdering av legemidler
+Saksbehandlingsstatus
+Prosjektplaner
+Fullf&#xF8;rte metodevurderinger
+Innsending av dokumentasjon
+Varsling og prosess for innsending
+Retningslinjer for dokumentasjonsgrunnlag
+Veiledning til form&#xF8;ter
+Mal for innsending av dokumentasjon
+Unntak fra krav til dokumentasjon ved metodevurdering
+S&#xE6;rskilt sm&#xE5; pasientgrupper med sv&#xE6;rt alvorlig tilstand
+&#x200B;Enhetskostnadsdatabase
+Metodevurdering av medisinsk utstyr
+Innsending av dokumentasjon
+Prosjektplaner
+Fullf&#xF8;rte metodevurderinger
+Brukerinnspill
+Fageksperters rolle
+Internasjonalt samarbeid
+EU-forordning om metodevurdering
+Nordisk samarbeid om helse&#xF8;konomiske vurderinger (JNHB)
+Pris p&#xE5; legemidler
+Trinnpris
+Maksimalpris
+Pris p&#xE5; legemidler som utleveres av lege, tannlege, veterin&#xE6;r og private sykehus
+Apotekavanse
+Medisinbytte i apotek
+Hva er byttbare legemidler?
+Byttelisten
+Apotekets rolle i bytteordningen
+Legens rolle i bytteordningen
+Virkestoffrekvirering - veiledning til apotek
+H&#xF8;ringer om opptak p&#xE5; byttelisten
+Refusjonslisten - refusjonss&#xF8;k
+Endringer i refusjon av diabeteslegemidler
+Individuell st&#xF8;nad p&#xE5; bl&#xE5; resept for Ozempic og Rybelsus
+Refusjon fjernet for utenlandske pakninger
+Offentlige anskaffelser av vaksiner og bl&#xE5;resept-legemidler
+Anskaffelser av vaksiner
+Samarbeidsavtale om offentlige anskaffelser av vaksiner
+Spesialistgruppe
+Oversikt over anskaffelser
+Anbud p&#xE5; bl&#xE5;resept-legemidler
+Kriterier for utvelgelse av legemidler til anbud
+Spesialist- og brukergrupper
+Informasjon om planlagte anbudskonkurranser
+Tilvirkning, import og salg av legemidler
+Apotekdrift
+Apotekoversikt
+E-resept - viktig informasjon vedr&#xF8;rende organisasjonsnummer og &#xE5;pningsdato
+Nettapotek
+Netthandel - registreringsordning for nettapotek og andre utsalgssteder
+Registrerte nettapotek og andre utsalgssteder for salg av legemidler p&#xE5; nett
+Opningstider
+Schengen-attest for legemidler p&#xE5; utenlandsreise
+Skjema for Schengen-attest og veiledning for utfylling
+Schengen-veiledning for apotek
+Eksempler p&#xE5; legemidler som er omfattet av Schengen-attestbestemmelsene i Norge
+Tillatelse til &#xE5; eie og drive apotek
+Retningslinjer for bruk av apotekloven 2-8 og for driftsst&#xF8;tte til apotek
+Tilsyn med apotek
+Veiledning for apotek om narkotikakontroll
+Veiledning vedr&#xF8;rende avvik ved apotektilvirkning
+Apotek&#xF8;konomi
+Apotekstatistikk
+Fraktrefusjon
+Regnskapsrapportering for apotek
+S&#xF8;knad om driftsst&#xF8;tte for apotek
+Avgifter
+Legemiddelleverand&#xF8;ravgift
+LUA-avgift
+Legemiddeldetaljistavgift
+Import av legemidler til personlig bruk
+Import av legemidler til personlig bruk ved forsendelse
+Legemidler p&#xE5; reise inn til Norge
+Legemidler p&#xE5; reise ut av Norge
+Import og grossistvirksomhet med legemidler
+Oversikt over virksomheter som kan importere legemidler
+Oversikt over virksomheter med importtillatelse for legemidler til ikke-medisinsk bruk
+Godkjente legemiddelgrossister
+E&#xD8;S-tilvirkere og E&#xD8;S-grossister som ut&#xF8;ver grossistvirksomhet i Norge
+S&#xF8;knad om grossisttillatelse
+Krav og veiledninger til grossistvirksomhet
+Tilsyn med tilvirkere og grossistvirksomhet
+Transport av legemidler
+Retningslinjer for kontrolltelling av narkotika for tilvirkere og legemiddelgrossister
+Lager og oppbevaring av legemidler
+Innbruddssikring av legemiddellagre
+Retningslinjer for kontroll med temperatur ved lagring og transport av legemidler
+Andre s&#xE6;rskilte krav til oppbevaring av legemidler
+Kvalitetssystem og kvalitetsh&#xE5;ndbok-retningslinjer
+Krav til personale &#x2013; FFA
+Grossistvirksomhet med legemidler til dyr
+Gavesendinger til utlandet
+Distribusjon, retur og destruksjon
+Retningslinjer for retur av legemidler fra apotek til salgbart lager hos grossist
+Kvalifisering og godkjenning av leverand&#xF8;rer og kunder
+Destruksjon av legemidler hos grossist og tilvirker
+Certificate of Conformance (CoC)
+Tilleggskrav til grossister i henhold til nasjonalt regelverk
+Detaljomsetning av medisinske gasser fra grossist og tilvirker
+Salg av medisinske gasser til ikke-medisinsk bruk
+Direktesalg av legemidler fra grossist til sykehus
+Grossisters leveringsplikt
+Legemiddelformidlere
+Import av legemidler
+Fiskal import
+Innf&#xF8;rsel/import av legemidler til kliniske studier i Norge
+Importtillatelse for legemidler til ikke-medisinsk bruk
+Import av legemidler fra land utenfor E&#xD8;S-omr&#xE5;det
+Import av apotektilvirkede legemidler
+Grossistvirksomhet med tillatelse fra annen E&#xD8;S-myndighet
+Skipsmedisin og legemidler til redningsmidler p&#xE5; skip
+Veiledning om h&#xE5;ndtering av kvalitetssvikt p&#xE5; legemidler
+Kj&#xE6;re helsepersonell-brev om kvalitetssvikt
+Narkotika og doping
+Narkotikalisten
+H&#xE5;ndtering av narkotika i industrien
+Doping
+Narkotikatillatelser til ikke-medisinsk bruk, narkotikaprekursorer og transitt
+Reklame for legemidler
+Veiledning til regelverket for legemiddelreklame
+Eksterne foredragsholdere
+Helse- og sykdomsinformasjon
+Tekniske bruksanvisninger
+Reklame for legemidler p&#xE5; internett
+Vaksinasjonskampanjer til allmennheten
+Minimumsinformasjon i legemiddelreklame
+Referanser i legemiddelreklame
+Gratis legemiddelpr&#xF8;ver
+Innsendelse av legemiddelreklame
+M&#xF8;ter med reklame for legemidler
+Tilsyn og sanksjonsmuligheter
+Rapporter fra muntlige reklametilsyn
+Sanksjonsmuligheter &#x2013; ulovlig reklame
+Tips oss om ulovlig legemiddelreklame
+Vedtak om brudd p&#xE5; reklameregelverket
+Blokkering av nettsider med ulovlig informasjon om legemidler
+Informasjon for apotek
+Nettapotek og informasjon om reseptpliktige legemidler
+Veileder for apotek som tilbyr vaksinasjon
+Informasjon for klinikker
+Veileder for estetiske klinikker
+Salg utenom apotek (LUA-ordningen)
+Veiledning til utsalgssteder som skal selge legemidler utenom apotek
+Salg av reseptfrie legemidler til akvariefisk
+Minimumsutvalg - salg av legemidler utenom apotek
+Liste over legemidler som kan omsettes utenfor apotek
+Sikkerhetsanordninger for legemidler
+Melding om mulig forfalsket legemiddel
+Statistikk for omsetning av legemidler
+Tilverking av legemiddel
+Apoteka sitt h&#xF8;ve til produksjon av legemiddel til kliniske studiar
+GMP-sertifikat ved tilverking av verkestoff
+Maskinell dosepakking av legemiddel
+Ommerking av utpr&#xF8;vingspreparat med ny holdbarheitsdato
+Retningslinjer for bruk av bulkpakningar ved maskinell dosedispensering
+S&#xF8;knad om tilverkarl&#xF8;yve
+Tilverkarl&#xF8;yve og GMP-sertifikat
+Godkjente tilvirkere
+Utlevering og salg av legemidler i apotek
+Veiledning om dokumentasjonsplikt i apotek
+&#x200B;Veiledning for apotekenes netthandel med legemidler
+Veileder til forskrift om rekvirering og utlevering av legemidler m.m.
+Utleveringsbestemmelser for legemidler
+Vedtak om utleveringsbestemmelser
+Veiledning for utlevering av reseptpliktige legemiddel som i avgrensa mengde er unnateke reseptplikt fr&#xE5; apotek og medisinutsal
+Veterin&#xE6;rmedisin
+Bivirkningsmelding
+Godkjenningsfritak og legemidler man m&#xE5; s&#xF8;ke om
+Godkjenningsfritak for legemidler til dyr
+Webinar om godkjenningsfritak for legemidler til dyr
+Veiledningsliste for godkjenningsfritak til dyr
+Informasjon til apotek om godkjenningsfritak for legemidler til dyr
+Veterin&#xE6;r bruk av humanpreparater med utleveringsbestemmelser
+Autogene vaksiner
+Premiks til utlevering til dyreeier
+Rensubstans inkludert legemiddelf&#xF4;r
+Klinisk utpr&#xF8;ving
+Retningslinjer for klinisk utpr&#xF8;ving av vaksiner til fisk
+Legemiddelmangel
+R&#xE5;d til veterin&#xE6;rer og dyreeiere ved legemiddelmangel
+Ofte stilte sp&#xF8;rsm&#xE5;l om tilgjengelighet
+Akt&#xF8;renes roller og ansvar ved mangel p&#xE5; veterin&#xE6;re legemidler
+Legemidler til fisk
+Godkjente legemidler til fisk
+Nytt om veterin&#xE6;re legemidler (Vet-NYL)
+Nytt regelverk for legemidler til dyr
+Salg, import og innf&#xF8;rsel av legemidler
+Terapianbefalinger og forskrivning av legemidler til dyr
+Terapianbefaling - bruk av antibakterielle midler til matproduserende dyr
+Forord
+Generelle forhold
+Terapianbefalinger for svin
+Terapianbefalinger for storfe
+Terapianbefalinger for sau
+Terapianbefalinger for geit
+Reseptstatus for humanlegemidler brukt til dyr
+Terapianbefaling - bruk av antibakterielle midler til hest
+Forord
+Generelle forhold
+S&#xE5;rbehandling og s&#xE5;rinfeksjoner
+Luftveisorganene
+Ford&#xF8;yelsessystemet
+F&#xF8;llinfeksjoner
+Urinveisorganer
+Profylaktisk perioperativ bruk av antibiotika
+&#xD8;yne
+Kj&#xF8;nnsorganer
+Fl&#xE5;ttb&#xE5;rne infeksjoner
+Antibiotika - r&#xE5;d og retningslinjer for bruk hos dyr
+Terapianbefaling - behandling av bier for bekjempelse av Varroa destructor
+Medisiner til hund og katt mot innvollsorm krever resept
+Mattrygghet og legemidler
+Bier og legemidler
+Blod og blodkomponenter, blodtransfusjon, IRAP og PRP i veterin&#xE6;rmedisinen
+Unng&#xE5; feil bruk av fl&#xE5;tt- og insektsmidler p&#xE5; dyr
+Blod, celler og vev
+Blodgivning og transfusjonsmedisin
+Godkjente blodbanker
+Tilsyn med blodbanker
+Meld u&#xF8;nsket hendelse ved blodgivning og blodtransfusjon
+Overv&#xE5;king av blod - rapporter og artikler
+Celler og vev
+Godkjenning av virksomheter for h&#xE5;ndtering av celler og vev
+Virksomheter godkjent for h&#xE5;ndtering av humane celler og vev
+H&#xE5;ndtering av humane celler og vev - veileder til lov og forskrift
+1. Innledende bestemmelser
+2. Ledelse, organisering og styring av virksomheten
+3. Krav til virksomhetenes lokaler og utstyr mv. ved prosessering
+4. Donasjon og laboratorieunders&#xF8;kelser
+5. Lovlig uttak, informasjon, opplysninger og prosedyrer i forbindelse med donasjon
+6. Prosessering, oppbevaring, distribusjon og mottak
+7. Emballering og merking
+8. Sporbarhet, tilbakekall, kvalitet og sikkerhet
+9. Virksomhetens donasjonsregister
+10. Sentralisert meldeordning
+11. Generelle bestemmelser
+12. Om veilederen
+Melde u&#xF8;nsket hendelse celler og vev
+Informasjon til celle- og vevsvirksomhetene om utbrudd og smittesituasjoner
+Ny SoHO-forordning fra 2027
+Registrering av SoHO-virksomheter
+Informasjon fra SoHO-koordineringsr&#xE5;det
+Kurs og oppl&#xE6;ring for SoHO-virksomheter
+Kartlegging av SoHO-virksomheter
+Innhold A-&#xC5;
+Nyheter
+Skjemaer
+Om oss
+Godkjenning av legemidler
+Slik utvikles og godkjennes legemidler
+Klinisk utpr&#xF8;ving av legemidler til mennesker
+S&#xF8;knad og oppf&#xF8;lging av markedsf&#xF8;ringstillatelse
+Desinfeksjonsmidler - godkjenning, tilvirkning og import
+Klassifisering av legemidler
+Legemidler og vaksiner mot covid-19
+Norske legemiddelstandarder
+Bivirkninger og legemiddelsikkerhet
+Bivirkningsmelding og Bivirkningsregisteret
+Bivirkningsrapporter og oversikter
+Legemiddeloverv&#xE5;king
+R&#xE5;d til pasienter
+R&#xE5;d til helsepersonell
+Interaksjonsdata fra DMP
+Tiltak for &#xE5; forebygge bivirkninger av legemidler
+Sikkerhetsinformasjon for legemiddelfirma
+Varsler fra DMP
+Godkjenningsfritak
+For leger og tannleger
+For apotek
+S&#xF8;knadskjema, innsending og saksbehandlingstid
+For firmaer som &#xF8;nsker &#xE5; markedsf&#xF8;re legemidler p&#xE5; godkjenningsfritak
+&#xC5;rsrapporter om godkjenningsfritak
+Godkjenningsfritak for legemidler til dyr
+Forsyningssikkerhet og beredskap
+Legemiddelmangel - oversikt, r&#xE5;d og tiltak
+Forsyningssikkerhet og beredskap
+Medisinsk utstyr
+Veiledning og regelverk
+Utvikling og produksjon
+Omsetning
+Eudamed
+Klinisk utpr&#xF8;ving av medisinsk utstyr
+Ytelsesstudie av utstyr til in vitro-diagnostikk (IVD)
+Alvorlige hendelser og korrigerende sikkerhetstiltak
+For helsetjenesten
+Offentlig finansiering og pris
+Offentlig finansiering av legemidler og medisinsk utstyr
+Anmodning og forslag om metodevurdering
+Metodevurdering av medisinske produkter
+Pris p&#xE5; legemidler
+Medisinbytte i apotek
+Refusjonslisten - refusjonss&#xF8;k
+Endringer i refusjon av diabeteslegemidler
+Offentlige anskaffelser av vaksiner og bl&#xE5;resept-legemidler
+Tilvirkning, import og salg av legemidler
+Apotekdrift
+Apotek&#xF8;konomi
+Avgifter
+Import av legemidler til personlig bruk
+Import og grossistvirksomhet med legemidler
+Narkotika og doping
+Reklame for legemidler
+Salg utenom apotek (LUA-ordningen)
+Sikkerhetsanordninger for legemidler
+Statistikk for omsetning av legemidler
+Tilverking av legemiddel
+Utlevering og salg av legemidler i apotek
+Veterin&#xE6;rmedisin
+Bivirkningsmelding
+Godkjenningsfritak og legemidler man m&#xE5; s&#xF8;ke om
+Klinisk utpr&#xF8;ving
+Legemiddelmangel
+Legemidler til fisk
+Nytt om veterin&#xE6;re legemidler (Vet-NYL)
+Nytt regelverk for legemidler til dyr
+Salg, import og innf&#xF8;rsel av legemidler
+Terapianbefalinger og forskrivning av legemidler til dyr
+Blod, celler og vev
+Blodgivning og transfusjonsmedisin
+Celler og vev
+Ny SoHO-forordning fra 2027
+Forvaltning av regelverket for blod, celler og vev fra 1. januar 2024
+Innhold A-&#xC5;
+Nyheter
+Skjemaer
+Om oss
+Lukk
+Legemiddels&#xF8;k
+Innhold A-&#xC5;
+Om oss
+Forside - Statens legemiddelverk
+Hva leter du etter?
+Søk
+Snarveier
+Legemidler
+Medisinsk utstyr
+Byttelisten
+Godkjenningsfritak
+Helvetesild-vaksine: Bedre tilgang p&#xE5; Shingrix
+Legemiddelmangel: Nye meldeskjemaer
+Legemiddelmangel - oversikt, r&#xE5;d og tiltak
+Maksimalpris p&#xE5; legemidler
+Melde bivirkninger
+Metodevurderinger - oversikt over rapporter
+Veiledning og regelverk
+Utvikling og produksjon
+Omsetning
+Klinisk utpr&#xF8;ving
+Ytelsesstudier
+For helsetjenesten
+Alvorlige hendelser og sikkerhetstiltak
+Registrering og EUDAMED
+Noen insulinprodukter forsvinner &#x2013; dette m&#xE5; du gj&#xF8;re
+Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker du disse m&#xE5; du kontakte lege for &#xE5; bytte behandling.
+Les v&#xE5;re r&#xE5;d
+Nyheter
+Se alle nyheter
+Markedsf&#xF8;ringstillatelsen til &#x25BC;Tavneos anbefales tilbakekalt
+Publisert:
+16.07.2026
+H&#xF8;ring - Forslag til endring av forskrift 9. mai 2021 nr. 1476 om medisinsk utstyr: Innf&#xF8;ring av obligatorisk bruk av Eudamed og opphevelse av &#xA7;&#xA7; 24 og 25 i forskrift om medisinsk utstyr
+Publisert:
+14.07.2026
+Utlyser anbud for utredning av alternativkostnaden
+Publisert:
+11.06.2026
+|
+Oppdatert:
+09.07.2026
+H&#xF8;ring &#x2013; forslag til gjennomf&#xF8;ring av EU-forordning 2026/857 og endring av forskrift om legemidler til dyr
+Publisert:
+03.07.2026
+Forskriftsendring for bl&#xE5;reseptsaker &#x2013; DMP kan behandle flere refusjonssaker
+Publisert:
+01.07.2026
+Raskere tilgang er et lagarbeid, industrien kan ogs&#xE5; bidra
+Publisert:
+29.06.2026
+Abonner p&#xE5; nyhetsbrev
+Abonner p&#xE5; e-postvarsel
+Facebook
+LinkedIn
+Medisinske produkter til det beste for fellesskapet
+Direktoratet for medisinske produkter (DMP) skal s&oslash;rge for rask og likeverdig tilgang til effektive legemidler og medisinsk utstyr. Vi f&oslash;lger opp sikkerheten og bidrar til riktig bruk av produktene. Videre bidrar vi til forskning og innovasjon. Vi har ansvar for nasjonal forsyningssikkerhet og beredskap for medisinske produkter.
+Arrangementer og presentasjoner
+H&#xF8;ringer
+Kontakt oss
+Ledige stillinger
+Organisasjon og oppgaver
+Strategi for DMP
+&#xC5;rsrapporter og styringsdokumenter
+Distribusjon av legemiddeldata
+Veiledning og r&#xE5;d til bedrifter og akademia
+Kontakt
+Ledige stillinger
+Presse
+Om oss
+Innhold A-&#xC5;
+Legemiddels&#xF8;k
+Pasientinformasjon p&#xE5; helsenorge.no
+Abonner p&#xE5; e-postvarsler
+Epost
+post@dmp.no
+Telefon
+(&#x2B;47) 22 89 77 00
+Besøks- og leveringsadresse
+Grensesvingen 26
+0663 Oslo
+Postadresse
+Postboks 240 Sk&#xF8;yen
+0213 Oslo
+Organisasjonsnummer
+974 761 122
+Personvernerkl&#xE6;ring for DMP
+Tilgjengelighetserkl&#xE6;ring

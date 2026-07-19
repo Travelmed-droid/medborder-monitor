@@ -1,0 +1,109 @@
+-->
+Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
+Gyógyszerészet
+Főoldal
+Rólunk
+Népegészségügy
+Gyógyszerészet
+Szakrendszerek
+Adatbázisok, nyilvántartások
+Közérdekű
+Karrier
+Kapcsolat
+Projektek
+-->
+EN
+English
+Magyar
+Type 2 or more characters for
+results.
+-->
+Keresés
+Szakterületek
+Gyógyszer
+Gyógyszertár
+Gyógyszerészeti módszertan
+Kábítószerügy
+Orvostechnikai eszköz
+Technológia-értékelés
+Étrend-kiegészítő, tápszer
+Kozmetikum
+Biocid termékek
+Táplálkozástudomány
+Laboratórium
+Géntechnológia
+E-cigaretta
+COSI
+OTÁP
+Orvostudományi kutatások
+Információk
+Mellékhatás-bejelentések
+Gyógyszerhez való hozzájutás speciális esetei
+Gyógyszerrel kapcsolatos lakossági tudnivalók
+Hamis gyógyszer
+Minőségi hibás gyógyszer
+Étrend-kiegészítőkkel kapcsolatos lakossági tudnivalók
+Táplálkozással kapcsolatos prevenciós programok
+KKV-k díjkedvezménye
+Ipari összeférhetetlenség
+Egészségügyi szakembereknek szóló, kiegészítő kockázatcsökkentő dokumentumok
+Az NNGYK gyógyszerészeti és táplálkozástudományi tevékenységéhez kapcsolódó legfontosabb jogszabályok
+Üzemszünet
+Állásfoglalások
+Formanyomtatványok
+Pénzügy
+Szolgáltatások
+Szakmai tanácsadás
+Mellékhatás-bejelentő
+Minőségi kifogás magisztrális gyógyszerek
+E-ügyintézés
+Hírlevél feliratkozás
+Főoldal
+Rólunk
+Népegészségügy
+Gyógyszerészet
+Szakrendszerek
+Adatbázisok, nyilvántartások
+Közérdekű
+Karrier
+Kapcsolat
+Projektek
+Oldaltérkép
+Copyright
+RSS
+Adatkezelési tájékoztató
+Akadálymentességi nyilatkozat
+Süti tájékoztató
+Minden jog fenntartva © 2026 Nemzeti Népegészségügyi és Gyógyszerészeti Központ
+Type 2 or more characters for results.
+Rólunk
+Népegészségügy
+Gyógyszerészet
+Szakrendszerek
+Adatbázisok, nyilvántartások
+Közérdekű
+Karrier
+Kapcsolat
+accessible
+close
+Akadálymentesítési beállítások
+refresh
+Szövegméret növelése
+Szövegméret csökkentése
+Szövegköz növelése
+Szövegköz csökkentése
+Invertált színek
+Szürke árnyalatok
+Hivatkozások aláhúzása
+Nagy kurzor
+Olvasási útmutató
+Szöveg beszéddé
+Beszéd szöveggé
+-->
+A weboldalunk sütiket használ!
+Tájékoztatjuk, hogy honlapunkon a felhasználói élmény fokozásának érdekében sütiket alkalmazunk, a tartalom és weboldal forgalmunk elemzéséhez, illetve marketing célokból.
+A weboldalunkon való böngészés folytatásával, és az Elfogadom gombra kattintással, Ön hozzájárul a sütik használatához.
+A beállításokról részletes leírást a Süti tájékoztatóban talál.
+ELFOGADOM
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
