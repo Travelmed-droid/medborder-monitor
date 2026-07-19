@@ -1,0 +1,874 @@
+BfArM - Medicinal products
+BfArM - Federal Institute for Drugs and Medical Devices
+Navigation and service
+Go to:
+Content
+Main Menu
+Search
+Menu
+Search
+DE
+EN
+Menu_Menu
+Servicemeu
+Search
+Search item
+Deutsch
+Press
+Contact
+If you use the services of this provider, it is possible that usage data will be collected and, if necessary, stored in server logs.The BfArM has no influence on the type and scope of the transmitted or stored data.
+Go to LinkedIn
+x
+If you use the services of this provider, it is possible that usage data will be collected and, if necessary, stored in server logs.The BfArM has no influence on the type and scope of the transmitted or stored data.
+Go to LinkedIn
+x
+Main Menu
+Medicinal products
+Close
+Medicinal products in overview
+Clinical trials
+Clinical Trials Information System - CTIS
+Radiation Protection Act
+Compassionate Use
+GCP Inspections Unit
+Licensing
+Types of Marketing Authorisation
+Licensing Procedures
+Follow-up Procedures
+Issues Relevant for Licensing
+Medicines for children
+Medicines for rare diseases
+Pharmacovigilance
+Reporting risks
+Risk information
+Periodic Safety Update Reports (PSURs)
+Graduated plan officer
+Boards and Committees
+Medicinal products information
+Rapid Alert System
+Supply shortages
+Falsified Medicines Directive
+Reference Pricing
+Online medicine retailers
+Research medicinal products
+PharmNet.Bund
+Medical devices
+Close
+Medical devices in overview
+Regulatory framework
+Basic information
+Laws and regulations
+Competent authorities and ethics committees
+Europe and EUDAMED
+Tasks of the BfArM
+Clinical investigations and performance studies
+Risk assessment
+Regulatory status, classification, categorisation
+DiGA and DiPA
+DMIDS
+Further tasks
+FAQ/Contact persons
+Reports and Corrective Actions
+Incident report
+SAE and DD report
+Recall report
+Notification interruptions or discontinuations of MD supply
+Overview reporting channels
+Field corrective actions
+DMIDS
+DiGA and DiPA
+Code systems
+Close
+Code systems in overview
+Classifications
+ICD
+OPS, ICHI
+ATC
+IVD EDMA
+ICF
+Terminologies
+SNOMED CT
+LOINC
+UCUM
+Alpha-ID-SE
+UMDNS, EMDN
+Collaboration and projects
+KKG
+WHO Collaborating Centre
+EU projects
+Orphanet
+Iris Institute
+Pilot of a nationwide electronic death certificate
+Further collaboration
+Services
+Downloads
+Terminology server
+Code-Search online versions
+OID registry
+FAQ/Contact
+Federal Opium Agency
+Close
+Federal Opium Agency in overview
+Narcotic drugs
+Licences
+Notifications
+Records
+Import and Export
+Travelling with narcotic drugs
+Precursors
+Import and Export
+Licence and Registration
+Announcements
+T-Prescriptions
+Substitution Register
+About us
+Close
+About us in overview
+Organisation
+Head
+Library
+Tasks
+Medical Research Act
+Research
+Advice
+Model project genome sequencing
+Data Access and Coordination Office
+DRKS - German Clinical Trials Register
+EU and International
+CHMP Committee for Medicinal Products for Human Use
+ERON European Regulatory Oncology News
+PRAC Pharmacovigilance Risk Assessment Committee
+EU Projects
+International Collaborations
+GHPP Global Health Protection Programme
+Contact persons
+News
+Close
+News in overview
+News from the divisions
+Press
+Publications
+Statistics
+Events
+Antibiotic resistances
+30 years BfArM
+Homepage
+close menu
+Search item
+Medicinal products
+To overview: Medicinal products
+Clinical trials
+To overview: Clinical trials
+Clinical Trials Information System - CTIS
+Radiation Protection Act
+Compassionate Use
+GCP
+Inspections Unit
+Licensing
+To overview: Licensing
+Types of Marketing Authorisation
+To overview: Types of Marketing Authorisation
+Licensing of Biosimilars
+Interchangeability of biosimilars
+Bibliographical Application
+Complementary and Alternative Medicines (CAM) and Traditional Medicinal Products (TMP)
+Licensing Procedures
+To overview: Licensing Procedures
+Centralised Procedures
+National Licensing Procedures
+Decentralised Procedure (DCP) - Mutual Recognition Procedure (MRP)
+Parallel import of medicinal products
+Follow-up Procedures
+To overview: Follow-up Procedures
+Renewals
+Written renouncement
+Variations
+To overview: Variations
+Variations
+National Variations
+Sunset Clause
+Publication of clinical trials results acc. Section 42b AMG
+Issues Relevant for Licensing
+To overview: Issues Relevant for Licensing
+Information on WHO Certificates
+eSubmission
+Pharmacopoeia
+To overview: Pharmacopoeia
+Pharmacopoeia Commissions
+Demarcation/Borderline questions
+To overview: Demarcation/Borderline questions
+Joint Commission of Experts on the Classification of Substances
+Medicines for children
+To overview: Medicines for children
+EU-regulation on medicinal products for children
+Paediatric Worksharing
+Medicines for rare diseases
+GCP
+Inspections Unit
+Pharmacovigilance
+To overview: Pharmacovigilance
+Reporting risks
+Risk information
+To overview: Risk information
+Rote-Hand-Briefe and Information Letters
+Other risk information
+Risk Assessment Procedures
+List of medicines under additional monitoring
+Educational material
+European Database on Adverse Drug Reaction Reports
+Risk Management Plans (RMP)
+Risk information on medicinal products
+Periodic Safety Update Reports (PSURs)
+To overview: Periodic Safety Update Reports (PSURs)
+PSUR Repository
+Graduated plan officer
+Boards and Committees
+To overview: Boards and Committees
+Pharmacovigilance Risk Assessment Committee (PRAC)
+Prescription-only issues
+Pharmacy-only issues
+Routine sessions
+Medicinal products information
+To overview: Medicinal products information
+Rapid Alert System
+Supply shortages
+To overview: Supply shortages
+Advisory Council on shortages
+ALBVVG
+Joint Action CHESSMEN
+Mitigation measures
+Reporting obligations
+SPOC on shortages
+ICU Taskforce
+Falsified Medicines Directive
+Reference Pricing
+Online medicine retailers
+To overview: Online medicine retailers
+EU Security Logo
+Registered Online Medicine Retailers
+Research medicinal products
+To overview: Research medicinal products
+Medicinal Product Information System AMIce
+To overview: Medicinal Product Information System AMIce
+Database description for AMIce Batch Release
+Database description for AMIce Substances
+Database description for AMIce Terms of Substances
+Database description for AMIce Medicinal Products
+PharmNet.Bund
+Medical devices
+To overview: Medical devices
+Regulatory framework
+To overview: Regulatory framework
+Basic information
+To overview: Basic information
+Conformity assessment
+Laws and regulations
+Competent authorities and ethics committees
+To overview: Competent authorities and ethics committees
+Federal higher authorities
+Ethics Committees
+Notified Bodies
+Europe and EUDAMED
+To overview: Europe and EUDAMED
+EUDAMED
+Tasks of the BfArM
+To overview: Tasks of the BfArM
+Clinical investigations and performance studies
+To overview: Clinical investigations and performance studies
+Clinical investigations according to MDR / MPDG
+To overview: Clinical investigations according to MDR / MPDG
+Request for authorisation
+Notification of a Post-Market Clinical Follow-up investigation
+Notification of other clinical investigations
+Substantial modifications
+Halt, Termination or End of a Clinical Investigation
+Guidance for the application procedure
+Performance studies of in vitro diagnostic medical devices
+To overview: Performance studies of in vitro diagnostic medical devices
+Halt, Termination or End of a Performance Study
+Request for waiving the authorisation
+Authorisation
+Notification of a Post-Market Performance Study
+Substantial modifications
+Notifications of performance studies with CDx left-over samples
+Procedure for notifiable radiation applications from 1 July 2025
+Application for decision on requirement to approve MD / IVD
+Risk assessment
+To overview: Risk assessment
+Reporting risks
+Field corrective actions
+BfArM recommendations
+Regulatory status, classification, categorisation
+DiGA
+and
+DiPA
+To overview:
+DiGA
+and
+DiPA
+Digital nursing applications (DiPA)
+To overview: Digital nursing applications (DiPA)
+Interesting facts
+Digital Health Applications (DiGA)
+To overview: Digital Health Applications (DiGA)
+Interesting facts
+DMIDS
+To overview: DMIDS
+Clinical investigations and performance studies
+Public databases
+To overview: Public databases
+Database Information Medical Devices Notification
+Database Information In Vitro Diagnostic Medical Devices Notifications
+Database Information Medical Devices Addresses
+Operating the system
+To overview: Operating the system
+System requirements
+Further tasks
+To overview: Further tasks
+Corona Pandemic
+Companion diagnostics (CDx)
+FAQ
+and contact persons
+Contact persons
+Reports and Corrective Actions
+To overview: Reports and Corrective Actions
+Incident report
+SAE and DD report
+To overview: SAE and DD report
+SAE and DD reporting for performance studies
+SAE and DD reporting for clinical investigations
+Recall report
+Notification interruptions or discontinuations of the supply of a medical device
+Overview reporting channels
+Field corrective actions
+Portals
+To overview: Portals
+DiGA
+- and DiPA-Portal
+DMIDS
+Code systems
+To overview: Code systems
+Classifications
+To overview: Classifications
+ICD
+To overview:
+ICD
+ICD
+-10-
+GM
+To overview:
+ICD
+-10-
+GM
+Alphabetical index
+Application
+Code-Search
+History and outlook
+Proposal procedure
+Tabular list
+Versions and formats
+ICD
+-11
+ICD
+-10-
+WHO
+To overview:
+ICD
+-10-
+WHO
+Alphabetical index
+Application
+Causes of death statistics
+Code-Search
+History and outlook
+Instruction manual
+Tabular list
+ICD-O
+-3
+To overview:
+ICD-O
+-3
+Code-Search
+OPS
+,
+ICHI
+To overview:
+OPS
+,
+ICHI
+OPS
+To overview:
+OPS
+Alphabetical index
+Application
+Code-Search
+History and outlook
+Proposal procedure
+Tabular list
+Versions and formats
+ICHI
+ATC
+IVD
+EDMA
+ICF
+Terminologies
+To overview: Terminologies
+SNOMED CT
+To overview: SNOMED CT
+Application for a SNOMED CT affiliate licence
+Submit change requests for SNOMED
+CT
+Request German translations of SNOMED
+CT
+concepts
+Information about SNOMED
+CT
+Working Group AG SNOMED
+National Release Center (NRC)
+Training courses and events
+Why SNOMED CT?
+National Edition / National Extension
+Promotion by the EU Commission
+LOINC
+To overview:
+LOINC
+Change Requests
+German translations of
+LOINC
+terms
+KKG
+AG
+LOINC
+LOINC
+at
+BfArM
+Further Information
+UCUM
+Alpha-ID-SE
+To overview: Alpha-ID-SE
+National project rare diseases coding
+UMDNS
+,
+EMDN
+To overview:
+UMDNS
+,
+EMDN
+UMDNS
+Collaboration and projects
+To overview: Collaboration and projects
+KKG
+WHO Collaborating Centre
+EU projects
+Orphanet
+Iris Institute
+To overview: Iris Institute
+Iris News
+To overview: Iris News
+Iris News - subscribe and unsubscribe
+Downloads
+Iris software
+Iris users
+Iris support
+Events and trainings
+Iris and ICD-11
+Analyse/Research
+Pilot of a nationwide electronic death certificate
+Further collaboration
+Services
+To overview: Services
+Downloads
+Terminology server
+To overview: Terminology server
+Commentary
+Semantic strategy
+Stages
+Terminology server for healthcare
+Code-Search online versions
+OID registry
+To overview: OID registry
+OID
+-Application
+FAQ/Contact
+Federal Opium Agency
+To overview: Federal Opium Agency
+Narcotic drugs
+To overview: Narcotic drugs
+Licences
+Notifications
+Records
+Import and Export
+Travelling with narcotic drugs
+Precursors
+To overview: Precursors
+Import and Export
+Licence and Registration
+Announcements
+T-prescriptions
+Substitution Register
+Contact persons
+About us
+To overview: About us
+Organisation
+To overview: Organisation
+Head
+Library
+Tasks
+To overview: Tasks
+Medical Research Act
+To overview: Medical Research Act
+Radiation applications
+Research
+To overview: Research
+Biostatistics
+Special Indications
+Projects in the field of medical devices
+Pharmacogenomics
+Pharmacoepidemiology
+Neuropsychopharmacology
+Drug allergies
+Publications
+Advice
+Model project genome sequencing
+To overview: Model project genome sequencing
+News
+To overview: News
+Events
+Data Access and Coordination Office
+To overview: Data Access and Coordination Office
+Application process
+Responsibilities
+EU Integration
+Metadata catalog
+Secure Processing Environments
+Newsletter
+DRKS - German Clinical Trials Register
+To overview: DRKS - German Clinical Trials Register
+Further Information
+FAQ and Glossary
+Search studies
+Study Submission and User Account
+Networking
+About Us
+Statistics
+Contact persons
+EU and International
+To overview: EU and International
+CHMP
+ERON European Regulatory Oncology News
+Pharmacovigilance Risk Assessment Committee (PRAC)
+EU Projects
+To overview: EU Projects
+EU4Health Programme
+To overview: EU4Health Programme
+IncreaseNET
+HDP4Germany
+CSA-STARS
+To overview: CSA-STARS
+About STARS
+STARS Common Strategy
+STARS Curricula
+STARS Pilots and Training Materials
+STARS Publications
+International Collaborations
+To overview: International Collaborations
+GHPP
+To overview: GHPP
+PharmTrain2
+To overview: PharmTrain2
+All reports
+eLearning
+Guidelines
+Capacity Development
+Harmonisation
+Structure Development
+Publications
+LabTrain
+To overview: LabTrain
+All reports
+ICH - The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use
+GHPP
+To overview: GHPP
+PharmTrain2
+To overview: PharmTrain2
+All reports
+eLearning
+Guidelines
+Capacity Development
+Harmonisation
+Structure Development
+Publications
+LabTrain
+To overview: LabTrain
+All reports
+News
+To overview: News
+News from the divisions
+To overview: News from the divisions
+New information in the topic code systems
+All news at a glance
+New information in the topic Pharmacovigilance
+New information in the topic clinical trials
+New information in the topic medicinal products
+New information in the topic medical devices
+New information in the topic licensing
+Press
+To overview: Press
+Photos
+Publications
+To overview: Publications
+Impulse report / Annual report
+Statistics
+To overview: Statistics
+Applications for Authorisation and Registration
+Marketable Medicinal Products
+CAM
+and
+TMP
+Advice procedures
+Events
+To overview: Events
+WGCP Face-to-Face-Meeting 2025
+BfArM
+meets Europe: Shaping the
+EHDS
+To overview:
+BfArM
+meets Europe: Shaping the
+EHDS
+Hotels in Bonn
+Agenda
+TOPRA Symposium 2025
+To overview: TOPRA Symposium 2025
+TOPRA timetable
+GenomDE Symposium 2026
+To overview:
+GenomDE Symposium 2026
+Registration form
+To overview: Registration form
+Confirmation of your registration
+Speakers and Chairs
+Program
+Conference Venue
+Social Event
+Additional information
+Antibiotic resistances
+30 years BfArM
+Search
+Deutsch
+Press
+Photos
+Contact
+Medicinal products
+Evaluating benefit. Minimising risks.
+You are here:
+Medicinal products
+Tasks
+Both marketing authorisation and registration of medicinal products belong to the main tasks of the BfArM. Medicinal products are substances that are used to treat diseases, to relieve complaints, or to prevent such diseases or complaints in the first place. This definition applies regardless of whether the medicinal product is administered to humans or to animals. The substances can act both within or on the body. The legal definition of medicinal products is laid down in Section 2 of the German Medicinal Products Act (Arzneimittelgesetz,
+AMG
+).
+Read more
+Forms
+Licensing Forms - Renewals
+Set of forms
+concerning the application for renewal of a licence/registration according to Sections 31, 39
+AMG
+rtf, 23KB, File does not meet accessibility standards
+(available in German only)
+Table of contents (according to Common Technical Document -
+CTD
+)
+rtf, 49KB, File does not meet accessibility standards
+(available in German only)
+Cover letter
+concerning the renewal application
+rtf, 167KB, File does not meet accessibility standards
+(available in German only)
+Annex 1
+submission on pharmaceutical quality for licences according to Section 105 in connection with Section 109a
+AMG
+rtf, 32KB, File does not meet accessibility standards
+(available in German only)
+Annex 2
+declaration on adaptation to
+BfArM
+core texts of package leaflet and
+SPC
+rtf, 40KB, File does not meet accessibility standards
+(available in German only)
+References
+to the declaration concerning the pharmaceutical quality
+rtf, 12KB, File does not meet accessibility standards
+(available in German only)
+Licensing Forms - Variations
+Form for variation notification
+new set of forms
+doc, 48KB, File does not meet accessibility standards
+(available in German only)
+Example 1
+PDF, 25KB, File does not meet accessibility standards
+German - English
+Example 2
+PDF, 24KB, File does not meet accessibility standards
+German - English
+List of Change Items Version 1.6
+PDF, 77KB, File does not meet accessibility standards
+German - English
+Declaration for the adoption of BfArM core texts for PIL and SPC in Notifications of national Variation pursuant to Section 29 AMG (Tick which applies)
+doc, 42KB, File does not meet accessibility standards
+(available in German only)
+Pharmacovigilance Forms
+Reporting form for adverse drug reactions (
+ADR
+)
+PDF, 363KB, File does not meet accessibility standards
+If you have observed an adverse drug reaction that you wish to report, please use the form provided here in the table.
+ADR
+s can also be reported online. Since the scientific assessment of reported events requires specialised medical information, the
+BfArM
+usually accepts
+ADR
+reports from health care professionals only. Therefore, if you are not a health care professional you are advised to ask your physician to fill in the reporting form for you. (document available in German only)
+Reporting form for communication of quality defects, batch recalls, and counterfeit drugs
+rtf, 38KB, File does not meet accessibility standards
+Click here for the reporting form with which pharmaceutical companies can communicate quality defects, batch recalls and counterfeit drugs to the competent authority.
+Form for submission of
+PSUR
+s
+rtf, 312KB, File does not meet accessibility standards
+Form for submission of
+PSUR
+s
+Form for submission of
+PSUR
+s
+rtf, 324KB, File does not meet accessibility standards
+Form for submission of
+PSUR
+s
+Form for prolongation of the
+PSUR
+submission interval
+rtf, 206KB, File does not meet accessibility standards
+Form for prolongation of the PSUR submission interval
+Notification of a change to the Stufenplanbeauftragter
+rtf, 299KB, File does not meet accessibility standards
+In addition to the obligation to notify a Stufenplanbeauftragter (officer/commissioner of the graduated plan), an alteration or change of the Stufenplanbeauftragter must also be notified. The procedure of notification of a change is identical to the initial registration of the Stufenplanbeauftragter and can preferably be done electronically at pv-inspektionen@bfarm.de or by postal mail to the Department 75 of the Federal Institute for Drugs and Medical Devices. This form is only available in German.
+Notification of the Stufenplanbeauftragter
+rtf, 265KB, File does not meet accessibility standards
+According to § 63a subparagraph 3 of the German Medicines Act (AMG), pharmaceutical entrepreneurs are obligated to notify a Stufenplanbeauftragter to the competent authority, the responsible regional authority and, if necessary, also to the Paul-Ehrlich-Institut. The notification can preferably be made electronically to pv-inspektionen@bfarm.de or by postal mail to Unit 75 of the Federal Institute for Drugs and Medical Devices. The notification of the Stufenplanbeauftragter must include the name of the pharmaceutical entrepreneur as well as complete contact details of the person notified (name, address, telephone number/24h availability). Optionally, a curriculum vitae can be submitted as a reference for professional qualification. If your notification is submitted via a service provider or if the role of the Stufenplanbeauftragter is performed by a service provider, please indicate this in your notification. This form is only available in German.
+Frequently asked questions
+Clinical trials
+Licensing
+Pharmacovigilance
+Information on medicinal products
+News
+Pharmacovigilance Risk Assessment Committee (
+PRAC
+)
+Date:
+2026.06.18
+Topics:
+Arzneimittelsicherheit
+Pharmakovigilanz
+The European Medicines Agency's (
+EMA
+) Pharmacovigilance Risk Assessment Committee is responsible for assessing and monitoring safety issues for human medicines; it is the successor to the Pharmacovigilance Working Party (
+PhVWP
+) of the Committee for Medicinal Products for Human Use (
+CHMP
+).
+FAQ
+"Variations" (as of May 2026)
+Date:
+2026.06.09
+Topics:
+Licensing
+The
+FAQ
+on Groupings have been updated to include the question of whether horizontal groupings pursuant to Article 13 (d) of the Variation Regulation are subject to the obligation to submit an annual update.
+Working parties of the expert committees
+Date:
+2026.04.27
+Topics:
+Licensing
+Working parties of the expert committees
+More news on the subject
+Clinical Trials
+Clinical trials are intended to prove the efficacy of new medicinal products and to demonstrate their safety. Clinical trials are performed before the product concerned is placed on the market and they have to be approved in Germany by the respective competent federal higher authority.
+Read more
+Licensing
+The authorisation of finished medicinal products on the basis of the Medicinal Products Act ("Arzneimittelgesetz",
+AMG
+) is one of the main tasks of the BfArM. In the course of these licensing procedures, it reviews the health benefit, i.e. efficacy, safety and pharmaceutical quality of the medicinal products.
+Read more
+Types of Marketing Authorisation
+Depending on the nature of the project, the application for marketing authorisation may be based on different legal bases.
+Read more
+Licensing Procedures
+The marketing authorisation procedure evaluates whether a medicinal product is efficacious and safe and whether it has the required pharmaceutical quality.
+Read more
+Follow-up Procedures
+It is necessary to ensure continuous monitoring of the risk-benefit ratio during the life cycle of a medicinal product and to constantly adapt the quality of the medicinal product to the state of scientific knowledge.
+Read more
+Issues Relevant for Licensing
+This section contains further information on the procedures for the marketing authorization and registration of medicinal products.
+Read more
+GCP
+Inspections Unit
+The
+GCP
+Inspections Unit is responsible for questions regarding compliance with the regulatory requirements of clinical trials in procedures of the
+BfArM
+and procedures of the European Medicines Agency (
+EMA
+).
+Read more
+Particular Therapeutic Systems and Traditional Medicinal Products
+Particular Therapeutic Systems
+In addition to the authorisation of finished medicinal products, the BfArM evaluates the following medicinal products: herbal medicinal products, traditional herbal medicinal products, homeopathic medicinal products, anthroposophic medicinal products, traditional medicinal products, vitamins, minerals and medicinal waters.
+Read more
+Pharmacovigilance
+The task of pharmacovigilance is the assessment of incoming suspected cases of adverse drug reactions after marketing authorisation and market launch, as well as the ongoing monitoring of the risks in relation to the benefits of a medicinal product after marketing authorisation.
+Read more
+Reporting risks
+The joint database of BfArM and Paul-Ehrlich-Institut (PEI) offers the option of digital reporting of adverse drug reactions for
+healthcare professionals and patients
+.
+Fill out online form
+Statistics
+For the area of medicinal products, the BfArM regularly publishes statistics
+Read more
+Further topics
+Medicinal products information
+Medicines for children
+All topics at a glance
+Medical devices
+Code systems
+Federal Opium Agency
+About us
+News
+Back to Homepage
+Photo credits
+Photo credits
+Footer
+Contact
+Federal Institute for Drugs and Medical Devices
+Contact
+Social media
+LinkedIn
+Unternavigation aller Website-Bereiche
+Fast Accesses
+Medicinal products
+Medical devices
+Code systems
+Federal Opium Agency
+About us
+News
+Press
+Legal notice
+Privacy policy
+Disclaimer
+Report barrier
+Sitemap
+&#169; 2026 BfArM

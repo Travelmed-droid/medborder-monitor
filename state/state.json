@@ -1,0 +1,78 @@
+{
+  "countries": {
+    "US": {
+      "last_checked": "2026-07-19 06:15 UTC",
+      "fetch_error": "HTTP 404"
+    },
+    "CA": {
+      "last_checked": "2026-07-19 06:15 UTC",
+      "last_hash": "4e43a914c5e5834f7d9fbed26b777dae82023899a40bc3cb44e24b60bfed19f5",
+      "fetch_error": null
+    },
+    "GB": {
+      "last_checked": "2026-07-19 06:15 UTC",
+      "last_hash": "2b00ece3c76ee542aaf16c832e3235dac3ae13c8a6a1d350cdd18bcc0b583c85",
+      "fetch_error": null
+    },
+    "JP": {
+      "last_checked": "2026-07-19 06:15 UTC",
+      "fetch_error": "HTTP 404"
+    },
+    "AU": {
+      "last_checked": "2026-07-19 06:16 UTC",
+      "fetch_error": "ReadTimeout: HTTPSConnectionPool(host='www.tga.gov.au', port=443): Read timed out. (read timeout=30)"
+    },
+    "SG": {
+      "last_checked": "2026-07-19 06:16 UTC",
+      "fetch_error": "HTTP 404"
+    },
+    "AE": {
+      "last_checked": "2026-07-19 06:16 UTC",
+      "fetch_error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    "DE": {
+      "last_checked": "2026-07-19 06:16 UTC",
+      "last_hash": "4196c3fda980ebb774fcb438d1edafb6ca2f5d7bd46858097604cff375e171d1",
+      "fetch_error": null
+    },
+    "FR": {
+      "last_checked": "2026-07-19 06:16 UTC",
+      "last_hash": "4f2471e7a27e83feff69070bdee6a07e57ca241fe9ebe132df0b93ba3ffaec03",
+      "fetch_error": null
+    },
+    "TH": {
+      "last_checked": "2026-07-19 06:16 UTC",
+      "fetch_error": "page returned too little text (possibly JS-rendered or blocked)"
+    },
+    "IN": {
+      "last_checked": "2026-07-19 06:16 UTC",
+      "fetch_error": "page returned too little text (possibly JS-rendered or blocked)"
+    },
+    "MX": {
+      "last_checked": "2026-07-19 06:16 UTC",
+      "fetch_error": "page returned too little text (possibly JS-rendered or blocked)"
+    },
+    "BR": {
+      "last_checked": "2026-07-19 06:16 UTC",
+      "last_hash": "64efc8cf425af6df73bbc1f29ef2640f7f014e1006a46351fc709db6d7fb04b8",
+      "fetch_error": null
+    },
+    "ZA": {
+      "last_checked": "2026-07-19 06:17 UTC",
+      "last_hash": "b72fcd7ce94e9468c5f78966c0362f26f215a2ca6244628b69c7a7dbc6a8b872",
+      "fetch_error": null
+    },
+    "ID": {
+      "last_checked": "2026-07-19 06:17 UTC",
+      "fetch_error": "SSLError: HTTPSConnectionPool(host='www.pom.go.id', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
+    },
+    "PH": {
+      "last_checked": "2026-07-19 06:17 UTC",
+      "fetch_error": "HTTP 403"
+    },
+    "CN": {
+      "last_checked": "2026-07-19 06:17 UTC",
+      "fetch_error": "HTTP 412"
+    }
+  }
+}
