@@ -1,0 +1,175 @@
+{
+  "_comment": "Registry of monitored countries. REVIEWER WORKFLOW: after verifying an entry against the official source, set last_verified to the date (YYYY-MM-DD) and write verified_summary in your own words. The site only shows summaries for verified entries. URLs seeded here MUST be checked and corrected during setup.",
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "authority": "FDA / U.S. Customs and Border Protection",
+      "url": "https://www.fda.gov/drugs/information-consumers-and-patients-drugs/imports-and-exports-medicine",
+      "language": "en",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Personal importation policy; controlled substances also governed by DEA rules."
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "authority": "Health Canada / Canada Border Services Agency",
+      "url": "https://travel.gc.ca/travelling/health-safety/medication",
+      "language": "en",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Personal use quantities; controlled substances need additional documentation."
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "authority": "Home Office / gov.uk",
+      "url": "https://www.gov.uk/travelling-controlled-drugs",
+      "language": "en",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Controlled drugs personal licence thresholds."
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "authority": "Ministry of Health, Labour and Welfare (MHLW)",
+      "url": "https://www.mhlw.go.jp/english/policy/health-medical/pharmaceuticals/01.html",
+      "language": "en",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Yakkan shoumei (import certificate) system; stimulants strictly prohibited including some common ADHD medications."
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "authority": "Therapeutic Goods Administration (TGA)",
+      "url": "https://www.tga.gov.au/products-you-can-and-cant-bring-australia",
+      "language": "en",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Traveller's exemption; three-month supply rule for most prescription medicines."
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "authority": "Health Sciences Authority (HSA)",
+      "url": "https://www.hsa.gov.sg/personal-medication",
+      "language": "en",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Approval required in advance for several categories; strict penalties."
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "authority": "Ministry of Health and Prevention (MOHAP)",
+      "url": "https://mohap.gov.ae/en/services/issuance-of-permission-to-import-medicines-for-personal-use",
+      "language": "en",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Electronic permit for controlled/narcotic medicines; enforcement is strict."
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "authority": "BfArM (Federal Institute for Drugs and Medical Devices)",
+      "url": "https://www.bfarm.de/EN/Medicinal-products/_node.html",
+      "language": "de",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Schengen Article 75 certificate for narcotics when travelling within Schengen."
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "authority": "ANSM",
+      "url": "https://ansm.sante.fr/",
+      "language": "fr",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Schengen Article 75 certificate applies; quantities generally limited to duration of stay."
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "authority": "Thai FDA, Narcotics Control Division",
+      "url": "https://www.fda.moph.go.th/",
+      "language": "th",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Category-based rules; some psychotropics require Form IC-2 permit in advance."
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "authority": "CDSCO / Central Board of Indirect Taxes and Customs",
+      "url": "https://www.cbic.gov.in/",
+      "language": "en",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Personal-use quantities with prescription; NDPS Act governs narcotics."
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "authority": "COFEPRIS",
+      "url": "https://www.gob.mx/cofepris",
+      "language": "es",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Prescription and reasonable personal quantity; controlled substances need permit."
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "authority": "ANVISA",
+      "url": "https://www.gov.br/anvisa/pt-br",
+      "language": "pt",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Personal import rules; controlled list subject to RDC resolutions."
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "authority": "SAHPRA",
+      "url": "https://www.sahpra.org.za/",
+      "language": "en",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Section 21 and personal medicine import guidance; scheduled substances restricted."
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "authority": "BPOM / Directorate General of Customs",
+      "url": "https://www.pom.go.id/",
+      "language": "id",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Strict on psychotropics and narcotics; declaration required."
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "authority": "Philippine FDA / Bureau of Customs",
+      "url": "https://www.fda.gov.ph/",
+      "language": "en",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Personal-use exemptions with prescription; Dangerous Drugs Board rules for controlled substances."
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "authority": "NMPA / General Administration of Customs",
+      "url": "https://www.nmpa.gov.cn/",
+      "language": "zh",
+      "last_verified": null,
+      "verified_summary": null,
+      "notes": "Reasonable personal quantities; psychotropics and narcotics tightly controlled."
+    }
+  ]
+}
