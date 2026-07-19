@@ -3,75 +3,117 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Cross-Border Medication Rules — Monitoring Demonstration</title>
+<title>Cross-Border Medication Rules — Travel Monitoring Demonstration</title>
 <style>
   :root {
-    --paper:#F5F2EC; --ink:#1B2A32; --slate:#24424E; --line:#D8D2C6;
-    --ok:#2E7D5B; --okbg:#E3F0E8; --pend:#9A7B3F; --pendbg:#F3EAD5;
-    --muted:#6B7A80;
+    --paper:#F7F3EA; --card:#FFFDF8; --ink:#1B2A32; --slate:#24424E; --line:#DCD4C4;
+    --ok:#2E7D5B; --okbg:#E3F0E8; --pend:#8A6D1F; --pendbg:#F5ECD3;
+    --stampred:#B33A3A; --airblue:#2A5A8C; --muted:#6B7A80; --gold:#C9A227;
   }
   * { box-sizing:border-box; }
-  body { margin:0; background:var(--paper); color:var(--ink);
-    font-family:"Iowan Old Style","Palatino Linotype",Georgia,serif; line-height:1.5; }
-  .wrap { max-width:1080px; margin:0 auto; padding:0 20px; }
-  header.top { border-bottom:3px solid var(--slate); padding:34px 0 20px; }
+  html { -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  body { margin:0; background:var(--paper); color:var(--ink); line-height:1.5;
+    font-family:"Iowan Old Style","Palatino Linotype",Georgia,serif; }
+
+  /* airmail par-avion border */
+  .airmail { height:10px;
+    background:repeating-linear-gradient(45deg,
+      var(--stampred) 0 14px, #fff 14px 28px, var(--airblue) 28px 42px, #fff 42px 56px); }
+
+  .wrap { max-width:1120px; margin:0 auto; padding:0 20px; }
+
+  header.top { padding:30px 0 18px; border-bottom:3px double var(--slate); }
   .eyebrow { font-family:ui-monospace,"SF Mono",Menlo,monospace; font-size:12px;
-    letter-spacing:.18em; text-transform:uppercase; color:var(--slate); margin:0 0 8px; }
-  h1 { font-size:2.1rem; margin:0 0 6px; letter-spacing:-.01em; }
-  .sub { color:var(--muted); margin:0; max-width:60ch; }
-  .meter { display:flex; gap:26px; margin:22px 0 4px; flex-wrap:wrap; align-items:baseline; }
-  .meter .n { font-size:2rem; font-weight:700; color:var(--slate);
+    letter-spacing:.22em; text-transform:uppercase; color:var(--stampred); margin:0 0 8px; }
+  .titlerow { display:flex; align-items:baseline; gap:14px; flex-wrap:wrap; }
+  h1 { font-size:2.15rem; margin:0; letter-spacing:-.01em; }
+  .globe { font-size:1.6rem; }
+  .sub { color:var(--muted); margin:8px 0 0; max-width:64ch; }
+
+  /* boarding-pass counters */
+  .passrow { display:flex; gap:14px; margin:20px 0 4px; flex-wrap:wrap; }
+  .pass { background:var(--card); border:1px solid var(--line); border-radius:10px;
+    padding:10px 18px 10px 14px; position:relative; overflow:hidden; min-width:150px; }
+  .pass::before { content:""; position:absolute; left:0; top:0; bottom:0; width:6px;
+    background:var(--gold); }
+  .pass .n { font-size:1.7rem; font-weight:700; color:var(--slate);
+    font-family:ui-monospace,Menlo,monospace; display:block; }
+  .pass .l { font-size:11px; letter-spacing:.12em; text-transform:uppercase; color:var(--muted);
     font-family:ui-monospace,Menlo,monospace; }
-  .meter .l { font-size:13px; color:var(--muted); }
-  .demo { background:var(--pendbg); border:1px solid #E4D2A8; color:#5F4A1E;
-    padding:12px 16px; border-radius:8px; margin:20px 0; font-size:.95rem; }
-  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
-    gap:16px; margin:26px 0; }
-  .card { background:#fff; border:1px solid var(--line); border-radius:12px;
-    padding:18px; display:flex; flex-direction:column; gap:8px; }
+
+  .demo { background:var(--pendbg); border:1px dashed var(--pend); color:#5F4A1E;
+    padding:12px 16px; border-radius:8px; margin:20px 0 16px; font-size:.95rem; }
+
+  .toolbar { display:flex; gap:10px; align-items:center; margin:0 0 16px; flex-wrap:wrap; }
+  .search { flex:1; min-width:230px; border:1px solid var(--line); border-radius:24px;
+    padding:11px 18px; font-size:1rem; font-family:inherit; background:var(--card);
+    color:var(--ink); outline:none; }
+  .search:focus { border-color:var(--slate); }
+  .hint { font-size:.8rem; color:var(--muted); font-family:ui-monospace,Menlo,monospace; }
+
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(310px,1fr));
+    gap:16px; margin:0 0 26px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:16px 16px 14px; display:flex; flex-direction:column; gap:8px;
+    box-shadow:0 1px 0 rgba(27,42,50,.04); }
   .card.verified { border-left:5px solid var(--ok); }
   .card.unverified { border-left:5px solid var(--pend); }
-  .card header { display:flex; align-items:center; gap:10px; margin:0; border:0; padding:0; }
-  .flag { font-family:ui-monospace,Menlo,monospace; font-weight:700; font-size:.8rem;
-    background:var(--slate); color:#fff; padding:3px 7px; border-radius:5px; }
-  .card h3 { font-size:1.15rem; margin:0; flex:1; }
-  .badge { font-size:.72rem; padding:3px 9px; border-radius:20px; white-space:nowrap;
-    font-family:ui-monospace,Menlo,monospace; }
-  .badge.ok { background:var(--okbg); color:var(--ok); }
-  .badge.pending { background:var(--pendbg); color:var(--pend); }
-  .authority { font-size:.9rem; color:var(--slate); margin:0; font-weight:600; }
-  .summary { font-size:.92rem; margin:2px 0; }
+  .cardtop { display:flex; align-items:flex-start; gap:10px; }
+  .flag { font-size:1.7rem; line-height:1; margin-top:2px; }
+  .cardtitle { flex:1; }
+  .card h3 { font-size:1.13rem; margin:0; }
+  .region { font-family:ui-monospace,Menlo,monospace; font-size:.68rem; letter-spacing:.08em;
+    text-transform:uppercase; color:var(--muted); }
+
+  /* passport stamps */
+  .stamp { font-family:ui-monospace,Menlo,monospace; font-size:.58rem; letter-spacing:.06em;
+    text-align:center; line-height:1.5; padding:5px 9px; border-radius:8px;
+    border:2px dashed; transform:rotate(3deg); white-space:nowrap; }
+  .stamp b { font-size:.66rem; }
+  .stamp.ok { color:var(--ok); border-color:var(--ok); background:var(--okbg); }
+  .stamp.pending { color:var(--pend); border-color:var(--pend); background:var(--pendbg);
+    transform:rotate(-3deg); }
+
+  .authority { font-size:.88rem; color:var(--slate); margin:0; font-weight:600; }
+  .summary { font-size:.9rem; margin:0; }
   .summary.muted, .muted { color:var(--muted); }
-  .fetcherr { font-size:.8rem; color:#A6552B; margin:0; }
-  .src { margin-top:auto; font-family:ui-monospace,Menlo,monospace; font-size:.85rem;
-    color:var(--slate); text-decoration:none; font-weight:700; padding-top:6px; }
+  .fetcherr { font-size:.78rem; color:#A6552B; margin:0; }
+  .src { margin-top:auto; font-family:ui-monospace,Menlo,monospace; font-size:.84rem;
+    color:var(--airblue); text-decoration:none; font-weight:700; padding-top:6px; }
   .src:hover { text-decoration:underline; }
-  .cols { display:grid; grid-template-columns:2fr 1fr; gap:28px; margin:10px 0 40px; }
+  .noresults { display:none; color:var(--muted); font-style:italic; padding:14px 4px; }
+
+  .cols { display:grid; grid-template-columns:2fr 1fr; gap:28px; margin:6px 0 34px; }
   @media (max-width:760px) { .cols { grid-template-columns:1fr; } }
-  .panel h2 { font-size:1rem; text-transform:uppercase; letter-spacing:.08em;
-    color:var(--slate); border-bottom:1px solid var(--line); padding-bottom:6px; }
+  .panel h2 { font-size:.95rem; text-transform:uppercase; letter-spacing:.09em;
+    color:var(--slate); border-bottom:2px solid var(--gold); padding-bottom:6px; }
   ul.cl { list-style:none; padding:0; margin:0; }
   ul.cl li { display:flex; gap:12px; padding:7px 0; border-bottom:1px dotted var(--line);
     font-size:.88rem; }
   .cl-date { font-family:ui-monospace,Menlo,monospace; color:var(--muted); }
   .cl-empty { color:var(--muted); }
-  .disclaimer { background:#fff; border:1px solid var(--line); border-radius:12px;
-    padding:18px 20px; font-size:.86rem; color:var(--ink); }
-  footer { border-top:3px solid var(--slate); padding:18px 0 50px; color:var(--muted);
-    font-size:.82rem; }
-  a { color:var(--slate); }
+  .disclaimer { background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:16px 20px; font-size:.85rem; }
+  footer { border-top:3px double var(--slate); margin-top:8px; padding:16px 0 26px;
+    color:var(--muted); font-size:.8rem; }
+  a { color:var(--airblue); }
 </style>
 </head>
 <body>
+<div class="airmail"></div>
 <header class="top"><div class="wrap">
-  <p class="eyebrow">Travel Health · Monitoring Demonstration</p>
-  <h1>Cross-border medication rules</h1>
+  <p class="eyebrow">✈ Travel Health · Par Avion · Monitoring Demonstration</p>
+  <div class="titlerow">
+    <span class="globe">🌍</span>
+    <h1>Cross-border medication rules</h1>
+  </div>
   <p class="sub">A monitored index of official government sources on bringing personal
   medications across borders. The link is the answer; summaries are orientation only.</p>
-  <div class="meter">
-    <span><span class="n">0</span> <span class="l">verified entries</span></span>
-    <span><span class="n">64</span> <span class="l">countries monitored</span></span>
-    <span><span class="l">Page built 2026-07-19 07:28 UTC</span></span>
+  <div class="passrow">
+    <div class="pass"><span class="n">64</span><span class="l">Destinations</span></div>
+    <div class="pass"><span class="n">0</span><span class="l">Verified entries</span></div>
+    <div class="pass"><span class="n">5</span><span class="l">Regions</span></div>
+    <div class="pass"><span class="n">✈</span><span class="l">Built 2026-07-19 07:46 UTC</span></div>
   </div>
 </div></header>
 
@@ -81,717 +123,917 @@
   government resource. Do not rely on it for travel decisions. Always confirm with
   the destination authority via the official links below.</div>
 
-  <div class="grid"><article class="card unverified">
-  <header>
-    <span class="flag">AR</span>
-    <h3>Argentina</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+  <div class="toolbar">
+    <input class="search" id="q" type="search"
+      placeholder="🔍 Search destination — try &quot;Japan&quot;, &quot;Europe&quot;, or &quot;TH&quot;…"
+      oninput="filterCards()">
+    <span class="hint" id="count"></span>
+  </div>
+
+  <div class="grid" id="grid"><article class="card unverified" data-name="argentina ar americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Argentina flag">🇦🇷</span>
+    <div class="cardtitle">
+      <h3>Argentina</h3>
+      <span class="region">Americas · AR</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">ANMAT</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.argentina.gob.ar/anmat" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.argentina.gob.ar/anmat" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">AU</span>
-    <h3>Australia</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="australia au asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Australia flag">🇦🇺</span>
+    <div class="cardtitle">
+      <h3>Australia</h3>
+      <span class="region">Asia-Pacific · AU</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Therapeutic Goods Administration (TGA)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.tga.gov.au/products-you-can-and-cant-bring-australia" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.tga.gov.au/products-you-can-and-cant-bring-australia" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">AT</span>
-    <h3>Austria</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="austria at europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Austria flag">🇦🇹</span>
+    <div class="cardtitle">
+      <h3>Austria</h3>
+      <span class="region">Europe · AT</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">BASG (Federal Office for Safety in Health Care)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.basg.gv.at/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.basg.gv.at/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">BH</span>
-    <h3>Bahrain</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="bahrain bh middle east">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Bahrain flag">🇧🇭</span>
+    <div class="cardtitle">
+      <h3>Bahrain</h3>
+      <span class="region">Middle East · BH</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">NHRA (National Health Regulatory Authority)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.nhra.bh/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.nhra.bh/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">BE</span>
-    <h3>Belgium</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="belgium be europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Belgium flag">🇧🇪</span>
+    <div class="cardtitle">
+      <h3>Belgium</h3>
+      <span class="region">Europe · BE</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">FAMHP</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.famhp.be/en" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.famhp.be/en" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">BR</span>
-    <h3>Brazil</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="brazil br americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Brazil flag">🇧🇷</span>
+    <div class="cardtitle">
+      <h3>Brazil</h3>
+      <span class="region">Americas · BR</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">ANVISA</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.gov.br/anvisa/pt-br" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.gov.br/anvisa/pt-br" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">CA</span>
-    <h3>Canada</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="canada ca americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Canada flag">🇨🇦</span>
+    <div class="cardtitle">
+      <h3>Canada</h3>
+      <span class="region">Americas · CA</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Health Canada / Canada Border Services Agency</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://travel.gc.ca/travelling/health-safety/medication" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://travel.gc.ca/travelling/health-safety/medication" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">CL</span>
-    <h3>Chile</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="chile cl americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Chile flag">🇨🇱</span>
+    <div class="cardtitle">
+      <h3>Chile</h3>
+      <span class="region">Americas · CL</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">ISP (Instituto de Salud Pública)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.ispch.gob.cl/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.ispch.gob.cl/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">CN</span>
-    <h3>China</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="china cn asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="China flag">🇨🇳</span>
+    <div class="cardtitle">
+      <h3>China</h3>
+      <span class="region">Asia-Pacific · CN</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">NMPA / General Administration of Customs</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.nmpa.gov.cn/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.nmpa.gov.cn/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">CO</span>
-    <h3>Colombia</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="colombia co americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Colombia flag">🇨🇴</span>
+    <div class="cardtitle">
+      <h3>Colombia</h3>
+      <span class="region">Americas · CO</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">INVIMA</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.invima.gov.co/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.invima.gov.co/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">CR</span>
-    <h3>Costa Rica</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="costa rica cr americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Costa Rica flag">🇨🇷</span>
+    <div class="cardtitle">
+      <h3>Costa Rica</h3>
+      <span class="region">Americas · CR</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Ministerio de Salud</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.ministeriodesalud.go.cr/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.ministeriodesalud.go.cr/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">HR</span>
-    <h3>Croatia</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="croatia hr europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Croatia flag">🇭🇷</span>
+    <div class="cardtitle">
+      <h3>Croatia</h3>
+      <span class="region">Europe · HR</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">HALMED</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.halmed.hr/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.halmed.hr/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">CZ</span>
-    <h3>Czechia</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="czechia cz europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Czechia flag">🇨🇿</span>
+    <div class="cardtitle">
+      <h3>Czechia</h3>
+      <span class="region">Europe · CZ</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">SÚKL (State Institute for Drug Control)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.sukl.eu/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.sukl.eu/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">DK</span>
-    <h3>Denmark</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="denmark dk europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Denmark flag">🇩🇰</span>
+    <div class="cardtitle">
+      <h3>Denmark</h3>
+      <span class="region">Europe · DK</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Danish Medicines Agency</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://laegemiddelstyrelsen.dk/en/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://laegemiddelstyrelsen.dk/en/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">DO</span>
-    <h3>Dominican Republic</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="dominican republic do americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Dominican Republic flag">🇩🇴</span>
+    <div class="cardtitle">
+      <h3>Dominican Republic</h3>
+      <span class="region">Americas · DO</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Ministerio de Salud Pública / DIGEMAPS</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.msp.gob.do/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.msp.gob.do/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">EC</span>
-    <h3>Ecuador</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="ecuador ec americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Ecuador flag">🇪🇨</span>
+    <div class="cardtitle">
+      <h3>Ecuador</h3>
+      <span class="region">Americas · EC</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">ARCSA</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.controlsanitario.gob.ec/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.controlsanitario.gob.ec/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">EG</span>
-    <h3>Egypt</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="egypt eg africa">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Egypt flag">🇪🇬</span>
+    <div class="cardtitle">
+      <h3>Egypt</h3>
+      <span class="region">Africa · EG</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">EDA (Egyptian Drug Authority)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.edaegypt.gov.eg/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.edaegypt.gov.eg/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">ET</span>
-    <h3>Ethiopia</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="ethiopia et africa">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Ethiopia flag">🇪🇹</span>
+    <div class="cardtitle">
+      <h3>Ethiopia</h3>
+      <span class="region">Africa · ET</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">EFDA (Ethiopian Food and Drug Authority)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.efda.gov.et/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.efda.gov.et/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">FR</span>
-    <h3>France</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="france fr europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="France flag">🇫🇷</span>
+    <div class="cardtitle">
+      <h3>France</h3>
+      <span class="region">Europe · FR</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">ANSM</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://ansm.sante.fr/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://ansm.sante.fr/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">DE</span>
-    <h3>Germany</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="germany de europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Germany flag">🇩🇪</span>
+    <div class="cardtitle">
+      <h3>Germany</h3>
+      <span class="region">Europe · DE</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">BfArM (Federal Institute for Drugs and Medical Devices)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.bfarm.de/EN/Medicinal-products/_node.html" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.bfarm.de/EN/Medicinal-products/_node.html" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">GH</span>
-    <h3>Ghana</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="ghana gh africa">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Ghana flag">🇬🇭</span>
+    <div class="cardtitle">
+      <h3>Ghana</h3>
+      <span class="region">Africa · GH</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">FDA Ghana</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://fdaghana.gov.gh/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://fdaghana.gov.gh/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">GR</span>
-    <h3>Greece</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="greece gr europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Greece flag">🇬🇷</span>
+    <div class="cardtitle">
+      <h3>Greece</h3>
+      <span class="region">Europe · GR</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">EOF (National Organization for Medicines)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.eof.gr/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.eof.gr/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">GT</span>
-    <h3>Guatemala</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="guatemala gt americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Guatemala flag">🇬🇹</span>
+    <div class="cardtitle">
+      <h3>Guatemala</h3>
+      <span class="region">Americas · GT</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">MSPAS (Ministerio de Salud Pública)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.mspas.gob.gt/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.mspas.gob.gt/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">HK</span>
-    <h3>Hong Kong SAR</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="hong kong sar hk asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Hong Kong SAR flag">🇭🇰</span>
+    <div class="cardtitle">
+      <h3>Hong Kong SAR</h3>
+      <span class="region">Asia-Pacific · HK</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Department of Health — Drug Office</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.drugoffice.gov.hk/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.drugoffice.gov.hk/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">HU</span>
-    <h3>Hungary</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="hungary hu europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Hungary flag">🇭🇺</span>
+    <div class="cardtitle">
+      <h3>Hungary</h3>
+      <span class="region">Europe · HU</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">OGYÉI (National Institute of Pharmacy and Nutrition)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://ogyei.gov.hu/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://ogyei.gov.hu/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">IN</span>
-    <h3>India</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="india in asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="India flag">🇮🇳</span>
+    <div class="cardtitle">
+      <h3>India</h3>
+      <span class="region">Asia-Pacific · IN</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">CDSCO / Central Board of Indirect Taxes and Customs</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.cbic.gov.in/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.cbic.gov.in/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">ID</span>
-    <h3>Indonesia</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="indonesia id asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Indonesia flag">🇮🇩</span>
+    <div class="cardtitle">
+      <h3>Indonesia</h3>
+      <span class="region">Asia-Pacific · ID</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">BPOM / Directorate General of Customs</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.pom.go.id/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.pom.go.id/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">IE</span>
-    <h3>Ireland</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="ireland ie europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Ireland flag">🇮🇪</span>
+    <div class="cardtitle">
+      <h3>Ireland</h3>
+      <span class="region">Europe · IE</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">HPRA (Health Products Regulatory Authority)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.hpra.ie/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.hpra.ie/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">IL</span>
-    <h3>Israel</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="israel il middle east">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Israel flag">🇮🇱</span>
+    <div class="cardtitle">
+      <h3>Israel</h3>
+      <span class="region">Middle East · IL</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Ministry of Health</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.gov.il/en/departments/ministry_of_health" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.gov.il/en/departments/ministry_of_health" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">IT</span>
-    <h3>Italy</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="italy it europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Italy flag">🇮🇹</span>
+    <div class="cardtitle">
+      <h3>Italy</h3>
+      <span class="region">Europe · IT</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">AIFA</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.aifa.gov.it/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.aifa.gov.it/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">JP</span>
-    <h3>Japan</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="japan jp asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Japan flag">🇯🇵</span>
+    <div class="cardtitle">
+      <h3>Japan</h3>
+      <span class="region">Asia-Pacific · JP</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Ministry of Health, Labour and Welfare (MHLW)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.mhlw.go.jp/english/policy/health-medical/pharmaceuticals/01.html" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.mhlw.go.jp/english/policy/health-medical/pharmaceuticals/01.html" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">JO</span>
-    <h3>Jordan</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="jordan jo middle east">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Jordan flag">🇯🇴</span>
+    <div class="cardtitle">
+      <h3>Jordan</h3>
+      <span class="region">Middle East · JO</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">JFDA (Jordan Food and Drug Administration)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.jfda.jo/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.jfda.jo/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">KE</span>
-    <h3>Kenya</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="kenya ke africa">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Kenya flag">🇰🇪</span>
+    <div class="cardtitle">
+      <h3>Kenya</h3>
+      <span class="region">Africa · KE</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Pharmacy and Poisons Board</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://web.pharmacyboardkenya.org/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://web.pharmacyboardkenya.org/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">KW</span>
-    <h3>Kuwait</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="kuwait kw middle east">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Kuwait flag">🇰🇼</span>
+    <div class="cardtitle">
+      <h3>Kuwait</h3>
+      <span class="region">Middle East · KW</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Ministry of Health</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.moh.gov.kw/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.moh.gov.kw/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">MY</span>
-    <h3>Malaysia</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="malaysia my asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Malaysia flag">🇲🇾</span>
+    <div class="cardtitle">
+      <h3>Malaysia</h3>
+      <span class="region">Asia-Pacific · MY</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">NPRA (National Pharmaceutical Regulatory Agency)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.npra.gov.my/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.npra.gov.my/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">MX</span>
-    <h3>Mexico</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="mexico mx americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Mexico flag">🇲🇽</span>
+    <div class="cardtitle">
+      <h3>Mexico</h3>
+      <span class="region">Americas · MX</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">COFEPRIS</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.gob.mx/cofepris" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.gob.mx/cofepris" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">MA</span>
-    <h3>Morocco</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="morocco ma africa">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Morocco flag">🇲🇦</span>
+    <div class="cardtitle">
+      <h3>Morocco</h3>
+      <span class="region">Africa · MA</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Ministère de la Santé / DMP</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.sante.gov.ma/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.sante.gov.ma/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">NL</span>
-    <h3>Netherlands</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="netherlands nl europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Netherlands flag">🇳🇱</span>
+    <div class="cardtitle">
+      <h3>Netherlands</h3>
+      <span class="region">Europe · NL</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">CAK / Farmatec (medical certificates)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.hetcak.nl/en/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.hetcak.nl/en/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">NZ</span>
-    <h3>New Zealand</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="new zealand nz asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="New Zealand flag">🇳🇿</span>
+    <div class="cardtitle">
+      <h3>New Zealand</h3>
+      <span class="region">Asia-Pacific · NZ</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Medsafe</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.medsafe.govt.nz/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.medsafe.govt.nz/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">NG</span>
-    <h3>Nigeria</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="nigeria ng africa">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Nigeria flag">🇳🇬</span>
+    <div class="cardtitle">
+      <h3>Nigeria</h3>
+      <span class="region">Africa · NG</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">NAFDAC</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.nafdac.gov.ng/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.nafdac.gov.ng/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">NO</span>
-    <h3>Norway</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="norway no europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Norway flag">🇳🇴</span>
+    <div class="cardtitle">
+      <h3>Norway</h3>
+      <span class="region">Europe · NO</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Norwegian Medical Products Agency (DMP)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.dmp.no/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.dmp.no/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">OM</span>
-    <h3>Oman</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="oman om middle east">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Oman flag">🇴🇲</span>
+    <div class="cardtitle">
+      <h3>Oman</h3>
+      <span class="region">Middle East · OM</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Ministry of Health</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.moh.gov.om/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.moh.gov.om/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">PA</span>
-    <h3>Panama</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="panama pa americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Panama flag">🇵🇦</span>
+    <div class="cardtitle">
+      <h3>Panama</h3>
+      <span class="region">Americas · PA</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">MINSA (Ministerio de Salud)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.minsa.gob.pa/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.minsa.gob.pa/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">PE</span>
-    <h3>Peru</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="peru pe americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Peru flag">🇵🇪</span>
+    <div class="cardtitle">
+      <h3>Peru</h3>
+      <span class="region">Americas · PE</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">DIGEMID (Ministerio de Salud)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.digemid.minsa.gob.pe/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.digemid.minsa.gob.pe/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">PH</span>
-    <h3>Philippines</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="philippines ph asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Philippines flag">🇵🇭</span>
+    <div class="cardtitle">
+      <h3>Philippines</h3>
+      <span class="region">Asia-Pacific · PH</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Philippine FDA / Bureau of Customs</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.fda.gov.ph/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.fda.gov.ph/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">PL</span>
-    <h3>Poland</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="poland pl europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Poland flag">🇵🇱</span>
+    <div class="cardtitle">
+      <h3>Poland</h3>
+      <span class="region">Europe · PL</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">URPL (Office for Registration of Medicinal Products)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.urpl.gov.pl/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.urpl.gov.pl/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">PT</span>
-    <h3>Portugal</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="portugal pt europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Portugal flag">🇵🇹</span>
+    <div class="cardtitle">
+      <h3>Portugal</h3>
+      <span class="region">Europe · PT</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">INFARMED</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.infarmed.pt/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.infarmed.pt/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">QA</span>
-    <h3>Qatar</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="qatar qa middle east">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Qatar flag">🇶🇦</span>
+    <div class="cardtitle">
+      <h3>Qatar</h3>
+      <span class="region">Middle East · QA</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">MOPH (Ministry of Public Health)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.moph.gov.qa/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.moph.gov.qa/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">SA</span>
-    <h3>Saudi Arabia</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="saudi arabia sa middle east">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Saudi Arabia flag">🇸🇦</span>
+    <div class="cardtitle">
+      <h3>Saudi Arabia</h3>
+      <span class="region">Middle East · SA</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">SFDA (Saudi Food and Drug Authority)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.sfda.gov.sa/en" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.sfda.gov.sa/en" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">SG</span>
-    <h3>Singapore</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="singapore sg asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Singapore flag">🇸🇬</span>
+    <div class="cardtitle">
+      <h3>Singapore</h3>
+      <span class="region">Asia-Pacific · SG</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Health Sciences Authority (HSA)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.hsa.gov.sg/personal-medication" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.hsa.gov.sg/personal-medication" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">ZA</span>
-    <h3>South Africa</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="south africa za africa">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="South Africa flag">🇿🇦</span>
+    <div class="cardtitle">
+      <h3>South Africa</h3>
+      <span class="region">Africa · ZA</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">SAHPRA</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.sahpra.org.za/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.sahpra.org.za/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">KR</span>
-    <h3>South Korea</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="south korea kr asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="South Korea flag">🇰🇷</span>
+    <div class="cardtitle">
+      <h3>South Korea</h3>
+      <span class="region">Asia-Pacific · KR</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">MFDS (Ministry of Food and Drug Safety)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.mfds.go.kr/eng/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.mfds.go.kr/eng/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">ES</span>
-    <h3>Spain</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="spain es europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Spain flag">🇪🇸</span>
+    <div class="cardtitle">
+      <h3>Spain</h3>
+      <span class="region">Europe · ES</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">AEMPS</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.aemps.gob.es/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.aemps.gob.es/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">SE</span>
-    <h3>Sweden</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="sweden se europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Sweden flag">🇸🇪</span>
+    <div class="cardtitle">
+      <h3>Sweden</h3>
+      <span class="region">Europe · SE</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Läkemedelsverket (Medical Products Agency)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.lakemedelsverket.se/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.lakemedelsverket.se/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">CH</span>
-    <h3>Switzerland</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="switzerland ch europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Switzerland flag">🇨🇭</span>
+    <div class="cardtitle">
+      <h3>Switzerland</h3>
+      <span class="region">Europe · CH</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Swissmedic</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.swissmedic.ch/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.swissmedic.ch/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">TW</span>
-    <h3>Taiwan</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="taiwan tw asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Taiwan flag">🇹🇼</span>
+    <div class="cardtitle">
+      <h3>Taiwan</h3>
+      <span class="region">Asia-Pacific · TW</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">TFDA (Taiwan Food and Drug Administration)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.fda.gov.tw/ENG/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.fda.gov.tw/ENG/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">TZ</span>
-    <h3>Tanzania</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="tanzania tz africa">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Tanzania flag">🇹🇿</span>
+    <div class="cardtitle">
+      <h3>Tanzania</h3>
+      <span class="region">Africa · TZ</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">TMDA (Tanzania Medicines and Medical Devices Authority)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.tmda.go.tz/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.tmda.go.tz/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">TH</span>
-    <h3>Thailand</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="thailand th asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Thailand flag">🇹🇭</span>
+    <div class="cardtitle">
+      <h3>Thailand</h3>
+      <span class="region">Asia-Pacific · TH</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Thai FDA, Narcotics Control Division</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.fda.moph.go.th/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.fda.moph.go.th/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">TR</span>
-    <h3>Turkey</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="turkey tr europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Turkey flag">🇹🇷</span>
+    <div class="cardtitle">
+      <h3>Turkey</h3>
+      <span class="region">Europe · TR</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">TİTCK (Turkish Medicines and Medical Devices Agency)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.titck.gov.tr/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.titck.gov.tr/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">AE</span>
-    <h3>United Arab Emirates</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="united arab emirates ae middle east">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="United Arab Emirates flag">🇦🇪</span>
+    <div class="cardtitle">
+      <h3>United Arab Emirates</h3>
+      <span class="region">Middle East · AE</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Ministry of Health and Prevention (MOHAP)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://mohap.gov.ae/en/services/issuance-of-permission-to-import-medicines-for-personal-use" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://mohap.gov.ae/en/services/issuance-of-permission-to-import-medicines-for-personal-use" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">GB</span>
-    <h3>United Kingdom</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="united kingdom gb europe">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="United Kingdom flag">🇬🇧</span>
+    <div class="cardtitle">
+      <h3>United Kingdom</h3>
+      <span class="region">Europe · GB</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Home Office / gov.uk</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.gov.uk/travelling-controlled-drugs" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.gov.uk/travelling-controlled-drugs" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">US</span>
-    <h3>United States</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="united states us americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="United States flag">🇺🇸</span>
+    <div class="cardtitle">
+      <h3>United States</h3>
+      <span class="region">Americas · US</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">FDA / U.S. Customs and Border Protection</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.fda.gov/drugs/information-consumers-and-patients-drugs/imports-and-exports-medicine" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.fda.gov/drugs/information-consumers-and-patients-drugs/imports-and-exports-medicine" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">UY</span>
-    <h3>Uruguay</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="uruguay uy americas">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Uruguay flag">🇺🇾</span>
+    <div class="cardtitle">
+      <h3>Uruguay</h3>
+      <span class="region">Americas · UY</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Ministerio de Salud Pública</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://www.gub.uy/ministerio-salud-publica/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://www.gub.uy/ministerio-salud-publica/" target="_blank" rel="noopener">✈ Open official source</a>
 </article>
-<article class="card unverified">
-  <header>
-    <span class="flag">VN</span>
-    <h3>Vietnam</h3>
-    <span class="badge pending">Not yet verified</span>
-  </header>
+<article class="card unverified" data-name="vietnam vn asia-pacific">
+  <div class="cardtop">
+    <span class="flag" role="img" aria-label="Vietnam flag">🇻🇳</span>
+    <div class="cardtitle">
+      <h3>Vietnam</h3>
+      <span class="region">Asia-Pacific · VN</span>
+    </div>
+    <span class="stamp pending">PENDING<br><b>NOT VERIFIED</b></span>
+  </div>
   <p class="authority">Drug Administration of Vietnam (Ministry of Health)</p>
   <p class="summary muted">Not yet verified by a reviewer. Use the official source directly.</p>
   
-  <a class="src" href="https://dav.gov.vn/" target="_blank" rel="noopener">Open official source &rarr;</a>
+  <a class="src" href="https://dav.gov.vn/" target="_blank" rel="noopener">✈ Open official source</a>
 </article></div>
+  <p class="noresults" id="noresults">No destinations match — try a country name, code, or region.</p>
 
   <div class="cols">
     <section class="panel"><h2>How this works</h2>
       <p>Software checks each official source page on a schedule and detects when the
       text changes. An AI step sorts substantive rule changes from cosmetic ones and
       drafts a note. A pharmacist then verifies each change against the official
-      source before any summary appears here. Cards without a verification date have
+      source before any summary appears here. Cards without a verification stamp have
       not yet been checked by a reviewer — use the official link directly.</p>
       <p><strong>AI proposes; a human disposes.</strong> Nothing on this page is
       published from AI output alone.</p>
@@ -805,8 +1047,24 @@
 </div>
 
 <footer><div class="wrap">
-  Monitoring demonstration · built with the medborder pipeline ·
+  ✈ Monitoring demonstration · built with the medborder pipeline ·
   AI-assisted change triage, human-verified publication.
 </div></footer>
+<div class="airmail"></div>
+
+<script>
+function filterCards() {
+  var q = document.getElementById('q').value.trim().toLowerCase();
+  var cards = document.querySelectorAll('#grid .card');
+  var shown = 0;
+  cards.forEach(function(c) {
+    var hit = !q || c.getAttribute('data-name').indexOf(q) !== -1;
+    c.style.display = hit ? '' : 'none';
+    if (hit) shown++;
+  });
+  document.getElementById('noresults').style.display = shown ? 'none' : 'block';
+  document.getElementById('count').textContent = q ? (shown + ' shown') : '';
+}
+</script>
 </body>
 </html>

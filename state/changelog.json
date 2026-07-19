@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "code": "JO",
+    "country": "Jordan",
+    "detected": "2026-07-19 07:46 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -958,5 +958,5 @@\n البرنامج المطلوب للتصفح: Adobe Reader\n عدد زوار الموقع:\n-3221742\n+3221838\n روابط سريعة\n مدونة السلوك الوظيفي",
+    "reviewed": false
+  }
+]
