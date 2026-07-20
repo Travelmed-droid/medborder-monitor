@@ -158,6 +158,8 @@ Direktif
 Direktif1
 images/2026/Home-Banner-template-DRGD-July-2026-Slide1.jpg
 MORE
+images/2026/banner/THMS_1750.png
+Click Here
 MedSafetyWeek-2025-mobile-banner-600-x-600-px.png
 E-labelling_.jpg
 images/2026/banner/Untitled_design_mobile_2png.png
@@ -181,6 +183,8 @@ guideline
 images/2026/banner/Kajian_600.png
 images/2026/Home-Banner-template-DRGD-July-2026-Slide2.jpg
 MORE
+images/2026/banner/THMS_600.png
+Click here
 Consumers
 ConSERF, AEFI Reporting, RiMUP, Product Cancellation & etc
 Health Professionals
@@ -295,7 +299,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Thursday 16 July 2026, 13:39:16.
+Last Modified: Monday 20 July 2026, 14:33:57.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -441,4 +445,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Sunday, 19 Jul 2026
+Monday, 20 Jul 2026

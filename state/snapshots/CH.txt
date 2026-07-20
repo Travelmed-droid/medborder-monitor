@@ -75,6 +75,12 @@ Schliessen
 Visible
 Aktuelles
 Alle Updates anzeigen
+20.07.2026
+DHPC &ndash; Paxlovid&reg; (Nirmatrelvir/Ritonavir)
+Wichtiger Hinweis zur Vermeidung von Medikationsfehlern bei p&auml;diatrischen Patienten ab 6 Jahren mit einem K&ouml;rpergewicht von mindestens 20 kg und weniger als 40 kg
+20.07.2026
+Out-of-Stock &ndash; Mellozzan 0,5 mg, Tabletten
+Befristete Bewilligung zum Vertrieb in deutscher Aufmachung
 17.07.2026
 Checkliste f&uuml;r eine Inspektion der Materiovigilance in Spit&auml;lern
 Diese Checkliste dient Swissmedic als Hilfsmittel im Rahmen ihrer Inspektionst&auml;tigkeit in Spit&auml;lern und kann von den Gesundheitseinrichtungen zur Durchf&uuml;hrung von L&uuml;ckenanalysen hinsichtlich der Anforderungen der GPMV-Spital verwendet werden
@@ -93,12 +99,6 @@ Swissmedic wird eCTD v4.0 bis Ende 2026 technisch implementieren und ver&ouml;ff
 13.07.2026
 Out-of-Stock &ndash; Voranigo 10 mg, Filmtabletten
 Befristete Bewilligung zum Vertrieb in irischer Aufmachung
-13.07.2026
-Benchmarking-Studie 2025
-Internationaler Vergleich der Schweizer Zulassungszeiten
-10.07.2026
-DHPC &ndash; Domperidon axapharm lingual&reg;, Domperidon lingual Spirig HC&reg;, Domperidon-Mepha&reg; oro, Motilium&reg;, Motilium lingual&reg;, Motilium lingual Gastrosan&reg; (Domperidon)
-Domperidonhaltige Arzneimittel: Neue Kontraindikation Ph&auml;ochromozytom
 Im Fokus
 Fillerbehandlungen
 Das Video zeigt die Risiken von unsachgemässen Filler-Behandlungen auf und macht deutlich, wie diese reduziert werden können.

@@ -152,6 +152,11 @@ Dispositif d’évaluation accélérée des essais cliniques en France (fast-tra
 A la une
 L’ANSM publie son rapport d’activité 2025
 Dernières actualités
+Publié le 27/05/2026
+- Mis à jour le 20/07/2026
+Téralithe et quétiapine : point sur la disponibilité et l’évolution des mesures d’accompagnement
+Disponibilité des produits de santé
+Médicaments
 Publié le 26/06/2026
 - Mis à jour le 16/07/2026
 L&#039;EMA recommande le retrait de l&#039;autorisation de mise sur le marché de Tavneos
@@ -162,12 +167,12 @@ Publié le 15/07/2026
 Retour d’information sur le PRAC de juillet 2026 (6 – 9 juillet)
 Europe
 Avis du PRAC
-Publié le 15/07/2026
-Renouvellement du comité d’interface avec les associations de patients : appel à candidatures ouvert jusqu’au 30 septembre 2026
-Vie de l’Agence
-Instances
 Plus d&#039;actualités
 Informations de sécurité
+20/07/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Table radiante et système de réanimation néonatale – Giraffe et Panda – GE Healthcare
 17/07/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
@@ -214,10 +219,6 @@ Défibrillateur implantable – DAI & CRT-D Visia AF, Visia AF MRI, Evera, Evera
 RAPPEL DE PRODUIT
 Médicaments
 Chloraprep, solution pour application cutanée 60 ampoules en verre de 1 ml avec applicateur – Becton Dickinson France
-09/07/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Rapid Refill Continuous Injection System – Boston Scientific
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire
@@ -228,6 +229,9 @@ data.ansm
 Évènements
 22 juil. 2026
 Webinaire le 22 juillet 2026 à 15h - Médicaments à base de cannabis : tout savoir sur les dossiers de demande d&#039;autorisation d&#039;utilisation temporaire
+Autres événements
+Du 20 juil. 2026 au 20 oct. 2026
+Consultation publique relative au projet de décision de contrôle de qualité des installations de radiologie dentaire
 Autres événements
 Du 15 juil. 2026 au 30 sept. 2026
 Appel à candidatures pour le comité d’interface avec les associations de patients
@@ -241,9 +245,6 @@ Comités français de la pharmacopée
 30 juin 2026
 Comité scientifique permanent Pharmaco-surveillance et bon usage - Formation restreinte expertise et bon usage
 Comités scientifiques permanents (CSP)
-30 juin 2026
-Comité français de pharmacopée - Produits biologiques et thérapies innovantes
-Comités français de la pharmacopée
 Plus d&#039;évènements
 Vidéo à la une
 2 min 30
