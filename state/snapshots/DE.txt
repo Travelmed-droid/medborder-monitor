@@ -520,7 +520,7 @@ To overview: Medical Research Act
 Radiation applications
 Research
 To overview: Research
-Biostatistics
+Biostatistics and Pharmacometrics
 Special Indications
 Projects in the field of medical devices
 Pharmacogenomics

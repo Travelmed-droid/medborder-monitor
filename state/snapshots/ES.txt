@@ -108,6 +108,7 @@ Eventos
 Notas infomativas de seguridad
 Listas de distribución de la AEMPS
 Formación para investigadores
+Comunicación clara y accesible
 Industria farmacéutica
 Laboratorios farmacéuticos: autorización, modificación y registro
 Registro de medicamentos
@@ -147,6 +148,7 @@ Notificaciones de reacciones adversas
 Participación pública en proyectos normativos
 Medicamentos y calor
 Diccionario panhispánico de términos médicos
+Comunicación clara y accesible
 CNCps
 Castellano
 Català
@@ -174,21 +176,21 @@ Problemas de suministro
 ¿Quiénes somos?
 Conócenos
 Última información
-Productos sanitarios
-20/07/2026
-La AEMPS publica dos nuevas infografías informativas sobre reconstrucción mamaria y mamoplastia de aumento
-Medicamentos veterinarios
-20/07/2026
-La AEMPS informa de la entrada en aplicación del Reglamento de Ejecución (UE) 2024/1973 sobre el uso de determinados antimicrobianos en animales
-Medicamentos veterinarios
-17/07/2026
-La AEMPS informa de la retirada de un lote del medicamento veterinario Tessie 0,3 mg/ml solución oral para perros
+Boletín Cosméticos, biocidas y PCP
+27/07/2026
+Boletín sobre Cosméticos, Biocidas AEMPS y Productos de Cuidado Personal. abril-junio 2026
 AEMPS
-17/07/2026
-La AEMPS informa sobre el nuevo Sistema de Evaluación de Tecnologías Sanitarias tras la aprobación del Real Decreto 415/2026
-Productos sanitarios
-17/07/2026
-La AEMPS informa del robo y distribución ilegal de dos lotes de sensores Dexcom G7
+27/07/2026
+La AEMPS, primera agencia europea que participa en un programa de pasantías internacionales con la Organización Panamericana de la Salud
+Medicamentos de uso humano
+24/06/2026
+Reunión del Comité de Medicamentos de Uso Humano de julio de 2026
+Boletines PPSS
+23/07/2026
+Boletín sobre Productos Sanitarios. Abril – junio 2026
+Cosméticos
+23/07/2026
+La AEMPS informa de la detección de unidades falsificadas del producto cosmético Xhekpon crema
 AEMPS
 25/10/2023
 La AEMPS publica la Memoria 2022, un año marcado por el impulso a la autonomía estratégica

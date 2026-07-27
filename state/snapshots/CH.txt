@@ -75,6 +75,12 @@ Schliessen
 Visible
 Aktuelles
 Alle Updates anzeigen
+27.07.2026
+DHPC &ndash; Mounjaro KwikPen (tirzepatidum)
+Notwendigkeit sachgem&auml;sse Verwendung
+22.07.2026
+DHPC &ndash; Caspofungin Labatec&reg;, Caspofungin Leman&reg;, Caspofungin Mepha&reg;, Caspofungin Viatris, Caspofungin Sandoz&reg; eco (Caspofungin)
+Caspofungin: Vermeiden Sie die Verwendung von Polyacrylnitril-(PAN)-Membranen w&auml;hrend der kontinuierlichen Nierenersatztherapie (TRR)
 20.07.2026
 DHPC &ndash; Paxlovid&reg; (Nirmatrelvir/Ritonavir)
 Wichtiger Hinweis zur Vermeidung von Medikationsfehlern bei p&auml;diatrischen Patienten ab 6 Jahren mit einem K&ouml;rpergewicht von mindestens 20 kg und weniger als 40 kg
@@ -93,12 +99,6 @@ Zus&auml;tzliche visuelle Kontrolle
 14.07.2026
 DHPC &ndash; Fungizone, Injektionspr&auml;parat (i.v.) (amphotericinum B)
 Verz&ouml;gerte Implementierung der zuletzt genehmigten Packungsbeilage (Stand Februar 2025) mit neuem Warnhinweis zu Hyperkali&auml;mie
-14.07.2026
-Neue Informationen zur Einf&uuml;hrung von eCTD v4.0
-Swissmedic wird eCTD v4.0 bis Ende 2026 technisch implementieren und ver&ouml;ffentlicht das Paket des Schweizer Implementation Guide in der Version 1.1
-13.07.2026
-Out-of-Stock &ndash; Voranigo 10 mg, Filmtabletten
-Befristete Bewilligung zum Vertrieb in irischer Aufmachung
 Im Fokus
 Fillerbehandlungen
 Das Video zeigt die Risiken von unsachgemässen Filler-Behandlungen auf und macht deutlich, wie diese reduziert werden können.
