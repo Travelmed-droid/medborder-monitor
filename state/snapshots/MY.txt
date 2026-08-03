@@ -160,6 +160,7 @@ MORE
 images/2026/banner/THMS_1.png
 Click Here
 images/2026/banner/Kaji_1.png
+images/2026/banner/Maintenance_31_july.png
 MedSafetyWeek-2025-mobile-banner-600-x-600-px.png
 E-labelling_.jpg
 images/2026/banner/Untitled_design_mobile_2png.png
@@ -185,6 +186,7 @@ MORE
 images/2026/banner/THMS_6.png
 Click Here
 images/2026/banner/Kaji_600x600.png
+images/2026/banner/31_july_maint.png
 Consumers
 ConSERF, AEFI Reporting, RiMUP, Product Cancellation & etc
 Health Professionals
@@ -230,6 +232,8 @@ Update on Analytical Testing and Labelling Declaration Requirements for Products
 Apr
 Latihan Sangkutan di NPRA bagi Latihan Liberalisasi Ahli Farmasi Provisional (PRP) di bawah Bahagian Lembaga Farmasi Malaysia (BLFM): Industri Farmaseutikal Mengilang / Industri Farmaseutikal Tidak Mengilang (Sesi 01/2026)
 View All Announcements
+Guideline on Application of Manufacturer’s License, Import License and Wholesaler’s License for Registered Products (4th Edition, July 2026)
+published on 2026-07-29
 GLP-1 and Dual GLP-1/GIP Receptor Agonists: Risk of Severe Acute Pancreatitis
 published on 2026-07-22
 Direktif untuk penggunaan Drug Registration Guidance Document (DRGD) Third Edition, 12th Revision July 2026
@@ -237,8 +241,6 @@ published on 2026-07-16
 Biosimilar Approved
 published on 2026-07-10
 List of Renewal Approved Veterinary Products
-published on 2026-07-10
-New Products Approved
 published on 2026-07-10
 More Recent Updates
 09
@@ -299,7 +301,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Thursday 23 July 2026, 14:12:34.
+Last Modified: Monday 03 August 2026, 11:16:45.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -445,4 +447,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 27 Jul 2026
+Monday, 3 Aug 2026

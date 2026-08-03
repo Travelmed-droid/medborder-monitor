@@ -167,54 +167,55 @@ Surveillance
 Pharmacovigilance
 Plus d&#039;actualités
 Informations de sécurité
-27/07/2026
+03/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+LAP : logiciel d&#039;aide à la prescription – Orbis Medication 3.x – DH Healthcare GmbH
+16/06/2026
+- MIS À JOUR LE 03/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Système d’écarteur chirurgical Integra Omni-Tract – Integra Lifesciences Corporation
+30/07/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Fauteuil roulant électrique Permobil M5 Corpus – Permobil AB
+30/07/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Introducteur pour assistance ventriculaire Impella (kits de pompe et packs individuels) - Abiomed
+30/07/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Set de perfusion Spike 4038 – Sidam Srl
+30/07/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Stérilisateur Getinge Poladus 150 – Maquet GmbH
+29/07/2026
 RAPPEL DE PRODUIT
 Médicaments
-Duloxétine Zydus 30 mg, gélule gastro-résistante – Laboratoire Zydus France
-27/07/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Chirurgie assistée par ordinateur – Système stéréotaxique Neuromate – Renishaw Mayfield
-27/07/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-ECG (électrocardiographe) – Cardiac Workstation 5000, Cardiac Workstation 7000 – Philips
-27/07/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Dispositif Med-Stop inclus dans les kits de bocaux d&#039;aspiration Soft Liner – Medline
-27/07/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Bactériologie – Réactif Neisseria meningitidis Gp C 2ml/VL – Remel
-27/07/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Hémostase – Réactif Staclot Protein S – Diagnostica Stago
-27/07/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Cathéter d&#039;ablation par électroporation (rythmologie) – Affera Sphere-360 – Medtronic
-27/07/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Système de fixation externe – Barre à coulisse Hoffmann II Micro – Stryker
-27/07/2026
+Movicol, poudre pour solution buvable en sachet – Laboratoire Norgine SAS
+29/07/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux de diagnostic in vitro
-Gazométrie – Cobas b 123 Sensor Cartridge – Roche Diagnostics
-27/07/2026
+Automates DxC 500 AU Clinical Chemistry Analyzers, DxC 500i Clinical Analyzer – Beckman Coulter
+29/07/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Virologie – Réactif Elecsys HBsAg II quant II – Roche Diagnostics
+29/07/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Set de perfusion – Sets d&#039;administration IV par gravité – ICU Medical Inc
-27/07/2026
+Rampe de robinet pour ligne de perfusion – Kit de Perfusion, Référence RPK4009A – Cair LGL
+29/07/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Ventilateur de réanimation – Module capteur en Y - Servo-u/n/u MR – Maquet Critical Care AB / Getinge
-27/07/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-LAP : logiciel d&#039;aide à la prescription – Orbis Medication – DH Healthcare GmbH
+Gynecare TVT Exact – Ethicon / Caldera Medical
+29/07/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Biochimie – Réactif Atellica CH Albumine urinaire (UAlb) – Siemens Healthcare Diagnostics Inc
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire

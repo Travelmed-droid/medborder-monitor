@@ -75,6 +75,15 @@ Schliessen
 Visible
 Aktuelles
 Alle Updates anzeigen
+01.08.2026
+Anpassung der Fragen und Antworten und der Wegleitung zu Mobilen Technologien
+Swissmedic hat die Wegleitung mobile Technologien sowie die Fragen und Antworten zu Mobilen Technologien &uuml;berarbeitet und die Anforderungen an die Verwendung von QR-Codes auf Arzneimittelpackungen pr&auml;zisiert
+01.08.2026
+Aktualisierung des Merkblattes Guidance for Industry on the electronic exchange of ICSRs in E2B(R3) format through B2B gateway
+Die Anpassungen ber&uuml;cksichtigen die abgeschlossene Umstellung des Meldeprozesses &uuml;ber das Gateway von E2B(R2) auf E2B(R3) sowie die Vorgaben des GVP Module VI Addendum II
+01.08.2026
+Anpassung der Wegleitung RMP ICH E2E Informationen Einreichung HAM
+Neue Rahmenbedingungen f&uuml;r die zentrale elektronische Publikation von beh&ouml;rdlich angeordneten Informationsmaterialien
 27.07.2026
 DHPC &ndash; Mounjaro KwikPen (tirzepatidum)
 Notwendigkeit sachgem&auml;sse Verwendung
@@ -90,15 +99,6 @@ Befristete Bewilligung zum Vertrieb in deutscher Aufmachung
 17.07.2026
 Checkliste f&uuml;r eine Inspektion der Materiovigilance in Spit&auml;lern
 Diese Checkliste dient Swissmedic als Hilfsmittel im Rahmen ihrer Inspektionst&auml;tigkeit in Spit&auml;lern und kann von den Gesundheitseinrichtungen zur Durchf&uuml;hrung von L&uuml;ckenanalysen hinsichtlich der Anforderungen der GPMV-Spital verwendet werden
-16.07.2026
-EU: Neue GMP-Durchf&uuml;hrungsverordnungen f&uuml;r Tierarzneimittel
-Information zur Implementierung in der Schweiz
-15.07.2026
-DHPC &ndash; Primovist 0.25 mmol/ml (dinatrii gadoxetas)
-Zus&auml;tzliche visuelle Kontrolle
-14.07.2026
-DHPC &ndash; Fungizone, Injektionspr&auml;parat (i.v.) (amphotericinum B)
-Verz&ouml;gerte Implementierung der zuletzt genehmigten Packungsbeilage (Stand Februar 2025) mit neuem Warnhinweis zu Hyperkali&auml;mie
 Im Fokus
 Fillerbehandlungen
 Das Video zeigt die Risiken von unsachgemässen Filler-Behandlungen auf und macht deutlich, wie diese reduziert werden können.

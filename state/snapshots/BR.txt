@@ -56,6 +56,7 @@ Orientações para setor regulado
 Controle sanitário de alimentos
 Controle de Alimentos
 Contaminantes em alimentos
+Acrilamida em alimentos
 Cosméticos
 Conceitos e definições
 Orientações sobre alisantes
@@ -151,7 +152,7 @@ Fiscalização
 Legislação vigente
 Postos da Anvisa nos estados
 Publicações
-Produtos para saúde
+Dispositivos Médicos
 Conceitos e definições
 Consulta de produtos regularizados
 Produtos para diagnóstico in vitro de COVID-19
@@ -267,6 +268,7 @@ Receitas e Despesas
 Licitações e Contratos
 Servidores
 Informações Classificadas
+Serviço de Informação ao Cidadão - SIC
 Perguntas Frequentes
 Administrativo
 Agrotóxicos
@@ -408,8 +410,6 @@ Produtos Fronteira
 Serviços (Sistemas)
 Solicitação de vistas e cópias de processo, petição ou documento
 Serviços (Sistemas)
-Notifique problemas com produtos e serviços
-Sistema de Identificação Única de Dispositivo (SIUD)
 GOV.BR
 Serviços
 Buscar serviços por
@@ -505,10 +505,13 @@ Consultar restituição do imposto de renda
 5
 Consultar dados do Cadastro Único
 6
-Novo Desenrola Brasil - Famílias
+Consultar CPF
 Serviços em destaque do govbr
 Outros
 Tela Brasil
+Vida Financeira
+Novo
+Renegociação de Dívidas - Famílias
 Crimes
 Celular Seguro
 Assistência Direta
@@ -519,23 +522,23 @@ Fechar
 Fechar
 Fechar
 Info
-SANGUE
-Ministério da Saúde atualiza procedimentos hemoterápicos e Anvisa orienta período de transição
-Nova Portaria entra em vigor em 30 de setembro de 2026. Nota técnica orienta as Vigilâncias Sanitárias e os Serviços de Hemoterapia durante o processo de adequação regulatória.
 REGISTRO
-Anvisa aprova novo medicamento para linfoma não Hodgkin
-Produto biológico é indicado para pacientes adultos recidivantes ou inelegíveis ao transplante autólogo de células-tronco
+Anvisa registra cinco novas canetas de semaglutida
+Medicamentos ampliam opções para tratar diabetes e somam o maior volume de aprovações de agonistas de GLP-1 já concedidas pela vigilância sanitária
+FISCALIZAÇÃO
+Anvisa determina apreensão de lote falsificado do suplemento Omegafor Plus
+Produto estava sendo vendido em marketplace
 CHECAGEM DE FATOS
 Encontre informações oficiais para esclarecer boatos e notícias falsas sobre vigilância sanitária
-REGULAÇÃO
-Estratégia Nacional do Complexo Econômico-Industrial da Saúde é sancionada
-Responsável por regular setores que representam 23% do PIB nacional, Anvisa tem papel estratégico no fortalecimento da produção nacional e no fomento à inovação
-NOTA À IMPRENSA
-Sobre a fiscalização de farmácias de manipulação estéreis
-Não houve diminuição das inspeções e o 1° semestre de 2026 registrou recorde de operações
 FISCALIZAÇÃO
-Anvisa proíbe venda de medicamentos sem registro sanitário
-Medida foi publicada no Diário Oficial da União nesta sexta-feira (17/7)
+Repelentes de inseto são proibidos pela Anvisa
+Produtos das marcas Above e Repellere foram reprovados em ensaio que mede taxas de princípio ativo
+EAD
+Anvisa lança curso sobre regulação sanitária de suplementos alimentares
+Capacitação de 30 horas oferece abordagem teórica e prática sobre interpretação e aplicação das normas regulatórias para profissionais do SNVS e do setor regulado
+REGISTRO
+Anvisa aprova medicamento para hipertensão pulmonar
+Novo produto é indicado para melhorar a capacidade de exercício em pacientes adultos
 Mais notícias
 Serviços em destaque
 Outras Autorizações, Certificados e Informações
@@ -607,6 +610,7 @@ Orientações para setor regulado
 Controle sanitário de alimentos
 Controle de Alimentos
 Contaminantes em alimentos
+Acrilamida em alimentos
 Cosméticos
 Conceitos e definições
 Orientações sobre alisantes
@@ -702,7 +706,7 @@ Fiscalização
 Legislação vigente
 Postos da Anvisa nos estados
 Publicações
-Produtos para saúde
+Dispositivos Médicos
 Conceitos e definições
 Consulta de produtos regularizados
 Produtos para diagnóstico in vitro de COVID-19
@@ -818,6 +822,7 @@ Receitas e Despesas
 Licitações e Contratos
 Servidores
 Informações Classificadas
+Serviço de Informação ao Cidadão - SIC
 Perguntas Frequentes
 Administrativo
 Agrotóxicos
@@ -959,8 +964,6 @@ Produtos Fronteira
 Serviços (Sistemas)
 Solicitação de vistas e cópias de processo, petição ou documento
 Serviços (Sistemas)
-Notifique problemas com produtos e serviços
-Sistema de Identificação Única de Dispositivo (SIUD)
 -->
 Redefinir Cookies
 Redes sociais

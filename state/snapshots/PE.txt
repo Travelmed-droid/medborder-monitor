@@ -200,6 +200,8 @@ Observatorio de Precios
 Repositorio Institucional
 Revista Ciencia, Política y Regulación Farmacéutica
 Preguntas Frecuentes
+Especialistas de la Digemid fortalecen vigilancia internacional con inspecciones a laboratorios farmacéuticos en China, India y Bangladesh
+Con el objetivo de fortalecer el control sanitario de los medicamentos importados y garantizar que estos cumplan con los más altos estándares internacionales de calidad, seguridad y eficacia, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), viene ejecutando un programa de inspecciones internacionales en laboratorios farmacéuticos ubicados en China, India y Bangladesh.
 Digemid fortalece cumplimiento de las Buenas Prácticas de Manufactura para garantizar productos y medicamentos seguros y de calidad
 Con el propósito de fortalecer el cumplimiento de las Buenas Prácticas de Manufactura (BPM) y consolidar un sistema regulatorio cada vez más eficiente, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), realizó la Reunión Técnica «Buenas Prácticas de Manufactura para Laboratorios Nacionales 2026», dirigida a los laboratorios fabricantes de productos farmacéuticos, dispositivos médicos y productos sanitarios del país.
 Digemid fortalece la lucha contra la medicina bamba con gran feria informativa en el Mercado Central
@@ -208,8 +210,6 @@ Digemid fortalece acciones para prevenir los riesgos de la publicidad engañosa 
 Con el objetivo de fortalecer la educación sanitaria y proteger a la población frente a los riesgos asociados a la publicidad engañosa de medicamentos, la Dirección General de Medicamentos, Insumos y Drogas (Digemid) del Ministerio de Salud desarrolló una jornada informativa dirigida a adultos mayores del distrito de San Miguel. La actividad promovió el uso seguro y responsable de los medicamentos y brindó herramientas para tomar decisiones informadas al momento de adquirir productos para la salud.
 Digemid fortalece la cooperación regulatoria regional para fortalecer el acceso a productos seguros, eficaces y de calidad en América Latina
 La Dirección General de Medicamentos, Insumos y Drogas (Digemid) del Ministerio de Salud participó en la Reunión de Autoridades Sanitarias de América Latina, realizada en Buenos Aires, Argentina, con el objetivo de fortalecer la cooperación regulatoria, promover la convergencia de estándares sanitarios e impulsar acciones conjuntas que contribuyan a garantizar el acceso de la población a productos farmacéuticos, dispositivos médicos y productos sanitarios seguros, eficaces y de calidad.
-Digemid impulsa la “Semana por el Uso Racional de Medicamentos” para promover su uso seguro y responsable
-Con el propósito de fortalecer una cultura de uso seguro, responsable y racional de los medicamentos, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid) realizará mañana 3 de julio una feria informativa dirigida a la población en general, en la cuadra 6 del jirón Ucayali, Cercado de Lima (Mercado Central) y donde los especialistas del sector brindarán orientación sobre los riesgos de la automedicación, el uso responsable de antimicrobianos y la prevención del comercio ilegal de medicamentos.
 Comunicados Oficiales
 Comunicados Principales emitidos por la Dirección General de Medicamentos Insumos y Drogas
 Comunicados
@@ -257,6 +257,14 @@ Medidas de Seguridad y Sanciones
 Sanciones administrativas por infracciones a la Ley de los Productos Farmacéuticos, Dispositivos Médicos y Productos Sanitarios
 Alertas
 Alertas sobre Productos Farmacéuticos y Dispositivos Médicos emitidas por la DIGEMID
+Alertas, Alertas y Modificaciones, Control de Calidad
+ALERTA DIGEMID Nº 83-2026
+AMINOFILINA
+31/07/2026
+Alertas, Alertas y Modificaciones, Seguridad
+ALERTA DIGEMID Nº 82-2026
+SUNITINIB
+31/07/2026
 Alertas, Alertas y Modificaciones, Internacionales
 ALERTA INTERNACIONAL JULIO &#8211; 2026
 ALERTA INTERNACIONAL JULIO - 2026
@@ -273,14 +281,6 @@ Alertas, Alertas y Modificaciones, Control de Calidad
 ALERTA DIGEMID Nº 79-2026
 PANTOPRAZOL
 17/07/2026
-Alertas, Alertas y Modificaciones, Seguridad
-ALERTA DIGEMID Nº 78-2026
-ANTICOAGULANTES ORALES DIRECTOS (APIXABÁN, RIVAROXABÁN Y DABIGATRÁN)
-17/07/2026
-Alertas, Alertas y Modificaciones, Seguridad
-ALERTA DIGEMID Nº 77-2026
-detergentes enzimáticos
-10/07/2026
 Sitios de Interés
 Puede consultar las páginas de interés relacionadas
 Normas Legales

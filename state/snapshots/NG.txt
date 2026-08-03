@@ -14,6 +14,10 @@ Quick updates
 ** Customer Service Lines: For Enquiries call 0700-1-NAFDAC (0700-1-623322), For Complaints call 0800-1-NAFDAC (0800-1-623322)
 ** Customer Service Lines: For Enquiries call 0700-1-NAFDAC (0700-1-623322), For Complaints call 0800-1-NAFDAC (0800-1-623322)
 ** Customer Service Lines: For Enquiries call 0700-1-NAFDAC (0700-1-623322), For Complaints call 0800-1-NAFDAC (0800-1-623322)
+Events
+,
+Home Featured
+NAFDAC joins the Federal Ministry of Health and Social Welfare, nutrition partners, and the global community in celebrating World Breastfeeding Week 2026
 Drug Spotlight
 ,
 Home Featured
@@ -38,10 +42,6 @@ Food Spotlight
 ,
 Home Featured
 Ready-To-Use Therapeutic Food (RUTF)
-Home Featured
-,
-Vaccine Publications
-Vaccine Types And Benefits: What You Need To Know
 Products We Regulate
 Drugs
 Food
@@ -75,14 +75,14 @@ September 28, 2025
 Launch of the Implementation of Strategy and Roadmap for Trans-fatty&hellip;
 Read More Speeches
 Edit Content
+August 1, 2026
+NAFDAC joins the Federal Ministry of Health and Social Welfare, nutrition partners, and the global community in celebrating World Breastfeeding Week 2026
 August 1, 2025
 NAFDAC joins the Federal Ministry of Health and Social Welfare, nutrition partners, and the rest of the world in celebrating World Breastfeeding Week 2025
 June 1, 2025
 World Food Safety Day (WFSD) 2025
 May 6, 2025
 International Council for Harmonization (ICH) E6(R3) Good Clinical Practice Training
-October 11, 2024
-International Council for Harmonization (ICH) Q1 Stability Guideline Workshop
 Read More Events
 Edit Content
 Peer Reviewed Publications:
@@ -120,8 +120,9 @@ Elemuwa, U. G., Bitrus, F., Oreagba, I. A., Osakwe, A. I., Abiodun, A. S., Onu, 
 Trends in Adverse Event Reporting Before and After the Introduction of the Med Safety App in Nigeria.
 Pharmaceutical Medicine
 , 1-9.
-Recalls and Safety Alerts
-These are recalls and safety alerts released by NAFDAC. The alert notices and safety communications contain safety measures to be taken and information that may impact both treatment and diagnostic choices for healthcare providers and patients.
+Public Alerts
+Field Safety Notices(FSNs)
+Edit Content
 July 18, 2026
 Public Alert No. 037/2026 &#8211; Alert on Suspected Counterfeit Pulmicort® (Budesonide) Inhalation Suspension
 July 18, 2026
@@ -130,6 +131,11 @@ July 18, 2026
 Public Alert No. 035/2026 – Alert on the Marketing and Sale of Unregistered Menofix Composition
 July 12, 2026
 Public Alert No. 034/2026 &#8211; Niger Republic Imposes Import Ban on Bulmex Parboiled Rice from India due to Metallic Contamination
+See More
+Edit Content
+Field Safety Alerts
+Dossier Response to NAFDAC Rewview of Field Safety Notice on Afrijet 2ML and 3ML Disposable Syringes
+Urgent Field Safety Notice-Kiss Condoms
 See More
 Blacklist of Companies
 The Blacklist of Companies page provides an official and regularly updated record of companies that have been identified by NAFDAC as non‑compliant with regulatory standards. It highlights organizations that have engaged in serious or repeated violations, including poor manufacturing practices, submission of falsified documents, quality defects, and breaches of importation or licensing requirements.
@@ -202,6 +208,7 @@ Clinical Trial Database
 Foreign GMP Inspections
 Registered Products Database
 Inspection Classification Database
+Report Adverse Events Associated With the use of Medical Devices & IVDs
 Edit Content
 Meet the Director General.
 Prof Moji Adeyeye is the Director General of National Agency for Food and Drug Administration and Control (NAFDAC) where she has added strong governance structure, regulatory system strengthening, and strengthening of the local pharmaceutical companies through international best practices with emphasis on local manufacturing.
@@ -279,11 +286,13 @@ Micro, Small, &#038; Medium Enterprises (MSME)
 Bioequivalence
 For Consumers
 Recalls and Safety Alerts
+Field Safety Alerts
 Consumer Satisfaction Survey
 Report Adverse Drug Reactions
 NAFDAC Electronic Clinical Trial Application Platform
 Report Substandard/Falsified Medicines
 Recalls and Safety Alerts
+Field Safety Alerts
 Consumer Satisfaction Survey
 Report Adverse Drug Reactions
 NAFDAC Electronic Clinical Trial Application Platform
