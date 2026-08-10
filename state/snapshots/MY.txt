@@ -149,8 +149,6 @@ images/2026/banner/ADR-AEFI-Google-Form-web-banner-1750--400-px-ENG_1.png
 Click Here
 images/2026/banner/Annexes_1750400.png
 Click Here
-images/2026/banner/MADRAC-Bulletin--Misc-web-banner-1750--400-px-1.png
-Click Here
 images/2026/banner/Hebahan_1750400.png
 MORE
 Direktif
@@ -160,7 +158,10 @@ MORE
 images/2026/banner/THMS_1.png
 Click Here
 images/2026/banner/Kaji_1.png
-images/2026/banner/Maintenance_31_july.png
+images/2026/banner/LR-2027-Desktop-1750-x-400-px_1.jpg
+MORE
+images/2026/banner/MADRAC-Vol_61_1750--400-px_1.png
+MORE
 MedSafetyWeek-2025-mobile-banner-600-x-600-px.png
 E-labelling_.jpg
 images/2026/banner/Untitled_design_mobile_2png.png
@@ -175,8 +176,6 @@ images/2026/banner/ADR-AEFI-Google-Form-mobile-banner-600-x-600-px.png
 Click Here
 images/2026/banner/Annexes_mobile.png
 Click Here
-images/2026/banner/MADRAC-Bulletin-mobile-banner-600-x-600-px-1.png
-Click Here
 images/2026/banner/Hebahan_600x600.png
 web
 direktif
@@ -186,7 +185,10 @@ MORE
 images/2026/banner/THMS_6.png
 Click Here
 images/2026/banner/Kaji_600x600.png
-images/2026/banner/31_july_maint.png
+images/2026/banner/LR-2027-Mobile-600-x-600-px.jpg
+MORE
+images/2026/banner/MADRAC-Vol_61_600-x-600-px.png
+MORE
 Consumers
 ConSERF, AEFI Reporting, RiMUP, Product Cancellation & etc
 Health Professionals
@@ -301,7 +303,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Monday 03 August 2026, 11:16:45.
+Last Modified: Monday 10 August 2026, 10:53:39.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -447,4 +449,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 3 Aug 2026
+Monday, 10 Aug 2026

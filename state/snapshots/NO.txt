@@ -690,12 +690,12 @@ Legemidler
 Medisinsk utstyr
 Byttelisten
 Godkjenningsfritak
-Helvetesild-vaksine: Bedre tilgang p&#xE5; Shingrix
-Legemiddelmangel: Nye meldeskjemaer
+Hormonplaster og -spray - slik et forsyningssituasjonen
 Legemiddelmangel - oversikt, r&#xE5;d og tiltak
 Maksimalpris p&#xE5; legemidler
 Melde bivirkninger
 Metodevurderinger - oversikt over rapporter
+Wegovy i tablettform
 Veiledning og regelverk
 Utvikling og produksjon
 Omsetning
@@ -709,6 +709,12 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
+Oppdaterte anbefalinger for bruk av &#x25BC;Litfulo
+Publisert:
+10.08.2026
+Liten &#xF8;kt risiko for meningeom med hormonell prevensjon
+Publisert:
+06.08.2026
 Markedsf&#xF8;ringstillatelsen til &#x25BC;Tavneos anbefales tilbakekalt
 Publisert:
 16.07.2026
@@ -724,12 +730,6 @@ Oppdatert:
 H&#xF8;ring &#x2013; forslag til gjennomf&#xF8;ring av EU-forordning 2026/857 og endring av forskrift om legemidler til dyr
 Publisert:
 03.07.2026
-Forskriftsendring for bl&#xE5;reseptsaker &#x2013; DMP kan behandle flere refusjonssaker
-Publisert:
-01.07.2026
-Raskere tilgang er et lagarbeid, industrien kan ogs&#xE5; bidra
-Publisert:
-29.06.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook

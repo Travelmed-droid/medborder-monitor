@@ -209,14 +209,14 @@ My Alerts
 Make a Submission
 Report an Issue
 Welcome to the Health Products Regulatory Authority
-Check our safety advice for buying teeth whitening products
-Press release
+Find our guide and fee application form for human products
+Fees
 Report an issue for medicines, medical devices and other health products
 hpra.ie/report
 Sign up to My Alerts to receive regulatory and safety updates
 Sign up
-Stay informed about medicine shortages
-Medicine shortages&#160;
+Giving patients a voice in the regulation of medicines and medical devices
+Patient Forum
 Find an authorised medicine
 Medicines for human use
 Medicines for animal use
@@ -240,21 +240,21 @@ Online prescription medicines
 When you buy prescription medicines online, you could be risking your money and your health. Read our advice for consumers.
 Learn more
 Featured regulatory resources
-Guide to fees for human products
+Guide for national scientific and regulatory advice
 View tracked changes
-16/01/2026
+18/02/2026
 PDF
-375 KB
-Guide to batch specific requests for veterinary medicines
+210 KB
+Guide to reporting and investigation of quality defects in human and veterinary medicinal products
 View tracked changes
-22/10/2024
+20/07/2025
 PDF
-217 KB
-Guide to performance studies conducted in Ireland
+277 KB
+Guide to clinical investigations carried out in Ireland
 View tracked changes
-14/06/2022
+16/05/2024
 PDF
-179 KB
+187 KB
 Explore what we do
 Clinical Trials Regulation
 Improving the safety, efficiency and transparency of clinical trials in Europe
@@ -269,16 +269,16 @@ Safety notices
 View all
 Medicines for human use
 Direct healthcare professional communication (DHPC)
-IXCHIQ (Chikungunya vaccine (live)): Use restricted to individuals at high risk of acquiring chikungunya infection
-30/07/26
+Litfulo (ritlecitinib): Updated recommendations to minimise the risks of major adverse cardiovascular events, malignancy, venous thromboembolism, serious infections, and mortality
+10/08/26
 Medicines for human use
 Direct healthcare professional communication (DHPC)
-Tavneos – EMA recommends revocation of marketing authorisation in the EU
-16/07/26
-Cosmetics
-Safety update
-Cosmetic Safety Gate alerts impacting the Irish market - June 2026
-15/07/26
+Desogestrel and etonogestrel containing medicinal products: risk of meningioma and measures to minimise the risk
+06/08/26
+Medicines for human use
+Direct healthcare professional communication (DHPC)
+IXCHIQ (Chikungunya vaccine (live)): Use restricted to individuals at high risk of acquiring chikungunya infection
+30/07/26
 News
 View all
 Regulatory news - Controlled drugs

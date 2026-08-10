@@ -1,299 +1,300 @@
 {
   "countries": {
     "US": {
-      "last_checked": "2026-08-03 19:06 UTC",
+      "last_checked": "2026-08-10 16:10 UTC",
       "fetch_error": "HTTP 404"
     },
     "CA": {
-      "last_checked": "2026-08-03 19:06 UTC",
+      "last_checked": "2026-08-10 16:10 UTC",
       "last_hash": "a7819789de9861669fd182d2ceb51ec64fdc68734951fa666b95d124fe03b26b",
       "fetch_error": null
     },
     "GB": {
-      "last_checked": "2026-08-03 19:06 UTC",
+      "last_checked": "2026-08-10 16:11 UTC",
       "last_hash": "2b00ece3c76ee542aaf16c832e3235dac3ae13c8a6a1d350cdd18bcc0b583c85",
       "fetch_error": null
     },
     "JP": {
-      "last_checked": "2026-08-03 19:06 UTC",
+      "last_checked": "2026-08-10 16:11 UTC",
       "fetch_error": "HTTP 404"
     },
     "AU": {
-      "last_checked": "2026-08-03 19:06 UTC",
+      "last_checked": "2026-08-10 16:11 UTC",
       "fetch_error": "ReadTimeout: HTTPSConnectionPool(host='www.tga.gov.au', port=443): Read timed out. (read timeout=30)"
     },
     "SG": {
-      "last_checked": "2026-08-03 19:06 UTC",
+      "last_checked": "2026-08-10 16:11 UTC",
       "fetch_error": "HTTP 404"
     },
     "AE": {
-      "last_checked": "2026-08-03 19:07 UTC",
+      "last_checked": "2026-08-10 16:11 UTC",
       "fetch_error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     "DE": {
-      "last_checked": "2026-08-03 19:07 UTC",
-      "last_hash": "a10d8e6316919f0c385b4ed89e4331a58970c41f3ecc494c95f8fa7f5c1f8f23",
+      "last_checked": "2026-08-10 16:12 UTC",
+      "last_hash": "8365f380e9023d05a28a57e37135449311d807aa53398dab0718466df0ec3da0",
       "fetch_error": null
     },
     "FR": {
-      "last_checked": "2026-08-03 19:07 UTC",
-      "last_hash": "091adcc3d563de9528fd38a9aea0413884f79a8d1d76bbe3e8303be7eb4c5d92",
+      "last_checked": "2026-08-10 16:12 UTC",
+      "last_hash": "d85c8744030f8ba8f4ccb98a4492a7027679a3f11da9a3f166021b2c308f1d1a",
       "fetch_error": null
     },
     "TH": {
-      "last_checked": "2026-08-03 19:07 UTC",
+      "last_checked": "2026-08-10 16:12 UTC",
       "fetch_error": "page returned too little text (possibly JS-rendered or blocked)"
     },
     "IN": {
-      "last_checked": "2026-08-03 19:07 UTC",
+      "last_checked": "2026-08-10 16:12 UTC",
       "fetch_error": "page returned too little text (possibly JS-rendered or blocked)"
     },
     "MX": {
-      "last_checked": "2026-08-03 19:07 UTC",
+      "last_checked": "2026-08-10 16:12 UTC",
       "fetch_error": "page returned too little text (possibly JS-rendered or blocked)"
     },
     "BR": {
-      "last_checked": "2026-08-03 19:07 UTC",
-      "last_hash": "78166eaafad4dac5798effdcc01c2cf804fc1846388c0e4df67125db36ac485e",
+      "last_checked": "2026-08-10 16:12 UTC",
+      "last_hash": "34b1aad3506b0804ccaa42ce43c49979cc98ffeed6d449d63c0fc47edd0f5dc0",
       "fetch_error": null
     },
     "ZA": {
-      "last_checked": "2026-08-03 19:07 UTC",
+      "last_checked": "2026-08-10 16:12 UTC",
       "last_hash": "6ba3f6e8c68c452c531998a12ced64cb914298073765803cfd9f1cec2f3b8592",
       "fetch_error": null
     },
     "ID": {
-      "last_checked": "2026-08-03 19:07 UTC",
+      "last_checked": "2026-08-10 16:12 UTC",
       "fetch_error": "SSLError: HTTPSConnectionPool(host='www.pom.go.id', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     "PH": {
-      "last_checked": "2026-08-03 19:07 UTC",
+      "last_checked": "2026-08-10 16:12 UTC",
       "fetch_error": "HTTP 403"
     },
     "CN": {
-      "last_checked": "2026-08-03 19:07 UTC",
+      "last_checked": "2026-08-10 16:12 UTC",
       "fetch_error": "HTTP 412"
     },
     "ES": {
-      "last_checked": "2026-08-03 19:07 UTC",
-      "last_hash": "c3417f881f7ac28601018f9b8a45d688b637e1a2015d97cfb5fd3ff7d89a85ce",
+      "last_checked": "2026-08-10 16:12 UTC",
+      "last_hash": "d9b21922a1f8cc4ec07c65ef8a1358680c793d7ec34300f23c4cb7475538325a",
       "fetch_error": null
     },
     "IT": {
-      "last_checked": "2026-08-03 19:07 UTC",
-      "fetch_error": "SSLError: HTTPSConnectionPool(host='www.aifa.gov.it', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
+      "last_checked": "2026-08-10 16:12 UTC",
+      "fetch_error": null,
+      "last_hash": "7c7369621d2a70b4b3fe98144813092298002e497760cf44144a2ced85537d35"
     },
     "PT": {
-      "last_checked": "2026-08-03 19:08 UTC",
-      "last_hash": "12a350ae753e0f5469c71ba0e228e3010c0ae9ae8b10a3d1e51398e18f20292c",
+      "last_checked": "2026-08-10 16:12 UTC",
+      "last_hash": "c769116dd096721b62f54c44f03dc3b0c9401e2f269bcc8abc3616c97d52faae",
       "fetch_error": null
     },
     "GR": {
-      "last_checked": "2026-08-03 19:08 UTC",
-      "last_hash": "f2c5390eaafae1e42d9b70c0720c4b312b9a1cefbd459ba571ec5ffbbc97029c",
+      "last_checked": "2026-08-10 16:13 UTC",
+      "last_hash": "5c37bb0040f2319767817bd5ee38a1f2953892a7de606e571d9e05302cf84379",
       "fetch_error": null
     },
     "NL": {
-      "last_checked": "2026-08-03 19:08 UTC",
+      "last_checked": "2026-08-10 16:13 UTC",
       "fetch_error": null,
       "last_hash": "1de696fc0e04b5a4b1efc71d83ac86f077c4eae737f69997219d080bf3f11a0d"
     },
     "AT": {
-      "last_checked": "2026-08-03 19:08 UTC",
-      "last_hash": "1ddf2d451cea8b403c0f746777a5010a41a93b86ba91a15861414af036ae034a",
+      "last_checked": "2026-08-10 16:13 UTC",
+      "last_hash": "1d9aea8592f36093ee6b483e48ceedf54c7e5c151eb572209c4842cc58a9fde4",
       "fetch_error": null
     },
     "CH": {
-      "last_checked": "2026-08-03 19:08 UTC",
-      "last_hash": "9bc2ec8c97f347a913ba13e74ac64c1af35bf16a0e498001cbe2a1b45f1601a4",
+      "last_checked": "2026-08-10 16:13 UTC",
+      "last_hash": "26bdb0143c341fa06fec18f933e359ed433c0445d3f63e0e3795a445dddbbdab",
       "fetch_error": null
     },
     "BE": {
-      "last_checked": "2026-08-03 19:08 UTC",
-      "last_hash": "cde49827980809321d44955fce50373f7aa63fa6e97be5cbe4d6d29ba5d57246",
+      "last_checked": "2026-08-10 16:13 UTC",
+      "last_hash": "74d391eb41af802af28faa0f23fe42582b6badbaacf2421382cdf43a74971840",
       "fetch_error": null
     },
     "IE": {
-      "last_checked": "2026-08-03 19:08 UTC",
-      "last_hash": "eb3379875672710d4d723c0869d467d10af1535b7b9390a477dc9670abc5323b",
+      "last_checked": "2026-08-10 16:13 UTC",
+      "last_hash": "5f741373dc00bb16d786bd668c350166848a1266c466cc7a91c490294e52ffaf",
       "fetch_error": null
     },
     "SE": {
-      "last_checked": "2026-08-03 19:08 UTC",
+      "last_checked": "2026-08-10 16:13 UTC",
       "fetch_error": "page returned too little text (possibly JS-rendered or blocked)"
     },
     "NO": {
-      "last_checked": "2026-08-03 19:08 UTC",
-      "last_hash": "90a2e1e8198be7034aa6a58cf83c14fc70badadf54804cd6bb1e38a0b44188cb",
+      "last_checked": "2026-08-10 16:13 UTC",
+      "last_hash": "879d5d68646405b06c57b9df25807843f64d257d4503f31423ab4d92508a40bf",
       "fetch_error": null
     },
     "DK": {
-      "last_checked": "2026-08-03 19:08 UTC",
+      "last_checked": "2026-08-10 16:13 UTC",
       "last_hash": "5cb3adf4bf9f2f3494e56eebad9897a7f4cb9a2b15db654b151f3692ad065584",
       "fetch_error": null
     },
     "PL": {
-      "last_checked": "2026-08-03 19:08 UTC",
+      "last_checked": "2026-08-10 16:13 UTC",
       "fetch_error": "page returned too little text (possibly JS-rendered or blocked)"
     },
     "CZ": {
-      "last_checked": "2026-08-03 19:08 UTC",
-      "last_hash": "021cba47d19d308bac648daecde382a4ffd8ca9858ea1df4cc2ad7ee304be1e8",
+      "last_checked": "2026-08-10 16:13 UTC",
+      "last_hash": "f8f28b8316d0a0c3e76bbcc0a92f420879f6aa6c0a7924f800cabc7d5cedacc6",
       "fetch_error": null
     },
     "HR": {
-      "last_checked": "2026-08-03 19:09 UTC",
-      "last_hash": "cc4eb64bf0f13cfb70182744cc0b1a198e6062f030d81b18759f945ac8efff17",
+      "last_checked": "2026-08-10 16:13 UTC",
+      "last_hash": "77a86c4712343e47c7dd3b71aa84c53b69e412833219e6f772187c96be6cf579",
       "fetch_error": null
     },
     "HU": {
-      "last_checked": "2026-08-03 19:09 UTC",
+      "last_checked": "2026-08-10 16:14 UTC",
       "last_hash": "602ff249a1e52718a8009aebdfcac98fe33cd1e08c0dc765a2ded930e0e6be58",
-      "fetch_error": null
+      "fetch_error": "SSLError: HTTPSConnectionPool(host='ogyei.gov.hu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     "TR": {
-      "last_checked": "2026-08-03 19:09 UTC",
-      "last_hash": "dae18c221527a24be123a4f4a0cdf9fcf9eeaca8b4e2f370b88d1b1f7514fd9f",
+      "last_checked": "2026-08-10 16:14 UTC",
+      "last_hash": "3c6c1a02540496859b5c0c957fd0797653798577c6dda3d6f1a4f0bd84a66139",
       "fetch_error": null
     },
     "CR": {
-      "last_checked": "2026-08-03 19:09 UTC",
-      "last_hash": "9996c9158440353e41e1195faf321a1041ee66486262b2aab7224f0cf66fdb71",
+      "last_checked": "2026-08-10 16:14 UTC",
+      "last_hash": "ce35ab7babf5492026cbff823948761a2f96324360ad49704ed461d8f943e63a",
       "fetch_error": null
     },
     "PA": {
-      "last_checked": "2026-08-03 19:09 UTC",
-      "last_hash": "f5848cc96e9f9da55f0ee7acea4cc072a0d9fbd363433475820fe83f8479dcbb",
+      "last_checked": "2026-08-10 16:14 UTC",
+      "last_hash": "bc88376534865364b57374b7db0ef0e0d8a3de22eaa3ee03f63f6ff14b652066",
       "fetch_error": null
     },
     "GT": {
-      "last_checked": "2026-08-03 19:09 UTC",
+      "last_checked": "2026-08-10 16:14 UTC",
       "fetch_error": "HTTP 403"
     },
     "DO": {
-      "last_checked": "2026-08-03 19:09 UTC",
+      "last_checked": "2026-08-10 16:14 UTC",
       "fetch_error": "page returned too little text (possibly JS-rendered or blocked)"
     },
     "CO": {
-      "last_checked": "2026-08-03 19:09 UTC",
-      "last_hash": "0ae7c79a1c60dec11aa999f830c80ab875dac12fa493ad983b64a4d37b7a9f84",
+      "last_checked": "2026-08-10 16:14 UTC",
+      "last_hash": "206443f15fc6fa7a231fe660ae3ae1ac6d81260df9e3a596c955b67ad32fd4ee",
       "fetch_error": null
     },
     "PE": {
-      "last_checked": "2026-08-03 19:09 UTC",
-      "last_hash": "e05683502f8c5320bcabb3f9ae86afe05abee4cf881ddfbfaeceb63a805d3c4b",
+      "last_checked": "2026-08-10 16:14 UTC",
+      "last_hash": "241a688a2c14d16f2275a3b8e59b08aab9c65b482733ec3e601a0179027af0d9",
       "fetch_error": null
     },
     "CL": {
-      "last_checked": "2026-08-03 19:09 UTC",
+      "last_checked": "2026-08-10 16:14 UTC",
       "fetch_error": "SSLError: HTTPSConnectionPool(host='www.ispch.gob.cl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     "AR": {
-      "last_checked": "2026-08-03 19:09 UTC",
-      "last_hash": "338afac884579573f8033976539fa760b3ccba1839ae45318c9cc4c2fe3993f3",
+      "last_checked": "2026-08-10 16:14 UTC",
+      "last_hash": "986cb857de38732af0e6422d7236a0998fb177ee69b7fbcfa0dc8dd254109e9f",
       "fetch_error": null
     },
     "EC": {
-      "last_checked": "2026-08-03 19:09 UTC",
+      "last_checked": "2026-08-10 16:14 UTC",
       "last_hash": "27873f2a82edf2aace816c36fca5d1dc3effb791e76e859b311d11e89fd0a02a",
       "fetch_error": null
     },
     "UY": {
-      "last_checked": "2026-08-03 19:09 UTC",
-      "last_hash": "c966afa468dec6c3b9a1bca6eb0acc12db2f0e78f6e7860455e59ac00cd7227a",
+      "last_checked": "2026-08-10 16:14 UTC",
+      "last_hash": "0c949d4580f352d187bf60caaf972a763500226f7fd719f792616671bd78724f",
       "fetch_error": null
     },
     "KR": {
-      "last_checked": "2026-08-03 19:09 UTC",
+      "last_checked": "2026-08-10 16:14 UTC",
       "last_hash": "1795757d5e4f068eecf7d93cbad790231b03188c0b36ebde80ff4eb1e0471e1c",
       "fetch_error": null
     },
     "TW": {
-      "last_checked": "2026-08-03 19:10 UTC",
-      "last_hash": "64673df2d9cbca5cd1b55209007886760684503f17387f452677ad1f5b55b916",
+      "last_checked": "2026-08-10 16:14 UTC",
+      "last_hash": "8a5f97fb9057dc9935f4f3239ef6375e3a12013b9f5d85c35fc9a46dd07c7d72",
       "fetch_error": null
     },
     "HK": {
-      "last_checked": "2026-08-03 19:10 UTC",
+      "last_checked": "2026-08-10 16:14 UTC",
       "fetch_error": "page returned too little text (possibly JS-rendered or blocked)"
     },
     "MY": {
-      "last_checked": "2026-08-03 19:10 UTC",
-      "last_hash": "55777c8f923f0d719f5789f56522f79c5ed320d7f758e78828437e9537b7b8f6",
+      "last_checked": "2026-08-10 16:15 UTC",
+      "last_hash": "e0fa35e24dd47d7ae0fdae293892b6cc423584d7cfe7164bb40c838db9598022",
       "fetch_error": null
     },
     "VN": {
-      "last_checked": "2026-08-03 19:10 UTC",
-      "fetch_error": "ConnectTimeout: HTTPSConnectionPool(host='dav.gov.vn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='dav.gov.vn', port=443) at 0x7ff112ff0560>, 'Connection to dav.gov.vn timed out. (connect timeout=30)'))"
+      "last_checked": "2026-08-10 16:15 UTC",
+      "fetch_error": "ConnectTimeout: HTTPSConnectionPool(host='dav.gov.vn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='dav.gov.vn', port=443) at 0x7fbc9f076180>, 'Connection to dav.gov.vn timed out. (connect timeout=30)'))"
     },
     "NZ": {
-      "last_checked": "2026-08-03 19:10 UTC",
-      "last_hash": "7bbb99d2cd36d65f1808e07cfb781cdc423fd22075a8e94d32fdaf0b2adeee7a",
+      "last_checked": "2026-08-10 16:15 UTC",
+      "last_hash": "a042169a1a330b1ab38bf86ced6f55a4e05cc5315ce061affa79e4a8248b2411",
       "fetch_error": null
     },
     "SA": {
-      "last_checked": "2026-08-03 19:10 UTC",
-      "last_hash": "b365425d91e0fe2591e5574d581893c4a300a41c8fc5c2eee013abd5f4ba947c",
+      "last_checked": "2026-08-10 16:15 UTC",
+      "last_hash": "1902eba15db46e4c87fd8f93dd3b01a2354406e479be41d285609f01371d4027",
       "fetch_error": null
     },
     "QA": {
-      "last_checked": "2026-08-03 19:11 UTC",
+      "last_checked": "2026-08-10 16:15 UTC",
       "last_hash": "698d1d45b146bd6e7f6b95cc1b0ffae8a27338a59ee547713ed469abeac00026",
       "fetch_error": null
     },
     "KW": {
-      "last_checked": "2026-08-03 19:11 UTC",
-      "fetch_error": "ConnectTimeout: HTTPSConnectionPool(host='www.moh.gov.kw', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.moh.gov.kw', port=443) at 0x7ff112b74860>, 'Connection to www.moh.gov.kw timed out. (connect timeout=30)'))"
+      "last_checked": "2026-08-10 16:16 UTC",
+      "fetch_error": "ConnectTimeout: HTTPSConnectionPool(host='www.moh.gov.kw', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.moh.gov.kw', port=443) at 0x7fbc9f07a690>, 'Connection to www.moh.gov.kw timed out. (connect timeout=30)'))"
     },
     "BH": {
-      "last_checked": "2026-08-03 19:11 UTC",
+      "last_checked": "2026-08-10 16:16 UTC",
       "fetch_error": "HTTP 403"
     },
     "OM": {
-      "last_checked": "2026-08-03 19:11 UTC",
-      "last_hash": "28deb862e2db1371c2021939a9e41631082111ea105734604b6ba5575c5a4964",
+      "last_checked": "2026-08-10 16:16 UTC",
+      "last_hash": "668b49d9886bd290beda94f501013c52ac1a8edb76dd5ff2b35123a930464642",
       "fetch_error": null
     },
     "JO": {
-      "last_checked": "2026-08-03 19:11 UTC",
-      "last_hash": "c6fdf9ee31d88844bf8d4cabb92a1a02e8fd089df333f500c9f6d4a6f9942711",
-      "fetch_error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "last_checked": "2026-08-10 16:16 UTC",
+      "last_hash": "93d1a3ab8c57598c1f46a54d9218748e2dd407f364f258cb3f00d78cb31a504b",
+      "fetch_error": null
     },
     "IL": {
-      "last_checked": "2026-08-03 19:11 UTC",
+      "last_checked": "2026-08-10 16:16 UTC",
       "fetch_error": "HTTP 403"
     },
     "EG": {
-      "last_checked": "2026-08-03 19:11 UTC",
-      "last_hash": "fc0c4f08c3a54eec13b11e9831862ccc4d677d88f0b714513b3c1ead891ed702",
+      "last_checked": "2026-08-10 16:16 UTC",
+      "last_hash": "ce1c70cfd822b3bd32966bfc86137f5d0e4e1c917b2b703c65ec1a731124b1f1",
       "fetch_error": null
     },
     "MA": {
-      "last_checked": "2026-08-03 19:11 UTC",
+      "last_checked": "2026-08-10 16:16 UTC",
       "fetch_error": "SSLError: HTTPSConnectionPool(host='www.sante.gov.ma', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     "KE": {
-      "last_checked": "2026-08-03 19:12 UTC",
-      "last_hash": "35fb6e4ce52d7291c6c197daf7c939f0b5452667f6a6b73e58bbd2df135fff27",
+      "last_checked": "2026-08-10 16:16 UTC",
+      "last_hash": "e08054b1adcb7bde8945271ee702aa7cc877eb83e50b604fc053c156eb04cd68",
       "fetch_error": null
     },
     "TZ": {
-      "last_checked": "2026-08-03 19:12 UTC",
-      "last_hash": "3f09e5b32a31ef705223b242b6a672c4fa4c1608a466c3b2171094004a92a5bc",
+      "last_checked": "2026-08-10 16:17 UTC",
+      "last_hash": "83bd87d64f8ce7be2f7fcc9954235384a66ba88d23e1c008aaf66b30974b8a9d",
       "fetch_error": null
     },
     "GH": {
-      "last_checked": "2026-08-03 19:12 UTC",
+      "last_checked": "2026-08-10 16:17 UTC",
       "last_hash": "5949a9060a1af26fc2aecba36f9fe0551b4dd8a51bd0388105760286ff80dfae",
       "fetch_error": null
     },
     "NG": {
-      "last_checked": "2026-08-03 19:12 UTC",
-      "last_hash": "4ea09451caab3150a785e3c4b82023db2a457e0af3e7e2efeb83b14e6f6dd463",
+      "last_checked": "2026-08-10 16:17 UTC",
+      "last_hash": "92bd903985fa963703c8d80fe75508a514f6931c599babd4642960b6cb1e5e4f",
       "fetch_error": null
     },
     "ET": {
-      "last_checked": "2026-08-03 19:12 UTC",
+      "last_checked": "2026-08-10 16:17 UTC",
       "last_hash": "7a298aa158d3a9f36cbbcb94621b3644f22a4c7daf5950addc28af2bb97aa0f8",
       "fetch_error": "HTTP 403"
     }

@@ -20,6 +20,11 @@ Veterinary use
 Information for the public
 Information for professionals
 News
+Model of veterinary prescription: new mandatory information
+06/08/2026
+Since January 2022 veterinarians have the obligation to use a new model for veterinary prescriptions. This new model is being introduced in several stages. Since 1 July 2026, the animal species must be specified on the prescription, in addition to the identification of the animal or group of animals to be treated.
+Read more
+about Model of veterinary prescription: new mandatory information
 PRAC July 2026: new safety recommendations for desogestrel- and etonogestrel-containing contraceptives and for Litfulo
 31/07/2026
 During its July 2026 meeting, the Pharmacovigilance Risk Assessment Committee of the European Medicines Agency recommended new safety information on desogestrel- and etonogestrel-containing contraceptives and Litfulo, a medicine to treat alopecia areata.
@@ -55,11 +60,6 @@ VAMREG available from 1 July 2026: start of mandatory data registration for anti
 On 1 July 2026 VAMREG is officially launched. This new FAMHP application facilitates data collection on the volume of sales, and the use and the supply of antibiotics for animals used in animals in Belgium.
 Read more
 about VAMREG available from 1 July 2026: start of mandatory data registration for antibiotics for animals
-The new BioVigilance web application is now available
-01/07/2026
-The FAMHP launches BioVigilance, a new online application for reporting serious adverse events and reactions related to reproductive and non-reproductive substances of human origin (SoHO) intended for human application.
-Read more
-about The new BioVigilance web application is now available
 All news
 Sperm donation file
 Coronavirus (Covid-19)

@@ -64,6 +64,7 @@ Tasks of the BfArM
 Clinical investigations and performance studies
 Risk assessment
 Regulatory status, classification, categorisation
+Authorisation by way of derogation
 DiGA and DiPA
 DMIDS
 Further tasks
@@ -74,7 +75,7 @@ SAE and DD report
 Recall report
 Notification interruptions or discontinuations of MD supply
 Overview reporting channels
-Field corrective actions
+Field safety corrective actions
 DMIDS
 DiGA and DiPA
 Code systems
@@ -296,9 +297,10 @@ Application for decision on requirement to approve MD / IVD
 Risk assessment
 To overview: Risk assessment
 Reporting risks
-Field corrective actions
+Field safety corrective actions
 BfArM recommendations
 Regulatory status, classification, categorisation
+Authorisation by way of derogation
 DiGA
 and
 DiPA
@@ -340,7 +342,7 @@ SAE and DD reporting for clinical investigations
 Recall report
 Notification interruptions or discontinuations of the supply of a medical device
 Overview reporting channels
-Field corrective actions
+Field safety corrective actions
 Portals
 To overview: Portals
 DiGA

@@ -57,21 +57,21 @@ DUYURULAR
 Tüm Duyurular
 Tüm İlgili Duyurular
 Tüm İlgili Duyurular
+10.08.2026 - Strateji Geliştirme Daire Başkanlığı
+2026 Haziran Ayına Ait Mali Tablolar
+Hakkında Duyuru
+07.08.2026 - Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
+PR10-Numune Kabul Kriterleri Prosedürü Revizyonu
+Hakkında Duyuru
+07.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+İlaç Geri Çekme
+Hakkında Duyuru
+05.08.2026 - Eczaneler Dairesi Başkanlığı
+Eczanelerde Bulundurulması Zorunlu İlaç ve Tıbbi Malzemeler
+Hakkında Duyuru
 03.08.2026 - Ekonomik Değerlendirmeler ve Laboratuvar Hizmetleri Başkan Yardımcılığı
 Başvuru Sahibi Firmaların Dikkatine
 Duyuru
-03.08.2026 - İnsan Kaynakları Dairesi Başkanlığı
-01.06.2026 Tarihli Sözleşmeli Personel Alım İlanı Başvuru Değerlendirme Sonuçları ve İtiraz Süreci
-Hakkında Duyuru
-31.07.2026 - İlaç Ruhsatlandırma Daire Başkanlığı
-İLAÇ FİRMALARININ DİKKATİNE
-RD/2026/7/3 BEŞERİ TIBBİ ÜRÜNLERİN İSİMLENDİRMESİNE DAİR KILAVUZ HAKKINDA DUYURU
-31.07.2026 - İlaç Ruhsatlandırma Daire Başkanlığı
-İLAÇ FİRMALARININ DİKKATİNE
-RD/2026/7/2 RUHSAT BAŞVURUSU ÖNCESİ KATI ORAL DOZAJ FORMLARINDAKİ BEŞERİ TIBBİ ÜRÜNLERİN SERİ BOYUTU DEĞERLENDİRME KILAVUZU HAKKINDA DUYURU
-29.07.2026 - İnsan Kaynakları Dairesi Başkanlığı
-KPSS-2026/1: BAZI KAMU KURUM VE KURULUŞLARININ KADROLU POZİSYONLARINA YERLEŞTİRME İŞLEMLERİ SONUCUNDA TÜRKİYE İLAÇ VE TIBBİ CİHAZ KURUMU KADROLARINA YERLEŞENLERİN ATANMASINA ESAS OLMAK ÜZERE İSTENEN BELGELER.
-Hakkında
 16.02.2026 - Bilgi Sistemleri Dairesi Başkanlığı
 ECZACI YERLEŞTİRME SİSTEMİ (EYS) 2026 YILI 1. DÖNEM YERLEŞTİRME BAŞVURUSU HK.
 DUYURU
@@ -87,6 +87,9 @@ Hakkında Duyuru
 12.02.2023 - Bilgi Sistemleri Dairesi Başkanlığı
 REÇETEM SİSTEMİ’NDE AFET BÖLGESİNDE UYGULANACAK UYGULAMA
 HAKKINDA DUYURU
+07.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+İlaç Geri Çekme
+Hakkında Duyuru
 27.07.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Kamuoyunun Dikkatine
 DUYURU
@@ -97,9 +100,6 @@ DUYURU
 İlaç Geri Çekme
 Hakkında Duyuru
 10.06.2026 - Denetim Hizmetleri Başkan Yardımcılığı
-Kamuoyunun Dikkatine
-DUYURU
-02.06.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Kamuoyunun Dikkatine
 DUYURU
 GÜNCEL DUYURULAR
@@ -186,6 +186,7 @@ Kurum Hizmetleri Fiyat Tarifesi
 Kurumumuzca Yurt Dışı GMP Denetimi Yapılan Tesis ve Denetlenen Faaliyetlere Ait Liste (2017-2020)
 Ürün Tipi-1 ve Ürün Tipi-19 İzinli Biyosidal Ürünler Listesi
 Kurumumuz Tarafından Faaliyet İzin Belgesi Düzenlenen Faz 1 Klinik Araştırma Merkezleri
+Kurumumuz Tarafından Faaliyet İzin Belgesi Düzenlenen BY/BE Merkezleri
 Ruhsatlı Ürünler Listesi
 Küb / Kt Listesi
 Referans Bazlı İlaç Fiyat Listesi

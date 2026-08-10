@@ -495,9 +495,9 @@ Serviços em destaque do govbr
 Serviços recomendados para você
 Serviços mais acessados do govbr
 1
-Consultar Meu Imposto de Renda
-2
 Assinatura Eletrônica
+2
+Consultar Meu Imposto de Renda
 3
 Entregar Meu Imposto de Renda
 4
@@ -522,23 +522,22 @@ Fechar
 Fechar
 Fechar
 Info
-REGISTRO
-Anvisa registra cinco novas canetas de semaglutida
-Medicamentos ampliam opções para tratar diabetes e somam o maior volume de aprovações de agonistas de GLP-1 já concedidas pela vigilância sanitária
-FISCALIZAÇÃO
-Anvisa determina apreensão de lote falsificado do suplemento Omegafor Plus
-Produto estava sendo vendido em marketplace
+DICOL
+Anvisa aprova abertura de processo para revisar normas da propaganda de alimentos e de medicamentos
+De forma unânime, diretores chancelaram proposta na 14ª Reunião Ordinária Pública da Diretoria Colegiada de 2026
+SETOR REGULADO
+Anvisa alerta para prazo de adequação às regras de regularização de alimentos
+Empresas têm até 1º/9 para adequar produtos registrados e notificar suplementos alimentares e alimentos para controle de peso abrangidos pela transição
 CHECAGEM DE FATOS
 Encontre informações oficiais para esclarecer boatos e notícias falsas sobre vigilância sanitária
+COMUNICADO
+Sobre revogações de resoluções e medidas preventivas para plataformas digitais
 FISCALIZAÇÃO
-Repelentes de inseto são proibidos pela Anvisa
-Produtos das marcas Above e Repellere foram reprovados em ensaio que mede taxas de princípio ativo
-EAD
-Anvisa lança curso sobre regulação sanitária de suplementos alimentares
-Capacitação de 30 horas oferece abordagem teórica e prática sobre interpretação e aplicação das normas regulatórias para profissionais do SNVS e do setor regulado
-REGISTRO
-Anvisa aprova medicamento para hipertensão pulmonar
-Novo produto é indicado para melhorar a capacidade de exercício em pacientes adultos
+Anvisa determina apreensão de suplementos alimentares com ozônio
+Produtos não podem ser fabricados, vendidos ou utilizados
+FISCALIZAÇÃO
+Anvisa proíbe sal sem registro vendido na internet
+Produtos não podem ser fabricados nem comercializados
 Mais notícias
 Serviços em destaque
 Outras Autorizações, Certificados e Informações
