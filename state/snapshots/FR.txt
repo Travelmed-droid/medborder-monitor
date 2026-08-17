@@ -153,6 +153,10 @@ Dispositif d’évaluation accélérée des essais cliniques en France (fast-tra
 A la une
 Fortes chaleurs : attention avec vos médicaments et dispositifs médicaux !
 Dernières actualités
+Publié le 11/08/2026
+Contraception à base de désogestrel et étonogestrel : les notices évoluent pour mieux informer sur le risque rare de méningiome
+Surveillance
+Pharmacovigilance
 Publié le 10/08/2026
 Promotion illégale de thérapie cellulaire : nous prenons de nouvelles décisions de police sanitaire
 Surveillance
@@ -161,62 +165,56 @@ Publié le 23/07/2026
 Tensions en collyres : bien les prescrire pour préserver les stocks disponibles
 Disponibilité des produits de santé
 Médicaments
-Publié le 02/07/2026
-- Mis à jour le 22/07/2026
-« Peptides » vendus en ligne : ne les utilisez pas, ils peuvent être dangereux
-Surveillance
-Contrôles
 Plus d&#039;actualités
 Informations de sécurité
-10/08/2026
+17/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Capsule endoscopique – Dispositif de pose de capsule CF Bravo, 1-pk (FGS-0636), 5-pk (FGS-0635) – Given Imaging / Medtronic
+17/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Prothese vasculaire – Cardioroot Woven – Intervascular
+17/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Echographe ultrason – Philips Epiq Elite Diagnostic Ultrasound system – Philips Medical Systems
+17/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Appareil de radiologie interventionnelle – RX - Philips Azurion systems – Philips Medical Systems Nederland BV
+14/08/2026
 RAPPEL DE PRODUIT
 Médicaments
-Movicol sans arôme, poudre pour solution buvable en sachet – Laboratoire Norgine SAS
-10/08/2026
+Témozolomide Accord 250 mg, gélule – Laboratoire Accord Healtcare France SAS
+14/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Particules d&#039;embolisation – Embosphere Microspheres – Biosphere Medical/Merit Medical
+13/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+CEC/ECMO – Canule – Kit d&#039;insertion pour canulation de la gamme PIK – Maquet Cardiopulmonary GmbH / Getinge
+13/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Immunologie – Réactif MicroVue SC5b-9 Plus EIA – Quidel Corporation
+13/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux de diagnostic in vitro
+Biochimie – Automate AU480 – Beckman Coulter
+12/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux de diagnostic in vitro
+Automate base du système Biofire Filmarray Torch – Biofire Diagnostics
+11/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Sonde d’intubation endotrachéale – Zarys International Group
+11/08/2026
 RISQUES MEDICAMENTEUX
 Médicaments
-Litfulo (ritlécitinib) : mise à jour des recommandations visant à réduire le risque d’événements indésirables cardiovasculaires majeurs, de tumeurs malignes, d’événements thromboemboliques veineux, d’infections graves et de mortalité
-10/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Biochimie – Lecteurs StatStrip (Gen 2) Glucose and Glucose/β-Ketone Hospital Meter Systems – Nova Biomedical
-10/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Moniteur-défibrillateur (accessoire) – Skintact DF28N Adulte (Zoll), Skintact DF30G Pédiatrique (Zoll) – Leonhard Lang GmbH
-10/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Logiciel Spectralis with Flex Module – Heidelberg Engineering GmbH
-10/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Tubulures associées au système de perfusion BD neXus – Medcaptain Life Science Co.
-07/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-LAP : logiciel d&#039;aide à la prescription – Easily - LAPCMP – Hopsis
-21/07/2026
-- MIS À JOUR LE 07/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Ligne à sang d’hémodialyse avec cassette Homechoice Automated PD set with Cassette – Vantive S.A.S.
-05/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Hémostase – Réactif Sthemo DDi M – Diagnostica Stago
-05/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Endoprothèse aortique thoraco-abdominale Gore Excluder (Tambe) – W. L. Gore & Associates
-04/08/2026
-RAPPEL DE PRODUIT
-Médicaments
-Pomalidomide Stragen 1 mg, 2 mg, 3 mg, 4 mg, gélule - Stragen France
-04/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Lève-personne fixe au plafond (rail) Luna X5 – Winncare Nordic
+Contraceptifs à base de désogestrel et d&#039;étonogestrel : risque de méningiome et mesures pour minimiser le risque
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire
@@ -241,8 +239,8 @@ Comités d&#039;interfaces
 Comité français de la Pharmacopée - Substances et Préparations chimiques, pharmaceutiques et radio-pharmaceutiques - Galénique
 Comités français de la pharmacopée
 30 juin 2026
-Comité scientifique permanent Pharmaco-surveillance et bon usage - Formation restreinte expertise et bon usage
-Comités scientifiques permanents (CSP)
+Comité français de pharmacopée - Produits biologiques et thérapies innovantes
+Comités français de la pharmacopée
 Plus d&#039;évènements
 Vidéo à la une
 2 min 30

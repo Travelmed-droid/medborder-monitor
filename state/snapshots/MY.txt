@@ -234,16 +234,16 @@ Update on Analytical Testing and Labelling Declaration Requirements for Products
 Apr
 Latihan Sangkutan di NPRA bagi Latihan Liberalisasi Ahli Farmasi Provisional (PRP) di bawah Bahagian Lembaga Farmasi Malaysia (BLFM): Industri Farmaseutikal Mengilang / Industri Farmaseutikal Tidak Mengilang (Sesi 01/2026)
 View All Announcements
-Guideline on Application of Manufacturer’s License, Import License and Wholesaler’s License for Registered Products (4th Edition, July 2026)
-published on 2026-07-29
-GLP-1 and Dual GLP-1/GIP Receptor Agonists: Risk of Severe Acute Pancreatitis
-published on 2026-07-22
-Direktif untuk penggunaan Drug Registration Guidance Document (DRGD) Third Edition, 12th Revision July 2026
-published on 2026-07-16
-Biosimilar Approved
-published on 2026-07-10
+Approved Clinical Trial Import License (CTIL) & Clinical Trial Exemption (CTX) Application
+published on 2026-08-14
 List of Renewal Approved Veterinary Products
-published on 2026-07-10
+published on 2026-08-11
+Additional Indications Approved
+published on 2026-08-11
+New Products Approved
+published on 2026-08-11
+Biosimilar Approved
+published on 2026-08-11
 More Recent Updates
 09
 Apr
@@ -265,15 +265,15 @@ PEKELILING BIL 2/2026 MAKLUMAN BERKENAAN STATUS KEMASKINI BAHAN-BAHAN DALAM ANNN
 Jun
 Direktif untuk semua produk yang mengandungi itraconazole: Pengemaskinian sisip bungkusan dan RiMUP bagi memperkukuhkan maklumat keselamatan berkaitan risiko pseudoaldosteronism
 View All Directives & Circulars
+14
+Aug
+Safety Signal Alert: Vancomycin-Severe Cutaneous Adverse Drug Reaction (SCARs)
 22
 Jul
 GLP-1 and Dual GLP-1/GIP Receptor Agonists: Risk of Severe Acute Pancreatitis
 06
 Jul
 Lamotrigine: Risk of Photosensitivity Reactions
-06
-Jul
-Cefazolin: Risk of Kounis Syndrome
 View All Safety Alerts
 04 Sep 2025
 ;
@@ -303,7 +303,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Monday 10 August 2026, 10:53:39.
+Last Modified: Friday 14 August 2026, 15:56:35.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -449,4 +449,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 10 Aug 2026
+Monday, 17 Aug 2026

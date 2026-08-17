@@ -200,18 +200,22 @@ Observatorio de Precios
 Repositorio Institucional
 Revista Ciencia, Política y Regulación Farmacéutica
 Preguntas Frecuentes
+Minsa y Essalud articulan acciones para garantizar medicamentos críticos para pacientes
+Como parte de las acciones impulsadas por el ministro de Salud, Luis Dyer, se viene fortaleciendo la articulación con EsSalud para prevenir riesgos de desabastecimiento y contribuir a garantizar la continuidad de los tratamientos de pacientes que requieren medicamentos críticos.
+Digemid advierte sobre los riesgos de combinar medicamentos con bebidas alcohólicas
+Con el propósito de proteger la salud de la población y promover el uso seguro y responsable de los medicamentos, la Dirección General de Medicamentos, Insumos y Drogas (Digemid) del Ministerio de Salud recomendó a la ciudadanía evitar el consumo de bebidas alcohólicas durante un tratamiento farmacológico, salvo que un profesional de la salud confirme que no existe riesgo de interacción.
 Ministro de Salud supervisa Digemid para garantizar medicinas seguras y a precios justos para todos los peruanos
 Con el firme objetivo de llevar la regulación farmacéutica a un nivel superior, el ministro de Salud, Luis Dyer Fernández, lideró una visita clave a la Dirección General de Medicamentos, Insumos y Drogas (Digemid) para anunciar un plan para potenciar las capacidades técnicas y tecnológicas de la entidad, garantizar el acceso inmediato a medicamentos seguros, de calidad y a precios justos para todos los peruanos y una evaluación integral de las acciones adoptadas para erradicar definitivamente los fármacos falsificados del mercado nacional.
 Especialistas de la Digemid fortalecen vigilancia internacional con inspecciones a laboratorios farmacéuticos en China, India y Bangladesh
 Con el objetivo de fortalecer el control sanitario de los medicamentos importados y garantizar que estos cumplan con los más altos estándares internacionales de calidad, seguridad y eficacia, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), viene ejecutando un programa de inspecciones internacionales en laboratorios farmacéuticos ubicados en China, India y Bangladesh.
 Digemid fortalece cumplimiento de las Buenas Prácticas de Manufactura para garantizar productos y medicamentos seguros y de calidad
 Con el propósito de fortalecer el cumplimiento de las Buenas Prácticas de Manufactura (BPM) y consolidar un sistema regulatorio cada vez más eficiente, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), realizó la Reunión Técnica «Buenas Prácticas de Manufactura para Laboratorios Nacionales 2026», dirigida a los laboratorios fabricantes de productos farmacéuticos, dispositivos médicos y productos sanitarios del país.
-Digemid fortalece la lucha contra la medicina bamba con gran feria informativa en el Mercado Central
-El Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), realizará mañana una gran feria informativa en la cuadra 6 del jirón Ucayali (exteriores del Mercado Central). Esta actividad forma parte de la Campaña Nacional «La Medicina Bamba Mata 2026» y busca sensibilizar a la población sobre los riesgos de consumir fármacos ilegales, promoviendo la compra exclusiva en farmacias y boticas autorizadas.
-Digemid fortalece acciones para prevenir los riesgos de la publicidad engañosa de medicamentos
-Con el objetivo de fortalecer la educación sanitaria y proteger a la población frente a los riesgos asociados a la publicidad engañosa de medicamentos, la Dirección General de Medicamentos, Insumos y Drogas (Digemid) del Ministerio de Salud desarrolló una jornada informativa dirigida a adultos mayores del distrito de San Miguel. La actividad promovió el uso seguro y responsable de los medicamentos y brindó herramientas para tomar decisiones informadas al momento de adquirir productos para la salud.
 Comunicados Oficiales
 Comunicados Principales emitidos por la Dirección General de Medicamentos Insumos y Drogas
+Comunicados
+COMUNICADO N° 010-2026
+Descargar
+13/08/2026
 Comunicados
 COMUNICADO N° 009-2026
 Tema: Informe de Evaluación Clínica de los Dispositivos Médicos.
@@ -233,10 +237,6 @@ Comunicados
 COMUNICADO N° 005-2026
 Reglas de clasificación de los dispositivos médicos, principios esenciales de seguridad y desempeño e informe técnico.
 21/04/2026
-Comunicados
-COMUNICADO N° 004-2026
-Tema: Reglas de clasificación de los dispositivos médicos, principios esenciales de seguridad y desempeño e informe técnico.
-14/04/2026
 Información
 Información detallada sobre productos y procesos
 Registro Sanitario
@@ -257,6 +257,26 @@ Medidas de Seguridad y Sanciones
 Sanciones administrativas por infracciones a la Ley de los Productos Farmacéuticos, Dispositivos Médicos y Productos Sanitarios
 Alertas
 Alertas sobre Productos Farmacéuticos y Dispositivos Médicos emitidas por la DIGEMID
+Alertas, Alertas y Modificaciones, Control de Calidad
+ALERTA DIGEMID Nº 92-2026
+RETIRO DEL MERCADO DE UN LOTE DE DISPOSITIVO MÉDICO OBSERVADO POR RESULTADO CRÍTICO DE CONTROL DE CALIDAD
+Productos:
+VCÁNULA NASAL...
+13/08/2026
+Alertas, Alertas y Modificaciones, Productos Falsificados
+ALERTA DIGEMID Nº 91-2026
+COMERCIALIZACIÓN ILEGAL POR PÁGINA WEB DE PRODUCTO NATURAL (“SUPLEMENTO DIETETICO”) SIN REGISTRO SANITARIO
+Productos:
+SUPLEMENTO DIETETICO
+Descargar
+13/08/2026
+Alertas, Alertas y Modificaciones, Control de Calidad
+ALERTA DIGEMID Nº 90-2026
+COMERCIALIZACIÓN ILEGAL DE DISPOSITIVOS MÉDICOS POR ESTABLECIMIENTO NO AUTORIZADO
+Productos:
+SURGICEL ORIGINAL, LIGACLIP EXTRA TITANIUM CLIPS
+Descargar
+13/08/2026
 Alertas, Alertas y Modificaciones, Internacionales
 ALERTA INTERNACIONAL JULIO II &#8211; 2026
 ALERTA INTERNACIONAL JULIO II - 2026
@@ -269,18 +289,6 @@ Alertas, Alertas y Modificaciones, Productos Falsificados
 ALERTA DIGEMID Nº 88-2026
 DOLO CORDRALAN
 05/08/2026
-Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 87-2026
-ZALDIAR
-05/08/2026
-Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 86-2026
-Dexodine
-05/08/2026
-Alertas, Alertas y Modificaciones, Control de Calidad
-ALERTA DIGEMID Nº 85-2026
-Flevral
-05/08/2026
 Sitios de Interés
 Puede consultar las páginas de interés relacionadas
 Normas Legales
@@ -289,18 +297,20 @@ Normas Legales, Resolución Ministerial
 Resolución Ministerial N° 614-2026/MINSA
 Amplían plazos establecidos en el artículo 2 de la Resolución Ministerial N° 517-2025/MINSA de 13 de julio 2026.
 13/07/2026
+Normas Legales, Resolución Directoral
+Resolución Ministerial N° 063-2026/MINSA
+Descripción:
+Listado de Documentos Considerados Equivalentes al Certificado de Buenas Prácticas de Manufactura.
+Descargar Documento
+12/06/2026
+Normas Legales, Resolución Ministerial
+Resolución Ministerial N° 548-2026/MINSA
+Disponen que la Oficina de Transparencia y Anticorrupción de la Secretaría General efectúe la publicación del proyecto de Decreto Supremo...
+05/06/2026
 Normas Legales, Resolución Ministerial
 Resolución Ministerial N° 193-2026/MINSA
 Aprobar el Documento Técnico: Manual para la estimación y programacion de Productos Farmacéuticos, Dispositivos Médicos y Produtos Sanitarios en las...
-21/05/2026
-Normas Legales, Resolución Ministerial
-Resolución Ministerial N° 899-2025/MINSA
-Modifican la Directiva Administrativa para la Certificación de Buenas Prácticas de Manufactura en Laboratorios Nacionales y Extranjeros, y dictan otras...
-06/12/2025
-Normas Legales, Resolución Ministerial
-Resolución Ministerial N° 793-2025/MINSA
-Dispone la publicación del proyecto de Reglamento que regula las condiciones para la presentación de los resultados de control de...
-03/12/2025
+12/03/2026
 Sede Central DIGEMID
 Dirección:
 Dirección:: Av. Parque de las Leyendas 240, San Miguel
