@@ -2,6 +2,256 @@
   {
     "code": "NG",
     "country": "Nigeria",
+    "detected": "2026-08-24 15:27 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -124,12 +124,12 @@\n Field Safety Notices(FSNs)\n Edit Content\n+August 19, 2026\n+Public Alert No. 043/2026-NAFDAC Places Products Marketed by Mofus Nigeria Ltd on Watchlist Pending Regulatory Investigation\n+August 19, 2026\n+Public Alert No. 042/2026-Alert on the Seizure of Suspected Substandard and Falsified BPPL Artemether/Lumefantrine 80mg/480mg\n+August 19, 2026\n+Public Alert No. 041/2026 &#8211; Alert on Suspected Counterfeit ORACIRE+ Toothpaste\n August 13, 2026\n Regulatory Clarification on Deleject Disposable Needle Public Alert No. 042/2026\n-July 18, 2026\n-Public Alert No. 037/2026 &#8211; Alert on Suspected Counterfeit Pulmicort® (Budesonide) Inhalation Suspension\n-July 18, 2026\n-Public Alert No. 036/2026 &#8211; Alert on Suspected Counterfeit Products Mimicking Forxiga® (Dapagliflozin)\n-July 18, 2026\n-Public Alert No. 035/2026 – Alert on the Marketing and Sale of Unregistered Menofix Composition\n See More\n Edit Content",
+    "reviewed": false
+  },
+  {
+    "code": "KE",
+    "country": "Kenya",
+    "detected": "2026-08-24 15:27 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -249,5 +249,5 @@\n Accessibility Statement\n web.pharmacyboardkenya.org\n-August 17, 2026\n+August 24, 2026\n Compliance status\n We firmly believe that the internet should be available and accessible to anyone, and are committed to providing a website that is accessible to the widest possible audience,",
+    "reviewed": false
+  },
+  {
+    "code": "EG",
+    "country": "Egypt",
+    "detected": "2026-08-24 15:27 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -119,4 +119,5 @@\n المبادرة القومية للممارسات الدوائية والصيدلية رقم (1) تحت عنوان:ممارسة دوائية متميزة- 100 مشروع تطويري 2022-2023\n مبادرة الرعاية الصيدلية -اليقظة الصيدلية (معا نحو دواء آمن)\n+المخالفات الإعلانية\n منشورات الإدارة المركزية للرعاية الصيدلية\n نشرات الممارسات الصيدلية",
+    "reviewed": false
+  },
+  {
+    "code": "JO",
+    "country": "Jordan",
+    "detected": "2026-08-24 15:26 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -264,6 +264,5 @@\n أنقر هنا\n جديد المؤسسة\n-استكمال التعيين (بدل مستنكف) لوظيفة مدخل بيانات\n-اعلان صادر عن المؤسسة العامة للغذاء والدواء لغايات استكمال اجراءات التعيين\n+استكمال التعيين (بدل مستنكف ) لوظيفة مهندس زراعي\n مسودة تعليمات إجازة تداول المستحضرات التجميلية والتجميلية الصيدلانية والمواد الداخلة في تصنيعها لسنة 2026\n عودة خدمات المواعيد و متلقي الخدمة للعمل بعد الانقطاع\n@@ -933,5 +932,5 @@\n &times;\n اخر تعديل\n-2026/08/17\n+2026/08/24\n تابعنا\n روابط سريعة\n@@ -948,10 +947,10 @@\n اتصل بنا\n اخر تعديل\n-2026/08/17\n+2026/08/24\n يدعم مايكروسوفت إيدج, جوجل كروم, فايرفوكس, سفاري\n من الأفضل مشاهدة هذا الموقع من خلال شاشة 768 × 1366\n البرنامج المطلوب للتصفح: Adobe Reader\n عدد زوار الموقع:\n-3368068\n+3427511\n روابط سريعة\n مدونة السلوك الوظيفي",
+    "reviewed": false
+  },
+  {
+    "code": "OM",
+    "country": "Oman",
+    "detected": "2026-08-24 15:26 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -125,4 +125,6 @@\n &#x627;&#x644;&#x645;&#x631;&#x643;&#x632; &#x627;&#x644;&#x625;&#x639;&#x644;&#x627;&#x645;&#x64A;\n &#x627;&#x644;&#x623;&#x62E;&#x628;&#x627;&#x631;\n+23 &#x623;&#x63A;&#x633;&#x637;&#x633; 2026\n+&#x648;&#x632;&#x64A;&#x631; &#x627;&#x644;&#x635;&#x62D;&#x629; &#x64A;&#x633;&#x62A;&#x642;&#x628;&#x644; &#x645;&#x62F;&#x64A;&#x631; &#x639;&#x627;&#x645; &#x645;&#x62C;&#x644;&#x633; &#x627;&#x644;&#x635;&#x62D;&#x629; &#x644;&#x62F;&#x648;&#x644; &#x645;&#x62C;&#x644;&#x633; &#x627;&#x644;&#x62A;&#x639;&#x627;&#x648;&#x646;\n 10 &#x623;&#x63A;&#x633;&#x637;&#x633; 2026\n &#x648;&#x632;&#x627;&#x631;&#x629; &#x627;&#x644;&#x635;&#x62D;&#x629; &#x62A;&#x62D;&#x635;&#x62F; &#x62A;&#x643;&#x631;&#x64A;&#x645;&#x64B;&#x627; &#x636;&#x645;&#x646; &#x627;&#x644;&#x648;&#x62D;&#x62F;&#x627;&#x62A; &#x627;&#x644;&#x62D;&#x643;&#x648;&#x645;&#x64A;&#x629; &#x627;&#x644;&#x631;&#x627;&#x626;&#x62F;&#x629; &#x641;&#x64A; &#x645;&#x624;&#x634;&#x631; &#x646;&#x633;&#x628;&#x629; &#x633;&#x644;&#x627;&#x645;&#x629; &#x62A;&#x637;&#x628;&#x64A;&#x642; &#x645;&#x646;&#x638;&#x648;&#x645;&#x629; &#x627;&#x644;&#x625;&#x62C;&#x627;&#x62F;&#x629; &#x627;&#x644;&#x641;&#x631;&#x62F;&#x64A;&#x629; &#x644;&#x639;&#x627;&#x645; 2026\n@@ -131,6 +133,4 @@\n 22 &#x64A;&#x648;&#x644;&#x64A;&#x648; 2026\n &#x627;&#x644;&#x635;&#x62D;&#x629; &#x62A;&#x637;&#x644;&#x642; &#x645;&#x628;&#x627;&#x62F;&#x631;&#x629; &#x646;&#x642;&#x627;&#x621;\n-16 &#x64A;&#x648;&#x644;&#x64A;&#x648; 2026\n-&#x62A;&#x643;&#x627;&#x645;&#x644; ... &#x645;&#x634;&#x631;&#x648;&#x639; &#x648;&#x637;&#x646;&#x64A; &#x644;&#x625;&#x62F;&#x627;&#x631;&#x629; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x64A;&#x639; &#x648;&#x627;&#x644;&#x645;&#x634;&#x62A;&#x631;&#x64A;&#x627;&#x62A; &#x627;&#x644;&#x62D;&#x643;&#x648;&#x645;&#x64A;&#x629; &#x644;&#x648;&#x632;&#x627;&#x631;&#x629; &#x627;&#x644;&#x635;&#x62D;&#x629; &#x648;&#x647;&#x64A;&#x626;&#x629; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x64A;&#x639; &#x648;&#x627;&#x644;&#x645;&#x646;&#x627;&#x642;&#x635;&#x627;&#x62A; &#x648;&#x627;&#x644;&#x645;&#x62D;&#x62A;&#x648;&#x649; &#x627;&#x644;&#x645;&#x62D;&#x644;&#x64A;\n &#x627;&#x644;&#x623;&#x62D;&#x62F;&#x627;&#x62B;\n 22 &#x623;&#x628;&#x631;&#x64A;&#x644; 2026\n@@ -143,8 +143,8 @@\n &#x627;&#x641;&#x62A;&#x62A;&#x627;&#x62D; &#x645;&#x634;&#x631;&#x648;&#x639; &#x645;&#x633;&#x62A;&#x634;&#x641;&#x649; &#x645;&#x62D;&#x648;&#x62A;\n &#x627;&#x644;&#x625;&#x639;&#x644;&#x627;&#x646;&#x627;&#x62A;\n-03 &#x623;&#x63A;&#x633;&#x637;&#x633; 2026\n-&#x623;&#x633;&#x645;&#x627;&#x621; &#x627;&#x644;&#x645;&#x642;&#x628;&#x648;&#x644;&#x64A;&#x646; &#x644;&#x634;&#x63A;&#x644; &#x648;&#x638;&#x64A;&#x641;&#x629; (&#x645;&#x645;&#x631;&#x636; &#x639;&#x627;&#x645; &#x623; &#x60C;&#x641;&#x646;&#x64A; &#x623; &#x623;&#x634;&#x639;&#x629; &#x60C; &#x641;&#x646;&#x64A; &#x623; &#x62A;&#x635;&#x648;&#x64A;&#x631; &#x627;&#x644;&#x642;&#x644;&#x628; &#x60C;&#x641;&#x646;&#x64A; &#x623; &#x645;&#x62E;&#x62A;&#x628;&#x631;&#x627;&#x62A; &#x637;&#x628;&#x64A;&#x629;&#x60C; &#x641;&#x646;&#x64A; &#x623;&#x648;&#x644; &#x639;&#x644;&#x627;&#x62C; &#x637;&#x628;&#x64A;&#x639;&#x64A;)\n-23 &#x64A;&#x648;&#x644;&#x64A;&#x648; 2026\n-&#x623;&#x633;&#x645;&#x627;&#x621; &#x627;&#x644;&#x645;&#x648;&#x627;&#x637;&#x646;&#x64A;&#x646; &#x627;&#x644;&#x645;&#x642;&#x628;&#x648;&#x644;&#x64A;&#x646; &#x644;&#x634;&#x63A;&#x644; &#x648;&#x638;&#x64A;&#x641;&#x629; &#x641;&#x646;&#x64A; &#x623; &#x628;&#x635;&#x631;&#x64A;&#x627;&#x62A;\n+24 &#x623;&#x63A;&#x633;&#x637;&#x633; 2026\n+&#x623;&#x633;&#x645;&#x627;&#x621; &#x627;&#x644;&#x645;&#x648;&#x627;&#x637;&#x646;&#x64A;&#x646; &#x627;&#x644;&#x645;&#x62C;&#x62A;&#x627;&#x632;&#x64A;&#x646; &#x644;&#x644;&#x628;&#x631;&#x646;&#x627;&#x645;&#x62C; &#x627;&#x644;&#x62A;&#x62F;&#x631;&#x64A;&#x628;&#x64A; &#x641;&#x64A; &#x627;&#x644;&#x62A;&#x62E;&#x635;&#x635;&#x627;&#x62A; &#x627;&#x644;&#x622;&#x62A;&#x64A;&#x629; (&#x641;&#x646;&#x64A; &#x623;&#x648;&#x644; &#x639;&#x644;&#x627;&#x62C; &#x637;&#x628;&#x64A;&#x639;&#x64A;&#x60C; &#x641;&#x646;&#x64A; &#x623; &#x623;&#x634;&#x639;&#x629;&#x60C; &#x641;&#x646;&#x64A; &#x623; &#x645;&#x62E;&#x62A;&#x628;&#x631;&#x627;&#x62A; &#x637;&#x628;&#x64A;&#x629;)\n+17 &#x623;&#x63A;&#x633;&#x637;&#x633; 2026\n+&#x623;&#x633;&#x645;&#x627;&#x621; &#x627;&#x644;&#x645;&#x642;&#x628;&#x648;&#x644;&#x64A;&#x646; &#x644;&#x634;&#x63A;&#x644; &#x628;&#x639;&#x636; &#x627;&#x644;&#x648;&#x638;&#x627;&#x626;&#x641; &#x627;&#x644;&#x647;&#x646;&#x62F;&#x633;&#x64A;&#x629;\n &#x625;&#x62D;&#x635;&#x627;&#x626;&#x64A;&#x627;&#x62A;&#x646;&#x627;&#xA;\n &#x627;&#x644;&#x632;&#x64A;&#x627;&#x631;&#x627;&#x62A; &#x627;&#x644;&#x637;&#x628;&#x64A;&#x629; &#x644;&#x644;&#x645;&#x631;&#x636;&#x649; &#x627;&#x644;&#x64A;&#x648;&#x645;\n@@ -155,5 +155,5 @@\n //\n &#x622;&#x62E;&#x631; &#x62A;&#x62D;&#x62F;&#x64A;&#x62B;:\n-&#x645;&#x646;&#x630; 27 &#x64A;&#x648;&#x645;&#x627;&#x64B;\n+&#x64A;&#x648;&#x644;&#x64A;&#x648; 21, 2026\n (2026&#x200F;/07&#x200F;/21)\n &#x635;&#x62D;&#x640;&#x640;&#x640;&#x640;&#x640;&#x640;&#x629; &#x631;&#x627;&#x626;&#x640;&#x640;&#x640;&#x640;&#x640;&#x640;&#x62F;&#x629; &#x645;&#x633;&#x640;&#x640;&#x640;&#x640;&#x640;&#x640;&#x62A;&#x62F;&#x627;&#x645;&#x629; &#x644;&#x644;&#x62C;&#x645;&#x64A;&#x640;&#x640;&#x640;&#x640;&#x640;&#x640;&#x639;&#xA;\n@@ -176,8 +176,8 @@\n &#x62C;&#x645;&#x64A;&#x639; &#x627;&#x644;&#x62D;&#x642;&#x648;&#x642; &#x645;&#x62D;&#x641;&#x648;&#x638;&#x629; &#xA9; &#x644;&#x648;&#x632;&#x627;&#x631;&#x629; &#x627;&#x644;&#x635;&#x62D;&#x629;.\n &#x622;&#x62E;&#x631; &#x62A;&#x62D;&#x62F;&#x64A;&#x62B;:\n-&#x645;&#x646;&#x630; 27 &#x64A;&#x648;&#x645;&#x627;&#x64B;\n... (7 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "SA",
+    "country": "Saudi Arabia",
+    "detected": "2026-08-24 15:25 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -3,5 +3,5 @@\n An official government website affiliated with the Government of the Kingdom of Saudi Arabia.\n How to verify\n-Mon 17 Aug 2026\n+Thu 20 Aug 2026\n Beta version\n Official Saudi government website domains end with\n@@ -55,6 +55,6 @@\n الاستعلام عن المعاملات\n Saudi Food and Drug Authority\n-The Saudi Food and Drug Authority\n-The procedural, executive, and regulatory tasks currently carried out by the responsible authorities to ensure the safety of food and drugs for humans...\n+Vision and Mission\n+To be a globally leading science-based authority that promotes and protects public health through effective legislation and regulatory systems...\n Individual\n Practitioner\n@@ -164,5 +164,5 @@\n For any inquiries or comments about the government services, please fill in the required information.\n Contact Us\n-Last update date: 17/08/2026 at 12:00 PM Saudi Arabia time\n+Last update date: 24/08/2026 at 09:42 AM Saudi Arabia time\n Was this page useful?\n Yes\n@@ -186,7 +186,7 @@\n help and support\n .\n-57.14%\n+36.36%\n of users said yes from\n-7\n+11\n Response.\n About the Authority",
+    "reviewed": false
+  },
+  {
+    "code": "NZ",
+    "country": "New Zealand",
+    "detected": "2026-08-24 15:25 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -112,4 +112,10 @@\n Type\n Title\n+24/8/2026\n+Committees\n+Agenda for the 76th Medicines Classification Committee meeting\n+24/8/2026\n+Committees\n+Medicines Classification Committee - Dates and Deadlines\n 4/8/2026\n Notices\n@@ -121,7 +127,4 @@\n Notices\n Guideline on the Regulation of Therapeutic Products in New Zealand - Verification Pathway for New Medicine Applications, Edition 1.0, July 2026\n-25/6/2026\n-Alert Communication\n-Product Alert of Dexcom US G7 Sensors: Lots 1725204004 and 1725069002\n Home\n |",
+    "reviewed": false
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "detected": "2026-08-24 15:25 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -246,4 +246,7 @@\n published on 2026-08-11\n More Recent Updates\n+21\n+Aug\n+Kenyataan Media KKM 21 Ogos 2026- Pemakluman Berkenaan Pensanitasi Tangan (Hand Sanitizer) Yang Dikesan Mengandungi Methanol Melebihi Had Yang Ditetapkan\n 09\n Apr\n@@ -252,7 +255,4 @@\n Feb\n Kenyataan Media KKM 9 Februari 2026- Makluman Kosmetik yang Dikesan Mengandungi Racun Berjadual\n-13\n-Jan\n-Kenyataan Media KKM 3 Disember 2025- Makluman Kosmetik yang Dikesan Mengandungi Racun Berjadual\n View All Press Release\n 16\n@@ -304,5 +304,5 @@\n Daily PopUp By YannickTanguy.com\n Site Last Modified\n-Last Modified: Friday 14 August 2026, 15:56:35.\n+Last Modified: Friday 21 August 2026, 17:11:06.\n Online Services\n QUEST3+ System\n@@ -450,3 +450,3 @@\n English (UK)\n Home\n-Monday, 17 Aug 2026\n+Monday, 24 Aug 2026",
+    "reviewed": false
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "detected": "2026-08-24 15:24 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -107,10 +107,10 @@\n Consulta de centros asistenciales e ingreso al sistema para personas registradas.\n Noticias\n-14/08/2026\n-Acciones y novedades de la estrategia de Vacunación…\n-10/08/2026\n-Salud de Puente a Puente comenzó con las obras de la nueva…\n-07/08/2026\n-El Hospital de Rivera inauguró el CTI neonatal anunciado en 2025\n+21/08/2026\n+Relevamiento Sistema Nacional de Atención a Urgencia, Emergencia…\n+21/08/2026\n+Jornada Nacional de Vacunación contra el Meningococo tuvo una…\n+19/08/2026\n+Lustemberg destacó el enfoque de derechos ante los desafíos…\n Acceder a más noticias\n Comunicados",
+    "reviewed": false
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "detected": "2026-08-24 15:24 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -20,24 +20,24 @@\n ANMAT Responde\n Alertas y retiros\n+21 de agosto de 2026\n+ANMAT alerta sobre productos ilegítimos de alto riesgo sanitario que contienen RETATRUTIDE\n+20 de agosto de 2026\n+ANMAT prohíbe un equipo médico de la marca ALMA LASERS SOPRANO ICE\n 13 de agosto de 2026\n ANMAT suspendió preventivamente la habilitación de Droguería Lomas S.A.\n 12 de agosto de 2026\n ANMAT advierte sobre unidades falsificadas de SCULPTRA\n-12 de agosto de 2026\n-Retiro del mercado de un lote de HIDROCORTISONA CELTYC\n-10 de agosto de 2026\n-ANMAT prohíbe una unidad del producto médico DERMATOSCOPIO marca FotoFinder\n Consultá todos los retiros\n Consultá todas las alertas\n Reportá un problema con un producto\n Novedades\n+24 de agosto de 2026\n+Incorporación al MERCOSUR del reglamento para empresas de desinfestación y desinfección\n+18 de agosto de 2026\n+ANMAT actualiza los criterios para la elaboración de Soluciones Parenterales de Gran Volumen\n 13 de agosto de 2026\n Nuevo egreso de residentes de ANMAT\n 13 de agosto de 2026\n ANMAT suspendió preventivamente la habilitación de Droguería Lomas S.A.\n-07 de agosto de 2026\n-Nuevo formulario para notificar eventos adversos y desvíos de calidad de productos médicos\n-06 de agosto de 2026\n-Cambios en las competencias de control y fiscalización de alimentos\n Ver todo\n Productos regulados",
+    "reviewed": false
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "detected": "2026-08-24 15:24 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -201,4 +201,6 @@\n Revista Ciencia, Política y Regulación Farmacéutica\n Preguntas Frecuentes\n+Digemid fortalece control sanitario internacional con 19 nuevas inspecciones a laboratorios farmacéuticos que abastecen al Perú\n+El Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), desplegó una comisión de 24 inspectores especializados a la Argentina, Colombia e India. En estos países, la delegación evaluó el cumplimiento de los requisitos técnicos y sanitarios para la certificación de Buenas Prácticas de Manufactura (BPM) en 19 laboratorios farmacéuticos. Esta estrategia permite verificar las condiciones de origen de los fármacos que abastecen al país, al trasladar el control regulatorio hasta las plantas de fabricación en lugar de limitarlo al ingreso al territorio nacional.\n Minsa y Essalud articulan acciones para garantizar medicamentos críticos para pacientes\n Como parte de las acciones impulsadas por el ministro de Salud, Luis Dyer, se viene fortaleciendo la articulación con EsSalud para prevenir riesgos de desabastecimiento y contribuir a garantizar la continuidad de los tratamientos de pacientes que requieren medicamentos críticos.\n@@ -209,11 +211,14 @@\n Especialistas de la Digemid fortalecen vigilancia internacional con inspecciones a laboratorios farmacéuticos en China, India y Bangladesh\n Con el objetivo de fortalecer el control sanitario de los medicamentos importados y garantizar que estos cumplan con los más altos estándares internacionales de calidad, seguridad y eficacia, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), viene ejecutando un programa de inspecciones internacionales en laboratorios farmacéuticos ubicados en China, India y Bangladesh.\n-Digemid fortalece cumplimiento de las Buenas Prácticas de Manufactura para garantizar productos y medicamentos seguros y de calidad\n-Con el propósito de fortalecer el cumplimiento de las Buenas Prácticas de Manufactura (BPM) y consolidar un sistema regulatorio cada vez más eficiente, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), realizó la Reunión Técnica «Buenas Prácticas de Manufactura para Laboratorios Nacionales 2026», dirigida a los laboratorios fabricantes de productos farmacéuticos, dispositivos médicos y productos sanitarios del país.\n Comunicados Oficiales\n Comunicados Principales emitidos por la Dirección General de Medicamentos Insumos y Drogas\n Comunicados\n+COMUNICADO N° 011-2026\n+Tema: “INSCRIPCIÓN Y REINSCRIPCIÓN DE LOS DISPOSITIVOS MÉDICOS”.\n+• Hora: 9:00 am a 01:00 pm (Los participantes deberán conectarse a partir...\n+19/08/2026\n+Comunicados\n COMUNICADO N° 010-2026\n-Descargar\n+Se pone en conocimiento de los administrados, que el Ministerio de Salud, ha sido notificado con la ResoluciónN' 0086-2026/CEB-INDECOPIemitida por...\n 13/08/2026\n Comunicados\n@@ -234,8 +239,4 @@\n Tema: Resumen de verificación y validación de los dispositivos médicos, declaración de conformidad y certificado de análisis de los dispositivos...\n 15/05/2026\n-Comunicados\n-COMUNICADO N° 005-2026\n-Reglas de clasificación de los dispositivos médicos, principios esenciales de seguridad y desempeño e informe técnico.\n-21/04/2026\n Información\n Información detallada sobre productos y procesos\n@@ -258,36 +259,28 @@\n Alertas\n Alertas sobre Productos Farmacéuticos y Dispositivos Médicos emitidas por la DIGEMID\n-Alertas, Alertas y Modificaciones, Control de Calidad\n... (57 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "detected": "2026-08-24 15:23 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -71,27 +71,27 @@\n Galería de audio\n Galería de fotos\n-Minsa fortalece acciones de prevención y control del dengue en todo el país\n-La eliminación de criaderos del mosquito Aedes aegypti continúa como una de las...\n-Minsa impulsa la capacitación médica con Jornada de Cardiología en Atención Primaria en Colón\n-Para fortalecer las capacidades del personal de salud en la primera línea de atención, el...\n-Minsa inaugura Clínica Amigable para fortalecer la prevención y atención integral de ITS y VIH en Las Tablas\n-El Ministerio de Salud (Minsa), a través de la Región de Salud de Los Santos, inauguró la...\n-Centro de Salud de Río Abajo acerca servicios de salud y prevención a la comunidad\n-Con el propósito de acercar los servicios de salud a la población y fortalecer las acciones de...\n-Operativo comunitario fortalece la prevención del dengue en Las Mañanitas\n-El Centro de Salud Omidia Quintero de Las Mañanitas realizó un operativo comunitario de limpieza...\n-Minsa fortalece acciones de prevención y control del dengue en todo el país\n-Minsa impulsa la capacitación médica con Jornada de Cardiología en Atención Primaria en Colón\n-Minsa inaugura Clínica Amigable para fortalecer la prevención y atención integral de ITS y VIH en Las Tablas\n-Centro de Salud de Río Abajo acerca servicios de salud y prevención a la comunidad\n-Operativo comunitario fortalece la prevención del dengue en Las Mañanitas\n+Jornada de sensibilización contra el dengue en Coclé\n+El Ministerio de Salud (Minsa) en la Región de Coclé, a través de los equipos de Promoción, Control...\n+Minsa en Panamá Norte refuerza acciones contra el dengue en el día de la movilización\n+Los equipos de promoción, vectores, ambiental y personal de la Región de Salud de Panamá Norte,...\n+Gran jornada de eliminación de criaderos en San Miguelito\n+La Región de Salud del Ministerio de Salud (Minsa) en San Miguelito, junto a los gobiernos...\n+Minsa despliega amplio operativo contra el dengue en la Jornada Nacional de Eliminación de Criaderos del Mosquito Aedes aegypti\n+Estas medidas, desarrolladas de manera coordinada con otras instituciones y las...\n+La Región de Salud de Kuna Yala participa en gran jornada de limpieza y eliminación de criaderos de mosquitos\n+La Región de Salud de Kuna Yala llevó a cabo una gran jornada de limpieza, eliminación de criaderos...\n+Jornada de sensibilización contra el dengue en Coclé\n+Minsa en Panamá Norte refuerza acciones contra el dengue en el día de la movilización\n+Gran jornada de eliminación de criaderos en San Miguelito\n+Minsa despliega amplio operativo contra el dengue en la Jornada Nacional de Eliminación de Criaderos del Mosquito Aedes aegypti\n+La Región de Salud de Kuna Yala participa en gran jornada de limpieza y eliminación de criaderos de mosquitos\n Noticias Breves\n-Minsa fortalece acciones de prevención y control del dengue en todo el país\n-16 de Agosto de 2026\n-La eliminación de criaderos del mosquito Aedes aegypti continúa como una de las principales estrategias para reducir la transmisión de...\n+Jornada de sensibilización contra el dengue en Coclé\n... (11 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "detected": "2026-08-24 15:23 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -30,13 +30,7 @@\n Mapa de Oficinas\n Buscar\n-Semana Mundial de la Lactancia Materna.\n-Lactancia materna: Salud, amor y protección.\n-Ir a la Comisión Nacional de Lactancia\n-Boletines Epidemiológicos.\n-Vigilar, Analizar, Comunicar.\n-Ir a Boletines\n-Centro de Información Sobre Vacunas.\n-Información confiable, actualizada y científica.\n-Ir al Centro de Información\n+Oficina Virtual del Ministerio de Salud.\n+Realizar trámites y consultas en línea.\n+Ir a la Oficina Virtual\n Derechos y Deberes de\n los costarricenses.\n@@ -44,7 +38,13 @@\n usuarias de los servicios de salud.\n Ir a Auditoría Servicios de Salud\n-Oficina Virtual del Ministerio de Salud.\n-Realizar trámites y consultas en línea.\n-Ir a la Oficina Virtual\n+Semana Mundial de la Lactancia Materna.\n+Lactancia materna: Salud, amor y protección.\n+Ir a la Comisión Nacional de Lactancia\n+Centro de Información Sobre Vacunas.\n+Información confiable, actualizada y científica.\n+Ir al Centro de Información\n+Boletines Epidemiológicos.\n+Vigilar, Analizar, Comunicar.\n+Ir a Boletines\n Servicios para la Ciudadanía\n Oficina Virtual\n@@ -68,10 +68,10 @@\n Comunicados\n Ir a Comunicados\n-Salud establece atención en salud con nuevos criterios para gestionar las listas de espera\n... (13 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "TR",
+    "country": "Turkey",
+    "detected": "2026-08-24 15:23 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -58,19 +58,19 @@\n Tüm İlgili Duyurular\n Tüm İlgili Duyurular\n+22.08.2026 - Kozmetik Ürünler Dairesi Başkanlığı\n+Kozmetik Firmalarının Dikkatine\n+Duyuru\n+18.08.2026 - İnsan Kaynakları Dairesi Başkanlığı\n+01.06.2026 TARİHLİ RESMİ GAZETEDE YAYIMLANAN 16 ADET SÖZLEŞMELİ PERSONEL ALIMINA İLİŞKİN İTİRAZ DEĞERLENDİRME SONUÇLARI VE BAŞVURU DEĞERLENDİRME SONUÇLARI\n+Hakkında\n+18.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı\n+Kamuoyunun Dikkatine\n+Duyuru\n+17.08.2026 - Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı\n+EDQM 2028–2031 Orta Vadeli Stratejisine Katkı Sağlamak Üzere Paydaş Anketi\n+Hakkında Duyuru\n 13.08.2026 - İlaç Ruhsatlandırma Daire Başkanlığı\n İLAÇ FİRMALARININ DİKKATİNE\n RD/2026/8/2 RUHSATLI BEŞERİ TIBBİ ÜRÜNLERDE YENİDEN RUHSAT DÜZENLENMESİNİ GEREKTİREN HALLERE İLİŞKİN KILAVUZ HAKKINDA DUYURU\n-13.08.2026 - İlaç Ruhsatlandırma Daire Başkanlığı\n-İLAÇ FİRMALARININ DİKKATİNE\n-RD/2026/8/1 BEŞERİ TIBBİ ÜRÜNLERİN AMBALAJ BİLGİLERİ, KULLANMA TALİMATI VE TAKİBİ YÖNETMELİĞİ KILAVUZLARI HAKKINDA DUYURU\n-12.08.2026 - İlaç Denetim Daire Başkanlığı\n-Güncellenen Kılavuzlar Hakkında\n-Duyuru\n-10.08.2026 - Strateji Geliştirme Daire Başkanlığı\n-2026 Haziran Ayına Ait Mali Tablolar\n-Hakkında Duyuru\n-07.08.2026 - Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı\n-PR10-Numune Kabul Kriterleri Prosedürü Revizyonu\n-Hakkında Duyuru\n 16.02.2026 - Bilgi Sistemleri Dairesi Başkanlığı\n ECZACI YERLEŞTİRME SİSTEMİ (EYS) 2026 YILI 1. DÖNEM YERLEŞTİRME BAŞVURUSU HK.\n@@ -88,4 +88,7 @@\n REÇETEM SİSTEMİ’NDE AFET BÖLGESİNDE UYGULANACAK UYGULAMA\n HAKKINDA DUYURU\n+18.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı\n+Kamuoyunun Dikkatine\n+Duyuru\n... (64 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "CZ",
+    "country": "Czechia",
+    "detected": "2026-08-24 15:23 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -28,13 +28,13 @@\n Důležité informace\n Zobrazit vše\n-14. 8. 2026\n-Rowatinex &#8211; stahování až z úrovně zdravotnických zařízení\n-SÚKL informuje o stažení uvedených šarží léčivého přípravku Rowatinex, por. gtt. sol. 1X10ml až z úrovně zdravotnických zařízení.\n-14. 8. 2026\n-Léčivé přípravky povolené dle § 13 odst. 2 písm. m) zákona o léčivech\n-Léčivé přípravky, kterým byla umožněna distribuce, výdej, uvádění do oběhu a používání při poskytování zdravotních služeb v případě závady v jakosti, která nepředstavuje ohrožení života nebo zdraví…\n-14. 8. 2026\n-Specifický léčebný program – hexoprenalin-sulfát\n-Výzva zájemcům k předložení návrhu specifického léčebného programu na léčivé přípravky obsahující léčivou látku hexoprenalin-sulfát v lékové formě pro intravenózní podání (injekční roztok nebo…\n+20. 8. 2026\n+Informace o výskytu padělku léčivého přípravku Mounjaro\n+SÚKL upozorňuje na výskyt padělku léčivého přípravku Mounjaro.\n+19. 8. 2026\n+Informace o výskytu padělku léčivého přípravku Trodelvy\n+SÚKL upozorňuje na výskyt padělku léčivého přípravku Trodelvy 200mg.\n+19. 8. 2026\n+Informace o výskytu padělku léčivého přípravku Dysport 500U\n+SÚKL upozorňuje na výskyt padělku léčivého přípravku Dysport 500U.\n Rychlé odkazy a informace\n Podezření na nežádoucí účinek LP\n@@ -53,24 +53,26 @@\n Nejnovější články\n Zobrazit vše\n+24. 8. 2026\n+Ne každé stahování léčivého přípravku znamená, že pacient musí léčivo…\n+Léčivé přípravky jsou stahovány při závadách v jakosti z různých úrovní, rozhodující je přitom důvod stahování a především míra rizika pro pacienta. Jsou proto rozlišovány tři úrovně stahování: od…\n+20. 8. 2026\n+Obsah Českého lékopisu 2023 a jeho doplňků\n+Obsahuje články z 11. a 12. vydání Evropského lékopisu a národní specifika.\n+20. 8. 2026\n+Věstník 8/2026\n+Obsah\n+Důležitá upozornění týkající se léčivých přípravků a zdravotnických prostředků\n+Závady v jakosti, padělky a odcizené přípravky\n+Dostupnost léčivých přípravků\n... (29 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "NO",
+    "country": "Norway",
+    "detected": "2026-08-24 15:23 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -229,9 +229,14 @@\n Bruk av markedsf&#xF8;rte Melatonin-produkter\n Medisinske gasser\n+S&#xF8;knadskjema, innsending og saksbehandlingstid\n For apotek\n Hvilke legemidler kan notifiseres &#x2013; og hvilke m&#xE5; vurderes av DMP f&#xF8;r utlevering?\n Negativlisten\n Ekspederingslisten\n+Legemidler det ofte er sp&#xF8;rsm&#xE5;l om ved godkjenningsfritak\n S&#xF8;knadskjema, innsending og saksbehandlingstid\n+S&#xF8;knadskjema, innsending og saksbehandlingstid\n+Hvilke legemidler kan notifiseres &#x2013; og hvilke m&#xE5; vurderes av DMP f&#xF8;r utlevering?\n+Rutine for godkjenningsfritak ved sykehus\n For firmaer som &#xF8;nsker &#xE5; markedsf&#xF8;re legemidler p&#xE5; godkjenningsfritak\n &#xC5;rsrapporter om godkjenningsfritak\n@@ -511,4 +516,5 @@\n Tilverkarl&#xF8;yve og GMP-sertifikat\n Godkjente tilvirkere\n+Tilvirkning/tilberedning av infusjonspreparater til bruk i IV-terapi\n Utlevering og salg av legemidler i apotek\n Veiledning om dokumentasjonsplikt i apotek\n@@ -710,4 +716,13 @@\n Nyheter\n Se alle nyheter\n+&#xD8;nsker innspill til avtalemodeller for store pasientgrupper\n+Publisert:\n+21.08.2026\n+Tilberedning av infusjonspreparater til bruk i IV-terapi kan kreve tilvirkertillatelse\n+Publisert:\n+20.08.2026\n+Nytt om legemidler nr. 9 2026\n+Publisert:\n+18.08.2026\n H&#xF8;ring om endringer i forskrift for medisinsk utstyr\n Publisert:\n@@ -722,13 +737,4 @@\n Publisert:\n 11.08.2026\n... (11 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "IE",
+    "country": "Ireland",
+    "detected": "2026-08-24 15:22 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -268,4 +268,8 @@\n Safety notices\n View all\n+Medical devices\n+Summary of field safety notices (FSN)\n+Summary of Field Safety Notices July 2026\n+19/08/26\n Medicines for human use\n Recall\n@@ -276,21 +280,15 @@\n Litfulo (ritlecitinib): Updated recommendations to minimise the risks of major adverse cardiovascular events, malignancy, venous thromboembolism, serious infections, and mortality\n 10/08/26\n-Medicines for human use\n-Direct healthcare professional communication (DHPC)\n-Desogestrel and etonogestrel containing medicinal products: risk of meningioma and measures to minimise the risk\n-06/08/26\n News\n View all\n+Corporate news\n+Delivery of Strategic Plan 2021–2025\n+21/08/2026\n+Regulatory news - Clinical trials\n+Updated HPRA Guide to the Clinical Trials Regulation\n+19/08/2026\n Regulatory news - Controlled drugs\n New guidance on controlled drugs requirements\n 31/07/2026\n-Regulatory news - Cosmetics\n-Labelling requirements for cosmetic products containing fragrances covered under Regulation (EU) 2023/1545\n-21/07/2026\n-Corporate news\n-Press release\n-Regulatory news - Medicines for human use\n-Ms Katherine Morrow appointed Director of Compliance at the HPRA\n-21/07/2026\n Homepage link\n My Alerts",
+    "reviewed": false
+  },
+  {
+    "code": "CH",
+    "country": "Switzerland",
+    "detected": "2026-08-24 15:22 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -76,4 +76,22 @@\n Aktuelles\n Alle Updates anzeigen\n+17.08.2026\n+I-SMI.TI.10e Starting Material Identity Guarantee\n+Swissmedic hat eine neue Version des Dokumentes aufgeschaltet\n+14.08.2026\n+DHPC &ndash; Rhophylac (immunoglobulinum humanum anti-D)\n+Wichtige Mitteilung &ndash; Partikel\n+13.08.2026\n+Out-of-Stock &ndash; Extencilline, 1 200 000 und 2 400 000 UI, Pulver und L&ouml;sungsmittel zur Herstellung einer Injektionssuspension\n+Befristete Bewilligung zum Vertrieb in franz&ouml;sischer Aufmachung\n+13.08.2026\n+Chargenr&uuml;ckruf &ndash; Movicol, Pulver zur Herstellung einer L&ouml;sung zum Einnehmen\n+R&uuml;ckzug der Charge 466788 bis auf Stufe Detailhandel\n+13.08.2026\n+Swissmedic Spitalinspektionen 2025: Aufsicht zeigt Wirkung, Handlungsbedarf bleibt\n+Positive Wirkung der &Uuml;berwachung erkennbar\n+12.08.2026\n+DHPC &ndash; Bonviva 150 mg (acidum ibandronicum)\n+Veraltete Patienteninformation (Packungsbeilage, PIL)\n 10.08.2026\n Out-of-Stock &ndash; Thiopental Inresa 0.5 g, Pulver zur Herstellung einer Injektionsl&ouml;sung / Infusionsl&ouml;sung\n@@ -83,22 +101,4 @@\n Aktuelle Ausgabe\n Swissmedic Journal Juli 2026\n-06.08.2026\n-DHPC &ndash; Tavneos&reg; (Avacopan)\n-Medikament&ouml;s bedingte Lebersch&auml;digung (Drug-Induced Liver Injury - DILI) und Gallengangverlustsyndrom (Vanishing-Bile-Duct-Syndrom - VBDS) &ndash; versch&auml;rfte &Uuml;berwachung der Leberfunktion\n-06.08.2026\n-DHPC &ndash; Aranesp (darbepoetinum alfa)\n-Potenzielle sichtbare Partikel\n-04.08.2026\n-Chargenr&uuml;ckruf &ndash; Viscum album Qu 200mg, Ampullen / Viscum album Qu-F 100mg, Ampullen\n-R&uuml;ckrufe der erw&auml;hnten Chargen bis auf Stufe Detailhandel\n-01.08.2026\n-Anpassung der Fragen und Antworten und der Wegleitung zu Mobilen Technologien\n-Swissmedic hat die Wegleitung mobile Technologien sowie die Fragen und Antworten zu Mobilen Technologien &uuml;berarbeitet und die Anforderungen an die Verwendung von QR-Codes auf Arzneimittelpackungen pr&auml;zisiert\n... (8 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "AT",
+    "country": "Austria",
+    "detected": "2026-08-24 15:22 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -186,16 +186,25 @@\n „Medikamente Info Austria“ liefert kompakte Medikamenten-Information im neuen Design\n Weiterlesen\n-West Nil Virus (WNV) – Kosovo\n+Fingolimod Zentiva 0,5mg Hartkapseln\n Neu\n-Sicherheitsinformation\n+Rückruf\n |\n-Blut & Gewebe\n+Humanarzneimittel\n |\n-17.08.2026\n-Dem Bundesamt für Sicherheit im Gesundheitswesen (BASG) wurde von der ECDC (European Centre for Disease Prevention and Control) mitgeteilt, dass im Kosovo, in Gjakova humane WNV-Infektionen verzeichnet wurden.\n-West Nil Virus (WNV) – Kosovo\n+20.08.2026\n+Rückruf aufgrund von Abweichungen der Qualitätsstandards beim Hersteller\n+Fingolimod Zentiva 0,5mg Hartkapseln\n+Weiterlesen\n+Conoxia medizinisches Gas\n+Neu\n+Rückruf\n+|\n+Humanarzneimittel\n+|\n+19.08.2026\n+Rückruf aufgrund fehlerhafter Kennzeichnung\n+Conoxia medizinisches Gas\n Weiterlesen\n Sicherheitsinformation betreffend einer möglichen Therapieunterbrechung / Astral 100/150 Beatmungsgeräte\n-Neu\n Sicherheitsinformation\n |\n@@ -207,5 +216,4 @@\n Weiterlesen\n Cryos International - Aarhus ApS– Spender: REILLY\n-Neu\n Sicherheitsinformation\n... (52 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "GR",
+    "country": "Greece",
+    "detected": "2026-08-24 15:22 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -203,4 +203,28 @@\n Τελευταίες ενημερώσεις\n Τελευταίες ενημερώσεις\n+Τιμολόγηση νέων ΜΗΣΥΦΑ _2ο Τρίμηνο 2026\n+24 Αυγούστου 2026\n+Ανακοινώσεις τιμολόγησης φαρμάκων\n+24 Αυγ 2026\n+Τιμολόγηση Νέων Φαρμακευτικών Προϊόντων_Νέα 2ου Τριμήνου 2026_Ανατιμολόγηση προϊόντων αναφοράς λόγω λήξης της προστασίας δεδομένων τους_Εξέταση αιτημάτων αναπροσαρμογής τιμής μη αποζημιούμενων σκευασμάτων\n+24 Αυγούστου 2026\n+Ανακοινώσεις τιμολόγησης φαρμάκων\n+24 Αυγ 2026\n+Γενόσημα Ιουνίου 2026 _ Προτεινόμενες Τιμές προς Διαβούλευση\n+24 Αυγούστου 2026\n+Ανακοινώσεις τιμολόγησης φαρμάκων\n+24 Αυγ 2026\n+Ανάκληση παρτίδων των ιατροτεχνολογικών προϊόντων κατασκευής BALT EXTRUSION SAS που σχετίζονται με ANRYV connectors\n+21 Αυγούστου 2026\n+Ιατροτεχνολογικά\n+Ανακλήσεις ιατροτεχνολογικών\n+Επαγγελματίες Υγείας\n+21 Αυγ 2026\n+Ανάκληση παρτίδων του ιατροτεχνολογικού προϊόντος “Αιμοστατικός καθετήρας BiCOAG” της εταιρείας Olympus κατηγορίας class MDD IIb\n+21 Αυγούστου 2026\n+Ιατροτεχνολογικά\n+Ανακλήσεις ιατροτεχνολογικών\n+Επαγγελματίες Υγείας\n+21 Αυγ 2026\n Ανάκληση των επηρεαζόμενων σειριακών αριθμών, των αναπνευστήρων Newport HT70 και HT70 PLUS και ορισμένων σχετικών ανταλλακτικών NEWPORT.\n 17 Αυγούστου 2026\n@@ -215,33 +239,4 @@\n Επαγγελματίες Υγείας\n 17 Αυγ 2026\n-Ανάκληση παρτίδων των φαρμακευτικών προϊόντων CLONOTRIL TABLET 2MG/TAB και METHYLDOPA/REMEDICA F.C.TAB 250MG/TAB.\n-14 Αυγούστου 2026\n-Επαγγελματίες Υγείας\n-Φάρμακα\n-Ανακλήσεις φαρμάκων ανθρώπινης χρήσης\n-Ανακλήσεις παρτίδων φαρμάκων\n... (25 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "PT",
+    "country": "Portugal",
+    "detected": "2026-08-24 15:22 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -417,18 +417,7 @@\n Utilização de medicamentos\n Política do medicamento\n-<em>Benchmarking</em> hospitalar\n-Menu\n-<em>Benchmarking</em> hospitalar\n-Medicamentos biosimilares\n-Medicamentos VIH/SIDA\n-Antibióticos\n-<em>Benchmarking</em> ambulatório\n-Menu\n-<em>Benchmarking</em> ambulatório\n-Meio ambulatório\n-Medicamentos genéricos\n-Medicamentos genéricos por farmácia\n-Dados\n+<em>Benchmarking</em>\n Resultados em Saúde\n+Dados abertos\n Publicidade de medicamentos\n Menu\n@@ -772,8 +761,7 @@\n Relatórios\n Estudos\n-<em>Benchmarking</em> hospitalar\n-<em>Benchmarking</em> ambulatório\n-Dados\n+<em>Benchmarking</em>\n Resultados em Saúde\n+Dados abertos\n Sistema de gestão de publicidade de medicamentos - GPUB\n Transparência e Publicidade - Plataforma de comunicações\n@@ -929,18 +917,18 @@\n Agenda\n Notícias\n-14 ago 2026\n-Rybrevant (amivantamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento\n-Notícias\n... (126 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "ZA",
+    "country": "South Africa",
+    "detected": "2026-08-24 15:22 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -302,20 +302,26 @@\n Whistleblower/Non-Compliance Reporting\n Recalls Reporting\n-SAHPRA recalls certain batches of Enalapril\n-10 mg used to treat high blood pressure\n+SAHPRA reaffirms the safety of\n+routine childhood vaccination\n+Find out more\n+LATEST NEWS\n+Angiotensin-Converting Enzyme Inhibitor-Induced\n+Angioedema: Risk of Serious and Fatal Outcomes\n+Read more\n+Safety Alert\n+SAHPRA recalls certain batches of\n+Arya Enalapril 10mg used to treat\n+high blood pressure\n Find out more\n MEDIA RELEASE\n-SAHPRA inspires TUT students to\n-pursue careers in health regulation\n-Find out more\n-LATEST NEWS\n+Regulations regarding Fees payable\n+in terms of the Provisions of the\n+Hazardous Substances Act\n+Find Out More\n+Document for Comment\n SAHPRA's Engagement Portal\n Visit the Portal\n E-Services\n View more E-Services\n-Warfarin and Tramadol –\n-Harmful Drug-Drug Interaction\n-Read more\n-Safety Alert\n Active Pharma Licenced\n Establishments\n@@ -351,4 +357,9 @@\n... (44 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "detected": "2026-08-24 15:21 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -4,4 +4,7 @@\n Ir para a busca\n Ir para o rodapé\n+Serviços recomendados para você\n+Nenhum serviço recomendado disponível\n+Parece que você ainda não visitou nenhum serviço do Gov.br.\n Serviços mais acessados do Gov.br\n Serviços mais acessados do Gov.br\n@@ -11,4 +14,7 @@\n Nenhum serviço encontrado\n Previous\n+Serviços recomendados para você\n+Nenhum serviço recomendado disponível\n+Parece que você ainda não visitou nenhum serviço do Gov.br.\n Serviços mais acessados do Gov.br\n Serviços mais acessados do Gov.br\n@@ -20,22 +26,22 @@\n 1\n 2\n+3\n Português (Brasil)\n-REGISTRO\n-Anvisa aprova novo medicamento para distrofia muscular de Duchenne\n-Produto será de uso oral e não possui idade limite para uso\n-SETOR REGULADO\n-Anvisa alerta para prazo de adequação às regras de regularização de alimentos\n-Empresas têm até 1º/9 para adequar produtos registrados e notificar suplementos alimentares e alimentos para controle de peso abrangidos pela transição\n+COOPERAÇÃO INTERNACIONAL\n+Anvisa e Dinavisa assinam cooperação para ampliar fiscalização e segurança de produtos e medicamentos\n+Ações de controle sanitário, prevenção e combate à falsificação são destaques do novo Memorando de Entendimento entre as Agências do Brasil e Paraguai\n+Saúde e Vigilância Sanitária\n+Anvisa aprova duas novas canetas para tratamento de diabetes\n+Medicamentos possuem como princípio ativo a semaglutida\n CHECAGEM DE FATOS\n Encontre informações oficiais para esclarecer boatos e notícias falsas sobre vigilância sanitária\n+COMUNICADO\n+Anvisa e Roche informam o cancelamento do registro do medicamento Elevidys®  a pedido da empresa\n FISCALIZAÇÃO\n... (12 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "FR",
+    "country": "France",
+    "detected": "2026-08-24 15:21 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -154,66 +154,69 @@\n Fortes chaleurs : attention avec vos médicaments et dispositifs médicaux !\n Dernières actualités\n-Publié le 11/08/2026\n-Contraception à base de désogestrel et étonogestrel : les notices évoluent pour mieux informer sur le risque rare de méningiome\n+Publié le 24/08/2026\n+Rupture de stock de Bicafres 1000 mg, comprimé gastro-résistant : recommandation de remplacement par des préparations magistrales\n+Disponibilité des produits de santé\n+Médicaments\n+Publié le 19/08/2026\n+Retrait de l’AMM de Tavneos (avacopan) : ce médicament ne peut plus être prescrit ni délivré\n Surveillance\n-Pharmacovigilance\n-Publié le 10/08/2026\n-Promotion illégale de thérapie cellulaire : nous prenons de nouvelles décisions de police sanitaire\n-Surveillance\n-Contrôles\n-Publié le 23/07/2026\n-Tensions en collyres : bien les prescrire pour préserver les stocks disponibles\n+Retraits de lots\n+Publié le 30/04/2025\n+- Mis à jour le 19/08/2026\n+Point de situation sur les approvisionnements des produits de contraste\n Disponibilité des produits de santé\n Médicaments\n Plus d&#039;actualités\n Informations de sécurité\n-17/08/2026\n+24/08/2026\n+INFORMATION AUX UTILISATEURS\n+Dispositifs médicaux\n+LAP : logiciel d&#039;aide à la prescription – Orbis Medication 3.x – DH Healthcare GmbH\n+24/08/2026\n+INFORMATION AUX UTILISATEURS\n+Dispositifs médicaux\n+Appareil de radiologie interventionnelle - RX – Philips Azurion system 3.1 – Philips Medical Systems Nederland BV\n+21/08/2026\n+INFORMATION AUX UTILISATEURS\n... (83 more diff lines truncated)",
+    "reviewed": false
+  },
+  {
+    "code": "DE",
+    "country": "Germany",
+    "detected": "2026-08-24 15:21 UTC",
+    "classification": "substantive",
+    "ai_triaged": false,
+    "ai_note_draft": "AI triage unavailable — routed to reviewer by default. Review the diff and the official source directly.",
+    "diff_excerpt": "--- previous\n+++ current\n@@ -647,7 +647,4 @@\n To overview:\n GenomDE Symposium 2026\n-Registration form\n-To overview: Registration form\n-Confirmation of your registration\n Speakers and Chairs\n Program",
+    "reviewed": false
+  },
+  {
+    "code": "NG",
+    "country": "Nigeria",
     "detected": "2026-08-17 14:14 UTC",
     "classification": "substantive",
     "ai_triaged": false,

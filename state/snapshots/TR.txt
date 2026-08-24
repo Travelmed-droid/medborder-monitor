@@ -57,21 +57,21 @@ DUYURULAR
 Tüm Duyurular
 Tüm İlgili Duyurular
 Tüm İlgili Duyurular
+22.08.2026 - Kozmetik Ürünler Dairesi Başkanlığı
+Kozmetik Firmalarının Dikkatine
+Duyuru
+18.08.2026 - İnsan Kaynakları Dairesi Başkanlığı
+01.06.2026 TARİHLİ RESMİ GAZETEDE YAYIMLANAN 16 ADET SÖZLEŞMELİ PERSONEL ALIMINA İLİŞKİN İTİRAZ DEĞERLENDİRME SONUÇLARI VE BAŞVURU DEĞERLENDİRME SONUÇLARI
+Hakkında
+18.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+Kamuoyunun Dikkatine
+Duyuru
+17.08.2026 - Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
+EDQM 2028–2031 Orta Vadeli Stratejisine Katkı Sağlamak Üzere Paydaş Anketi
+Hakkında Duyuru
 13.08.2026 - İlaç Ruhsatlandırma Daire Başkanlığı
 İLAÇ FİRMALARININ DİKKATİNE
 RD/2026/8/2 RUHSATLI BEŞERİ TIBBİ ÜRÜNLERDE YENİDEN RUHSAT DÜZENLENMESİNİ GEREKTİREN HALLERE İLİŞKİN KILAVUZ HAKKINDA DUYURU
-13.08.2026 - İlaç Ruhsatlandırma Daire Başkanlığı
-İLAÇ FİRMALARININ DİKKATİNE
-RD/2026/8/1 BEŞERİ TIBBİ ÜRÜNLERİN AMBALAJ BİLGİLERİ, KULLANMA TALİMATI VE TAKİBİ YÖNETMELİĞİ KILAVUZLARI HAKKINDA DUYURU
-12.08.2026 - İlaç Denetim Daire Başkanlığı
-Güncellenen Kılavuzlar Hakkında
-Duyuru
-10.08.2026 - Strateji Geliştirme Daire Başkanlığı
-2026 Haziran Ayına Ait Mali Tablolar
-Hakkında Duyuru
-07.08.2026 - Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
-PR10-Numune Kabul Kriterleri Prosedürü Revizyonu
-Hakkında Duyuru
 16.02.2026 - Bilgi Sistemleri Dairesi Başkanlığı
 ECZACI YERLEŞTİRME SİSTEMİ (EYS) 2026 YILI 1. DÖNEM YERLEŞTİRME BAŞVURUSU HK.
 DUYURU
@@ -87,6 +87,9 @@ Hakkında Duyuru
 12.02.2023 - Bilgi Sistemleri Dairesi Başkanlığı
 REÇETEM SİSTEMİ’NDE AFET BÖLGESİNDE UYGULANACAK UYGULAMA
 HAKKINDA DUYURU
+18.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+Kamuoyunun Dikkatine
+Duyuru
 07.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 İlaç Geri Çekme
 Hakkında Duyuru
@@ -99,15 +102,13 @@ DUYURU
 15.06.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 İlaç Geri Çekme
 Hakkında Duyuru
-10.06.2026 - Denetim Hizmetleri Başkan Yardımcılığı
-Kamuoyunun Dikkatine
-DUYURU
 GÜNCEL DUYURULAR
 ÖNEMLİ DUYURULAR
 BLOKAJ VE GERİ ÇEKME DUYURULARI
 FAYDALI LİNKLER
 İlaç
 TÜFAM
+Reçete Bilgi Sistemi
 Kaçak Sahte İlaç Bildirim_Formu-1
 Sahte Kaçak Sahte İlaç Bildirim_Formu-2
 Kozmetik
@@ -124,6 +125,7 @@ Web Uygulamaları
 TİTCK-Regulatory And Supervisory Authority: 3rd Information Meeting For Medicines And Medical Devices Authorities
 Kurum Tanıtım Kitapçığı
 Introductory Booklet of the Agency
+Farmasötik Ürün Sertifikası, Serbest Satış Sertifikası ve Sağlık & Serbest Satış Sertifikası Belgeleri Doğrulama Sayfası (Verification web page of Certificate of a Pharmaceutical Product, Free Sale Certificate and Health & Free Sale Certificate)
 ÖNEMLİ BELGELER
 İlaç
 Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi-Sıkça Sorulan Sorular
@@ -161,8 +163,15 @@ Risk Yönetimi Materyalleri
 Update of Public Announcements
 ÖNEMLİ LİSTELER
 İlaç
+Araç Uyarı Üçgenleri ATC Kodları Seviye Listesi
 Yurt Dışı Etkin Madde Listesi
+Ruhsatlı Ürünler Listesi
+Küb / Kt Listesi
 Detaylı İlaç Fiyat Listesi
+Ruhsat İptal Listesi
+Etkin Madde Listesi
+Takvimlendirme listesi
+Araç uyarı üçgenleri ATC kodları seviye listesi
 Tıbbi Cihaz
 Yetkili Kalite Uygunluk Kuruluşları
 Yetkili Test, Kontrol ve Kalibrasyon Kuruluşları
@@ -177,28 +186,22 @@ Denetim
 Laboratuvar
 Seri Serbest Bırakma Sertifikası Düzenlenen Ürün Listesi
 GBTÜ
+Tıbbi Bitki Listesi
 Ruhsatlı GBTÜ
 Özel Tıbbi Amaçlı Gıda
 Özel Tıbbi Amaçlı Gıda
 Diğer
-Araç Uyarı Üçgenleri ATC Kodları Seviye Listesi
 Kurum Hizmetleri Fiyat Tarifesi
 Kurumumuzca Yurt Dışı GMP Denetimi Yapılan Tesis ve Denetlenen Faaliyetlere Ait Liste (2017-2020)
 Ürün Tipi-1 ve Ürün Tipi-19 İzinli Biyosidal Ürünler Listesi
 Kurumumuz Tarafından Faaliyet İzin Belgesi Düzenlenen Faz 1 Klinik Araştırma Merkezleri
 Kurumumuz Tarafından Faaliyet İzin Belgesi Düzenlenen BY/BE Merkezleri
-Ruhsatlı Ürünler Listesi
-Küb / Kt Listesi
 Referans Bazlı İlaç Fiyat Listesi
 Ecza Depoları Listesi (Pharmaceutical Warehouses List)
-Tıbbi Bitki Listesi
 SKRS E-Reçete İlaç ve Diğer Farmasötik Ürünler Listesi
-Ruhsat İptal Listesi
-Etkin Madde Listesi
 Serbest Eczane Listesi
 Sözleşmeli Farmakovijilans Hizmet Kuruluşları
 Tedarik Takipli Etkin Madde Listesi (Supply Tracked Medication List)
-Takvimlendirme listesi
 Kozmetik Ürün Güvenlilik Değerlendiricisi Belgelendirme Konusunda Akredite Olmuş Kuruluşlar
 KURUMLAR
 Sağlık Bakanlığı

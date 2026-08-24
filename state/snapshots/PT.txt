@@ -416,20 +416,9 @@ Menu
 Estudos
 Utilização de medicamentos
 Política do medicamento
-<em>Benchmarking</em> hospitalar
-Menu
-<em>Benchmarking</em> hospitalar
-Medicamentos biosimilares
-Medicamentos VIH/SIDA
-Antibióticos
-<em>Benchmarking</em> ambulatório
-Menu
-<em>Benchmarking</em> ambulatório
-Meio ambulatório
-Medicamentos genéricos
-Medicamentos genéricos por farmácia
-Dados
+<em>Benchmarking</em>
 Resultados em Saúde
+Dados abertos
 Publicidade de medicamentos
 Menu
 Publicidade de medicamentos
@@ -771,10 +760,9 @@ Medicamentos manipulados
 Farmácia hospitalar
 Relatórios
 Estudos
-<em>Benchmarking</em> hospitalar
-<em>Benchmarking</em> ambulatório
-Dados
+<em>Benchmarking</em>
 Resultados em Saúde
+Dados abertos
 Sistema de gestão de publicidade de medicamentos - GPUB
 Transparência e Publicidade - Plataforma de comunicações
 Autorização e colocação no mercado
@@ -928,20 +916,20 @@ Notícias
 Imprensa
 Agenda
 Notícias
-14 ago 2026
-Rybrevant (amivantamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
+24 ago 2026
+Piasky (Crovalimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
 Notícias
-14 ago 2026
-Orientações europeias para implementação dos Planos de Prevenção de Ruturas
+21 ago 2026
+Infarmed atualiza dados da atividade do setor da canábis medicinal
 Notícias
-14 ago 2026
-Retsevmo (Selpercatinib) | Relatórios de avaliação de financiamento público disponível na Infomed | Deferimento
+21 ago 2026
+Adcetris (brentuximab vedotina) | Relatório de avaliação de financiamento público disponível na Infomed
 Notícias
-12 ago 2026
-Cresemba (Isavuconazol) | Relatórios de avaliação de financiamento público disponíveis na Infomed | Deferimento dos pedidos de avaliação prévia
+21 ago 2026
+Quadrixam (Perindopril + Indapamida + Amlodipina + Bisoprolol) | Relatório de avaliação de financiamento público disponível na Infomed | Desistência do pedido de comparticipação
 Notícias
-11 ago 2026
-Trodelvy (Sacituzumab govitecano) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
+21 ago 2026
+Elrexfio (elranatamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
 Alertas
 29 jul 2026
 Acesso a medicamentos contendo a substância ativa Dapagliflozina | Informação adicional
@@ -958,20 +946,20 @@ Alertas
 17 jul 2026
 Tavneos (avacopano) - Recomendação de revogação da AIM pela Agência Europeia de Medicamentos
 Notícias
-14 ago 2026
-Rybrevant (amivantamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
+24 ago 2026
+Piasky (Crovalimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
 Notícias
-14 ago 2026
-Orientações europeias para implementação dos Planos de Prevenção de Ruturas
+21 ago 2026
+Infarmed atualiza dados da atividade do setor da canábis medicinal
 Notícias
-14 ago 2026
-Retsevmo (Selpercatinib) | Relatórios de avaliação de financiamento público disponível na Infomed | Deferimento
+21 ago 2026
+Adcetris (brentuximab vedotina) | Relatório de avaliação de financiamento público disponível na Infomed
 Notícias
-12 ago 2026
-Cresemba (Isavuconazol) | Relatórios de avaliação de financiamento público disponíveis na Infomed | Deferimento dos pedidos de avaliação prévia
+21 ago 2026
+Quadrixam (Perindopril + Indapamida + Amlodipina + Bisoprolol) | Relatório de avaliação de financiamento público disponível na Infomed | Desistência do pedido de comparticipação
 Notícias
-11 ago 2026
-Trodelvy (Sacituzumab govitecano) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
+21 ago 2026
+Elrexfio (elranatamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
 Imprensa
 18 mai 2026
 Comunicado de Imprensa - Acesso a medicamentos inovadores em Portugal
@@ -1009,20 +997,20 @@ Alteração de local | Formação |
 Coding with MedDRA e MedDRA Safety Data Analysis and SMQs
 | Inscrições abertas
 Notícias
-14 ago 2026
-Rybrevant (amivantamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
+24 ago 2026
+Piasky (Crovalimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
 Notícias
-14 ago 2026
-Orientações europeias para implementação dos Planos de Prevenção de Ruturas
+21 ago 2026
+Infarmed atualiza dados da atividade do setor da canábis medicinal
 Notícias
-14 ago 2026
-Retsevmo (Selpercatinib) | Relatórios de avaliação de financiamento público disponível na Infomed | Deferimento
+21 ago 2026
+Adcetris (brentuximab vedotina) | Relatório de avaliação de financiamento público disponível na Infomed
 Notícias
-12 ago 2026
-Cresemba (Isavuconazol) | Relatórios de avaliação de financiamento público disponíveis na Infomed | Deferimento dos pedidos de avaliação prévia
+21 ago 2026
+Quadrixam (Perindopril + Indapamida + Amlodipina + Bisoprolol) | Relatório de avaliação de financiamento público disponível na Infomed | Desistência do pedido de comparticipação
 Notícias
-11 ago 2026
-Trodelvy (Sacituzumab govitecano) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
+21 ago 2026
+Elrexfio (elranatamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
 Alertas
 29 jul 2026
 Acesso a medicamentos contendo a substância ativa Dapagliflozina | Informação adicional
@@ -1040,20 +1028,20 @@ Alertas
 Tavneos (avacopano) - Recomendação de revogação da AIM pela Agência Europeia de Medicamentos
 Ver mais
 Notícias
-14 ago 2026
-Rybrevant (amivantamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
+24 ago 2026
+Piasky (Crovalimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
 Notícias
-14 ago 2026
-Orientações europeias para implementação dos Planos de Prevenção de Ruturas
+21 ago 2026
+Infarmed atualiza dados da atividade do setor da canábis medicinal
 Notícias
-14 ago 2026
-Retsevmo (Selpercatinib) | Relatórios de avaliação de financiamento público disponível na Infomed | Deferimento
+21 ago 2026
+Adcetris (brentuximab vedotina) | Relatório de avaliação de financiamento público disponível na Infomed
 Notícias
-12 ago 2026
-Cresemba (Isavuconazol) | Relatórios de avaliação de financiamento público disponíveis na Infomed | Deferimento dos pedidos de avaliação prévia
+21 ago 2026
+Quadrixam (Perindopril + Indapamida + Amlodipina + Bisoprolol) | Relatório de avaliação de financiamento público disponível na Infomed | Desistência do pedido de comparticipação
 Notícias
-11 ago 2026
-Trodelvy (Sacituzumab govitecano) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
+21 ago 2026
+Elrexfio (elranatamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
 Ver mais
 Imprensa
 18 mai 2026

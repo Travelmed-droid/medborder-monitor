@@ -228,11 +228,16 @@ Legemidler det ofte er sp&#xF8;rsm&#xE5;l om ved godkjenningsfritak
 Prosedyre for behandling med cannabis innenfor dagens regelverk
 Bruk av markedsf&#xF8;rte Melatonin-produkter
 Medisinske gasser
+S&#xF8;knadskjema, innsending og saksbehandlingstid
 For apotek
 Hvilke legemidler kan notifiseres &#x2013; og hvilke m&#xE5; vurderes av DMP f&#xF8;r utlevering?
 Negativlisten
 Ekspederingslisten
+Legemidler det ofte er sp&#xF8;rsm&#xE5;l om ved godkjenningsfritak
 S&#xF8;knadskjema, innsending og saksbehandlingstid
+S&#xF8;knadskjema, innsending og saksbehandlingstid
+Hvilke legemidler kan notifiseres &#x2013; og hvilke m&#xE5; vurderes av DMP f&#xF8;r utlevering?
+Rutine for godkjenningsfritak ved sykehus
 For firmaer som &#xF8;nsker &#xE5; markedsf&#xF8;re legemidler p&#xE5; godkjenningsfritak
 &#xC5;rsrapporter om godkjenningsfritak
 Godkjenningsfritak for legemidler til dyr
@@ -510,6 +515,7 @@ Retningslinjer for bruk av bulkpakningar ved maskinell dosedispensering
 S&#xF8;knad om tilverkarl&#xF8;yve
 Tilverkarl&#xF8;yve og GMP-sertifikat
 Godkjente tilvirkere
+Tilvirkning/tilberedning av infusjonspreparater til bruk i IV-terapi
 Utlevering og salg av legemidler i apotek
 Veiledning om dokumentasjonsplikt i apotek
 &#x200B;Veiledning for apotekenes netthandel med legemidler
@@ -709,6 +715,15 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
+&#xD8;nsker innspill til avtalemodeller for store pasientgrupper
+Publisert:
+21.08.2026
+Tilberedning av infusjonspreparater til bruk i IV-terapi kan kreve tilvirkertillatelse
+Publisert:
+20.08.2026
+Nytt om legemidler nr. 9 2026
+Publisert:
+18.08.2026
 H&#xF8;ring om endringer i forskrift for medisinsk utstyr
 Publisert:
 17.08.2026
@@ -721,15 +736,6 @@ Oppdatert:
 Jasper Littmann ny omr&#xE5;dedirekt&#xF8;r i DMP
 Publisert:
 11.08.2026
-Oppdaterte anbefalinger for bruk av &#x25BC;Litfulo
-Publisert:
-10.08.2026
-Liten &#xF8;kt risiko for meningeom med hormonell prevensjon
-Publisert:
-06.08.2026
-H&#xF8;ring - endring av forskrift om medisinsk utstyr: Obligatorisk bruk av Eudamed og opphevelse av &#xA7;&#xA7; 24 og 25
-Publisert:
-14.07.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook

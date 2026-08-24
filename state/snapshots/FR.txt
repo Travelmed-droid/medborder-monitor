@@ -153,68 +153,71 @@ Dispositif d’évaluation accélérée des essais cliniques en France (fast-tra
 A la une
 Fortes chaleurs : attention avec vos médicaments et dispositifs médicaux !
 Dernières actualités
-Publié le 11/08/2026
-Contraception à base de désogestrel et étonogestrel : les notices évoluent pour mieux informer sur le risque rare de méningiome
+Publié le 24/08/2026
+Rupture de stock de Bicafres 1000 mg, comprimé gastro-résistant : recommandation de remplacement par des préparations magistrales
+Disponibilité des produits de santé
+Médicaments
+Publié le 19/08/2026
+Retrait de l’AMM de Tavneos (avacopan) : ce médicament ne peut plus être prescrit ni délivré
 Surveillance
-Pharmacovigilance
-Publié le 10/08/2026
-Promotion illégale de thérapie cellulaire : nous prenons de nouvelles décisions de police sanitaire
-Surveillance
-Contrôles
-Publié le 23/07/2026
-Tensions en collyres : bien les prescrire pour préserver les stocks disponibles
+Retraits de lots
+Publié le 30/04/2025
+- Mis à jour le 19/08/2026
+Point de situation sur les approvisionnements des produits de contraste
 Disponibilité des produits de santé
 Médicaments
 Plus d&#039;actualités
 Informations de sécurité
-17/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Capsule endoscopique – Dispositif de pose de capsule CF Bravo, 1-pk (FGS-0636), 5-pk (FGS-0635) – Given Imaging / Medtronic
-17/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Prothese vasculaire – Cardioroot Woven – Intervascular
-17/08/2026
+24/08/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
-Echographe ultrason – Philips Epiq Elite Diagnostic Ultrasound system – Philips Medical Systems
-17/08/2026
+LAP : logiciel d&#039;aide à la prescription – Orbis Medication 3.x – DH Healthcare GmbH
+24/08/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
-Appareil de radiologie interventionnelle – RX - Philips Azurion systems – Philips Medical Systems Nederland BV
-14/08/2026
+Appareil de radiologie interventionnelle - RX – Philips Azurion system 3.1 – Philips Medical Systems Nederland BV
+21/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+LAP : logiciel d&#039;aide à la prescription – Maincare IC module prescription – Docaposte Santé
+21/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+PACS – DeepUnity PACSonWEB – DH Healthcare GmbH
+21/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Valve hémostatique anti-retour – ANRYV – Balt Extrusion SAS
+03/04/2026
+- MIS À JOUR LE 21/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+PACS – Vue PACS (Diagnostic) V12, Vue Motion V12, Vue PACS v12 – Philips Medical Systems Nederland BV
+20/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Centrale de surveillance PIC iX Essentials, Patient Information Center iX – Philips Medizin Systems Boblingen GmbH
+20/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Biochimie – Bandelettes de test StatStrip Lactate Test Strip – Nova Biomedical
+20/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Immuno-Hématologie – Réactif ID-Card &quot;LISS/Combs&quot; – DiaMed
+30/07/2026
+- MIS À JOUR LE 20/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Stérilisateur Getinge Poladus 150 – Maquet GmbH
+19/08/2026
 RAPPEL DE PRODUIT
 Médicaments
-Témozolomide Accord 250 mg, gélule – Laboratoire Accord Healtcare France SAS
-14/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Particules d&#039;embolisation – Embosphere Microspheres – Biosphere Medical/Merit Medical
-13/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-CEC/ECMO – Canule – Kit d&#039;insertion pour canulation de la gamme PIK – Maquet Cardiopulmonary GmbH / Getinge
-13/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Immunologie – Réactif MicroVue SC5b-9 Plus EIA – Quidel Corporation
-13/08/2026
+Tavneos 10 mg, gélule – Laboratoire Vifor France
+19/08/2026
 INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Biochimie – Automate AU480 – Beckman Coulter
-12/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Automate base du système Biofire Filmarray Torch – Biofire Diagnostics
-11/08/2026
-RAPPEL DE PRODUIT
 Dispositifs médicaux
-Sonde d’intubation endotrachéale – Zarys International Group
-11/08/2026
-RISQUES MEDICAMENTEUX
-Médicaments
-Contraceptifs à base de désogestrel et d&#039;étonogestrel : risque de méningiome et mesures pour minimiser le risque
+Table d&#039;opération – Colonne de table d&#039;opération Alphamaquet – Getinge / Maquet GmbH
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire
