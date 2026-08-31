@@ -200,6 +200,8 @@ Observatorio de Precios
 Repositorio Institucional
 Revista Ciencia, Política y Regulación Farmacéutica
 Preguntas Frecuentes
+Digemid incauta más de cinco toneladas de detergentes para ropa de bebé falsificados en San Juan de Miraflores
+Más de cinco toneladas de detergentes para ropa de bebé, productos de higiene personal y cosméticos fueron incautados durante un operativo conjunto ejecutado por la Dirección General de Medicamentos, Insumos y Drogas (Digemid) del Ministerio de Salud (Minsa), el Ministerio Público y la División de Operaciones Especiales Escuadrón Verde de la Policía Nacional del Perú, en el distrito de San Juan de Miraflores.
 Digemid fortalece control sanitario internacional con 19 nuevas inspecciones a laboratorios farmacéuticos que abastecen al Perú
 El Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), desplegó una comisión de 24 inspectores especializados a la Argentina, Colombia e India. En estos países, la delegación evaluó el cumplimiento de los requisitos técnicos y sanitarios para la certificación de Buenas Prácticas de Manufactura (BPM) en 19 laboratorios farmacéuticos. Esta estrategia permite verificar las condiciones de origen de los fármacos que abastecen al país, al trasladar el control regulatorio hasta las plantas de fabricación en lugar de limitarlo al ingreso al territorio nacional.
 Minsa y Essalud articulan acciones para garantizar medicamentos críticos para pacientes
@@ -208,10 +210,18 @@ Digemid advierte sobre los riesgos de combinar medicamentos con bebidas alcohól
 Con el propósito de proteger la salud de la población y promover el uso seguro y responsable de los medicamentos, la Dirección General de Medicamentos, Insumos y Drogas (Digemid) del Ministerio de Salud recomendó a la ciudadanía evitar el consumo de bebidas alcohólicas durante un tratamiento farmacológico, salvo que un profesional de la salud confirme que no existe riesgo de interacción.
 Ministro de Salud supervisa Digemid para garantizar medicinas seguras y a precios justos para todos los peruanos
 Con el firme objetivo de llevar la regulación farmacéutica a un nivel superior, el ministro de Salud, Luis Dyer Fernández, lideró una visita clave a la Dirección General de Medicamentos, Insumos y Drogas (Digemid) para anunciar un plan para potenciar las capacidades técnicas y tecnológicas de la entidad, garantizar el acceso inmediato a medicamentos seguros, de calidad y a precios justos para todos los peruanos y una evaluación integral de las acciones adoptadas para erradicar definitivamente los fármacos falsificados del mercado nacional.
-Especialistas de la Digemid fortalecen vigilancia internacional con inspecciones a laboratorios farmacéuticos en China, India y Bangladesh
-Con el objetivo de fortalecer el control sanitario de los medicamentos importados y garantizar que estos cumplan con los más altos estándares internacionales de calidad, seguridad y eficacia, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), viene ejecutando un programa de inspecciones internacionales en laboratorios farmacéuticos ubicados en China, India y Bangladesh.
 Comunicados Oficiales
 Comunicados Principales emitidos por la Dirección General de Medicamentos Insumos y Drogas
+Comunicados
+COMUNICADO N° 013-2026: DIGEMID EXHORTA A FARMACIAS Y BOTICAS A CUMPLIR ESTRICTAMENTE EL HORARIO DE FUNCIONAMIENTO DECLARADO Y AUTORIZADO
+La medida busca fortalecer la vigilancia sanitaria y garantizar una respuesta oportuna
+frente a productos falsificados, adulterados, de calidad subestándar...
+25/08/2026
+Comunicados
+COMUNICADO N° 012-2026: DIGEMID EXHORTA A LAS DROGUERÍAS A FORTALECER LA PERMANENCIA DEL DIRECTOR TÉCNICO PARA GARANTIZAR UNA RESPUESTA OPORTUNA ANTE ALERTAS SANITARIAS
+La Dirección General de Medicamentos, Insumos y Drogas (DIGEMID) del Ministerio
+de Salud en su condición de Autoridad Nacional de...
+25/08/2026
 Comunicados
 COMUNICADO N° 011-2026
 Tema: “INSCRIPCIÓN Y REINSCRIPCIÓN DE LOS DISPOSITIVOS MÉDICOS”.
@@ -230,14 +240,6 @@ Comunicados
 COMUNICADO N° 008-2026
 La Dirección General de Medicamentos, Insumos y Drogas a través de la Dirección de Dispositivos Médicos y Productos Sanitarios, invita...
 17/06/2026
-Comunicados
-COMUNICADO N° 007-2026
-La Dirección General de Medicamentos, Insumos y Drogas - DIGEMID a través de la Dirección de Productos Farmacéuticos y el...
-02/06/2026
-Comunicados
-COMUNICADO N° 006-2026
-Tema: Resumen de verificación y validación de los dispositivos médicos, declaración de conformidad y certificado de análisis de los dispositivos...
-15/05/2026
 Información
 Información detallada sobre productos y procesos
 Registro Sanitario
@@ -291,7 +293,7 @@ Resolución Ministerial N° 614-2026/MINSA
 Amplían plazos establecidos en el artículo 2 de la Resolución Ministerial N° 517-2025/MINSA de 13 de julio 2026.
 13/07/2026
 Normas Legales, Resolución Directoral
-Resolución Ministerial N° 063-2026/MINSA
+Resolución Directoral N° 063-2026-DIGEMID-DG-MINSA
 Descripción:
 Listado de Documentos Considerados Equivalentes al Certificado de Buenas Prácticas de Manufactura.
 Descargar Documento
@@ -304,6 +306,8 @@ Normas Legales, Resolución Ministerial
 Resolución Ministerial N° 193-2026/MINSA
 Aprobar el Documento Técnico: Manual para la estimación y programacion de Productos Farmacéuticos, Dispositivos Médicos y Produtos Sanitarios en las...
 12/03/2026
+Comunicado 012
+Comunicado 013
 Sede Central DIGEMID
 Dirección:
 Dirección:: Av. Parque de las Leyendas 240, San Miguel

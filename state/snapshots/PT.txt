@@ -268,6 +268,7 @@ VHP - FASE 2 - Avaliação do pedido
 VHP - FASE 3 - Fase Nacional
 Avaliação de Ensaios Clínicos em Portugal
 <em>Accelerating Clinical Trials in the EU</em>
+Taxas aplicáveis a investigação clínica
 Avaliação técnico-científica
 Autorização de introdução no mercado
 Menu
@@ -709,6 +710,7 @@ Estatísticas de avaliação e indicadores de Ensaios Clínicos pelo Infarmed
 Grupo de Coordenação de Ensaios Clínicos
 Avaliação de Ensaios Clínicos em Portugal
 <em>Accelerating Clinical Trials in the EU</em>
+Taxas aplicáveis a investigação clínica
 Procedimentos de AIM
 Novos pedidos de AIM
 <em>Notice to applicants</em>
@@ -915,21 +917,24 @@ Alertas
 Notícias
 Imprensa
 Agenda
+Agenda
+11 set 2026
+Webinar "Alertas de qualidade e alertas de falsificados de medicamentos" | 11 de setembro | Inscrições abertas
+Notícias
+24 ago 2026
+Tryngolza (Olezarsen) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
 Notícias
 24 ago 2026
 Piasky (Crovalimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
+Alertas
+28 ago 2026
+Recolha do medicamento Meropenem Aurovitas 500mg, Pó para solução injetável ou para perfusão
 Notícias
 21 ago 2026
 Infarmed atualiza dados da atividade do setor da canábis medicinal
-Notícias
-21 ago 2026
-Adcetris (brentuximab vedotina) | Relatório de avaliação de financiamento público disponível na Infomed
-Notícias
-21 ago 2026
-Quadrixam (Perindopril + Indapamida + Amlodipina + Bisoprolol) | Relatório de avaliação de financiamento público disponível na Infomed | Desistência do pedido de comparticipação
-Notícias
-21 ago 2026
-Elrexfio (elranatamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
+Alertas
+28 ago 2026
+Recolha do medicamento Meropenem Aurovitas 500mg, Pó para solução injetável ou para perfusão
 Alertas
 29 jul 2026
 Acesso a medicamentos contendo a substância ativa Dapagliflozina | Informação adicional
@@ -942,9 +947,9 @@ Recolha voluntária de lote | Oxaliplatina Generis, 5 mg/ml, concentrado para so
 Alertas
 17 jul 2026
 Suspensão da atividade do distribuidor por grosso | Royal Sulgerins S.L.
-Alertas
-17 jul 2026
-Tavneos (avacopano) - Recomendação de revogação da AIM pela Agência Europeia de Medicamentos
+Notícias
+24 ago 2026
+Tryngolza (Olezarsen) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
 Notícias
 24 ago 2026
 Piasky (Crovalimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
@@ -957,15 +962,15 @@ Adcetris (brentuximab vedotina) | Relatório de avaliação de financiamento pú
 Notícias
 21 ago 2026
 Quadrixam (Perindopril + Indapamida + Amlodipina + Bisoprolol) | Relatório de avaliação de financiamento público disponível na Infomed | Desistência do pedido de comparticipação
-Notícias
-21 ago 2026
-Elrexfio (elranatamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
 Imprensa
 18 mai 2026
 Comunicado de Imprensa - Acesso a medicamentos inovadores em Portugal
 Imprensa
 07 mai 2026
 Comunicado PANGEA XVIII - INFARMED, I.P., Autoridade Tributária e Aduaneira e Polícia Judiciária juntos em operação internacional
+Agenda
+11 set 2026
+Webinar "Alertas de qualidade e alertas de falsificados de medicamentos" | 11 de setembro | Inscrições abertas
 Agenda
 18 jun 2026
 Dia da Farmacovigilância 2026 | Apresentações e a gravação disponíveis
@@ -989,28 +994,24 @@ streaming
 Agenda
 03 nov 2026
 Marque na agenda: Infarmed acolhe Simpósio Final do Projeto Europeu Real4Reg | 3 e 4 de novembro de 2026
-Coding with MedDRA e MedDRA Safety Data Analysis and SMQs
-| Inscrições abertas">
 Agenda
-15 jun 2026
-Alteração de local | Formação |
-Coding with MedDRA e MedDRA Safety Data Analysis and SMQs
-| Inscrições abertas
+11 set 2026
+Webinar "Alertas de qualidade e alertas de falsificados de medicamentos" | 11 de setembro | Inscrições abertas
+Notícias
+24 ago 2026
+Tryngolza (Olezarsen) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
 Notícias
 24 ago 2026
 Piasky (Crovalimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
+Alertas
+28 ago 2026
+Recolha do medicamento Meropenem Aurovitas 500mg, Pó para solução injetável ou para perfusão
 Notícias
 21 ago 2026
 Infarmed atualiza dados da atividade do setor da canábis medicinal
-Notícias
-21 ago 2026
-Adcetris (brentuximab vedotina) | Relatório de avaliação de financiamento público disponível na Infomed
-Notícias
-21 ago 2026
-Quadrixam (Perindopril + Indapamida + Amlodipina + Bisoprolol) | Relatório de avaliação de financiamento público disponível na Infomed | Desistência do pedido de comparticipação
-Notícias
-21 ago 2026
-Elrexfio (elranatamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
+Alertas
+28 ago 2026
+Recolha do medicamento Meropenem Aurovitas 500mg, Pó para solução injetável ou para perfusão
 Alertas
 29 jul 2026
 Acesso a medicamentos contendo a substância ativa Dapagliflozina | Informação adicional
@@ -1023,10 +1024,10 @@ Recolha voluntária de lote | Oxaliplatina Generis, 5 mg/ml, concentrado para so
 Alertas
 17 jul 2026
 Suspensão da atividade do distribuidor por grosso | Royal Sulgerins S.L.
-Alertas
-17 jul 2026
-Tavneos (avacopano) - Recomendação de revogação da AIM pela Agência Europeia de Medicamentos
 Ver mais
+Notícias
+24 ago 2026
+Tryngolza (Olezarsen) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
 Notícias
 24 ago 2026
 Piasky (Crovalimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
@@ -1039,9 +1040,6 @@ Adcetris (brentuximab vedotina) | Relatório de avaliação de financiamento pú
 Notícias
 21 ago 2026
 Quadrixam (Perindopril + Indapamida + Amlodipina + Bisoprolol) | Relatório de avaliação de financiamento público disponível na Infomed | Desistência do pedido de comparticipação
-Notícias
-21 ago 2026
-Elrexfio (elranatamab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
 Ver mais
 Imprensa
 18 mai 2026
@@ -1050,6 +1048,9 @@ Imprensa
 07 mai 2026
 Comunicado PANGEA XVIII - INFARMED, I.P., Autoridade Tributária e Aduaneira e Polícia Judiciária juntos em operação internacional
 Ver mais
+Agenda
+11 set 2026
+Webinar "Alertas de qualidade e alertas de falsificados de medicamentos" | 11 de setembro | Inscrições abertas
 Agenda
 18 jun 2026
 Dia da Farmacovigilância 2026 | Apresentações e a gravação disponíveis
@@ -1073,13 +1074,6 @@ streaming
 Agenda
 03 nov 2026
 Marque na agenda: Infarmed acolhe Simpósio Final do Projeto Europeu Real4Reg | 3 e 4 de novembro de 2026
-Coding with MedDRA e MedDRA Safety Data Analysis and SMQs
-| Inscrições abertas">
-Agenda
-15 jun 2026
-Alteração de local | Formação |
-Coding with MedDRA e MedDRA Safety Data Analysis and SMQs
-| Inscrições abertas
 Ver mais
 Acessibilidade
 O Infarmed

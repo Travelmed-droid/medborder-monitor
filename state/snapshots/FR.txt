@@ -153,21 +153,64 @@ Dispositif d’évaluation accélérée des essais cliniques en France (fast-tra
 A la une
 Fortes chaleurs : attention avec vos médicaments et dispositifs médicaux !
 Dernières actualités
-Publié le 24/08/2026
-Rupture de stock de Bicafres 1000 mg, comprimé gastro-résistant : recommandation de remplacement par des préparations magistrales
-Disponibilité des produits de santé
-Médicaments
-Publié le 19/08/2026
-Retrait de l’AMM de Tavneos (avacopan) : ce médicament ne peut plus être prescrit ni délivré
+Publié le 02/07/2026
+- Mis à jour le 31/08/2026
+« Peptides » vendus en ligne : ne les utilisez pas, ils peuvent être dangereux
 Surveillance
-Retraits de lots
-Publié le 30/04/2025
-- Mis à jour le 19/08/2026
-Point de situation sur les approvisionnements des produits de contraste
-Disponibilité des produits de santé
-Médicaments
+Contrôles
+Publié le 21/11/2025
+- Mis à jour le 26/08/2026
+Allonger la durée de conservation des médicaments dans un objectif de réduction du gaspillage et de la pollution
+Bon usage
+Recommandations
+Publié le 25/08/2026
+Confusion entre Siklos 100 mg et Siklos 1000 mg : l&#039;ANSM appelle à la vigilance lors de la délivrance en pharmacie
+Surveillance
+Pharmacovigilance
 Plus d&#039;actualités
 Informations de sécurité
+31/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Ventilateur d&#039;anesthésie – Systèmes d’anesthésie Aisys et AisysCS2 – GE Healthcare / Datex-Ohmeda
+31/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux de diagnostic in vitro
+Bactériologie – Automates DxU 840m Iris, DxU 850m Iris, IQ200 Elite, IQ200 Select, IQ200 Sprint – Beckman Coulter
+31/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Mycologie – Réactif Yeastone Broth, 11ML – Thermo Fisher Scientific
+28/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Holter ECG implantable – Logiciel serveur Latitude Clarity pour la gamme de dispositifs de MCI LUX-Dx – Boston Scientific Corporation
+28/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Logiciel Engage V7.47 – Exolis
+19/02/2026
+- MIS À JOUR LE 28/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Garrot électro-pneumatique auto-régulé – Zimmer Tourniquet Systems – Zimmer Biomet
+27/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Dispositif hémostatique – Hemospray Endoscopic Hemostat. – Wilson-Cook Medical, Inc.
+27/07/2026
+- MIS À JOUR LE 27/08/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Bactériologie – Réactif Neisseria meningitidis Gp C 2ml/VL – Remel
+25/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Ventilateur de réanimation – Systèmes IPV (IPV 1; IPV-1C; IPV-2C; Impulsator; Travel Air; IPV-HC) – Percussionnaire Corporation / Sentec
+25/08/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux de diagnostic in vitro
+Bactériologie – Réactifs Biofire Filmarray Pneumonia plus Panel et Biofire Joint Infection Panel – Biofire Diagnostics
 24/08/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
@@ -176,48 +219,6 @@ LAP : logiciel d&#039;aide à la prescription – Orbis Medication 3.x – DH He
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
 Appareil de radiologie interventionnelle - RX – Philips Azurion system 3.1 – Philips Medical Systems Nederland BV
-21/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-LAP : logiciel d&#039;aide à la prescription – Maincare IC module prescription – Docaposte Santé
-21/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-PACS – DeepUnity PACSonWEB – DH Healthcare GmbH
-21/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Valve hémostatique anti-retour – ANRYV – Balt Extrusion SAS
-03/04/2026
-- MIS À JOUR LE 21/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-PACS – Vue PACS (Diagnostic) V12, Vue Motion V12, Vue PACS v12 – Philips Medical Systems Nederland BV
-20/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Centrale de surveillance PIC iX Essentials, Patient Information Center iX – Philips Medizin Systems Boblingen GmbH
-20/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Biochimie – Bandelettes de test StatStrip Lactate Test Strip – Nova Biomedical
-20/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Immuno-Hématologie – Réactif ID-Card &quot;LISS/Combs&quot; – DiaMed
-30/07/2026
-- MIS À JOUR LE 20/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Stérilisateur Getinge Poladus 150 – Maquet GmbH
-19/08/2026
-RAPPEL DE PRODUIT
-Médicaments
-Tavneos 10 mg, gélule – Laboratoire Vifor France
-19/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Table d&#039;opération – Colonne de table d&#039;opération Alphamaquet – Getinge / Maquet GmbH
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire

@@ -61,7 +61,7 @@ Medicamentos veterinarios
 CIMA Vet: Centro de Información online de Medicamentos Veterinarios de la AEMPS
 Publicaciones de medicamentos veterinarios
 Investigación clínica con medicamentos veterinarios
-Estupefacientes y psicótropos (de uso humano y veterinarios)
+Estupefacientes y psicótropos
 Fabricación de medicamentos y principios activos
 Venta a distancia de medicamentos veterinarios
 Medicamentos veterinarios ilegales
@@ -176,6 +176,12 @@ Problemas de suministro
 ¿Quiénes somos?
 Conócenos
 Última información
+Productos sanitarios
+27/08/2026
+La AEMPS informa de un posible fallo en la fijación interna de la batería en determinados dispositivos de comunicación aumentativa y alternativa TD Navio Midi y TD Navio Maxi
+Productos sanitarios
+27/08/2026
+La AEMPS informa de un posible defecto de fabricación en la sonda intermitente uretral hidrofílica Onli
 Medicamentos veterinarios
 10/08/2026
 La AEMPS publica una guía para facilitar la solicitud de los registros simplificados especiales para medicamentos veterinarios
@@ -185,12 +191,6 @@ La AEMPS informa del posible fallo en un componente eléctrico interno de determ
 Medicamentos veterinarios
 05/08/2026
 La AEMPS informa de que los lotes de las vacunas veterinarias monovalentes frente a IBR, PIF y rabia requerirán de un certificado OBPR antes de su liberación y comercialización en España
-Biocidas y cuidado personal
-04/08/2026
-La AEMPS informa sobre el uso correcto de los desinfectantes de piel sana
-Boletines de Farmacovigilancia
-03/08/2026
-Boletín sobre Seguridad de Medicamentos de Uso Humano. Junio de 2026
 AEMPS
 25/10/2023
 La AEMPS publica la Memoria 2022, un año marcado por el impulso a la autonomía estratégica

@@ -1,77 +1,152 @@
-Titck - Türkiye İlaç ve Tıbbi Cihaz Kurumu
--->
-Güvenlilik Uyarıları &
+T.C. Sağlık Bakanlığı - Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK)
+Ana İçeriğe Doğrudan Atla
 Geri Çekmeler
-Tıbbi Cihaz
+|
 Veri Koruma
+|
 TÜFAM
+|
 Akılcı İlaç Kullanımı
+|
+Klinik Araştırmalar
+|
+|
 EN
--->
--->
-ANASAYFA
+|
+İçeriğe Git
 KURUMSAL
-BİLGİLENDİRME SUNUMLARI
-ULUSLARARASI İŞ BİRLİKLERİ
+Yönetim & Teşkilat
+Bakanımız
+Kurum Başkanımız
+Organizasyon Şeması
+Görev Alanları
+Tarihçe
+Yönetim Sistemleri & Politikalar
+Uluslararası İş Birlikleri
+İç Kontrol
+Kalite Yönetim Sistemi
+BGYS ve KVYS Politikamız
+Raporlar & Planlama
+Stratejik Plan
+Faaliyet Raporu
+Performans Programı
+Kurumsal Mali Durum ve Beklentiler Raporu
+Nakit Akış Tablosu
+Disiplin Soruşturması Usul ve Esasları
+Tüm Kurumsal Bilgi ve Raporlar Portali
 MEVZUAT
-Geri
+Mevzuat Türleri
+Kanunlar
+Yönetmelikler
+Tebliğler
+Kılavuzlar
+Genelgeler
+Usul ve Esaslar
+Arama & Platformlar
 Mevzuat ve Kılavuz Kütüphanesi
-Dış Görüş Taslakları (Görüş Bildirimi)
+Dış Görüş Taslakları Platformu
+Tüm Mevzuat ve Kılavuz Kütüphanesinde Detaylı Arama
 FAALİYET ALANLARI
-Geri
-İLAÇ
-TIBBİ CİHAZ
-KOZMETİK
-LABORATUVAR
-DENETİM
-BİYOSİDAL
-GELENEKSEL BİTKİSEL TIBBİ ÜRÜNLER
-HOMEOPATİ
-SAĞLIK BEYANI
-İLETİŞİM
-ARAMA
-hit enter to search or ESC to close
--->
--->
-ÖNE ÇIKANLAR
-SAĞLIK BAKANIMIZ SAYIN PROF. DR. KEMAL MEMİŞOĞLU, KURUMUMUZU ZİYARET ETTİ
-TİTCK’TE BAYRAK DEĞİŞİMİ
-BAŞKAN HÜSEYİN ÇELİK’TEN GÖREVE BAŞLAMA MESAJI
-TÜRKİYE İLAÇ VE TIBBİ CİHAZ KURUMU’NDA DEVİR TESLİM
-SEKTÖR İSTİŞARE TOPLANTISI SAĞLIK BAKAN YARDIMCIMIZ DOÇ. DR. ŞUAYIP BİRİNCİ&#039;NİN KATILIMIYLA GERÇEKLEŞTİRİLDİ
-İLERİ TEDAVİ TIBBİ ÜRÜNLERİ: İNOVASYON, GELECEK PERSPEKTİFİ VE ULUSAL YOL HARİTASI ÇALIŞTAYI GERÇEKLEŞTİRİLDİ
-ÖNE ÇIKANLAR
-REÇETEM HAKKINDA
-BİLMEDİKLERİNİZ
--->
-ÜTS HAKKINDA
-BİLMEDİKLERİNİZ
--->
-İlaç Yan Etki Bildirimi
--->
-İTS HAKKINDA
-BİLMEDİKLERİNİZ
--->
-GÜNCEL
-DUYURULAR
+Ürün ve Sağlık Grupları
+İlaç
+Tıbbi Cihaz
+Kozmetik
+Geleneksel Bitkisel Tıbbi Ürünler
+Homeopati
+Denetim & Analiz Hizmetleri
+Laboratuvar
+Denetim
+Biyosidal
+Sağlık Beyanı
+DUYURU & YAYINLAR
+Güncel & Duyurular
 Tüm Duyurular
-Tüm İlgili Duyurular
-Tüm İlgili Duyurular
-22.08.2026 - Kozmetik Ürünler Dairesi Başkanlığı
-Kozmetik Firmalarının Dikkatine
+İlaç Geri Çekme Duyuruları
+Önemli Duyurular
+Kurumsal Haberler
+Yayınlar & Dokümanlar
+Bilgilendirme Sunumları
+Faaliyet Raporu
+Stratejik Plan
+Performans Programı
+Tüm Duyurular ve Güncel Yayınlar Portali
+İLETİŞİM
+Site İçi Arama
+Arama
+Tümü
+İlaç
+Tıbbi Cihaz
+Kozmetik
+Mevzuat
+Duyurular
+Popüler:
+İlaç
+Tıbbi Cihaz
+Kozmetik
+Kılavuz
+Geri Çekme
+Ctrl + K
+Arama
+ESC
+Kapat
+30 AĞUSTOS ZAFER BAYRAMI
+Başkanımızın Zafer Bayramı Mesajı İçin Tıklayınız
+Geri Dön
+SAĞLIK BAKANIMIZ SAYIN PROF. DR. KEMAL MEMİŞOĞLU, KURUMUMUZU ZİYARET ETTİ
+Sağlık Bakanımız Sayın Prof. Dr. Kemal Memişoğlu, Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığı görevine başlayan Sayın Hüseyin Çelik’i göreve başlaması nedeniyle tebrik etti.
+İncele
+TİTCK’TE BAYRAK DEĞİŞİMİ
+Kurumumuzda Devir Teslim ve Veda Töreni Gerçekleştirildi
+İncele
+TÜRKİYE İLAÇ VE TIBBİ CİHAZ KURUMU’NDA DEVİR TESLİM
+Türkiye İlaç ve Tıbbi Cihaz Kurumu’nda nöbet değişimi yaşandı. TİTCK Başkanı Prof. Dr. Ahmet Ayar görevini, Hüseyin Çelik’e devretti.
+İncele
+SEKTÖR İSTİŞARE TOPLANTISI SAĞLIK BAKAN YARDIMCIMIZ DOÇ. DR. ŞUAYIP BİRİNCİ&#039;NİN KATILIMIYLA GERÇEKLEŞTİRİLDİ
+Sağlık Bakanlığı Bilkent Yerleşkesinde düzenlenen Sektör İstişare Toplantısı, Sağlık Bakan Yardımcısı Doç. Dr. Şuayıp Birinci, TİTCK Başkanı Prof. Dr. Ahmet Ayar, TİTCK yöneticileri ve sektör temsilcilerin katılımıyla gerçekleştirildi.
+İncele
+İLERİ TEDAVİ TIBBİ ÜRÜNLERİ: İNOVASYON, GELECEK PERSPEKTİFİ VE ULUSAL YOL HARİTASI ÇALIŞTAYI GERÇEKLEŞTİRİLDİ
+Sağlık Bakanımız Sayın Prof. Dr. Kemal Memişoğlu’nun liderliğinde hayata geçirilen Üreten Sağlık vizyonu çerçevesinde, “İleri Tedavi Tıbbi Ürünleri: İnovasyon, Gelecek Perspektifi ve Ulusal Yol Haritası” Çalıştayını sektör, akademi ve kamu paydaşlarımızın katılımıyla gerçekleştirildi.
+İncele
+Tüm Haberler
+HIZLI ERİŞİM
+İlaç Takip Sistemi (İTS)
+Ürün Takip Sistemi (ÜTS)
+Reçetem Sistemi
+İlaç Yan Etki Bildirimi
+Akılcı İlaç Kullanımı
+Sağlıklı Beyan Kullanımı
+Tüm Hızlı Erişimler
+Haberler
+Tümü &raquo;
+30 AĞUSTOS ZAFER BAYRAMI
+30.08.2026
+SAĞLIK BAKANIMIZ SAYIN PROF. DR. KEMAL MEMİŞOĞLU, KURUMUMUZU ZİYARET ETTİ
+15.07.2026
+TİTCK’TE BAYRAK DEĞİŞİMİ
+15.07.2026
+BAŞKAN HÜSEYİN ÇELİK’TEN GÖREVE BAŞLAMA MESAJI
+09.07.2026
+TÜRKİYE İLAÇ VE TIBBİ CİHAZ KURUMU’NDA DEVİR TESLİM
+07.07.2026
+SEKTÖR İSTİŞARE TOPLANTISI SAĞLIK BAKAN YARDIMCIMIZ DOÇ. DR. ŞUAYIP BİRİNCİ&#039;NİN KATILIMIYLA GERÇEKLEŞTİRİLDİ
+26.06.2026
+İLERİ TEDAVİ TIBBİ ÜRÜNLERİ: İNOVASYON, GELECEK PERSPEKTİFİ VE ULUSAL YOL HARİTASI ÇALIŞTAYI GERÇEKLEŞTİRİLDİ
+12.06.2026
+TİTCK BAŞKANI PROF. DR. AHMET AYAR’IN KURBAN BAYRAMI MESAJI
+27.05.2026
+Duyurular
+/
+Önemli
+Tümü &raquo;
+31.08.2026 - Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi Başkanlığı
+İlaç Fiyatlandırma ve Pazar Analiz Sistemi (İFPAS) Hakkında
 Duyuru
-18.08.2026 - İnsan Kaynakları Dairesi Başkanlığı
-01.06.2026 TARİHLİ RESMİ GAZETEDE YAYIMLANAN 16 ADET SÖZLEŞMELİ PERSONEL ALIMINA İLİŞKİN İTİRAZ DEĞERLENDİRME SONUÇLARI VE BAŞVURU DEĞERLENDİRME SONUÇLARI
-Hakkında
-18.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
-Kamuoyunun Dikkatine
-Duyuru
-17.08.2026 - Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
-EDQM 2028–2031 Orta Vadeli Stratejisine Katkı Sağlamak Üzere Paydaş Anketi
-Hakkında Duyuru
-13.08.2026 - İlaç Ruhsatlandırma Daire Başkanlığı
+31.08.2026 - Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi Başkanlığı
 İLAÇ FİRMALARININ DİKKATİNE
-RD/2026/8/2 RUHSATLI BEŞERİ TIBBİ ÜRÜNLERDE YENİDEN RUHSAT DÜZENLENMESİNİ GEREKTİREN HALLERE İLİŞKİN KILAVUZ HAKKINDA DUYURU
+Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin...
+30.08.2026 - Klinik Araştırmalar Dairesi Başkanlığı
+Klinik Araştırma Taraflarının Dikkatine
+Güncellenen Kılavuzlar Hakkında
 16.02.2026 - Bilgi Sistemleri Dairesi Başkanlığı
 ECZACI YERLEŞTİRME SİSTEMİ (EYS) 2026 YILI 1. DÖNEM YERLEŞTİRME BAŞVURUSU HK.
 DUYURU
@@ -81,34 +156,57 @@ Hakkında Duyuru
 01.06.2023 - Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
 Ulusal Seri Serbest Bırakma Yönetmeliği
 Hakkında Duyuru
-24.04.2023 - Bilgi Sistemleri Dairesi Başkanlığı
-Firmaların Dikkatine
-Hakkında Duyuru
-12.02.2023 - Bilgi Sistemleri Dairesi Başkanlığı
-REÇETEM SİSTEMİ’NDE AFET BÖLGESİNDE UYGULANACAK UYGULAMA
-HAKKINDA DUYURU
+Geri Çekmeler
+Tümü &raquo;
 18.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Kamuoyunun Dikkatine
 Duyuru
 07.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 İlaç Geri Çekme
 Hakkında Duyuru
-27.07.2026 - Denetim Hizmetleri Başkan Yardımcılığı
-Kamuoyunun Dikkatine
-DUYURU
 24.07.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Kamuoyunun Dikkatine
 DUYURU
-15.06.2026 - Denetim Hizmetleri Başkan Yardımcılığı
-İlaç Geri Çekme
-Hakkında Duyuru
-GÜNCEL DUYURULAR
-ÖNEMLİ DUYURULAR
-BLOKAJ VE GERİ ÇEKME DUYURULARI
+TİTCK DİJİTAL SİSTEMLER
+İlaç Takip Sistemi (İTS)
+Türkiye’de üretilen ve ithal edilen tüm ilaçların, üretimden hastaya ulaşana kadar her aşamada güvenli ve tekil olarak takip edilmesini sağlar.
+Detaylı Bilgi
+TİTCK DİJİTAL SİSTEMLER
+Ürün Takip Sistemi (ÜTS)
+Tıbbi cihaz ve kozmetik ürünlere ilişkin kayıt, takip ve denetim süreçlerini dijital ortamda güvenilir ve şeffaf biçimde yönetir.
+Detaylı Bilgi
+TİTCK DİJİTAL SİSTEMLER
+Reçetem Sistemi
+Reçeteli ilaçlara ilişkin işlemlerin dijital ortamda yürütülmesini sağlayarak, vatandaşların ilaç bilgilerine kolay ve güvenli erişimini destekler.
+Detaylı Bilgi
+TİTCK DİJİTAL SİSTEMLER
+İlaç Yan Etki Bildirimi (TÜFAM)
+İlaç kullanımı sırasında görülen şüpheli yan etkilerin bildirilmesine imkân tanır; ilaç güvenliliğinin sürekli izlenmesine katkı sunar.
+Detaylı Bilgi
+TİTCK DİJİTAL SİSTEMLER
+Akılcı İlaç Kullanımı
+İlaçların doğru hasta, doğru doz, doğru süre ve uygun maliyet ilkeleriyle kullanılmasını teşvik ederek tedavi güvenliğini destekler.
+Detaylı Bilgi
+TİTCK DİJİTAL SİSTEMLER
+Sağlık Beyanı Kullanımı
+Ürünlerin sağlık beyanlarının bilimsel, mevzuata uygun ve doğru şekilde değerlendirilmesine yönelik güvenilir bir başvuru süreci sunar.
+Detaylı Bilgi
+TİTCK DİJİTAL SİSTEMLER
+Eczacı Yerleştirme Sistemi (EYS)
+Eczacıların yerleştirme ve nakil süreçlerini dijital ortamda şeffaf, düzenli ve erişilebilir biçimde yönetmeye yardımcı olur.
+Detaylı Bilgi
+TİTCK DİJİTAL SİSTEMLER
+Klinik Araştırmalar
+Klinik araştırma, sağlıkla ilgili bir veya birden fazla müdahalenin, insanda sağlık sonuçları (insan sağlığı, davranışları, vücut yapısı, işlevi vb.) üzerine etkilerini araştırmak amacıyla ileriye dönük olarak insanlar üzerinde yürütülen çalışmalar olarak tanımlanır.
+Detaylı Bilgi
+1
+/
+8
 FAYDALI LİNKLER
 İlaç
 TÜFAM
 Reçete Bilgi Sistemi
+Klinik Araştırmalar Portalı (KAP)
 Kaçak Sahte İlaç Bildirim_Formu-1
 Sahte Kaçak Sahte İlaç Bildirim_Formu-2
 Kozmetik
@@ -138,10 +236,13 @@ Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi-Sıkça Sorulan S
 İlaç Ruhsatlandırma Dairesi Başvurularda Dikkat Edilmesi Gereken Hususlar – 23.06.2023
 “İlaç Ruhsatlandırma Dairesi Başvurularda Dikkat Edilmesi Gereken Hususlar - 04.11.2022
 İlaç Ruhsatlandırma Dairesi Sıkça Sorulan Sorular – 04.11.2022
+Doktor Bilgilendirme Mektupları
 Endikasyon Dışı İlaç Kullanımı
 Ek İzlemeye Tabi İlaçlar
+Sendika, Dernek ve Firma Duyuruları
 Ruhsatlandırma Yönetmeliği Madde 23 Uyg.
 İlaç Güvenlik İzlem Formlarıyla Kullanılan İlaçlar Listesi
+Risk Yönetimi Materyalleri
 Tıbbi Cihaz
 Tıbbi Cihaz Klinik Araştırma Formları
 Tıbbi Cihaz Güvensiz Ürünler
@@ -154,12 +255,9 @@ Mevzuat Güncellemesi-Kullanma Talimatı (KT) Sıkça Sorulan Sorular
 Diğer
 Sahte Kaçak Sahte İlaç Bildirim Formu-2
 Kaçak Sahte İlaç Bildirim_Formu-1
-Doktor Bilgilendirme Mektupları
-Sendika, Dernek ve Firma Duyuruları
 PR10-NUMUNE KABUL PROSEDURU
 Gönüllü Saha Güvenlik Bildirimleri
 Güvensiz Ürünler
-Risk Yönetimi Materyalleri
 Update of Public Announcements
 ÖNEMLİ LİSTELER
 İlaç
@@ -203,18 +301,32 @@ Serbest Eczane Listesi
 Sözleşmeli Farmakovijilans Hizmet Kuruluşları
 Tedarik Takipli Etkin Madde Listesi (Supply Tracked Medication List)
 Kozmetik Ürün Güvenlilik Değerlendiricisi Belgelendirme Konusunda Akredite Olmuş Kuruluşlar
-KURUMLAR
+ÇAĞRI VE BİLGİLENDİRME HATLARI
+Alo 184
+SABİM İletişim Merkezi
+Hemen Ara
+444 4 680
+TİTCK İletişim Merkezi
+Hemen Ara
+0 800 314 00 08
+Ücretsiz İlaç Yan Etki Bildirim Hattı
+Hafta içi 09:00 - 18:00
+Hemen Ara
+Alo 171
+Sigara Bırakma Hattı
+Hemen Ara
+Kurumlar
 Sağlık Bakanlığı
 Kamu Hastaneleri Genel Müdürlüğü
 Halk Sağlığı Genel Müdürlüğü
 Sosyal Güvenlik Kurumu
-HİZMETLER
+Hizmetler
 E-Nabız
 E-Devlet
 E-İşlemler
 CİMER
 SABİM
-LİNKLER
+Linkler
 Etik Komisyonu
 Türk Farmakopesi
 İlaç Takip Sistemi
@@ -227,8 +339,191 @@ Cumhurbaşkanlığı Uzaktan Eğitim Kapısı
 Logolarımız
 İLETİŞİM
 Söğütözü Mahallesi 2176.Sokak No:5 PK 06520 Çankaya/Ankara
-T: +90 (312) 218 30 00
-F: +90 (312) 218 34 60
-Kep Adresimiz:
+T:
++90 (312) 218 30 00
+F:
++90 (312) 218 34 60
+KEP:
 titck@hs01.kep.tr
-Copyright © Titck - Türkiye İlaç ve Tıbbi Cihaz Kurumu
+444 4 680
+İLETİŞİM MERKEZİ
+Çerez Politikası
+|
+Bilgi Güvenliği İhlal Bildirimi
+© 2026 T.C. Sağlık Bakanlığı - Türkiye İlaç ve Tıbbi Cihaz Kurumu. Tüm hakları saklıdır.
+ANASAYFA
+KURUMSAL
+Tüm Kurumsal Bilgi ve Raporlar Portali
+Bakanımız
+Kurum Başkanımız
+Organizasyon Şeması
+Görev Alanları
+Tarihçe
+Uluslararası İş Birlikleri
+İç Kontrol
+Kalite Yönetim Sistemi
+BGYS ve KVYS Politikamız
+Stratejik Plan
+Faaliyet Raporu
+Performans Programı
+Kurumsal Mali Durum ve Beklentiler Raporu
+Nakit Akış Tablosu
+Disiplin Soruşturması Usul ve Esasları
+MEVZUAT
+Mevzuat ve Kılavuz Kütüphanesi
+Kanunlar
+Yönetmelikler
+Tebliğler
+Kılavuzlar
+Genelgeler
+Usul ve Esaslar
+Dış Görüş Taslakları Platformu
+FAALİYET ALANLARI
+İlaç
+Tıbbi Cihaz
+Kozmetik
+Geleneksel Bitkisel Tıbbi Ürünler
+Homeopati
+Laboratuvar
+Denetim
+Biyosidal
+Sağlık Beyanı
+DUYURU & YAYINLAR
+Tüm Duyurular
+İlaç Geri Çekme Duyuruları
+Önemli Duyurular
+Kurumsal Haberler
+Bilgilendirme Sunumları
+İLETİŞİM
+Hizmetler
+Kişisel Verilerin Korunması
+TÜFAM Bildirim Sayfası
+Akılcı İlaç Kullanımı (AİK) Portalı
+Klinik Araştırmalar Portalı (KAP)
+Kurumsal E-Posta Girişi (Webmail)
+Site Dili / Language:
+TR
+EN
+T.C. SAĞLIK BAKANLIĞI
+Türkiye İlaç ve Tıbbi Cihaz Kurumu
+Hızlı Erişim ve Resmî Dijital Hizmetler Portalı
+A-
+A+
+Ctrl + K
+19 Hizmet Aktif
+Tümü
+19
+Favorilerim
+0
+Takip & İşlem
+5
+Bildirim & Başvuru
+6
+Bilgi & Mevzuat
+8
+ÖNE ÇIKAN:
+İTS
+ÜTS
+Reçetem
+TÜFAM Bildirim
+Eşleşen Dijital Hizmet Bulunamadı
+Aradığınız kriterlere uygun sonuç bulunamadı. Popüler aramalardan birini seçebilirsiniz:
+İTS
+ÜTS
+Reçetem
+TÜFAM
+EYS
+Mevzuat
+Tüm Hizmetleri Göster
+Henüz Favori Hizmet Eklenmedi
+Sık kullandığınız hizmetlerin sağ tarafındaki yıldız (★) ikonuna tıklayarak bu alana sabitleyebilirsiniz.
+Hizmetleri Keşfet
+DİJİTAL TAKİP & İŞLEM SİSTEMLERİ
+5
+İlaç Takip Sistemi (İTS)
+İlaç tekil takip ve doğrulama portalı
+its.gov.tr
+e-Devlet
+Ürün Takip Sistemi (ÜTS)
+Tıbbi cihaz ve kozmetik ürün takibi
+titck.gov.tr/uts
+Portalı
+Reçetem Sistemi
+Elektronik reçete kontrol ve onay platformu
+recetem.enabiz.gov.tr
+e-Reçete
+Eczacı Bilgilendirme (EBP)
+Eczacılık iş ve işlemleri bilgi portalı
+ebp.titck.gov.tr
+Eczacılık
+Kalite Yönetim Sistemi
+Kurumsal kalite politikaları & dokümanlar
+kalite.titck.gov.tr
+Kurumsal
+BİLDİRİM & BAŞVURU PORTALLARI
+6
+İlaç Yan Etki Bildirimi
+TÜFAM beklenmeyen ilaç yan etki formu
+who-umc.org
+Online Form
+TÜFAM Portali
+Türkiye Farmakovijilans Merkezi bilgi portalı
+titck.gov.tr/tufam
+Farmakovijilans
+Sağlık Beyanı Kullanımı
+Sağlık beyanı izin ve başvuru süreçleri
+titck.gov.tr/saglik-beyani
+Başvuru
+Eczacı Yerleştirme Sistemi (EYS)
+Eczacı Yerleştirme Sistemi portalı
+eys.titck.gov.tr
+Yerleştirme
+İlaç Geri Çekme Duyuruları
+Güncel ilaç geri çekme ve iptal kararları
+titck.gov.tr/duyurular
+Duyuru / İptal
+Klinik Araştırmalar Portalı (KAP)
+Kamuya açık veri tabanı
+kap.titck.gov.tr
+Veri Tabanı
+BİLGİ & MEVZUAT REHBERLERİ
+7
+Mevzuat Kütüphanesi
+Güncel kanun, yönetmelik ve kılavuzlar
+titck.gov.tr/mevzuat
+Mevzuat
+Dış Görüş Taslakları
+Mevzuat ve kılavuz taslak görüş platformu
+ebs.titck.gov.tr
+Görüş Platformu
+Akılcı İlaç Kullanımı
+Bilinçli ilaç ve antibiyotik kullanımı
+akilciilac.titck.gov.tr
+Rehber
+Kişisel Verilerin Korunması
+KVKK politikaları ve aydınlatma metinleri
+titck.gov.tr/verikoruma
+KVKK
+BGYS ve KVYS Politikası
+Bilgi ve veri güvenliği kurumsal ilkeleri
+titck.gov.tr/bgys
+Bilgi Güvenliği
+Faaliyet Raporları
+Yıllık kurumsal performans & idare raporları
+titck.gov.tr/raporlar
+Raporlar
+İletişim & Santral Rehberi
+Kurum adres, telefon ve santral rehberi
+titck.gov.tr/iletisim
+Rehber
+Klinik Araştırmalar
+Klinik araştırma portalları ve başvuru modülleri
+titck.gov.tr/kap
+Portallar
+Sistemler Aktif & Çevrim İçi
+•
+T.C. Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu Resmî Dijital Portalı
+Pencereyi Kapat
+ESC
+✓
+İşlem gerçekleştirildi
