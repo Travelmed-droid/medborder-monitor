@@ -200,6 +200,8 @@ Observatorio de Precios
 Repositorio Institucional
 Revista Ciencia, Política y Regulación Farmacéutica
 Preguntas Frecuentes
+Digemid reunió a expertos nacionales e internacionales para fortalecer la farmacovigilancia y tecnovigilancia en el país
+Con el objetivo de fortalecer las capacidades de los profesionales de la salud, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid) realizó la Reunión Técnica Internacional sobre farmacovigilancia y tecnovigilancia, evento que convocó a especialistas nacionales y extranjeros y que permitió actualizar los conocimientos para el análisis y gestión del riesgo asociado al uso de productos farmacéuticos, dispositivos médicos y productos sanitarios.
 Digemid incauta más de cinco toneladas de detergentes para ropa de bebé falsificados en San Juan de Miraflores
 Más de cinco toneladas de detergentes para ropa de bebé, productos de higiene personal y cosméticos fueron incautados durante un operativo conjunto ejecutado por la Dirección General de Medicamentos, Insumos y Drogas (Digemid) del Ministerio de Salud (Minsa), el Ministerio Público y la División de Operaciones Especiales Escuadrón Verde de la Policía Nacional del Perú, en el distrito de San Juan de Miraflores.
 Digemid fortalece control sanitario internacional con 19 nuevas inspecciones a laboratorios farmacéuticos que abastecen al Perú
@@ -208,8 +210,6 @@ Minsa y Essalud articulan acciones para garantizar medicamentos críticos para p
 Como parte de las acciones impulsadas por el ministro de Salud, Luis Dyer, se viene fortaleciendo la articulación con EsSalud para prevenir riesgos de desabastecimiento y contribuir a garantizar la continuidad de los tratamientos de pacientes que requieren medicamentos críticos.
 Digemid advierte sobre los riesgos de combinar medicamentos con bebidas alcohólicas
 Con el propósito de proteger la salud de la población y promover el uso seguro y responsable de los medicamentos, la Dirección General de Medicamentos, Insumos y Drogas (Digemid) del Ministerio de Salud recomendó a la ciudadanía evitar el consumo de bebidas alcohólicas durante un tratamiento farmacológico, salvo que un profesional de la salud confirme que no existe riesgo de interacción.
-Ministro de Salud supervisa Digemid para garantizar medicinas seguras y a precios justos para todos los peruanos
-Con el firme objetivo de llevar la regulación farmacéutica a un nivel superior, el ministro de Salud, Luis Dyer Fernández, lideró una visita clave a la Dirección General de Medicamentos, Insumos y Drogas (Digemid) para anunciar un plan para potenciar las capacidades técnicas y tecnológicas de la entidad, garantizar el acceso inmediato a medicamentos seguros, de calidad y a precios justos para todos los peruanos y una evaluación integral de las acciones adoptadas para erradicar definitivamente los fármacos falsificados del mercado nacional.
 Comunicados Oficiales
 Comunicados Principales emitidos por la Dirección General de Medicamentos Insumos y Drogas
 Comunicados
@@ -261,29 +261,29 @@ Sanciones administrativas por infracciones a la Ley de los Productos Farmacéuti
 Alertas
 Alertas sobre Productos Farmacéuticos y Dispositivos Médicos emitidas por la DIGEMID
 Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 100-2026
-Vitamin B12 Cholo 2 Narturmedizin Megacilina
-17/08/2026
+ALERTA DIGEMID Nº 107-2026
+RETATRUTIDE
+04/09/2026
 Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 99-2026
-Mandil descartable
-17/08/2026
+ALERTA DIGEMID Nº 106-2026
+PANADOL, GRAVOL, DOLOCORDRALAN
+04/09/2026
+Alertas, Alertas y Modificaciones, Control de Calidad
+ALERTA DIGEMID Nº 105-2026
+KENALER (Ketotifeno)
+31/08/2026
 Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 98-2026
-Panadol
-17/08/2026
+ALERTA DIGEMID Nº 104-2026
+CHANCE EAU TENDRE EAU DE TOILETTE, HUGO HUGO BOSS MAN EAU DE TOILETTE
+31/08/2026
 Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 97-2026
-RITALIN/CLONAZEPAN/FLUNITRAZEPAM
-17/08/2026
+ALERTA DIGEMID Nº 103-2026
+EURIALE Acondicionador Natural
+31/08/2026
 Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 96-2026
-ELVENIR web VITALDOSE
-17/08/2026
-Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 95-2026
-ELVENIR web ELVEYFENTER
-17/08/2026
+ALERTA DIGEMID Nº 102-2026
+VYVANSE (lisdexanfetamina)
+31/08/2026
 Sitios de Interés
 Puede consultar las páginas de interés relacionadas
 Normas Legales
@@ -294,9 +294,7 @@ Amplían plazos establecidos en el artículo 2 de la Resolución Ministerial N°
 13/07/2026
 Normas Legales, Resolución Directoral
 Resolución Directoral N° 063-2026-DIGEMID-DG-MINSA
-Descripción:
-Listado de Documentos Considerados Equivalentes al Certificado de Buenas Prácticas de Manufactura.
-Descargar Documento
+Listado de Documentos Considerados Equivalentes al Certificado de Buenas Prácticas de Manufactura
 12/06/2026
 Normas Legales, Resolución Ministerial
 Resolución Ministerial N° 548-2026/MINSA
@@ -306,8 +304,6 @@ Normas Legales, Resolución Ministerial
 Resolución Ministerial N° 193-2026/MINSA
 Aprobar el Documento Técnico: Manual para la estimación y programacion de Productos Farmacéuticos, Dispositivos Médicos y Produtos Sanitarios en las...
 12/03/2026
-Comunicado 012
-Comunicado 013
 Sede Central DIGEMID
 Dirección:
 Dirección:: Av. Parque de las Leyendas 240, San Miguel

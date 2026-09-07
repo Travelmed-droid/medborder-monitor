@@ -19,7 +19,7 @@ Quipux Sistema de Gestión Documental
 Trámites Ciudadanos
 Firma Electrónica
 Participación
-Contacto Ciudadano
+Contacto Ciudadano Digital
 Seguridad Social
 Trabajo
 Tributos
@@ -36,11 +36,9 @@ Administración
 Gobierno por Resultado
 Info Digital
 Quipux Sistema de Gestión Documental
-Viajes
 Sistema Nacional de Información
 Participación
-Contacto Ciudadano
-Tramitón
+Contacto Ciudadano Digital
 Salud
 Comercio
 Compras Públicas
@@ -54,44 +52,24 @@ El Presidente
 La Presidencia
 Palacio de Gobierno
 Vicepresidencia de la República
-El Vicepresidente
+La Vicepresidenta
 La Vicepresidencia
 Programas / Servicios
-Secretarías Nacionales
-Comunicación
-Gestión de la Política
-Planificación y Desarrollo
+Ministerios
+Ministerio de Ambiente y Energía
+Ministerio de Defensa Nacional
+Ministerio de Desarrollo Económico y Productivo
+Ministerio de Educación Deporte y Cultura
+Misterio de Gobierno
+Ministerio de Infraestructura y Tecnología
+Ministerio del Interior
+Ministerio de Relaciones Exteriores y Movilidad Humana
+Ministerio de Salud Pública
+Ministerio de Trabajo y Desarrollo Humano
 Secretarías
-Agua
-Educación Superior, Ciencia, Tecnología e Innovación
-Gestión de Riesgos
-Secretaría Técnica de Gestión Inmobiliaria del Sector Público
-Ministerios de la ( A - D )
-Agricultura y Ganadería
-Acuacultura y Pesca
-Ambiente
-Comercio Exterior
-Cultura y Patrimonio
-Defensa Nacional
-Deporte
-Desarrollo Urbano y Vivienda
-Ministerios de la ( E - J )
-Educación
-Electricidad y Energía Renovable
-Economía y Finanzas
-Hidrocarburos
-Inclusión Económica y Social
-Industrias y Productividad
-Gobierno
-Ministerios de la ( M - T )
-Minería
-Relaciones Exteriores y Movilidad Humana
-Salud Pública
-Telecomunicaciones y de la Sociedad de la Información
-Transporte y Obras Públicas
-Trabajo
-Turismo
-Mujer y Derechos Humanos
+Secretaría General de comunicación
+Secretaría Nacional de Gestión de Riesgos
+Centro Nacional de Inteligencia
 twitter
 facebook
 youtube
@@ -121,12 +99,12 @@ Actual
 pausa
 Arcsa
 AINEs
-MI CASA, MI SUEÑO HECHO REALIDAD.
+Data 593
 Lotes de productos contaminados
 Encuentra información al instante de los acontecimientos importantes generados por la Arcsa
 Arcsa
 AINEs
-MI CASA, MI SUEÑO HECHO REALIDAD.
+Data 593
 Lotes de productos contaminados
 Encuentra información al instante de los acontecimientos importantes generados por la Arcsa
 Servicios

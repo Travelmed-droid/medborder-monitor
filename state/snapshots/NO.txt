@@ -290,6 +290,9 @@ Systemer og prosedyresett med medisinsk utstyr
 Tilsyn med produsenter
 Overv&#xE5;king etter at utstyr er plassert p&#xE5; markedet
 Programvare som medisinsk utstyr
+Programvare som medisinsk utstyr
+Kvalifisering og klassifisering av programvare
+Krav for programvare som medisinsk utstyr
 Omsetning
 Meldeplikt ved mangel p&#xE5; medisinsk utstyr
 Ulike roller for markedsdeltakere
@@ -637,6 +640,7 @@ Forsyningssikkerhet og beredskap
 Medisinsk utstyr
 Veiledning og regelverk
 Utvikling og produksjon
+Programvare som medisinsk utstyr
 Omsetning
 Eudamed
 Klinisk utpr&#xF8;ving av medisinsk utstyr
@@ -715,6 +719,12 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
+Utredning av alternativkostnaden tildelt
+Publisert:
+04.09.2026
+Tillatelser til fellesnordiske engelskspr&#xE5;klige pakninger forlenges
+Publisert:
+02.09.2026
 Trygg bruk av KI krever kunnskap og veiledning
 Publisert:
 26.08.2026
@@ -727,15 +737,6 @@ Publisert:
 Nytt om legemidler nr. 9 2026
 Publisert:
 18.08.2026
-H&#xF8;ring om endringer i forskrift for medisinsk utstyr
-Publisert:
-17.08.2026
-Markedsf&#xF8;ringstillatelsen til &#x25BC;Tavneos er tilbakekalt
-Publisert:
-16.07.2026
-|
-Oppdatert:
-17.08.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook

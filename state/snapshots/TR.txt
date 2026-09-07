@@ -51,12 +51,12 @@ FAALİYET ALANLARI
 İlaç
 Tıbbi Cihaz
 Kozmetik
+Biyosidal
 Geleneksel Bitkisel Tıbbi Ürünler
 Homeopati
 Denetim & Analiz Hizmetleri
-Laboratuvar
 Denetim
-Biyosidal
+Laboratuvar
 Sağlık Beyanı
 DUYURU & YAYINLAR
 Güncel & Duyurular
@@ -89,23 +89,32 @@ Ctrl + K
 Arama
 ESC
 Kapat
-30 AĞUSTOS ZAFER BAYRAMI
-Başkanımızın Zafer Bayramı Mesajı İçin Tıklayınız
-Geri Dön
-SAĞLIK BAKANIMIZ SAYIN PROF. DR. KEMAL MEMİŞOĞLU, KURUMUMUZU ZİYARET ETTİ
-Sağlık Bakanımız Sayın Prof. Dr. Kemal Memişoğlu, Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanlığı görevine başlayan Sayın Hüseyin Çelik’i göreve başlaması nedeniyle tebrik etti.
+GETAT Duyurusu
+Kongre ve Detaylı Bilgi İçin Tıklayınız.
+Afişe Dön
+T.C. Sağlık Bakanlığı
+Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK)
+Dış Bağlantı ve Resmi Hizmet Bilgilendirmesi
+Değerli Ziyaretçimiz, ilgili resmi işlem/bilgi sayfasına yönlendiriliyorsunuz. Hedef adrese güvenle devam etmek için lütfen onaylayınız.
+Hedef Bağlantı:
+https://ecim2026turkiye.org/
+Vazgeç / Sayfada Kal
+Sayfaya Devam Et
+Bağlantı yeni bir sekmede açılacaktır. Popup 1 hafta boyunca size tekrar gösterilmeyecektir.
+Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin Kılavuz Hakkında Duyuru
+&quot;Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin Kılavuz&quot; 31 Ağustos 2026 tarihinde yayımlanmıştır.
 İncele
-TİTCK’TE BAYRAK DEĞİŞİMİ
-Kurumumuzda Devir Teslim ve Veda Töreni Gerçekleştirildi
+Beşeri Tıbbi Ürünlerin Fiyatlandırılması Hakkında Tebliğ
+Beşeri Tıbbi Ürünlerin Fiyatlandırılması Hakkında Tebliği, 29 Ağustos 2026 tarihli ve 33355 sayılı Resmi Gazete’de yayımlandı.
 İncele
-TÜRKİYE İLAÇ VE TIBBİ CİHAZ KURUMU’NDA DEVİR TESLİM
-Türkiye İlaç ve Tıbbi Cihaz Kurumu’nda nöbet değişimi yaşandı. TİTCK Başkanı Prof. Dr. Ahmet Ayar görevini, Hüseyin Çelik’e devretti.
+TOBB Medikal Meclisi’nde Tıbbi Cihazların Dış Ticaret Süreçleri Değerlendirildi
+Tıbbi cihazların dış ticaret süreçlerinin değerlendirildiği toplantı TOBB ev sahipliğinde 27 Ağustos 2026 tarihinde Ankara’da gerçekleştirildi.
 İncele
-SEKTÖR İSTİŞARE TOPLANTISI SAĞLIK BAKAN YARDIMCIMIZ DOÇ. DR. ŞUAYIP BİRİNCİ&#039;NİN KATILIMIYLA GERÇEKLEŞTİRİLDİ
-Sağlık Bakanlığı Bilkent Yerleşkesinde düzenlenen Sektör İstişare Toplantısı, Sağlık Bakan Yardımcısı Doç. Dr. Şuayıp Birinci, TİTCK Başkanı Prof. Dr. Ahmet Ayar, TİTCK yöneticileri ve sektör temsilcilerin katılımıyla gerçekleştirildi.
+Beşeri Tıbbi Ürünlerin İsimlendirmesine Dair Kılavuz Hakkında Duyuru
+&quot;Beşeri Tıbbi Ürünlerin İsimlendirmesine Dair Kılavuz&quot; 1 Ağustos.2026 tarihinde yayımlanmıştır.
 İncele
-İLERİ TEDAVİ TIBBİ ÜRÜNLERİ: İNOVASYON, GELECEK PERSPEKTİFİ VE ULUSAL YOL HARİTASI ÇALIŞTAYI GERÇEKLEŞTİRİLDİ
-Sağlık Bakanımız Sayın Prof. Dr. Kemal Memişoğlu’nun liderliğinde hayata geçirilen Üreten Sağlık vizyonu çerçevesinde, “İleri Tedavi Tıbbi Ürünleri: İnovasyon, Gelecek Perspektifi ve Ulusal Yol Haritası” Çalıştayını sektör, akademi ve kamu paydaşlarımızın katılımıyla gerçekleştirildi.
+Kozmetik Ürünlerde Kullanılan Parfüm Alerjenlerinin Etiketlenmesine İlişkin Kılavuz Hakkında Duyuru
+&quot;Kozmetik Ürünlerde Kullanılan Parfüm Alerjenlerinin Etiketlenmesine İlişkin Kılavuz&quot; 11.06.2026 tarihinde yayımlanmıştır.
 İncele
 Tüm Haberler
 HIZLI ERİŞİM
@@ -114,47 +123,43 @@ HIZLI ERİŞİM
 Reçetem Sistemi
 İlaç Yan Etki Bildirimi
 Akılcı İlaç Kullanımı
-Sağlıklı Beyan Kullanımı
+Sağlık Beyanı
 Tüm Hızlı Erişimler
 Haberler
 Tümü &raquo;
-30 AĞUSTOS ZAFER BAYRAMI
-30.08.2026
+Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin Kılavuz Hakkında Duyuru
+05.09.2026
+Beşeri Tıbbi Ürünlerin İsimlendirmesine Dair Kılavuz Hakkında Duyuru
+05.09.2026
+Kozmetik Ürünlerde Kullanılan Parfüm Alerjenlerinin Etiketlenmesine İlişkin Kılavuz Hakkında Duyuru
+05.09.2026
+Beşeri Tıbbi Ürünlerin Fiyatlandırılması Hakkında Tebliğ
+04.09.2026
+TOBB Medikal Meclisi’nde Tıbbi Cihazların Dış Ticaret Süreçleri Değerlendirildi
+03.09.2026
 SAĞLIK BAKANIMIZ SAYIN PROF. DR. KEMAL MEMİŞOĞLU, KURUMUMUZU ZİYARET ETTİ
 15.07.2026
-TİTCK’TE BAYRAK DEĞİŞİMİ
-15.07.2026
-BAŞKAN HÜSEYİN ÇELİK’TEN GÖREVE BAŞLAMA MESAJI
-09.07.2026
-TÜRKİYE İLAÇ VE TIBBİ CİHAZ KURUMU’NDA DEVİR TESLİM
-07.07.2026
-SEKTÖR İSTİŞARE TOPLANTISI SAĞLIK BAKAN YARDIMCIMIZ DOÇ. DR. ŞUAYIP BİRİNCİ&#039;NİN KATILIMIYLA GERÇEKLEŞTİRİLDİ
-26.06.2026
-İLERİ TEDAVİ TIBBİ ÜRÜNLERİ: İNOVASYON, GELECEK PERSPEKTİFİ VE ULUSAL YOL HARİTASI ÇALIŞTAYI GERÇEKLEŞTİRİLDİ
-12.06.2026
-TİTCK BAŞKANI PROF. DR. AHMET AYAR’IN KURBAN BAYRAMI MESAJI
-27.05.2026
 Duyurular
 /
 Önemli
 Tümü &raquo;
+03.09.2026 - Klinik Araştırmalar Dairesi Başkanlığı
+Klinik Araştırma Taraflarının Dikkatine
+Ulusal SUSAR Modülü ve SUSAR Bildirimleri Hakkında
+01.09.2026 - KURUM BAŞKANI
+KAMUOYUNUN DİKKATİNE
+Hakkında
 31.08.2026 - Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi Başkanlığı
 İlaç Fiyatlandırma ve Pazar Analiz Sistemi (İFPAS) Hakkında
 Duyuru
-31.08.2026 - Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi Başkanlığı
-İLAÇ FİRMALARININ DİKKATİNE
-Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin...
-30.08.2026 - Klinik Araştırmalar Dairesi Başkanlığı
-Klinik Araştırma Taraflarının Dikkatine
-Güncellenen Kılavuzlar Hakkında
+01.09.2026 - KURUM BAŞKANI
+KAMUOYUNUN DİKKATİNE
+Hakkında
 16.02.2026 - Bilgi Sistemleri Dairesi Başkanlığı
 ECZACI YERLEŞTİRME SİSTEMİ (EYS) 2026 YILI 1. DÖNEM YERLEŞTİRME BAŞVURUSU HK.
 DUYURU
 29.12.2023 - Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi Başkanlığı
 Ecza Ticarethanesi Haricinde Yapılacak İhracat Koşullarına İlişkin Kılavuz
-Hakkında Duyuru
-01.06.2023 - Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
-Ulusal Seri Serbest Bırakma Yönetmeliği
 Hakkında Duyuru
 Geri Çekmeler
 Tümü &raquo;
@@ -382,11 +387,11 @@ FAALİYET ALANLARI
 İlaç
 Tıbbi Cihaz
 Kozmetik
+Biyosidal
 Geleneksel Bitkisel Tıbbi Ürünler
 Homeopati
-Laboratuvar
 Denetim
-Biyosidal
+Laboratuvar
 Sağlık Beyanı
 DUYURU & YAYINLAR
 Tüm Duyurular

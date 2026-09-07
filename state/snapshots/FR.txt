@@ -159,7 +159,7 @@ Publié le 02/07/2026
 Surveillance
 Contrôles
 Publié le 21/11/2025
-- Mis à jour le 26/08/2026
+- Mis à jour le 07/09/2026
 Allonger la durée de conservation des médicaments dans un objectif de réduction du gaspillage et de la pollution
 Bon usage
 Recommandations
@@ -169,56 +169,57 @@ Surveillance
 Pharmacovigilance
 Plus d&#039;actualités
 Informations de sécurité
-31/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Ventilateur d&#039;anesthésie – Systèmes d’anesthésie Aisys et AisysCS2 – GE Healthcare / Datex-Ohmeda
-31/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Bactériologie – Automates DxU 840m Iris, DxU 850m Iris, IQ200 Elite, IQ200 Select, IQ200 Sprint – Beckman Coulter
-31/08/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Mycologie – Réactif Yeastone Broth, 11ML – Thermo Fisher Scientific
-28/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Holter ECG implantable – Logiciel serveur Latitude Clarity pour la gamme de dispositifs de MCI LUX-Dx – Boston Scientific Corporation
-28/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Logiciel Engage V7.47 – Exolis
-19/02/2026
-- MIS À JOUR LE 28/08/2026
+07/09/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Garrot électro-pneumatique auto-régulé – Zimmer Tourniquet Systems – Zimmer Biomet
-27/08/2026
+Endoprothèse Gore Viabahn à revêtement bioactif à l’héparine / Propaten – Gore
+07/09/2026
 INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Dispositif hémostatique – Hemospray Endoscopic Hemostat. – Wilson-Cook Medical, Inc.
-27/07/2026
-- MIS À JOUR LE 27/08/2026
+Dispositifs médicaux de diagnostic in vitro
+Biochimie – Réactif Atellica CH Revised C-Reactive Protein (RCRP) – Siemens Healthcare Diagnostics
+07/09/2026
 RAPPEL DE PRODUIT
+Dispositifs médicaux
+Dispositif d’irrigation/aspiration StrykeFlow PS et tubulures Atho – Stryker
+09/03/2026
+- MIS À JOUR LE 07/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Chirurgie assistée par ordinateur – Instruments da Vinci S et Si réutilisables à mâchoires – Intuitive Surgical
+13/01/2025
+- MIS À JOUR LE 07/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Chirurgie assistée par ordinateur – Instruments da Vinci X et Xi – Intuitive Surgical
+13/03/2024
+- MIS À JOUR LE 07/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Trocart à ballonnet structurel Auto Suture et trocart à pointe émoussée Auto Suture de Covidien – Medtronic
+04/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Circuit de ventilation patient – VentStar Resus Neo et VentStar Resuscitaire – Dräger
+04/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Appareil de radiologie interventionnelle - RX – Intuis – Philips Medical Systems Nederland BV
+03/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Produit viscoélastique – Eyefill C – Bausch & Lomb
+03/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Système d&#039;anesthésie – Carestation 850 et Carestation 850c – Datex Ohmeda / GE HealthCare
+03/09/2026
+INFORMATION AUX UTILISATEURS
 Dispositifs médicaux de diagnostic in vitro
-Bactériologie – Réactif Neisseria meningitidis Gp C 2ml/VL – Remel
-25/08/2026
+Réactif MAS Omni Immune Pro – Microgenics Corporation, Thermo Fisher Scientific
+03/09/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
-Ventilateur de réanimation – Systèmes IPV (IPV 1; IPV-1C; IPV-2C; Impulsator; Travel Air; IPV-HC) – Percussionnaire Corporation / Sentec
-25/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Bactériologie – Réactifs Biofire Filmarray Pneumonia plus Panel et Biofire Joint Infection Panel – Biofire Diagnostics
-24/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-LAP : logiciel d&#039;aide à la prescription – Orbis Medication 3.x – DH Healthcare GmbH
-24/08/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Appareil de radiologie interventionnelle - RX – Philips Azurion system 3.1 – Philips Medical Systems Nederland BV
+Fauteuil roulant électrique – Système d’assistance électrique e-Motion M25 – Alber GmbH
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire

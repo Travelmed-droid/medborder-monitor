@@ -155,13 +155,13 @@ Direktif
 Direktif1
 images/2026/Home-Banner-template-DRGD-July-2026-Slide1.jpg
 MORE
-images/2026/banner/THMS_1.png
-Click Here
 images/2026/banner/Kaji_1.png
 images/2026/banner/LR-2027-Desktop-1750-x-400-px_1.jpg
 MORE
 images/2026/banner/MADRAC-Vol_61_1750--400-px_1.png
 MORE
+images/2026/banner/Workshop_BI.png
+Click Here
 MedSafetyWeek-2025-mobile-banner-600-x-600-px.png
 E-labelling_.jpg
 images/2026/banner/Untitled_design_mobile_2png.png
@@ -182,13 +182,13 @@ direktif
 guideline
 images/2026/Home-Banner-template-DRGD-July-2026-Slide2.jpg
 MORE
-images/2026/banner/THMS_6.png
-Click Here
 images/2026/banner/Kaji_600x600.png
 images/2026/banner/LR-2027-Mobile-600-x-600-px.jpg
 MORE
 images/2026/banner/MADRAC-Vol_61_600-x-600-px.png
 MORE
+images/2026/banner/workshop_mobile.png
+Click Here
 Consumers
 ConSERF, AEFI Reporting, RiMUP, Product Cancellation & etc
 Health Professionals
@@ -275,12 +275,7 @@ Safety Signal Alert: Vancomycin-Severe Cutaneous Adverse Drug Reaction (SCARs)
 Jul
 GLP-1 and Dual GLP-1/GIP Receptor Agonists: Risk of Severe Acute Pancreatitis
 View All Safety Alerts
-04 Sep 2025
-;
-08:00AM
--
-05:00PM
-Bengkel Pengujian Kawalan Kualiti Bahan Mentah Herba Bagi Produk Semulajadi
+No events
 View Full Calendar
 National Pharmaceutical Regulatory Agency (NPRA)
 Lot 36, Jalan Universiti (Jalan Prof Diraja Ungku Aziz), 46200 Petaling Jaya, Selangor, Malaysia.
@@ -303,7 +298,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Friday 28 August 2026, 16:21:59.
+Last Modified: Wednesday 02 September 2026, 09:18:56.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -449,4 +444,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 31 Aug 2026
+Monday, 7 Sep 2026

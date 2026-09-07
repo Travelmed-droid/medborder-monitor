@@ -762,36 +762,28 @@ Licensing
 Pharmacovigilance
 Information on medicinal products
 News
+Latest information on the allocation of
+EU
+procedure numbers and time slots (01.09.2026)
+Date:
+2026.09.01
+Topics:
+Licensing
+Update on allocation of
+DCP
+slots
+National Licensing Procedures
+Date:
+2026.09.01
+Topics:
+Licensing
+Guide to the Submission of Applications for Marketing Authorisation of Medicinal Products
 Submission of Variations
 Date:
 2026.07.28
 Topics:
 Licensing
 Submission of Variations
-Pharmacovigilance Risk Assessment Committee (
-PRAC
-)
-Date:
-2026.06.18
-Topics:
-Arzneimittelsicherheit
-Pharmakovigilanz
-The European Medicines Agency's (
-EMA
-) Pharmacovigilance Risk Assessment Committee is responsible for assessing and monitoring safety issues for human medicines; it is the successor to the Pharmacovigilance Working Party (
-PhVWP
-) of the Committee for Medicinal Products for Human Use (
-CHMP
-).
-FAQ
-"Variations" (as of May 2026)
-Date:
-2026.06.09
-Topics:
-Licensing
-The
-FAQ
-on Groupings have been updated to include the question of whether horizontal groupings pursuant to Article 13 (d) of the Variation Regulation are subject to the obligation to submit an annual update.
 More news on the subject
 Clinical Trials
 Clinical trials are intended to prove the efficacy of new medicinal products and to demonstrate their safety. Clinical trials are performed before the product concerned is placed on the market and they have to be approved in Germany by the respective competent federal higher authority.
