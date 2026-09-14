@@ -62,9 +62,9 @@ Kosttilskudd til FEST og FHIR-tjenesten
 Produktinformasjon
 Preparatomtale og pakningsvedlegg
 Internasjonale enheter (IE) og Enhet (E) har ulik betydning
+Templater og veiledninger
 Digitalt pakningsvedlegg
 Merking
-QRD-templater
 Implementeringsfrist for merking og pakningsvedlegg
 S&#xF8;knad om batchspesifikke unntak relatert til produktinformasjon
 Anbefalinger om oppdateringer
@@ -719,6 +719,15 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
+Ny sikkerhetsmodul for &#xE5;rsrapporter i Clinical Trials Information System (CTIS)
+Publisert:
+09.09.2026
+Nytt om legemidler nr. 10 2026
+Publisert:
+08.09.2026
+Nytt om diabeteslegemidler og bl&#xE5; resept
+Publisert:
+08.09.2026
 Utredning av alternativkostnaden tildelt
 Publisert:
 04.09.2026
@@ -728,15 +737,6 @@ Publisert:
 Trygg bruk av KI krever kunnskap og veiledning
 Publisert:
 26.08.2026
-&#xD8;nsker innspill til avtalemodeller for store pasientgrupper
-Publisert:
-21.08.2026
-Tilberedning av infusjonspreparater til bruk i IV-terapi kan kreve tilvirkertillatelse
-Publisert:
-20.08.2026
-Nytt om legemidler nr. 9 2026
-Publisert:
-18.08.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook
@@ -757,6 +757,7 @@ Ledige stillinger
 Presse
 Om oss
 Innhold A-&#xC5;
+Varsling om kritikkverdige forhold
 Legemiddels&#xF8;k
 Pasientinformasjon p&#xE5; helsenorge.no
 Abonner p&#xE5; e-postvarsler

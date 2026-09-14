@@ -576,30 +576,26 @@ International Collaborations
 To overview: International Collaborations
 GHPP
 To overview: GHPP
-PharmTrain2
-To overview: PharmTrain2
+PharmTrain3
+To overview: PharmTrain3
 All reports
 eLearning
 Guidelines
-Capacity Development
-Harmonisation
-Structure Development
 Publications
+Manuals
 LabTrain
 To overview: LabTrain
 All reports
 ICH - The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use
 GHPP
 To overview: GHPP
-PharmTrain2
-To overview: PharmTrain2
+PharmTrain3
+To overview: PharmTrain3
 All reports
 eLearning
 Guidelines
-Capacity Development
-Harmonisation
-Structure Development
 Publications
+Manuals
 LabTrain
 To overview: LabTrain
 All reports
@@ -764,9 +760,9 @@ Information on medicinal products
 News
 Latest information on the allocation of
 EU
-procedure numbers and time slots (01.09.2026)
+procedure numbers and time slots (08.09.2026)
 Date:
-2026.09.01
+2026.09.08
 Topics:
 Licensing
 Update on allocation of

@@ -143,14 +143,14 @@ Duyurular
 /
 Önemli
 Tümü &raquo;
-03.09.2026 - Klinik Araştırmalar Dairesi Başkanlığı
+14.09.2026 - Klinik Araştırmalar Dairesi Başkanlığı
 Klinik Araştırma Taraflarının Dikkatine
-Ulusal SUSAR Modülü ve SUSAR Bildirimleri Hakkında
-01.09.2026 - KURUM BAŞKANI
-KAMUOYUNUN DİKKATİNE
-Hakkında
-31.08.2026 - Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi Başkanlığı
-İlaç Fiyatlandırma ve Pazar Analiz Sistemi (İFPAS) Hakkında
+Güncellenen/Hazırlanan Formlar ve Üst Yazı Örnekle...
+14.09.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+Tüm Sağlık Kuruluşlarının Dikkatine
+Duyuru
+11.09.2026 - Kozmetik Denetim Dairesi Başkanlığı
+Güncellenen Kılavuz Hakkında
 Duyuru
 01.09.2026 - KURUM BAŞKANI
 KAMUOYUNUN DİKKATİNE
@@ -163,15 +163,15 @@ Ecza Ticarethanesi Haricinde Yapılacak İhracat Koşullarına İlişkin Kılavu
 Hakkında Duyuru
 Geri Çekmeler
 Tümü &raquo;
+14.09.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+Tüm Sağlık Kuruluşlarının Dikkatine
+Duyuru
 18.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Kamuoyunun Dikkatine
 Duyuru
 07.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 İlaç Geri Çekme
 Hakkında Duyuru
-24.07.2026 - Denetim Hizmetleri Başkan Yardımcılığı
-Kamuoyunun Dikkatine
-DUYURU
 TİTCK DİJİTAL SİSTEMLER
 İlaç Takip Sistemi (İTS)
 Türkiye’de üretilen ve ithal edilen tüm ilaçların, üretimden hastaya ulaşana kadar her aşamada güvenli ve tekil olarak takip edilmesini sağlar.
@@ -270,7 +270,7 @@ Araç Uyarı Üçgenleri ATC Kodları Seviye Listesi
 Yurt Dışı Etkin Madde Listesi
 Ruhsatlı Ürünler Listesi
 Küb / Kt Listesi
-Detaylı İlaç Fiyat Listesi
+İlaç Fiyat Listesi
 Ruhsat İptal Listesi
 Etkin Madde Listesi
 Takvimlendirme listesi
@@ -291,9 +291,8 @@ Seri Serbest Bırakma Sertifikası Düzenlenen Ürün Listesi
 GBTÜ
 Tıbbi Bitki Listesi
 Ruhsatlı GBTÜ
-Özel Tıbbi Amaçlı Gıda
-Özel Tıbbi Amaçlı Gıda
 Diğer
+Özel Tıbbi Amaçlı Gıda
 Kurum Hizmetleri Fiyat Tarifesi
 Kurumumuzca Yurt Dışı GMP Denetimi Yapılan Tesis ve Denetlenen Faaliyetlere Ait Liste (2017-2020)
 Ürün Tipi-1 ve Ürün Tipi-19 İzinli Biyosidal Ürünler Listesi
@@ -306,6 +305,7 @@ Serbest Eczane Listesi
 Sözleşmeli Farmakovijilans Hizmet Kuruluşları
 Tedarik Takipli Etkin Madde Listesi (Supply Tracked Medication List)
 Kozmetik Ürün Güvenlilik Değerlendiricisi Belgelendirme Konusunda Akredite Olmuş Kuruluşlar
+Aktarma Merkezleri Listesi
 ÇAĞRI VE BİLGİLENDİRME HATLARI
 Alo 184
 SABİM İletişim Merkezi

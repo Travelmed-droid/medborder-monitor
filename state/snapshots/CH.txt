@@ -75,6 +75,19 @@ Schliessen
 Visible
 Aktuelles
 Alle Updates anzeigen
+10.09.2026
+Neue Leitlinie &laquo;Schweizerische Gute Praxis der Materiovigilance in der In-vitro-Diagnostik&raquo; (GPMV-IVD)
+Swissmedic ver&ouml;ffentlicht die neue &laquo;Schweizerische Gute Praxis der Materiovigilance in der In-vitro-Diagnostik&raquo; (GPMV-IVD). Diese Leitlinie unterst&uuml;tzt Fachpersonen, die In-vitro-Diagnostika (IVD) f&uuml;r medizinische Zwecke anwenden, sowie Personen, die f&uuml;r die Umsetzung der Materiovigilance im Bereich In-vitro-Diagnostik verantwortlich sind
+10.09.2026
+DHPC &ndash; Tavneos&reg; (Avacopan)
+Negatives Nutzen-Risiko-Verh&auml;ltnis &ndash; Widerruf der Zulassung
+09.09.2026
+Swissmedic Journal
+Aktuelle Ausgabe
+Swissmedic Journal August 2026
+08.09.2026
+Chargenr&uuml;ckruf &ndash; Cosyrel, Filmtabletten / Coversum N 10 mg, Filmtabletten
+R&uuml;ckrufe der erw&auml;hnten Chargen bis auf Stufe Detailhandel
 07.09.2026
 Out-of-Stock &ndash; Nordimet 7.5 mg/0.3 ml, Injektionsl&ouml;sung im Fertigpen
 Befristete Bewilligung zum Vertrieb in irischer Aufmachung
@@ -87,18 +100,6 @@ Das Elektronische Vigilanzsystem (ElViS) wird durch ein modernisiertes Meldetool
 03.09.2026
 swissdamed Webinar 10 November 2026
 How to register and manage medical device data in swissdamed
-02.09.2026
-Chargenr&uuml;ckruf &ndash; Diamox 250 mg, Tabletten
-R&uuml;ckzug der Charge J023A bis auf Stufe Detailhandel
-01.09.2026
-Vereinfachung der Gesuche um Statuswechsel zwischen Haupt- und Exportzulassung f&uuml;r Tierarzneimittel
-F&uuml;r Gesuche um einen Statuswechsel zwischen Haupt- und Exportzulassung f&uuml;r Tierarzneimittel, die ab dem 1. September 2026 eingereicht werden, m&uuml;ssen keine Textelemente mehr angepasst werden
-01.09.2026
-MU100_00_001d_WL_Anforderungen an die f&uuml;r die Pharmakovigilanz verantwortliche Person
-Erstmalige Publikation dieser Wegleitung
-01.09.2026
-01.09.2026 &ndash; Neu: FAQ zur Geb&uuml;hrenverordnung Swissmedic
-Neu: FAQ - Fragen und Antworten zur Geb&uuml;hrenverordnung Swissmedic (GebV-Swissmedic; SR 812.214.5)
 Im Fokus
 Fillerbehandlungen
 Das Video zeigt die Risiken von unsachgemässen Filler-Behandlungen auf und macht deutlich, wie diese reduziert werden können.
