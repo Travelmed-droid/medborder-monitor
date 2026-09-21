@@ -101,6 +101,11 @@ https://ecim2026turkiye.org/
 Vazgeç / Sayfada Kal
 Sayfaya Devam Et
 Bağlantı yeni bir sekmede açılacaktır. Popup 1 hafta boyunca size tekrar gösterilmeyecektir.
+T.C. Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK)
+T.C. Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK) Resmî Web Portalı. İlaç, tıbbi cihaz, kozmetik ve biyosidal ürünlerin ruhsatlandırma, piyasa gözetimi ve denetimi, klinik araştırmalar, mevzuat kütüphanesi, güncel duyurular, İlaç Takip Sistemi (İTS), Ürün Takip Sistemi (ÜTS) ve Elektronik Başvuru Sistemi (EBS) e-hizmetler merkezi.
+Tıbbi Cihaz Yönetmeliği ve İn vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği Kapsamında Atanan Onaylanmış Kuruluşlar Tarafından Yürütülen Uygunluk Değerlendirme Faaliyetlerine İlişkin Belirli Ortak Kalite Yönetimi ve Prosedür Gereklilikleri Hakkında Tebliğ
+Tıbbi Cihaz Yönetmeliği ve İn vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği Kapsamında Atanan Onaylanmış Kuruluşlar Tarafından Yürütülen Uygunluk Değerlendirme Faaliyetlerine İlişkin Belirli Ortak Kalite Yönetimi ve Prosedür Gereklilikleri Hakkında Tebliğ 16/09/2026 tarihli ve 33372 sayılı Resmî Gazete’de yayımlandı.
+İncele
 Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin Kılavuz Hakkında Duyuru
 &quot;Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin Kılavuz&quot; 31 Ağustos 2026 tarihinde yayımlanmıştır.
 İncele
@@ -127,6 +132,8 @@ Sağlık Beyanı
 Tüm Hızlı Erişimler
 Haberler
 Tümü &raquo;
+Tıbbi Cihaz Yönetmeliği ve İn vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği Kapsamında Atanan Onaylanmış Kuruluşlar Tarafından Yürütülen Uygunluk Değerlendirme Faaliyetlerine İlişkin Belirli Ortak Kalite Yönetimi ve Prosedür Gereklilikleri Hakkında Tebliğ
+16.09.2026
 Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin Kılavuz Hakkında Duyuru
 05.09.2026
 Beşeri Tıbbi Ürünlerin İsimlendirmesine Dair Kılavuz Hakkında Duyuru
@@ -143,15 +150,15 @@ Duyurular
 /
 Önemli
 Tümü &raquo;
-14.09.2026 - Klinik Araştırmalar Dairesi Başkanlığı
-Klinik Araştırma Taraflarının Dikkatine
-Güncellenen/Hazırlanan Formlar ve Üst Yazı Örnekle...
-14.09.2026 - Denetim Hizmetleri Başkan Yardımcılığı
-Tüm Sağlık Kuruluşlarının Dikkatine
-Duyuru
-11.09.2026 - Kozmetik Denetim Dairesi Başkanlığı
+18.09.2026 - Kozmetik Denetim Dairesi Başkanlığı
 Güncellenen Kılavuz Hakkında
 Duyuru
+16.09.2026 - Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi Başkanlığı
+2026 yılı Gerçek Kaynak Fiyat Değişiklik Dönemi Hakkında
+Duyuru
+15.09.2026 - Kozmetik Ürünler Dairesi Başkanlığı
+BİYOSİDAL FİRMALARININ DİKKATİNE - Hatırlatma
+Ürün Tipi-1 İnsan Hijyen Ürünleri Hakkında
 01.09.2026 - KURUM BAŞKANI
 KAMUOYUNUN DİKKATİNE
 Hakkında
@@ -163,15 +170,15 @@ Ecza Ticarethanesi Haricinde Yapılacak İhracat Koşullarına İlişkin Kılavu
 Hakkında Duyuru
 Geri Çekmeler
 Tümü &raquo;
+18.09.2026 - Kozmetik Denetim Dairesi Başkanlığı
+Güncellenen Kılavuz Hakkında
+Duyuru
 14.09.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Tüm Sağlık Kuruluşlarının Dikkatine
 Duyuru
 18.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Kamuoyunun Dikkatine
 Duyuru
-07.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
-İlaç Geri Çekme
-Hakkında Duyuru
 TİTCK DİJİTAL SİSTEMLER
 İlaç Takip Sistemi (İTS)
 Türkiye’de üretilen ve ithal edilen tüm ilaçların, üretimden hastaya ulaşana kadar her aşamada güvenli ve tekil olarak takip edilmesini sağlar.

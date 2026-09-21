@@ -583,8 +583,8 @@ eLearning
 Guidelines
 Publications
 Manuals
-LabTrain
-To overview: LabTrain
+LabTrain 2.0
+To overview: LabTrain 2.0
 All reports
 ICH - The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use
 GHPP
@@ -596,8 +596,8 @@ eLearning
 Guidelines
 Publications
 Manuals
-LabTrain
-To overview: LabTrain
+LabTrain 2.0
+To overview: LabTrain 2.0
 All reports
 News
 To overview: News

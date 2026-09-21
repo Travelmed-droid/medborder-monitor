@@ -75,6 +75,15 @@ Schliessen
 Visible
 Aktuelles
 Alle Updates anzeigen
+21.09.2026
+DHPC &ndash; Apremilast Leman (apremilastum)
+Fehler beim Verfallsdatum
+18.09.2026
+Chargenr&uuml;ckruf &ndash; Elocom, L&ouml;sung zur Anwendung auf der Haut
+R&uuml;ckzug der Charge C135341 bis auf Stufe Detailhandel
+17.09.2026
+Vorank&uuml;ndigung zum Swissmedic Portal Release vom 23. September 2026
+Fachdaten zu Komplement&auml;rarzneimitteln im Meldeverfahren (Kap. 7 KPAV) f&uuml;r Zulassungsinhaberinnen im Swissmedic Portal
 10.09.2026
 Neue Leitlinie &laquo;Schweizerische Gute Praxis der Materiovigilance in der In-vitro-Diagnostik&raquo; (GPMV-IVD)
 Swissmedic ver&ouml;ffentlicht die neue &laquo;Schweizerische Gute Praxis der Materiovigilance in der In-vitro-Diagnostik&raquo; (GPMV-IVD). Diese Leitlinie unterst&uuml;tzt Fachpersonen, die In-vitro-Diagnostika (IVD) f&uuml;r medizinische Zwecke anwenden, sowie Personen, die f&uuml;r die Umsetzung der Materiovigilance im Bereich In-vitro-Diagnostik verantwortlich sind
@@ -91,15 +100,6 @@ R&uuml;ckrufe der erw&auml;hnten Chargen bis auf Stufe Detailhandel
 07.09.2026
 Out-of-Stock &ndash; Nordimet 7.5 mg/0.3 ml, Injektionsl&ouml;sung im Fertigpen
 Befristete Bewilligung zum Vertrieb in irischer Aufmachung
-07.09.2026
-I-SMI.TI.06e Market release and distribution in cooperation with a pre-wholesaler
-Swissmedic hat eine neue Version des Dokumentes aufgeschaltet
-04.09.2026
-ElViS 2.0
-Das Elektronische Vigilanzsystem (ElViS) wird durch ein modernisiertes Meldetool im E2B(R3) Format abgel&ouml;st
-03.09.2026
-swissdamed Webinar 10 November 2026
-How to register and manage medical device data in swissdamed
 Im Fokus
 Fillerbehandlungen
 Das Video zeigt die Risiken von unsachgemässen Filler-Behandlungen auf und macht deutlich, wie diese reduziert werden können.

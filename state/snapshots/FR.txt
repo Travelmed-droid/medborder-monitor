@@ -152,20 +152,62 @@ Renouvellement du comité d’interface avec les associations de patients : appe
 A la une
 Contraception à base de désogestrel et risque de méningiome : questions-réponses
 Dernières actualités
-Publié le 10/09/2026
-L’ANSM diffuse une lettre personnalisée pour informer les femmes du très faible risque de méningiome associé à la contraception à base de désogestrel
-Surveillance
-Pharmacovigilance
-Publié le 09/09/2026
-Chimiothérapies à base de fluoropyrimidines (capécitabine et 5-FU) : surveiller les effets indésirables et adapter les doses
-Surveillance
-Contrôles
-Publié le 09/09/2026
-Traitements anticancéreux : les mesures mises en œuvre à la suite de l&#039;enquête nationale au sein des établissements de santé renforcent la sécurité des patients recevant une chimiothérapie par fluoropyrimidines
+Publié le 18/09/2026
+L&#039;ANSM obtient le score de 98/100 pour son index de l’égalité professionnelle 2025
+Vie de l’Agence
+Publications institutionnelles
+Publié le 16/09/2026
+- Mis à jour le 17/09/2026
+Prévention des bronchiolites à VRS : un profil de sécurité rassurant, des erreurs médicamenteuses qui persistent
 Surveillance
 Contrôles
+Publié le 15/07/2026
+- Mis à jour le 16/09/2026
+Retour d’information sur le PRAC de septembre 2026 (31 août – 3 septembre)
+Europe
+Avis du PRAC
 Plus d&#039;actualités
 Informations de sécurité
+21/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Prolongateur moyenne pression diam.1,5mm – Cair lgl
+21/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux de diagnostic in vitro
+Automates DxC 500 AU Clinical Chemistry Analyzers, DxC 500i Clinical Analyzer – Beckman Coulter
+17/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Médecine nucléaire – Captus 4000e dont les numéros de série sont compris entre 940548 et 941398 – Mirion Technologies (Capintec)
+17/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Fibres laser Soltive SuperPulsed – Gyrus Olympus
+17/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Prothèse totale de genou à glissement – Embase tibiale FHK Tibial Tray FB C/M S4 – Fournitures Hospitalières Industries
+17/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Appareil automatisé de massage cardiaque - Li-Ion Rechargeable Battery 28.8V 84.9Wh – Corpuls/GS Elektromedizinische Geräte G. Stemple GmbH.
+17/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Appareil de radiologie fixe – FDR Visinary Suite – Shimadzu
+16/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Appareils de mesure du glucose en continu - Lecteur - Application Dexcom G7 iOS, Dexcom G7 Android, Dexcom G7 Watch iOS – Dexcom Inc
+16/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Pompe à perfusion ambulatoire (accessoire) – Cassette-réservoirs CADD avec raccord NRFit – ICU Medical Inc.
+15/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Centricity Enterprise Archive, Centricity PACS, Centricity PACS Server, Core Services Hub V8, Enterprise Archive, Workflow Core Services – GE Healthcare
 14/09/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
@@ -174,46 +216,6 @@ Moniteur de surveillance cardio- respiratoire – IntelliVue MX750 / MX850 et AD
 RAPPEL DE PRODUIT
 Dispositifs médicaux de diagnostic in vitro
 Hémostase – Réactif HemosIL AcuStar HIT-IgG(PF4-H) – Instrumentation Laboratory
-14/09/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Virologie – Réactif Simplexa Covid-19 / Flu A/B & RSV Direct – Diasorin
-11/09/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Biochimie – Lecteur de glycémie True Metrix Go – Trividia Health
-10/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Systèmes d’imagerie par résonance magnétique (IRM) avec imagerie du tenseur de diffusion (DTI) – Philips
-10/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Caisson hyperbare – Haux-Starmed 2500/5,5/SC3 – Haux Life Support
-10/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Virologie – Cassette de test Nadal Rota-Adenovirus Test – Nal Von Minden
-10/09/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Auto-immunité – Réactif Anti-Annexin V IgG – Orgentec
-10/09/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Dispositifs de communication assistée TD Navio Maxi et TD Navio Midi – Tobii Technology AB
-10/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Appareil de radiologie fixe – Générateur de rayons X haute tension (UD type and ZUD type) – Shimadzu
-09/09/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Réactif QIAstat-Dx Gastrointestinal Panel 2 – Qiagen
-08/09/2026
-RAPPEL DE PRODUIT
-Médicaments
-Clopidogrel Zentiva 75 mg, comprimé pelliculé – Laboratoire Zentiva France
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire
@@ -222,24 +224,24 @@ Déclarer un effet indésirable
 Base de données publique des médicaments
 data.ansm
 Évènements
+22 sept. 2026
+Comité scientifique permanent Pharmaco-surveillance et bon usage - Formation restreinte expertise et bon usage
+Comités scientifiques permanents (CSP)
+21 sept. 2026
+Comité Surveillance des dispositifs médicaux et dispositifs médicaux de diagnostic in vitro
+Comités scientifiques permanents (CSP)
+21 sept. 2026
+Comité de Contrôle de qualité des dispositifs médicaux - Groupe de travail relatif au contrôle de qualité des installations de médecine nucléaire
+Comités scientifiques permanents (CSP)
+18 sept. 2026
+Comité Médicaments de dermatologie
+Comités scientifiques permanents (CSP)
 15 sept. 2026
 Comité Reproduction, grossesse et allaitement - Formation « Pharmacologie et Clinique »
 Comités scientifiques permanents (CSP)
-11 sept. 2026
-Comité de Contrôle de qualité des dispositifs médicaux - Groupe de travail relatif au contrôle de qualité des installations de radiodiagnostic utilisées pour des procédures interventionnelles radioguidées
-Comités scientifiques permanents (CSP)
-22 juil. 2026
-Webinaire le 22 juillet 2026 à 15h - Médicaments à base de cannabis : tout savoir sur les dossiers de demande d&#039;autorisation d&#039;utilisation temporaire
-Autres événements
 Du 20 juil. 2026 au 20 oct. 2026
 Consultation publique relative au projet de décision de contrôle de qualité des installations de radiologie dentaire
 Autres événements
-Du 15 juil. 2026 au 30 sept. 2026
-Appel à candidatures pour le comité d’interface avec les associations de patients
-Autres événements
-7 juil. 2026
-Comité d’interface avec les associations de patients
-Comités d&#039;interfaces
 Plus d&#039;évènements
 Vidéo à la une
 2 min 30
