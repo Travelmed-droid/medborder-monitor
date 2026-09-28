@@ -1,4 +1,4 @@
-T.C. Sağlık Bakanlığı - Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK)
+T.C. Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu
 Ana İçeriğe Doğrudan Atla
 Geri Çekmeler
 |
@@ -89,20 +89,12 @@ Ctrl + K
 Arama
 ESC
 Kapat
-GETAT Duyurusu
-Kongre ve Detaylı Bilgi İçin Tıklayınız.
-Afişe Dön
-T.C. Sağlık Bakanlığı
-Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK)
-Dış Bağlantı ve Resmi Hizmet Bilgilendirmesi
-Değerli Ziyaretçimiz, ilgili resmi işlem/bilgi sayfasına yönlendiriliyorsunuz. Hedef adrese güvenle devam etmek için lütfen onaylayınız.
-Hedef Bağlantı:
-https://ecim2026turkiye.org/
-Vazgeç / Sayfada Kal
-Sayfaya Devam Et
-Bağlantı yeni bir sekmede açılacaktır. Popup 1 hafta boyunca size tekrar gösterilmeyecektir.
+&quot;TİTCK Başkanı Hüseyin Çelik’in “Dünya Eczacılık Günü” Mesajı
+Detaylı Bilgi İçin Tıklayınız
 T.C. Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK)
 T.C. Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK) Resmî Web Portalı. İlaç, tıbbi cihaz, kozmetik ve biyosidal ürünlerin ruhsatlandırma, piyasa gözetimi ve denetimi, klinik araştırmalar, mevzuat kütüphanesi, güncel duyurular, İlaç Takip Sistemi (İTS), Ürün Takip Sistemi (ÜTS) ve Elektronik Başvuru Sistemi (EBS) e-hizmetler merkezi.
+TİTCK Başkanı Hüseyin Çelik’in “Dünya Eczacılık Günü” Mesajı
+İncele
 Tıbbi Cihaz Yönetmeliği ve İn vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği Kapsamında Atanan Onaylanmış Kuruluşlar Tarafından Yürütülen Uygunluk Değerlendirme Faaliyetlerine İlişkin Belirli Ortak Kalite Yönetimi ve Prosedür Gereklilikleri Hakkında Tebliğ
 Tıbbi Cihaz Yönetmeliği ve İn vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği Kapsamında Atanan Onaylanmış Kuruluşlar Tarafından Yürütülen Uygunluk Değerlendirme Faaliyetlerine İlişkin Belirli Ortak Kalite Yönetimi ve Prosedür Gereklilikleri Hakkında Tebliğ 16/09/2026 tarihli ve 33372 sayılı Resmî Gazete’de yayımlandı.
 İncele
@@ -118,9 +110,6 @@ Tıbbi cihazların dış ticaret süreçlerinin değerlendirildiği toplantı TO
 Beşeri Tıbbi Ürünlerin İsimlendirmesine Dair Kılavuz Hakkında Duyuru
 &quot;Beşeri Tıbbi Ürünlerin İsimlendirmesine Dair Kılavuz&quot; 1 Ağustos.2026 tarihinde yayımlanmıştır.
 İncele
-Kozmetik Ürünlerde Kullanılan Parfüm Alerjenlerinin Etiketlenmesine İlişkin Kılavuz Hakkında Duyuru
-&quot;Kozmetik Ürünlerde Kullanılan Parfüm Alerjenlerinin Etiketlenmesine İlişkin Kılavuz&quot; 11.06.2026 tarihinde yayımlanmıştır.
-İncele
 Tüm Haberler
 HIZLI ERİŞİM
 İlaç Takip Sistemi (İTS)
@@ -132,6 +121,8 @@ Sağlık Beyanı
 Tüm Hızlı Erişimler
 Haberler
 Tümü &raquo;
+TİTCK Başkanı Hüseyin Çelik’in “Dünya Eczacılık Günü” Mesajı
+24.09.2026
 Tıbbi Cihaz Yönetmeliği ve İn vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği Kapsamında Atanan Onaylanmış Kuruluşlar Tarafından Yürütülen Uygunluk Değerlendirme Faaliyetlerine İlişkin Belirli Ortak Kalite Yönetimi ve Prosedür Gereklilikleri Hakkında Tebliğ
 16.09.2026
 Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin Kılavuz Hakkında Duyuru
@@ -150,15 +141,15 @@ Duyurular
 /
 Önemli
 Tümü &raquo;
+24.09.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+Kamuoyunun Dikkatine
+Duyuru
 18.09.2026 - Kozmetik Denetim Dairesi Başkanlığı
 Güncellenen Kılavuz Hakkında
 Duyuru
 16.09.2026 - Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi Başkanlığı
 2026 yılı Gerçek Kaynak Fiyat Değişiklik Dönemi Hakkında
 Duyuru
-15.09.2026 - Kozmetik Ürünler Dairesi Başkanlığı
-BİYOSİDAL FİRMALARININ DİKKATİNE - Hatırlatma
-Ürün Tipi-1 İnsan Hijyen Ürünleri Hakkında
 01.09.2026 - KURUM BAŞKANI
 KAMUOYUNUN DİKKATİNE
 Hakkında
@@ -170,14 +161,14 @@ Ecza Ticarethanesi Haricinde Yapılacak İhracat Koşullarına İlişkin Kılavu
 Hakkında Duyuru
 Geri Çekmeler
 Tümü &raquo;
+24.09.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+Kamuoyunun Dikkatine
+Duyuru
 18.09.2026 - Kozmetik Denetim Dairesi Başkanlığı
 Güncellenen Kılavuz Hakkında
 Duyuru
 14.09.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Tüm Sağlık Kuruluşlarının Dikkatine
-Duyuru
-18.08.2026 - Denetim Hizmetleri Başkan Yardımcılığı
-Kamuoyunun Dikkatine
 Duyuru
 TİTCK DİJİTAL SİSTEMLER
 İlaç Takip Sistemi (İTS)

@@ -152,70 +152,71 @@ Renouvellement du comité d’interface avec les associations de patients : appe
 A la une
 Contraception à base de désogestrel et risque de méningiome : questions-réponses
 Dernières actualités
+Publié le 25/09/2026
+Point de situation sur les tensions en fluoxétine 20 mg
+Disponibilité des produits de santé
+Médicaments
+Publié le 31/03/2026
+- Mis à jour le 22/09/2026
+Alepsal : remise à disposition de tous les dosages
+Disponibilité des produits de santé
+Médicaments
 Publié le 18/09/2026
 L&#039;ANSM obtient le score de 98/100 pour son index de l’égalité professionnelle 2025
 Vie de l’Agence
 Publications institutionnelles
-Publié le 16/09/2026
-- Mis à jour le 17/09/2026
-Prévention des bronchiolites à VRS : un profil de sécurité rassurant, des erreurs médicamenteuses qui persistent
-Surveillance
-Contrôles
-Publié le 15/07/2026
-- Mis à jour le 16/09/2026
-Retour d’information sur le PRAC de septembre 2026 (31 août – 3 septembre)
-Europe
-Avis du PRAC
 Plus d&#039;actualités
 Informations de sécurité
-21/09/2026
+28/09/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Prolongateur moyenne pression diam.1,5mm – Cair lgl
-21/09/2026
+Prolongateurs 3 voies, Prolongateurs linéaires – Lots WT0033179, WT0033183 – Didactic – Infineed Health
+28/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Chariot à douches Carevo – ArjoHuntleigh AB
+28/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Microcathéter Direxion and Direxion HI-Flo – Boston Scientific Corporation
+28/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+DM d’occlusion intra-cardiaque Amplatzer Amulet Left Atrial Appendage Occluder – Abbott Medical
+08/06/2026
+- MIS À JOUR LE 28/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Ventilateur de réanimation – Elisa 300, Elisa 500, Elisa 600, Elisa 600 R-VIT, Elisa 800, Elisa 800 R-VIT, Elisa 800 VIT – Löwenstein Medical
+25/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Electrodes de neurostimulation, neurostimulateur (accessoire) – Sondes InterStim SureScan IRM, Modèles 978A1 et 978B1, et extensions percutanées InterStim SureScan, Modèles 3560022 et 3560030 – Medtronic Inc
+25/09/2026
+RAPPEL DE PRODUIT
+Médicaments
+Sonde de défibrillation OmniaSecure MRI SureScan 3930M Lead – Medtronic
+02/06/2026
+- MIS À JOUR LE 24/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Laveur désinfecteur à endoscope / Endoscopie – Soluscope série 4, XS, 3 et ENT – Soluscope SAS
+24/09/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Contrôleur automatisé pour assistance ventriculaire temporaire Impella – Abiomed
+24/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Ecouvillon pour endoscope – LTA Médical
+24/09/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Prothèses vasculaires Intergard Synergy Knitted et Intergard Standard Knitted - Getinge
+23/09/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux de diagnostic in vitro
-Automates DxC 500 AU Clinical Chemistry Analyzers, DxC 500i Clinical Analyzer – Beckman Coulter
-17/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Médecine nucléaire – Captus 4000e dont les numéros de série sont compris entre 940548 et 941398 – Mirion Technologies (Capintec)
-17/09/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Fibres laser Soltive SuperPulsed – Gyrus Olympus
-17/09/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Prothèse totale de genou à glissement – Embase tibiale FHK Tibial Tray FB C/M S4 – Fournitures Hospitalières Industries
-17/09/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Appareil automatisé de massage cardiaque - Li-Ion Rechargeable Battery 28.8V 84.9Wh – Corpuls/GS Elektromedizinische Geräte G. Stemple GmbH.
-17/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Appareil de radiologie fixe – FDR Visinary Suite – Shimadzu
-16/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Appareils de mesure du glucose en continu - Lecteur - Application Dexcom G7 iOS, Dexcom G7 Android, Dexcom G7 Watch iOS – Dexcom Inc
-16/09/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Pompe à perfusion ambulatoire (accessoire) – Cassette-réservoirs CADD avec raccord NRFit – ICU Medical Inc.
-15/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Centricity Enterprise Archive, Centricity PACS, Centricity PACS Server, Core Services Hub V8, Enterprise Archive, Workflow Core Services – GE Healthcare
-14/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Moniteur de surveillance cardio- respiratoire – IntelliVue MX750 / MX850 et AD75/AD85 – Philips Medizin Systems Boblingen GmbH
-14/09/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Hémostase – Réactif HemosIL AcuStar HIT-IgG(PF4-H) – Instrumentation Laboratory
+Centrifugeuse Rotofix 32 A – Andreas Hettich
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire
@@ -225,13 +226,16 @@ Base de données publique des médicaments
 data.ansm
 Évènements
 22 sept. 2026
+Comité scientifique permanent Pharmaco-surveillance et bon usage - Formation restreinte signal
+Comités scientifiques permanents (CSP)
+22 sept. 2026
 Comité scientifique permanent Pharmaco-surveillance et bon usage - Formation restreinte expertise et bon usage
 Comités scientifiques permanents (CSP)
 21 sept. 2026
-Comité Surveillance des dispositifs médicaux et dispositifs médicaux de diagnostic in vitro
+Comité de Contrôle de qualité des dispositifs médicaux - Groupe de travail relatif au contrôle de qualité des installations de médecine nucléaire
 Comités scientifiques permanents (CSP)
 21 sept. 2026
-Comité de Contrôle de qualité des dispositifs médicaux - Groupe de travail relatif au contrôle de qualité des installations de médecine nucléaire
+Comité Surveillance des dispositifs médicaux et dispositifs médicaux de diagnostic in vitro
 Comités scientifiques permanents (CSP)
 18 sept. 2026
 Comité Médicaments de dermatologie
@@ -239,9 +243,6 @@ Comités scientifiques permanents (CSP)
 15 sept. 2026
 Comité Reproduction, grossesse et allaitement - Formation « Pharmacologie et Clinique »
 Comités scientifiques permanents (CSP)
-Du 20 juil. 2026 au 20 oct. 2026
-Consultation publique relative au projet de décision de contrôle de qualité des installations de radiologie dentaire
-Autres événements
 Plus d&#039;évènements
 Vidéo à la une
 2 min 30

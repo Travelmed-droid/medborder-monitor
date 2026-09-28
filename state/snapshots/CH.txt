@@ -75,6 +75,21 @@ Schliessen
 Visible
 Aktuelles
 Alle Updates anzeigen
+26.09.2026
+DHPC &ndash; Clozapin
+&Uuml;berarbeitete Empfehlungen f&uuml;r die routinem&auml;ssige Kontrolle des Blutbildes im Hinblick auf das Risiko einer Agranulozytose
+25.09.2026
+DHPC &ndash; Remsima&reg; (Infliximab)
+Die neue intraven&ouml;se Formulierung (100 mg und 350 mg, Konzentrat zur Herstellung einer Infusionsl&ouml;sung) enth&auml;lt Sorbitol und ist daher bei Patientinnen und Patienten mit heredit&auml;rer Fruktoseintoleranz (HFI) kontraindiziert
+25.09.2026
+Out-of-Stock &ndash; Ketazed, Augentropfen-L&ouml;sung
+Befristete Bewilligung zum Vertrieb in schwedischer / finnischer Aufmachung
+24.09.2026
+Swissmedic Portal Release - Neue Funktionen ab 23. September 2026
+Einreichung von wesentlichen &Auml;nderungen (Betriebsbewilligungen) sowie Ansicht der Fachdaten von Komplement&auml;rarzneimitteln im Meldeverfahren
+23.09.2026
+I-SMI.TI.22e Notifications according to Article 41, MPLO
+Swissmedic hat eine neue Version des Dokumentes aufgeschaltet
 21.09.2026
 DHPC &ndash; Apremilast Leman (apremilastum)
 Fehler beim Verfallsdatum
@@ -84,22 +99,6 @@ R&uuml;ckzug der Charge C135341 bis auf Stufe Detailhandel
 17.09.2026
 Vorank&uuml;ndigung zum Swissmedic Portal Release vom 23. September 2026
 Fachdaten zu Komplement&auml;rarzneimitteln im Meldeverfahren (Kap. 7 KPAV) f&uuml;r Zulassungsinhaberinnen im Swissmedic Portal
-10.09.2026
-Neue Leitlinie &laquo;Schweizerische Gute Praxis der Materiovigilance in der In-vitro-Diagnostik&raquo; (GPMV-IVD)
-Swissmedic ver&ouml;ffentlicht die neue &laquo;Schweizerische Gute Praxis der Materiovigilance in der In-vitro-Diagnostik&raquo; (GPMV-IVD). Diese Leitlinie unterst&uuml;tzt Fachpersonen, die In-vitro-Diagnostika (IVD) f&uuml;r medizinische Zwecke anwenden, sowie Personen, die f&uuml;r die Umsetzung der Materiovigilance im Bereich In-vitro-Diagnostik verantwortlich sind
-10.09.2026
-DHPC &ndash; Tavneos&reg; (Avacopan)
-Negatives Nutzen-Risiko-Verh&auml;ltnis &ndash; Widerruf der Zulassung
-09.09.2026
-Swissmedic Journal
-Aktuelle Ausgabe
-Swissmedic Journal August 2026
-08.09.2026
-Chargenr&uuml;ckruf &ndash; Cosyrel, Filmtabletten / Coversum N 10 mg, Filmtabletten
-R&uuml;ckrufe der erw&auml;hnten Chargen bis auf Stufe Detailhandel
-07.09.2026
-Out-of-Stock &ndash; Nordimet 7.5 mg/0.3 ml, Injektionsl&ouml;sung im Fertigpen
-Befristete Bewilligung zum Vertrieb in irischer Aufmachung
 Im Fokus
 Fillerbehandlungen
 Das Video zeigt die Risiken von unsachgemässen Filler-Behandlungen auf und macht deutlich, wie diese reduziert werden können.

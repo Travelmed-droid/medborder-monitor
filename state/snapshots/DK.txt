@@ -257,15 +257,15 @@ Inspections
 Jobs
 0
 News
+New Safety Module in the Clinical Trials Information System (CTIS)
+23 September 2026
+A new Safety Module in the Clinical Trials Information System (CTIS) will go live on 28 September 2026, followed by a two-month transition period ending on 30 November 2026.
 Are you working with the non-clinical package for clinical trial applications? See Q&A-update!
 11 September 2026
-Improved overview of GLP status for pivotal animal studies across all stages of drug development
 Join the Danish Medicines Agency’s ATMP Open House
 10 September 2026
 Register-based study suggests a slightly increased risk of meningiomas in women using hormonal contraception containing a progestogen
 03 July 2026
-Are you running clinical trials? You can now activate e-mail notifications in CTIS
-29 June 2026
 See all news items
 Subscribe
 Latest updated content

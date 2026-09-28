@@ -238,16 +238,16 @@ Update Of 'Borang Permohonan Sijil Indikasi / Sijil Deklarasi Bagi Produk Berdaf
 Apr
 Update on Analytical Testing and Labelling Declaration Requirements for Products Containing Animal-Derived Materials
 View All Announcements
+Biosimilar Approved
+published on 2026-09-28
+Guideline on Application of Manufacturer’s License, Import License and Wholesaler’s License for Registered Products (5th Edition, September 2026)
+published on 2026-09-25
 Direktif Pelaksanaan dan Pengendalian Label Keselamatan
 published on 2026-09-18
 List of Renewal Approved Veterinary Products
 published on 2026-09-08
 New Products Approved
 published on 2026-09-08
-Additional Indications Approved
-published on 2026-09-08
-Itraconazole: Risk of Pseudoaldosteronism
-published on 2026-08-26
 More Recent Updates
 26
 Aug
@@ -302,7 +302,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Monday 21 September 2026, 18:47:10.
+Last Modified: Monday 28 September 2026, 09:54:28.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -448,4 +448,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 21 Sep 2026
+Monday, 28 Sep 2026

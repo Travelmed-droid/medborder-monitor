@@ -188,6 +188,14 @@ Briciole di pane
 home
 Aggregatore Risorse
 In evidenza
+24 set 2026
+Comunicati Stampa
+Via libera dal CdA di AIFA alla rimborsabilità di 2 nuovi medicinali orfani e 7 estensioni di indicazione terapeutica
+Tra i medicinali che saranno rimborsati anche due farmaci orfani per il trattamento dei neurofibromi plessiformi nella neurofibromatosi di tipo 1 e del cancro delle vie biliari.
+23 set 2026
+Farmaci carenti
+Nota congiunta AIFA, AssoFarm, FarmacieUnite e Federfarma per promuovere l'ordine diretto in farmacia
+Uno strumento a servizio del paziente che il farmacista attiva in presenza di un blocco nel circuito distributivo di un farmaco per garantire la continuità di cura al paziente.
 16 set 2026
 Comunicati Stampa
 Influenza: 9 i vaccini autorizzati per la stagione 2026-2027
@@ -196,34 +204,26 @@ Con la stagione autunnale alle porte, l’Agenzia Italiana del Farmaco comunica 
 Informazione e comunicazione
 Online il Rapporto sulle attività 2025
 Il Rapporto presenta i dati e le attività principali del 2025 a confronto con i due anni precedenti.
-06 ago 2026
-Comunicati Stampa
-AIFA pubblica il Rapporto OsMed 2025 “L’uso dei Farmaci in Italia”
-La spesa farmaceutica totale ha raggiunto 39,3 miliardi di euro, con un aumento del 6% rispetto all’anno precedente.
-30 lug 2026
-Comunicati Stampa
-Via libera dal CdA di AIFA alla rimborsabilità di 4 nuovi medicinali, 4 estensioni di indicazione terapeutica e 1 biosimilare
-Tra i medicinali che saranno rimborsati anche un orfano per il trattamento della sclerosi laterale amiotrofica (SLA).
 Aggregatore Risorse
 Notizie
-21 set 2026
-Farmaci innovativi
-Aggiornamento dell’elenco dei farmaci innovativi al 31 agosto 2026
-21 set 2026
-Negoziazione e rimborsabilità
-Criteri di individuazione degli scaglioni per la negoziazione automatica dei generici e dei biosimilari – scadenze brevettuali 2027
-21 set 2026
+28 set 2026
 L'agenzia
-Migrazione del servizio di condivisione documentale da OwnCloud a Nextcloud
-18 set 2026
-Registri farmaci sottoposti a monitoraggio
-Epatite C: aggiornamento del 14 settembre 2026 sui pazienti arruolati
-16 set 2026
-Vaccini
-Vaccini antinfluenzali 2026-2027: verifica su confezionamento primario e assenza di lattice
-16 set 2026
-Farmaci carenti
-Consultazione pubblica per definire i criteri per l’inserimento delle confezioni dei farmaci nell’elenco delle carenze “critiche” (art. 148, comma 1-bis, del D.lgs. n. 219/2006)
+Servizi online AIFA: attivazione dell’autenticazione a più fattori (MFA) dal 19 ottobre 2026
+28 set 2026
+Elenchi farmaci di classe A e H
+Tabelle farmaci di classe A e H al 31/05/2026
+28 set 2026
+Informazione e comunicazione
+Carenze dei farmaci e continuità terapeutica: online il nuovo dossier AIFA
+25 set 2026
+Monitoraggio spesa farmaceutica
+Spesa farmaceutica gennaio-febbraio 2026: monitoraggio AIFA definitivo
+25 set 2026
+Comunicati Stampa
+Malattie rare, l’Europa a confronto su innovazione e accesso alle terapie
+24 set 2026
+Prezzi e Rimborso
+Anticorpi monoclonali per l’Alzheimer: AIFA incontra le Aziende produttrici
 Tutte le notizie
 Banca dati dei farmaci 2024
 Cerca un farmaco
@@ -248,20 +248,20 @@ OsMed
 Open data
 Aggregatore Risorse
 Agenda
-07 - 11
-SET
+12 - 16
+OTT
 Roma
 Da definire
 CSE
 Riunione della Commissione Scientifica e Economica del Farmaco (CSE)
-23
-SET
+28
+OTT
 Roma
 Da definire
 CDA
 Riunione CDA
-12 - 16
-OTT
+09 - 13
+NOV
 Roma
 Da definire
 CSE
@@ -269,7 +269,7 @@ Riunione della Commissione Scientifica e Economica del Farmaco (CSE)
 TUTTI GLI EVENTI
 Aggregatore Risorse
 Comunicati
-Influenza: 9 i vaccini autorizzati per la stagione 2026-2027
+Malattie rare, l’Europa a confronto su innovazione e accesso alle terapie
 Tutti i comunicati
 Media
 Media
@@ -278,21 +278,21 @@ Multimedia
 Vai al canale Youtube
 Instagram
 Instagram
-AIFA si illumina di viola per la Giornata mondiale dell'Alzheimer per aumentare la conoscenza della ...
+From across Europe to Rome to discuss #OrphanMedicines and #RareDiseases
+The meeting of the Committ...
 Vai al post →
-📅 17 settembre 2026
-Anche quest’anno l’Agenzia Italiana del Farmaco celebra la Giornata nazionale p...
+📍AIFA partecipa alla nona edizione dei Seminari di Mogliano Veneto
+Due giornate di confronto sull’...
 Vai al post →
-Si è conclusa la prima delle due nuove sessioni di “AIFA Ascolta”.
-Hanno partecipato:
-- @mitoconod...
+📢 Il CdA di #AIFA dà il via libera alla rimborsabilità di 2 nuovi #farmaci orfani per il trattament...
 Vai al post →
-📢 Riprendono gli incontri di “AIFA Ascolta”, l’iniziativa promossa dall'Agenzia Italiana del Farmac...
+Da tutta Europa a Roma per parlare di #farmaci orfani e malattie rare.
+📍 In corso il meeting del C...
 Vai al post →
-📢 Martedì 15 settembre torna “AIFA Incontra”, l’occasione di dialogo tra l’Agenzia e i diversi inte...
+💊 Quando un farmaco manca in farmacia per problemi distributivi
+AIFA, @assofarm, @farmacieunite e ...
 Vai al post →
-📊 Online il Rapporto sulle attività dell’AIFA 2025
-La pubblicazione presenta i dati e le attività ...
+La #salute è un diritto, ma è anche uno dei più importanti investimenti per il futuro del nostro Pae...
 Vai al post →
 VAI AL PROFILO INSTAGRAM
 Aggregatore Risorse
