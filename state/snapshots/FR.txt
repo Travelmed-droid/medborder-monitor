@@ -152,6 +152,10 @@ Renouvellement du comité d’interface avec les associations de patients : appe
 A la une
 Contraception à base de désogestrel et risque de méningiome : questions-réponses
 Dernières actualités
+Publié le 30/09/2026
+Tensions d’approvisionnement en Verkazia : ce collyre doit être réservé aux enfants et aux adolescents exclusivement
+Disponibilité des produits de santé
+Médicaments
 Publié le 25/09/2026
 Point de situation sur les tensions en fluoxétine 20 mg
 Disponibilité des produits de santé
@@ -161,62 +165,57 @@ Publié le 31/03/2026
 Alepsal : remise à disposition de tous les dosages
 Disponibilité des produits de santé
 Médicaments
-Publié le 18/09/2026
-L&#039;ANSM obtient le score de 98/100 pour son index de l’égalité professionnelle 2025
-Vie de l’Agence
-Publications institutionnelles
 Plus d&#039;actualités
 Informations de sécurité
-28/09/2026
+05/10/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Défibrillateur externe (DAE)- HeartSine samaritan PAD- HeartSine Technologies/Stryker
+05/10/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Prolongateurs 3 voies, Prolongateurs linéaires – Lots WT0033179, WT0033183 – Didactic – Infineed Health
-28/09/2026
+Obturateur de catheter d’hémodialyse – CitraLock S 4%, ref. 3591S2 – Sterisets Medical Products
+05/10/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
-Chariot à douches Carevo – ArjoHuntleigh AB
-28/09/2026
+Canule de trachéotomie – Tracoe Vario Tracheostomy Tube/Experc Set Vario – Tracoe medical GmbH
+05/10/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Mobile de radiologie RX Système 7000 M – Philips
+05/10/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Microcathéter Direxion and Direxion HI-Flo – Boston Scientific Corporation
-28/09/2026
+Gel de contact pour examen/biopsie – Transonic gel d’échographie stérile – Telic
+05/10/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
-DM d’occlusion intra-cardiaque Amplatzer Amulet Left Atrial Appendage Occluder – Abbott Medical
-08/06/2026
-- MIS À JOUR LE 28/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Ventilateur de réanimation – Elisa 300, Elisa 500, Elisa 600, Elisa 600 R-VIT, Elisa 800, Elisa 800 R-VIT, Elisa 800 VIT – Löwenstein Medical
-25/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Electrodes de neurostimulation, neurostimulateur (accessoire) – Sondes InterStim SureScan IRM, Modèles 978A1 et 978B1, et extensions percutanées InterStim SureScan, Modèles 3560022 et 3560030 – Medtronic Inc
-25/09/2026
-RAPPEL DE PRODUIT
-Médicaments
-Sonde de défibrillation OmniaSecure MRI SureScan 3930M Lead – Medtronic
-02/06/2026
-- MIS À JOUR LE 24/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Laveur désinfecteur à endoscope / Endoscopie – Soluscope série 4, XS, 3 et ENT – Soluscope SAS
-24/09/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Contrôleur automatisé pour assistance ventriculaire temporaire Impella – Abiomed
-24/09/2026
+Filtre antibactérien pour ventilation – Filtre bactérien neonatal avec Luer Lock – Meditera / Int’Air Medical
+05/10/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Ecouvillon pour endoscope – LTA Médical
-24/09/2026
+Chirurgie assistée par ordinateur – Pointeur de précision électromagnétique – Stryker
+02/10/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Prothèses vasculaires Intergard Synergy Knitted et Intergard Standard Knitted - Getinge
-23/09/2026
+Stent de réduction du sinus coronaire Shockwave Reducer – Shockwave Medical, Inc.
+02/10/2026
 INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Aide aux soins et à la mobilité – Barre d’aide à la levée Let&#039;s Get Up et Let&#039;s Get Up L – Trust Care AB
+02/10/2026
+RAPPEL DE PRODUIT
 Dispositifs médicaux de diagnostic in vitro
-Centrifugeuse Rotofix 32 A – Andreas Hettich
+Immuno-Hématologie – Réactif ID-DiaCell I-II-III – DiaMed
+02/10/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Cathéters de valvuloplastie VACS II/III Gen 2 – Osypka
+25/09/2026
+- MIS À JOUR LE 02/10/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Sonde de défibrillation OmniaSecure MRI SureScan 3930M Lead – Medtronic
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire
@@ -225,23 +224,23 @@ Déclarer un effet indésirable
 Base de données publique des médicaments
 data.ansm
 Évènements
-22 sept. 2026
-Comité scientifique permanent Pharmaco-surveillance et bon usage - Formation restreinte signal
+6 oct. 2026
+Comité Psychotropes, stupéfiants et addictions - Formation restreinte Expertise
 Comités scientifiques permanents (CSP)
-22 sept. 2026
-Comité scientifique permanent Pharmaco-surveillance et bon usage - Formation restreinte expertise et bon usage
+6 oct. 2026
+Comité français de la Pharmacopée - Substances et Préparations chimiques, pharmaceutiques et radio-pharmaceutiques - Galénique
+Comités français de la pharmacopée
+5 oct. 2026
+Comité français de la Pharmacopée - Formation restreinte préparations pharmaceutiques et pharmacotechnie
+Comités français de la pharmacopée
+2 oct. 2026
+Comité Oncologie et hématologie
 Comités scientifiques permanents (CSP)
-21 sept. 2026
-Comité de Contrôle de qualité des dispositifs médicaux - Groupe de travail relatif au contrôle de qualité des installations de médecine nucléaire
+2 oct. 2026
+Comité Reproduction, grossesse et allaitement - Formation « Analyses pharmaco-épidémiologiques »
 Comités scientifiques permanents (CSP)
-21 sept. 2026
-Comité Surveillance des dispositifs médicaux et dispositifs médicaux de diagnostic in vitro
-Comités scientifiques permanents (CSP)
-18 sept. 2026
-Comité Médicaments de dermatologie
-Comités scientifiques permanents (CSP)
-15 sept. 2026
-Comité Reproduction, grossesse et allaitement - Formation « Pharmacologie et Clinique »
+1 oct. 2026
+Comité Pédiatrie
 Comités scientifiques permanents (CSP)
 Plus d&#039;évènements
 Vidéo à la une

@@ -156,14 +156,14 @@ Direktif1
 images/2026/Home-Banner-template-DRGD-July-2026-Slide1.jpg
 MORE
 images/2026/banner/Kaji_1.png
-images/2026/banner/LR-2027-Desktop-1750-x-400-px_1.jpg
-MORE
 images/2026/banner/MADRAC-Vol_61_1750--400-px_1.png
 MORE
 images/2026/banner/Workshop_BI.png
 Click Here
 images/2026/banner/BANNER-TRAINING-ON-COSMETIC-NOFICATION-1750-x-400-px.png
 images/2026/banner/banner-NPRA-English-19082026.png
+images/2026/banner/LRen_2027_1750_x_400_px_Final_25092026.jpg
+images/2026/banner/reliance-banner-1750x400-v2.jpg
 MedSafetyWeek-2025-mobile-banner-600-x-600-px.png
 E-labelling_.jpg
 images/2026/banner/Untitled_design_mobile_2png.png
@@ -185,14 +185,14 @@ guideline
 images/2026/Home-Banner-template-DRGD-July-2026-Slide2.jpg
 MORE
 images/2026/banner/Kaji_600x600.png
-images/2026/banner/LR-2027-Mobile-600-x-600-px.jpg
-MORE
 images/2026/banner/MADRAC-Vol_61_600-x-600-px.png
 MORE
 images/2026/banner/workshop_mobile.png
 Click Here
 images/2026/banner/Train_600600.png
 images/2026/banner/Banner-mobile-PRP-poster-08092026.png
+images/2026/banner/LRen_2027__600_x_600_px_Final_25092026.jpg
+images/2026/banner/reliance-banner-600x600-v2.jpg
 Consumers
 ConSERF, AEFI Reporting, RiMUP, Product Cancellation & etc
 Health Professionals
@@ -249,15 +249,15 @@ published on 2026-09-08
 New Products Approved
 published on 2026-09-08
 More Recent Updates
+05
+Oct
+Kenyataan Media KKM 1 Oktober 2026- Makluman Kosmetik yang Dikesan Mengandungi Racun Berjadual
 26
 Aug
 Kenyataan Media KKM 24 Ogos 2026- Makluman Kosmetik yang Dikesan Mengandungi Racun Berjadual
 21
 Aug
 Kenyataan Media KKM 21 Ogos 2026- Pemakluman Berkenaan Pensanitasi Tangan (Hand Sanitizer) Yang Dikesan Mengandungi Methanol Melebihi Had Yang Ditetapkan
-09
-Apr
-Kenyataan Media KKM 2 April 2026- Makluman Kosmetik yang Dikesan Mengandungi Racun Berjadual
 View All Press Release
 18
 Sep
@@ -302,7 +302,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Monday 28 September 2026, 09:54:28.
+Last Modified: Friday 09 October 2026, 14:27:37.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -448,4 +448,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 28 Sep 2026
+Monday, 5 Oct 2026

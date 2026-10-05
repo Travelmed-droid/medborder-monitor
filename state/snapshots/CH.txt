@@ -75,6 +75,18 @@ Schliessen
 Visible
 Aktuelles
 Alle Updates anzeigen
+01.10.2026
+Anpassung der Wegleitung Einfuhr eines Humanarzneimittels nach Art. 14 Abs. 2 und 3 HMG (Parallelimport)
+Swissmedic hat die Wegleitung Parallelimport aktualisiert. Die &Auml;nderungen betreffen insbesondere Pr&auml;zisierungen zum Exportland, Erg&auml;nzungen bei den Anforderungen an die Packmittel sowie Erg&auml;nzungen zum Lagerungshinweis und zu den Hinweisen zur Handhabung in der Arzneimittelinformation bei parallelimportierten Arzneimitteln
+01.10.2026
+Revision der Wegleitung Zulassung Biosimilar
+Nach Finalisierung des EMA Reflection paper on tailored clinical approach in biosimilar development wird die Wegleitung Zulassung Biosimilar entsprechend angepasst
+01.10.2026
+Notwendige Anpassungen f&uuml;r die Ausstellung von Betriebsbewilligungen und GMP-Zertifikaten f&uuml;r Wirkstoffhersteller
+Ab dem 15. November 2026 wird die vorherige Registrierung von Wirkstoffen in der SMS-Datenbank der EMA (Substances Management Services) eine zwingende Voraussetzung f&uuml;r deren Aufnahme in Betriebsbewilligungen und GMP-Zertifikate sein
+29.09.2026
+HPC - Librela ad us. vet., Injektionsl&ouml;sung f&uuml;r Hunde (Bedinvetmabum)
+Neue Vorsichtsmassnahmen f&uuml;r die Anwendung bei Tieren und neue Nebenwirkungen
 26.09.2026
 DHPC &ndash; Clozapin
 &Uuml;berarbeitete Empfehlungen f&uuml;r die routinem&auml;ssige Kontrolle des Blutbildes im Hinblick auf das Risiko einer Agranulozytose
@@ -87,18 +99,6 @@ Befristete Bewilligung zum Vertrieb in schwedischer / finnischer Aufmachung
 24.09.2026
 Swissmedic Portal Release - Neue Funktionen ab 23. September 2026
 Einreichung von wesentlichen &Auml;nderungen (Betriebsbewilligungen) sowie Ansicht der Fachdaten von Komplement&auml;rarzneimitteln im Meldeverfahren
-23.09.2026
-I-SMI.TI.22e Notifications according to Article 41, MPLO
-Swissmedic hat eine neue Version des Dokumentes aufgeschaltet
-21.09.2026
-DHPC &ndash; Apremilast Leman (apremilastum)
-Fehler beim Verfallsdatum
-18.09.2026
-Chargenr&uuml;ckruf &ndash; Elocom, L&ouml;sung zur Anwendung auf der Haut
-R&uuml;ckzug der Charge C135341 bis auf Stufe Detailhandel
-17.09.2026
-Vorank&uuml;ndigung zum Swissmedic Portal Release vom 23. September 2026
-Fachdaten zu Komplement&auml;rarzneimitteln im Meldeverfahren (Kap. 7 KPAV) f&uuml;r Zulassungsinhaberinnen im Swissmedic Portal
 Im Fokus
 Fillerbehandlungen
 Das Video zeigt die Risiken von unsachgemässen Filler-Behandlungen auf und macht deutlich, wie diese reduziert werden können.

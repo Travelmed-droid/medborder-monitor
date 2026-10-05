@@ -200,6 +200,8 @@ Observatorio de Precios
 Repositorio Institucional
 Revista Ciencia, Política y Regulación Farmacéutica
 Preguntas Frecuentes
+Ministerio de Salud publica proyecto de decreto supremo para fortalecer control sanitario de la ketamina y prevenir su uso indebido
+El Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), publicó el proyecto de Decreto Supremo que propone incorporar la ketamina, un fármaco que se utiliza en el ámbito hospitalario, al listado de sustancias sujetas a fiscalización sanitaria.
 Ministerio de Salud moderniza sistema para fortalecer suministro de medicamentos en establecimientos de salud y evitar su desabastecimiento
 Con el objetivo de garantizar un abastecimiento eficiente y oportuno de medicinas a nivel nacional, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), implementó la versión 2.6 del SISMED. Esta nueva herramienta tecnológica optimiza la planificación de los recursos mediante información en línea y trazable. Con este cambio, el sistema de salud migra de un control de stock estático a una gestión predictiva que evalúa la disponibilidad, mide la demanda insatisfecha y anticipa las necesidades reales de medicamentos en los establecimientos de salud del país.
 Ministerio de Salud recomienda evitar la automedicación durante la lactancia materna
@@ -208,8 +210,6 @@ Digemid reunió a expertos nacionales e internacionales para fortalecer la farma
 Con el objetivo de fortalecer las capacidades de los profesionales de la salud, el Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid) realizó la Reunión Técnica Internacional sobre farmacovigilancia y tecnovigilancia, evento que convocó a especialistas nacionales y extranjeros y que permitió actualizar los conocimientos para el análisis y gestión del riesgo asociado al uso de productos farmacéuticos, dispositivos médicos y productos sanitarios.
 Digemid incauta más de cinco toneladas de detergentes para ropa de bebé falsificados en San Juan de Miraflores
 Más de cinco toneladas de detergentes para ropa de bebé, productos de higiene personal y cosméticos fueron incautados durante un operativo conjunto ejecutado por la Dirección General de Medicamentos, Insumos y Drogas (Digemid) del Ministerio de Salud (Minsa), el Ministerio Público y la División de Operaciones Especiales Escuadrón Verde de la Policía Nacional del Perú, en el distrito de San Juan de Miraflores.
-Digemid fortalece control sanitario internacional con 19 nuevas inspecciones a laboratorios farmacéuticos que abastecen al Perú
-El Ministerio de Salud (Minsa), a través de la Dirección General de Medicamentos, Insumos y Drogas (Digemid), desplegó una comisión de 24 inspectores especializados a la Argentina, Colombia e India. En estos países, la delegación evaluó el cumplimiento de los requisitos técnicos y sanitarios para la certificación de Buenas Prácticas de Manufactura (BPM) en 19 laboratorios farmacéuticos. Esta estrategia permite verificar las condiciones de origen de los fármacos que abastecen al país, al trasladar el control regulatorio hasta las plantas de fabricación en lugar de limitarlo al ingreso al territorio nacional.
 Comunicados Oficiales
 Comunicados Principales emitidos por la Dirección General de Medicamentos Insumos y Drogas
 Comunicados
@@ -260,30 +260,30 @@ Medidas de Seguridad y Sanciones
 Sanciones administrativas por infracciones a la Ley de los Productos Farmacéuticos, Dispositivos Médicos y Productos Sanitarios
 Alertas
 Alertas sobre Productos Farmacéuticos y Dispositivos Médicos emitidas por la DIGEMID
-Alertas, Alertas y Modificaciones, Control de Calidad
-ALERTA DIGEMID Nº 112-2026
-BOLSA DE ORINA ESTÉRIL
-23/09/2026
-Alertas, Alertas y Modificaciones, Control de Calidad
-ALERTA DIGEMID Nº 111-2026
-A-FIEBRIN
-23/09/2026
-Alertas, Alertas y Modificaciones, Seguridad
-ALERTA DIGEMID Nº 110-2026
-AMOXICILINA + ÁCIDO CLAVULÁNICO
-21/09/2026
 Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 109-2026
-CHAO NF
-15/09/2026
+ALERTA DIGEMID Nº 123-2026
+productos cosméticos marca Braham como mascarilla aclarante, crema hidratante aclarante, exfoliante corporal, limpiador facial, serum bótox procolágeno, serum anti imperfecciones
+01/10/2026
 Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 108-2026
-Opdivo (nivolumab)
-15/09/2026
+ALERTA DIGEMID Nº 122-2026
+TREMBOLONA DE ACETATO, ANADROL (oximetadona)
+01/10/2026
 Alertas, Alertas y Modificaciones, Productos Falsificados
-ALERTA DIGEMID Nº 107-2026
-RETATRUTIDE
-04/09/2026
+ALERTA DIGEMID Nº 121-2026
+WINSTROL STANOZOLAND, TESTOSTERONA PROPIONATO, LANDERLAN GOLD
+01/10/2026
+Alertas, Alertas y Modificaciones, Productos Falsificados
+ALERTA DIGEMID Nº 120-2026
+ANAVAR (oxandrolona)
+01/10/2026
+Alertas, Alertas y Modificaciones, Productos Falsificados
+ALERTA DIGEMID Nº 119-2026
+Apronax, Dioxaflex
+01/10/2026
+Alertas, Alertas y Modificaciones, Productos Falsificados
+ALERTA DIGEMID Nº 118-2026
+DIOXAFLEX CB PLUS, CHAO NF, DOLOCORDRALAN EXTRA, APRONAX
+29/09/2026
 Sitios de Interés
 Puede consultar las páginas de interés relacionadas
 Normas Legales

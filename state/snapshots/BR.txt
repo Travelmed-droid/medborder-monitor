@@ -20,23 +20,23 @@ Next
 1
 2
 Português (Brasil)
-MEDICAMENTOS
-Anvisa registra caneta para diabetes que combina insulina e semaglutida
-Produto é o primeiro a associar dose fixa de insulina basal e agonista do receptor de GLP-1 em administração semanal
-REGISTRO
-Anvisa aprova vacina contra 21 sorotipos da bactéria causadora de pneumonia e meningite
-Imunizante é indicado para adultos com 18 anos ou mais
+REGULAMENTAÇÃO
+Conheça as regras para produção artesanal de cosméticos
+Marco regulatório inédito foi publicado pela Anvisa nesta segunda-feira (5/10) e apresenta diretrizes para quem fabrica sabonetes, óleos, perfumes e outros produtos cosméticos
+SEGURANÇA DO PACIENTE
+Anvisa publica Caderno 8 da Série Segurança do Paciente e Qualidade em Serviços de Saúde
+Material apresenta medidas para prevenção de infecções relacionadas à assistência à saúde na atenção obstétrica
 CHECAGEM DE FATOS
 Encontre informações oficiais para esclarecer boatos e notícias falsas sobre vigilância sanitária
-COOPERAÇÃO INTERNACIONAL
-Anvisa e autoridade sanitária de Hong Kong assinam memorando para ampliar cooperação em saúde
-Acordo abre caminho para intercâmbio regulatório e aproximação em áreas como pesquisa clínica, novas tecnologias, medicina tradicional, serviços de saúde e inovação
-MEDICAMENTOS
-Como farmácias públicas e privadas devem se preparar para o SNCR?
-Estabelecimentos precisam organizar os acessos no Cadastro Anvisa para utilizar as novas funcionalidades do sistema
+REGISTRO
+Anvisa aprova novo medicamento para tratamento da doença de Fabry
+Condição rara gera o acúmulo de gordura nas células e afeta órgãos como rins, coração e sistema nervoso
 FISCALIZAÇÃO
-Anvisa proíbe propaganda da caneta Semavy
-Caneta com semaglutida vinha sendo divulgada irregularmente para o consumidor
+Anvisa determina recolhimento de gel hidratante íntimo falsificado
+Empresa detentora do registro do produto identificou lote irregular à venda na internet
+MEDICAMENTOS
+Anvisa disponibiliza API do SNCR para integração de sistemas de prescrição eletrônica
+Os conteúdos estão disponíveis na página do SNCR destinada aos serviços de prescrição eletrônica
 Mais notícias
 Mais serviços
 Acesso rápido
@@ -65,7 +65,8 @@ Alimentos
 Cosméticos
 Educação e pesquisa
 Farmacopeia
-Fiscalização e monitoramento
+Fiscalização
+Monitoramento
 Laboratórios Analíticos
 Medicamentos
 Portos, aeroportos e fronteiras

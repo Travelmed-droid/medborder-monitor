@@ -15,7 +15,7 @@ S&#xF8;knad om klinisk utpr&#xF8;ving
 S&#xF8;knad om klinisk utpr&#xF8;ving - krav til dokumentasjon
 S&#xF8;knad om vesentlig endring
 Lavintervensjonsstudier
-Gebyrer for s&#xF8;knad om klinisk utpr&#xF8;ving av legemidler
+Gebyrer
 Trinnvis innsendelse av s&#xF8;knad om klinisk utpr&#xF8;ving (Article 11 workaround)
 Rapportering for p&#xE5;g&#xE5;ende kliniske studier etter godkjenning
 Rapportering n&#xE5;r klinisk studie er avsluttet
@@ -116,11 +116,9 @@ FMT &#x2013; Fekal Mikrobiota Transplantasjon
 Klassifisering av melatonin
 Klassifisering av gassprodukter til medisinsk bruk
 Produkter til injeksjon for fettfjerning er legemidler &#x2013; ikke kosmetikk
-Legemidler og vaksiner mot covid-19
+Vaksiner mot covid-19
 Oversikt over godkjente koronavaksiner
 Godkjenningsprosessen for koronavaksiner
-Hvordan virker koronavaksinene?
-Aktuelle legemidler mot covid-19
 Godkjenningsprosessen for legemidler mot covid-19
 Norske legemiddelstandarder
 Om publiseringer i NLS og Ph. Eur. i 2026
@@ -615,7 +613,7 @@ Klinisk utpr&#xF8;ving av legemidler til mennesker
 S&#xF8;knad og oppf&#xF8;lging av markedsf&#xF8;ringstillatelse
 Desinfeksjonsmidler - godkjenning, tilvirkning og import
 Klassifisering av legemidler
-Legemidler og vaksiner mot covid-19
+Vaksiner mot covid-19
 Norske legemiddelstandarder
 Bivirkninger og legemiddelsikkerhet
 Bivirkningsmelding og Bivirkningsregisteret
@@ -719,6 +717,18 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
+Oppdatert veiledning for reseptfri sildenafil
+Publisert:
+25.06.2026
+|
+Oppdatert:
+05.10.2026
+H&#xF8;ring om endringer i forskrift for medisinsk utstyr
+Publisert:
+17.08.2026
+|
+Oppdatert:
+02.10.2026
 Sp&#xF8;rreunders&#xF8;kelse om nytt saksbehandlingssystem for godkjenning og oppf&#xF8;lging av legemidler
 Publisert:
 28.09.2026
@@ -734,12 +744,6 @@ Oppdatert:
 H&#xF8;ring - forslag til endringer i grossistforskriften &#xA7;&#xA7; 5 og 5a
 Publisert:
 23.09.2026
-Nytt om legemidler nr. 11 2026
-Publisert:
-22.09.2026
-Felleseuropeiske metodevurderinger i gang i DMP
-Publisert:
-18.09.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook
