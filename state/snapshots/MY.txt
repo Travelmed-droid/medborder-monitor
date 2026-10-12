@@ -158,12 +158,10 @@ MORE
 images/2026/banner/Kaji_1.png
 images/2026/banner/MADRAC-Vol_61_1750--400-px_1.png
 MORE
-images/2026/banner/Workshop_BI.png
-Click Here
-images/2026/banner/BANNER-TRAINING-ON-COSMETIC-NOFICATION-1750-x-400-px.png
 images/2026/banner/banner-NPRA-English-19082026.png
 images/2026/banner/LRen_2027_1750_x_400_px_Final_25092026.jpg
 images/2026/banner/reliance-banner-1750x400-v2.jpg
+images/2026/banner/MedSafetyWeek-2026-homepage-banner-ENG-1750-x-400-px.png
 MedSafetyWeek-2025-mobile-banner-600-x-600-px.png
 E-labelling_.jpg
 images/2026/banner/Untitled_design_mobile_2png.png
@@ -187,12 +185,10 @@ MORE
 images/2026/banner/Kaji_600x600.png
 images/2026/banner/MADRAC-Vol_61_600-x-600-px.png
 MORE
-images/2026/banner/workshop_mobile.png
-Click Here
-images/2026/banner/Train_600600.png
 images/2026/banner/Banner-mobile-PRP-poster-08092026.png
 images/2026/banner/LRen_2027__600_x_600_px_Final_25092026.jpg
 images/2026/banner/reliance-banner-600x600-v2.jpg
+images/2026/banner/MedSafetyWeek-2026-mobile-banner-600-x-600-px.png
 Consumers
 ConSERF, AEFI Reporting, RiMUP, Product Cancellation & etc
 Health Professionals
@@ -238,6 +234,8 @@ Update Of 'Borang Permohonan Sijil Indikasi / Sijil Deklarasi Bagi Produk Berdaf
 Apr
 Update on Analytical Testing and Labelling Declaration Requirements for Products Containing Animal-Derived Materials
 View All Announcements
+Products containing Turmeric and Curcuminoids: Risk of Hepatotoxicity
+published on 2026-10-06
 Biosimilar Approved
 published on 2026-09-28
 Guideline on Application of Manufacturer’s License, Import License and Wholesaler’s License for Registered Products (5th Edition, September 2026)
@@ -245,8 +243,6 @@ published on 2026-09-25
 Direktif Pelaksanaan dan Pengendalian Label Keselamatan
 published on 2026-09-18
 List of Renewal Approved Veterinary Products
-published on 2026-09-08
-New Products Approved
 published on 2026-09-08
 More Recent Updates
 05
@@ -269,15 +265,15 @@ Direktif untuk penggunaan Drug Registration Guidance Document (DRGD) Third Edit
 Jul
 PEKELILING BIL 2/2026 MAKLUMAN BERKENAAN STATUS KEMASKINI BAHAN-BAHAN DALAM ANNNEX PADA GUIDELINES FOR CONTROL OF COSMETIC PRODUCTS IN MALAYSIA
 View All Directives & Circulars
+06
+Oct
+Products containing Turmeric and Curcuminoids: Risk of Hepatotoxicity
 26
 Aug
 Itraconazole: Risk of Pseudoaldosteronism
 14
 Aug
 Safety Signal Alert: Vancomycin-Severe Cutaneous Adverse Drug Reaction (SCARs)
-22
-Jul
-GLP-1 and Dual GLP-1/GIP Receptor Agonists: Risk of Severe Acute Pancreatitis
 View All Safety Alerts
 No events
 View Full Calendar
@@ -302,7 +298,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Friday 09 October 2026, 14:27:37.
+Last Modified: Friday 06 November 2026, 17:00:11.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -448,4 +444,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 5 Oct 2026
+Monday, 12 Oct 2026

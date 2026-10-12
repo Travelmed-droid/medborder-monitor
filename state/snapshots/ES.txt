@@ -177,20 +177,20 @@ Problemas de suministro
 Conócenos
 Última información
 AEMPS
-02/10/2026
-La AEMPS informa de la situación del suministro de los medicamentos de terapia hormonal sustitutiva de administración transdérmica
+09/10/2026
+El PRAN inicia un proceso de participación pública para la actualización de la Guía Terapéutica Antimicrobiana del SNS
+Boletines CHMP
+08/10/2026
+Boletín del Comité de Medicamentos de Uso Humano. Septiembre de 2026
 Medicamentos de uso humano
-02/10/2026
-La AEMPS retira los productos Etumax Royal Honey, Miel Soudan VIP, Epimedyumlu Macum y Organic Honey
-Medicamentos de uso humano
-02/10/2026
-La AEMPS celebra la IX Jornada Nacional de Comités de Ética de la Investigación con medicamentos
+07/10/2026
+La AEMPS retira el producto El Toro
+Productos sanitarios
+06/10/2026
+La AEMPS informa de problemas en el funcionamiento de determinadas alertas de la aplicación Dexcom G7
 AEMPS
 02/10/2026
-IMCRA publica una declaración conjunta para reducir el uso de animales en el desarrollo de medicamentos de uso humano
-Cosméticos
-02/10/2026
-La AEMPS informa del cese de comercialización, retirada del mercado y recuperación de determinados blanqueadores dentales 7D WhiteTeeth Whitening Strips y Teeth Whitening Pen
+La AEMPS informa de la situación del suministro de los medicamentos de terapia hormonal sustitutiva de administración transdérmica
 AEMPS
 25/10/2023
 La AEMPS publica la Memoria 2022, un año marcado por el impulso a la autonomía estratégica
@@ -245,6 +245,11 @@ Protección de datos
 Agencia Española de Medicamentos y Productos Sanitarios (AEMPS)
 C/ Campezo nº 1, Edificio 8
 28022, Madrid
+A-
+A+
+Contraste
+No
+Restablecer
 AVISO:
 Todas las aplicaciones informáticas de la AEMPS dejarán de funcionar por tareas de mantenimiento el viernes
 18 de julio

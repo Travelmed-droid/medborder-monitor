@@ -1,4 +1,5 @@
 Instituto Nacional de Vigilancia de Medicamentos y Alimentos | Invima
+Saltar al contenido principal
 Síganos
 0
 0
@@ -136,8 +137,6 @@ Normatividad
 Sala de Prensa
 Síganos
 Inicia Sesión
-​
-​
 Anterior
 Siguiente
 Noticias Recientes
@@ -283,3 +282,22 @@ Peticiones, denuncias, quejas y reclamos
 © 2026 INVIMA - Instituto Nacional de Vigilancia de Medicamentos y Alimentos.
 ​​
 ​
+Accesibilidad
+Contraste
+Contraste brillante
+Contraste invertido
+Pantalla sin color
+Texto
+Aumentar texto
+Disminuir texto
+Texto legible
+Contenido
+Subrayar enlaces
+Resaltar títulos
+Describir imágenes
+Navegación
+Resaltar el foco
+Bloquear animaciones
+Cursor grande
+Atajo del teclado: Ctrl + F2 abre, Esc cierra.
+Restablecer
