@@ -223,10 +223,11 @@ Godkjenningsfritak
 For leger og tannleger
 Rutine for godkjenningsfritak ved sykehus
 Legemidler det ofte er sp&#xF8;rsm&#xE5;l om ved godkjenningsfritak
-Prosedyre for behandling med cannabis innenfor dagens regelverk
 Bruk av markedsf&#xF8;rte Melatonin-produkter
+Prosedyre for behandling med cannabis innenfor dagens regelverk
 Medisinske gasser
 S&#xF8;knadskjema, innsending og saksbehandlingstid
+Hvilke legemidler kan ekspederes direkte &#x2013; og hvilke m&#xE5; vurderes av DMP f&#xF8;r utlevering?
 For apotek
 Hvilke legemidler kan notifiseres &#x2013; og hvilke m&#xE5; vurderes av DMP f&#xF8;r utlevering?
 Negativlisten
@@ -442,7 +443,7 @@ Tilsyn med tilvirkere og grossistvirksomhet
 Transport av legemidler
 Retningslinjer for kontrolltelling av narkotika for tilvirkere og legemiddelgrossister
 Lager og oppbevaring av legemidler
-Innbruddssikring av legemiddellagre
+Sikring av legemiddellagre
 Retningslinjer for kontroll med temperatur ved lagring og transport av legemidler
 Andre s&#xE6;rskilte krav til oppbevaring av legemidler
 Kvalitetssystem og kvalitetsh&#xE5;ndbok-retningslinjer
@@ -716,6 +717,18 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
+Ny GLP-1-tablett anbefales godkjent i Europa
+Publisert:
+16.10.2026
+Vedtak om utleveringsbestemmelse for lecanemab og donanemab
+Publisert:
+14.10.2026
+H&#xF8;ring om endringer i forskrift for medisinsk utstyr &#x2013; kvalitetsstyring og samsvarsvurdering
+Publisert:
+13.10.2026
+Nytt om legemidler nr. 12 2026
+Publisert:
+13.10.2026
 Risiko for leverskade ved bruk av Ocrevus
 Publisert:
 09.10.2026
@@ -725,24 +738,6 @@ Publisert:
 |
 Oppdatert:
 08.10.2026
-Oppdatert veiledning for reseptfri sildenafil
-Publisert:
-25.06.2026
-|
-Oppdatert:
-05.10.2026
-H&#xF8;ring om endringer i forskrift for medisinsk utstyr
-Publisert:
-17.08.2026
-|
-Oppdatert:
-02.10.2026
-Sp&#xF8;rreunders&#xF8;kelse om nytt saksbehandlingssystem for godkjenning og oppf&#xF8;lging av legemidler
-Publisert:
-28.09.2026
-Regulatorisk informasjonsm&#xF8;te 15. desember - hold av datoen
-Publisert:
-28.09.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook

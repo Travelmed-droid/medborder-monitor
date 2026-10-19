@@ -185,6 +185,24 @@ Kurzmeldungen
 Mit 10. Februar 2026 beginnt der Echtbetrieb für das neue Medikamenten-Informationssystem des Bundesamtes für Sicherheit im Gesundheitswesen (BASG). Die bisherigen Informationen aus dem “Arzneispezialitätenregister”, dem “Vertriebseinschränkungsregister”, dem “Exportverbotsregister”, den “BASG-Verlautbarungen” und den “BASG-Abstimmungen” werden zu einem kompakten Medikamenten-Informationsportal unter medikamente.basg.gv.at zusammengeführt.
 „Medikamente Info Austria“ liefert kompakte Medikamenten-Information im neuen Design
 Weiterlesen
+Pedmarqsi 80 mg/ml Infusionslösung
+Neu
+Rückruf
+|
+Humanarzneimittel
+|
+19.10.2026
+Rückruf aufgrund möglicher Verunreinigung mit Partikel
+Pedmarqsi 80 mg/ml Infusionslösung
+Weiterlesen
+Anpassung des Exportverbots für Arzneispezialitäten
+Neu
+Kurzmeldungen
+|
+13.10.2026
+Änderung der Verordnung über die Sicherstellung der Arzneimittelversorgung
+Anpassung des Exportverbots für Arzneispezialitäten
+Weiterlesen
 Bupropion neuraxpharm 300 mg Tabletten mit veränderter Wirkstofffreisetzung
 Neu
 Rückruf
@@ -202,14 +220,6 @@ CHMP Monatsmeldung
 06.10.2026
 Aktuelles aus dem Meeting vom 20.07.-23.07.2026 zu Neuzulassungen, Indikationserweiterungen, neu veröffentlichten EPAR's und kürzlich gestarteten Verfahren.
 CHMP Meeting Highlights Juli 2026
-Weiterlesen
-Rizinusöl-Darmwickel Set
-Neu
-Illegalitäten
-|
-29.09.2026
-Das BASG warnt vor dem Produkt „Rizinusöl-Darmwickel Set“, da es als illegales Präsentationsarzneimittel eingestuft wurde.
-Rizinusöl-Darmwickel Set
 Weiterlesen
 Alle Nachrichten anzeigen
 Informationen
@@ -706,6 +716,7 @@ FAQ - GMP/GDP
 FAQ Inspektionsverfahren
 FAQ Bewilligung
 FAQ Zertifikatswesen
+FAQ Inspektionen im Drittland
 FAQ Lagerung/Transport
 FAQ Ärztemuster
 FAQ (Anstalts)Apotheken

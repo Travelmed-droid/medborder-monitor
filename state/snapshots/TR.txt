@@ -26,6 +26,7 @@ Uluslararası İş Birlikleri
 İç Kontrol
 Kalite Yönetim Sistemi
 BGYS ve KVYS Politikamız
+Kurumsal Çalışma ve Yönetim İlkeleri
 Raporlar & Planlama
 Stratejik Plan
 Faaliyet Raporu
@@ -149,15 +150,15 @@ Duyurular
 /
 Önemli
 Tümü &raquo;
-09.10.2026 - Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
-Pharmeurope 38.4 kamuoyu görüşüne sunulmuştur.
+19.10.2026 - İlaç ve Eczacılık Başkan Yardımcılığı
+ECZACI YERLEŞTİRME SİSTEMİ (EYS) 2026 YILI 3. DÖNEM YERLEŞTİRME BAŞVURUSU
+Hakkında Duyuru
+15.10.2026 - Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi Başkanlığı
+Başvuru Sahibi Firmaların Dikkatine
 Duyuru
-09.10.2026 - Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
-Avrupa Farmakopesi “Paraffin, hard” ve “Microcrystalline wax” taslak monograflarında metot tercihi için geri bildirim talebi
-Hakkında
-09.10.2026 - Denetim Hizmetleri Başkan Yardımcılığı
-TİP-1 VE TİP-19 BİYOSİDAL ÜRÜNLERE İLİŞKİN 2026 YILI ÜÇÜNCÜ ÜÇ AYLIK DÖNEM DENETİM VERİLERİ
-(01/07/2026 – 30/09/2026)
+14.10.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+Z-Denetim Sistemi Arayüz Yenilemesi Hakkında
+DUYURU
 01.09.2026 - KURUM BAŞKANI
 KAMUOYUNUN DİKKATİNE
 Hakkında
@@ -289,6 +290,7 @@ Etik Kurullar
 Klinik Araştırmalar Etik Kurul
 Kozmetik Klinik Etik Kurul Listesi
 Denetim
+Kurumumuzca Yurt Dışı GMP Denetimi Yapılan Tesis ve Denetlenen Faaliyetlere Ait Liste (2017-2020)
 2025 İDD-LST-04-Kurumumuzca Denetlenmiş Yurt Dışı Üretim Tesislerinin Liste
 2023 Yılında Kurumumuzca Denetlenmiş Yurt Dışı Üretim Tesisleri
 2024 Yılında Kurumumuzca Denetlenmiş Yurt Dışı Üretim Tesisleri
@@ -300,7 +302,6 @@ Ruhsatlı GBTÜ
 Diğer
 Özel Tıbbi Amaçlı Gıda
 Kurum Hizmetleri Fiyat Tarifesi
-Kurumumuzca Yurt Dışı GMP Denetimi Yapılan Tesis ve Denetlenen Faaliyetlere Ait Liste (2017-2020)
 Ürün Tipi-1 ve Ürün Tipi-19 İzinli Biyosidal Ürünler Listesi
 Kurumumuz Tarafından Faaliyet İzin Belgesi Düzenlenen Faz 1 Klinik Araştırma Merkezleri
 Kurumumuz Tarafından Faaliyet İzin Belgesi Düzenlenen BY/BE Merkezleri
@@ -374,6 +375,7 @@ Uluslararası İş Birlikleri
 İç Kontrol
 Kalite Yönetim Sistemi
 BGYS ve KVYS Politikamız
+Kurumsal Çalışma ve Yönetim İlkeleri
 Stratejik Plan
 Faaliyet Raporu
 Performans Programı

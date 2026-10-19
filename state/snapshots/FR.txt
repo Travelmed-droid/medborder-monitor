@@ -145,13 +145,17 @@ Chercheur
 Expertises et publications scientifiques
 Rapports d&#039;enquêtes de vigilance
 Publications scientifiques
+L’ANSM active le plan 2026-2027 de suivi des médicaments et des dispositifs médicaux de l’hiver
 Contraception à base de désogestrel et risque de méningiome : questions-réponses
 « Peptides » vendus en ligne : ne les utilisez pas, ils peuvent être dangereux
 Allonger la durée de conservation des médicaments dans un objectif de réduction du gaspillage et de la pollution
-Renouvellement du comité d’interface avec les associations de patients : appel à candidatures ouvert jusqu’au 30 septembre 2026
 A la une
-Contraception à base de désogestrel et risque de méningiome : questions-réponses
+L’ANSM active le plan 2026-2027 de suivi des médicaments et des dispositifs médicaux de l’hiver
 Dernières actualités
+Publié le 14/10/2026
+L’ANSM accueille l&#039;IncreaseNET x EU Innovation Network 2026 Innovation & Competitiveness Summit
+Vie de l’Agence
+Instances
 Publié le 09/10/2026
 - Mis à jour le 12/10/2026
 Duloxétine : l’ANSM demande aux laboratoires de renforcer leurs approvisionnements
@@ -162,12 +166,43 @@ Publié le 30/09/2026
 Tensions d’approvisionnement en Verkazia : ce collyre doit être réservé aux enfants et aux adolescents exclusivement
 Disponibilité des produits de santé
 Médicaments
-Publié le 08/10/2026
-Grippe, Covid-19, bronchiolite : se protéger contre les infections respiratoires de l’hiver
-Prévention
-Vaccination
 Plus d&#039;actualités
 Informations de sécurité
+19/10/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Appareils de mesure du glucose en continu - Application FreeStyle Libre 3 (Android et iOS) et Application Libre (Android et iOS) - Abbott Diabetes Care Ltd
+19/10/2026
+RAPPEL DE PRODUIT
+Hémostase - Réactif HemosIL AcuStar HIT-IgG(PF4-H) – Instrumentation Laboratory
+19/10/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Biochimie – Réactif Atellica CH Apolipoprotein B (APO B) – Siemens Healthcare Diagnostics
+16/10/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux de diagnostic in vitro
+Biochimie – Automate Cobas c 303 analytical unit – Roche Diagnostics
+16/10/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+LAP : logiciel d&#039;aide à la prescription – Centricity High Acuity Anesthesia / Critical Care – GE Healthcare Finland Oy
+15/10/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+LAP : Logiciel aide à la prescription IntelliSpace Critical Care and Anesthesia (ICCA) – Philips Medizin Systems Boblingen GmbH
+15/10/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Immuno-Hématologie – Réactif Ortho Sera Anti-Fyb – Alba Bioscience
+15/10/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Matériel ancillaire (genou) – Unity ASC Poignée Modulaire – Corin Ltd
+14/10/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Hématologie – Réactif FIX RAL 555 – Ral Diagnostics
 12/10/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
@@ -180,43 +215,6 @@ Prothèse totale de genou a glissement – Embase tibiale Score pour insert mobi
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
 LAP : logiciel d&#039;aide à la prescription – Chimio – Computer Engineering
-08/10/2026
-RISQUES MEDICAMENTEUX
-Médicaments
-Ocrevus (ocrelizumab) : risque nouveau d&#039;atteinte hépatique d&#039;origine médicamenteuse et recommandations sur la surveillance hépatique avant et pendant le traitement
-08/10/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Neurostimulateur implantable – Générateur d&#039;impulsions implantable (IPG) modèles 3024 et 3028 – Inspire Medical Systems Inc
-08/10/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Endoscopie (accessoire) – Jazz Endoscope valve kit – Fujifilm Medwork
-07/10/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Écho-endoscopes série EG et bouteille d’eau – Hoya Corporation - Pentax Lifecare Division
-07/10/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Matériel ancillaire (orthopédie) – Platine d’impaction Avantage – Zimmer Biomet
-15/05/2025
-- MIS À JOUR LE 07/10/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Chirurgie assistée par ordinateur – Système (RAS) Hugo – Covidien LLC / Medtronic
-06/10/2026
-RAPPEL DE PRODUIT
-Médicaments
-Ganirelix Theramex 0,25 mg/0,5 mL, solution injectable en seringue pré-remplie - Laboratoire Theramex France
-06/10/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux
-Valve bidirectionnelle RV1000NC Safsite Ventil W/O Extra Kappe – B Braun Medical Inc
-05/10/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Défibrillateur externe (DAE)- HeartSine samaritan PAD- HeartSine Technologies/Stryker
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire
@@ -225,20 +223,20 @@ Déclarer un effet indésirable
 Base de données publique des médicaments
 data.ansm
 Évènements
-15 oct. 2026
-IncreaseNET X EU Innovation Network 2026 Innovation & Competitiveness Summit le 15 octobre [webinaire]
-Autres événements
-13 oct. 2026
-Comité d&#039;Hémovigilance
+16 oct. 2026
+Comité de Contrôle de qualité des dispositifs médicaux - Groupe de travail relatif au contrôle de qualité des installations de radiodiagnostic utilisées pour des procédures interventionnelles radioguidées
 Comités scientifiques permanents (CSP)
+16 oct. 2026
+Comité d&#039;interface avec les représentants des industries du médicament - Médicaments de thérapie innovante
+Comités d&#039;interfaces
+15 oct. 2026
+IncreaseNET x EU Innovation Network 2026 Innovation & Competitiveness Summit le 15 octobre [webinaire]
+Autres événements
+14 oct. 2026
+Comité d&#039;interface avec les représentants des industries du médicament - Groupe de travail Surveillance
+Comités d&#039;interfaces
 13 oct. 2026
 Comité scientifique permanent Pharmaco-surveillance et bon usage - Formation restreinte signal
-Comités scientifiques permanents (CSP)
-9 oct. 2026
-Comité d&#039;interface avec les représentants des industries du médicament - Pratiques industrielles
-Comités d&#039;interfaces
-8 oct. 2026
-Comité Thérapie et risque cardiovasculaire
 Comités scientifiques permanents (CSP)
 Du 20 juil. 2026 au 20 oct. 2026
 Consultation publique relative au projet de décision de contrôle de qualité des installations de radiologie dentaire

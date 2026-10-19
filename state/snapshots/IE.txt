@@ -268,6 +268,10 @@ Monitoring the safety and compliance of cosmetics to protect consumer health and
 Learn more
 Safety notices
 View all
+Medical devices
+Summary of field safety notices (FSN)
+Summary of Field Safety Notices September 2026
+14/10/26
 Medicines for human use
 Direct healthcare professional communication (DHPC)
 Ocrevus (ocrelizumab): New risk of drug-induced liver injury and recommendations on monitoring of liver function before and during treatment
@@ -276,12 +280,11 @@ Cosmetics
 Safety update
 Cosmetic Safety Gate alerts impacting the Irish market - September 2026
 07/10/26
-Medicines for human use
-Pharmacovigilance risk assessment committee (PRAC)
-PRAC meeting highlights 28 September - 1 October 2026
-02/10/26
 News
 View all
+Public health update
+EMA Committee for Medicinal Products for Human Use – Meeting Highlights – October 2026
+16/10/2026
 Regulatory news - Medicines for animal use
 Public consultation on proposed fees for 2027 - Veterinary Medicinal Products
 12/10/2026
@@ -289,9 +292,6 @@ Regulatory news - Medicines for human use
 Regulatory news - Medical devices
 Public consultation on proposed fees for 2027 - Human Medicines, Compliance Activities, Blood, Tissue Establishments, Organs and Medical Devices
 12/10/2026
-Regulatory news - Scientific animal protection
-ICMRA statement on implementing alternative methods to animal testing for human medicines
-01/10/2026
 Homepage link
 My Alerts
 Get the latest HPRA safety and regulatory updates delivered directly to your inbox.
