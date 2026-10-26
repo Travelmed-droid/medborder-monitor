@@ -137,6 +137,8 @@ Normatividad
 Sala de Prensa
 Síganos
 Inicia Sesión
+​
+​
 Anterior
 Siguiente
 Noticias Recientes
@@ -161,6 +163,9 @@ Ver más
 Cosméticos y Aseo
 Normativas legales para productos de aseo, higiene y plaguicidas domésticos.
 Ver más
+Dirección de Operaciones Sanitarias
+Supervisión, inspección y control transversal para garantizar el cumplimiento normativo en todos los productos vigilados a nivel nacional.
+Ver más
 Productos Vigilados
 Garantizando la calidad y eficacia para la protección de la salud pública en todo el territorio nacional.
 01
@@ -179,6 +184,9 @@ Ver más
 Cosméticos y Aseo
 Normativas legales para productos de aseo, higiene y plaguicidas domésticos.
 Ver más
+Dirección de Operaciones Sanitarias
+Supervisión, inspección y control transversal para garantizar el cumplimiento normativo en todos los productos vigilados a nivel nacional.
+Ver más
 Servicios en línea
 Consulta Registro Sanitario
 InvimÁgil
@@ -187,7 +195,7 @@ Aula Virtual
 Radique aquí su PQRSD
 Tráfico postal y envíos urgentes
 Puertos, Aeropuertos y Pasos de Frontera
-Información INVIMA
+Información Invima
 Alertas Sanitarias e Informes de Seguridad
 Alertas Sanitarias
 Informes de Seguridad

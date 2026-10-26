@@ -4,10 +4,6 @@ tag,
 and before any other scripts. Your first data will appear
 automatically in just a few seconds.
 -->
-tag,
-and before any other scripts. Your first data will appear
-automatically in just a few seconds.
--->
 تشغيل وضع قابل للوصول بشكل أفضل
 إيقاف تشغيل الوضع القابل للوصول بشكل أفضل
 تخطي أوامر الشريط

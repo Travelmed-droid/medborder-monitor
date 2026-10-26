@@ -162,6 +162,8 @@ images/2026/banner/reliance-banner-1750x400-v2.jpg
 images/2026/banner/MedSafetyWeek-2026-homepage-banner-ENG-1750-x-400-px.png
 images/2026/banner/gmp_1750.png
 images/2026/banner/MADRAC-Bulletin_62-website-banner-1750-x-400-px.png
+images/2026/banner/Penutupan_2.png
+images/2026/banner/23_Oct_Maint.png
 MedSafetyWeek-2025-mobile-banner-600-x-600-px.png
 E-labelling_.jpg
 images/2026/banner/DCC_mobile.jpg
@@ -187,6 +189,8 @@ images/2026/banner/reliance-banner-600x600-v2.jpg
 images/2026/banner/MedSafetyWeek-2026-mobile-banner-600-x-600-px.png
 images/2026/banner/GMP_600-x-600.png
 images/2026/banner/MADRAC-Bulletin_62_-mobile-banner-600-x-600-px.png
+images/2026/banner/Penutupan_mobile.png
+images/2026/banner/23_Oct_Maint_1.png
 Consumers
 ConSERF, AEFI Reporting, RiMUP, Product Cancellation & etc
 Health Professionals
@@ -232,16 +236,16 @@ PELAKSANAAN KAJIAN KEPUASAN PELANGGAN LUARAN PROGRAM PERKHIDMATAN FARMASI, KKM
 Apr
 Official Launch of the NPRA GCP, GLP, BE & EC Inspection Dashboard
 View All Announcements
+Biosimilar Approved
+published on 2026-10-26
+Direktif untuk semua produk yang mengandungi non-vitamin K antagonist oral anticoagulants (NOACs) [dabigatran, rivaroxaban, apixaban dan edoxaban]: Pengemaskinian sisip bungkusan dan RiMUP dengan maklumat keselamatan berkaitan risiko anticoagulant-related nephropathy (ARN)
+published on 2026-10-20
+Direktif untuk semua produk yang mengandungi Atorvastatin: Pengemaskinian sisip bungkusan dan RiMUP dengan maklumat keselamatan berkaitan risiko reaksi fotosensitiviti (photosensitivity reaction)
+published on 2026-10-20
 New Products Approved
 published on 2026-10-13
 List of Renewal Approved Veterinary Products
 published on 2026-10-13
-Additional Indications Approved
-published on 2026-10-13
-GLP-1 and Dual GLP-1/GIP Receptor Agonists: Risk of Intestinal Obstruction
-published on 2026-10-13
-Products containing Turmeric and Curcuminoids: Risk of Hepatotoxicity
-published on 2026-10-06
 More Recent Updates
 05
 Oct
@@ -253,15 +257,15 @@ Kenyataan Media KKM 24 Ogos 2026- Makluman Kosmetik yang Dikesan Mengandungi Rac
 Aug
 Kenyataan Media KKM 21 Ogos 2026- Pemakluman Berkenaan Pensanitasi Tangan (Hand Sanitizer) Yang Dikesan Mengandungi Methanol Melebihi Had Yang Ditetapkan
 View All Press Release
+20
+Oct
+Direktif untuk semua produk yang mengandungi non-vitamin K antagonist oral anticoagulants (NOACs) [dabigatran, rivaroxaban, apixaban dan edoxaban]: Pengemaskinian sisip bungkusan dan RiMUP dengan maklumat keselamatan berkaitan risiko anticoagulant-related nephropathy (ARN)
 18
 Sep
 Direktif Pelaksanaan dan Pengendalian Label Keselamatan
 16
 Jul
 Direktif untuk penggunaan Drug Registration Guidance Document (DRGD) Third Edition, 12th Revision July 2026
-06
-Jul
-PEKELILING BIL 2/2026 MAKLUMAN BERKENAAN STATUS KEMASKINI BAHAN-BAHAN DALAM ANNNEX PADA GUIDELINES FOR CONTROL OF COSMETIC PRODUCTS IN MALAYSIA
 View All Directives & Circulars
 13
 Oct
@@ -442,4 +446,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 19 Oct 2026
+Monday, 26 Oct 2026

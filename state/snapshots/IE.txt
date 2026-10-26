@@ -72,6 +72,7 @@ Manufacturers
 Wholesalers and retailers
 Clinical trial sponsors
 Patients and healthcare professionals
+Reform of the EU pharmaceutical legislation
 Medicines for animal use
 Overview
 Regulation 2019/6
@@ -268,6 +269,10 @@ Monitoring the safety and compliance of cosmetics to protect consumer health and
 Learn more
 Safety notices
 View all
+Medicines for human use
+Product information update (PIU)
+Rifampicin and Rifampicin combination – Potential genotoxicity and associated contraceptive requirements
+23/10/26
 Medical devices
 Summary of field safety notices (FSN)
 Summary of Field Safety Notices September 2026
@@ -276,22 +281,18 @@ Medicines for human use
 Direct healthcare professional communication (DHPC)
 Ocrevus (ocrelizumab): New risk of drug-induced liver injury and recommendations on monitoring of liver function before and during treatment
 08/10/26
-Cosmetics
-Safety update
-Cosmetic Safety Gate alerts impacting the Irish market - September 2026
-07/10/26
 News
 View all
+Regulatory news - Clinical trials
+COMBINE Pilot Phase 2 – coordinated assessment of combined clinical trial and medical device or in vitro diagnostic studies
+23/10/2026
 Public health update
-EMA Committee for Medicinal Products for Human Use – Meeting Highlights – October 2026
-16/10/2026
-Regulatory news - Medicines for animal use
-Public consultation on proposed fees for 2027 - Veterinary Medicinal Products
-12/10/2026
-Regulatory news - Medicines for human use
-Regulatory news - Medical devices
-Public consultation on proposed fees for 2027 - Human Medicines, Compliance Activities, Blood, Tissue Establishments, Organs and Medical Devices
-12/10/2026
+Press release
+HPRA urges care when purchasing children’s face paints this Halloween
+23/10/2026
+Public health update
+Reminder: Save the date for #MedSafetyWeek: 2–8 November 2026
+22/10/2026
 Homepage link
 My Alerts
 Get the latest HPRA safety and regulatory updates delivered directly to your inbox.

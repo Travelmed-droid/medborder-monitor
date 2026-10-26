@@ -135,6 +135,7 @@ Advice
 Model project genome sequencing
 Data Access and Coordination Office
 DRKS - German Clinical Trials Register
+Innovation office
 EU and International
 CHMP Committee for Medicinal Products for Human Use
 ERON European Regulatory Oncology News
@@ -553,6 +554,16 @@ Study Submission and User Account
 Networking
 About Us
 Statistics
+Innovation office
+To overview: Innovation office
+News
+Advice formats
+To overview: Advice formats
+DiGA/DiPA consultation
+Pre-advice meeting
+Portfolio meeting
+More information
+Networking
 Contact persons
 EU and International
 To overview: EU and International

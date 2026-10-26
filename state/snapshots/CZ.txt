@@ -27,15 +27,16 @@ Zdravotničtí pracovníci
 Průmysl a organizace
 Důležité informace
 Zobrazit vše
-19. 10. 2026
-Bupropion Neuraxpharm &#8211; stahování až z úrovně zdravotnických zařízení
-SÚKL informuje distributory a zdravotnická zařízení o stažení uvedených šarží léčivého přípravku Bupropion Neuraxpharm, 300 mg tbl. mrl. 30 až z úrovně zdravotnických zařízení. Pacienti balení…
-16. 10. 2026
-Informace o výskytu padělku léčivého přípravku Keytruda v zahraničí
-SÚKL upozorňuje na výskyt padělku léčivého přípravku Keytruda 25mg/ml, 1&#215;4 ml, v zahraničí. Výskyt dotčené šarže v ČR nebyl zjištěn.
-16. 10. 2026
-Očkování proti chřipce: do České republiky již dorazily první dávky vakcín
-Do České republiky již bylo pro letošní očkovací sezónu dodáno více než 500 tisíc dávek vakcín proti chřipce. Byly dodány standardní varianty (léčivý přípravek Influvac) i vysokodávkové vakcíny …
+23. 10. 2026
+Portál Opendata SÚKL je dostupný na nové webové adrese
+Státní ústav pro kontrolu léčiv (SÚKL) informuje uživatele o změně webové adresy portálu Opendata, který nově naleznou výhradně na adrese https://opendata.sukl.gov.cz.
+Změna domény souvisí s…
+22. 10. 2026
+Dočasné omezení elektronického rozhraní SÚKL pro podávání vigilančních…
+V návaznosti na aktuální upozornění Národního úřadu pro kybernetickou a informační bezpečnost (NÚKIB) týkající se zranitelnosti PHP bude z bezpečnostních důvodů dočasně odstaveno elektronické…
+21. 10. 2026
+Informační dopis &#8211; Mycophenolic Acid Accord
+Informace pro provozovatele související se závadou v jakosti léčivého přípravku Mycophenolic Acid Accord, 180mg tbl. ent. 120.
 Rychlé odkazy a informace
 Podezření na nežádoucí účinek LP
 Podezření na závažnou nežádoucí příhodu ZP
@@ -52,24 +53,28 @@ Konzultace
 Lékopis
 Nejnovější články
 Zobrazit vše
+26. 10. 2026
+Seminář č. 22 –Sekce Cenové a úhradové regulace – Aktuální témata cenové a…
+TÉMA: Seminář sekce Cenové a úhradové regulace [CAU] – aktuální témata | Datum konání: 03.12.2026 9:00 – 15:30
+26. 10. 2026
+Internetové stránky s nelegálními nabídkami neschválených přípravků
+SÚKL ve spolupráci se zahraničními lékovými agenturami provádí kontrolu nelegálních nabídek přípravků určených k léčbě. Internet však poskytuje prodejcům značnou anonymitu, a proto není možné všechny…
+23. 10. 2026
+Hlavní body zasedání Výboru pro humánní léčivé přípravky (CHMP) 12. – 15.…
+Výbor pro humánní léčivé přípravky (CHMP) agentury EMA na svém zasedání v říjnu 2026 doporučil ke schválení šest léčivých přípravků.
+23. 10. 2026
+Seznam cen a úhrad PZLÚ k 1. 11. 2026
+Státní ústav pro kontrolu léčiv v souladu s ustanovením § 39zb odst. 1 zákona č. 48/1997 Sb. o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů (dále jen „zákon“)…
+20. 10. 2026
+Věstník 10/2026
+Obsah
+Důležitá upozornění týkající se léčivých přípravků a zdravotnických prostředků
+Závady v jakosti, padělky a odcizené přípravky
+Dostupnost léčivých přípravků
+…
 19. 10. 2026
 Výzva LEK vybrané léčivé přípravky
 Výzva provozovatelům oprávněným k výdeji léčivých přípravků, k poskytnutí údajů o množství vybraných léčivých přípravků, které mají k dispozici ke dni 20. 10. 2026.
-19. 10. 2026
-Výzva DIS vybrané léčivé přípravky
-Výzva distributorům léčivých přípravků k poskytnutí údajů o množství vybraných léčivých přípravků, které mají k dispozici ke dni 20. 10. 2026.
-19. 10. 2026
-Registr zprostředkovatelů humánních léčivých přípravků
-Název zprostředkovateleAdresaIČPrávnickáosobaJménoKontakty1. Specialisté s.r.o.Křenova 438/7, Praha 627466264ANOMgr. Jan Egrt775 377 5&#55;&#56;&#x6a;&#x61;&#x6e;&#x2e;e&#103;&#114;&#116;&#x40;&#x31;&#x73;pe&#99;&#105;&#x61;&#x6c;&#x69;st&#101;&#46;&#x63;&#x6f;&#x6d;4 LIFE PHARMA CZ, s.r.o.Ve studeném…
-19. 10. 2026
-Nový perorální přípravek k úpravě tělesné hmotnosti a léčbě diabetu 2.…
-Tableta užívaná jednou denně představuje alternativu k jiným perorálním a injekčním přípravkům na bázi analoga GLP-1.
-16. 10. 2026
-Doplnění seznamu evropských zemí nebo oblastí, jejichž návštěva je důvodem…
-Doporučení předsednictva Národní transfuzní komise Ministerstva zdravotnictví a Společnosti pro transfuzní lékařství ČLS JEP ze dne 12. 10. 2026 – rozšíření seznamu evropských zemí nebo oblastí,…
-15. 10. 2026
-EMA doporučila registraci přípravku Rasonque pro metastazující karcinom…
-Postupné hodnocení urychluje posouzení léčivého přípravku za účelem řešení neuspokojené léčebné potřeby.
 Databáze
 Databáze léků
 Dostupnost léků

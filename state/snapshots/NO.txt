@@ -188,7 +188,6 @@ Hom&#xF8;opatiske legemiddel
 Hormonelle prevensjonsmiddel
 Legemiddelregning-app
 Legemiddelsamstemming og legemiddelgjennomgang
-Nesespray anbefales ikke til barn under 2 &#xE5;r
 Nytt om legemidler (NYL)
 Desinfeksjonsmidler
 Plantebaserte legemiddel
@@ -374,6 +373,7 @@ Prosjektplaner
 Fullf&#xF8;rte metodevurderinger
 Brukerinnspill
 Fageksperters rolle
+Habilitet for fageksperter i metodevurderinger
 Internasjonalt samarbeid
 EU-forordning om metodevurdering
 Nordisk samarbeid om helse&#xF8;konomiske vurderinger (JNHB)
@@ -580,6 +580,7 @@ Godkjente blodbanker
 Tilsyn med blodbanker
 Meld u&#xF8;nsket hendelse ved blodgivning og blodtransfusjon
 Overv&#xE5;king av blod - rapporter og artikler
+Godkjenning av blodbanker
 Celler og vev
 Godkjenning av virksomheter for h&#xE5;ndtering av celler og vev
 Virksomheter godkjent for h&#xE5;ndtering av humane celler og vev
@@ -717,6 +718,15 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
+Veileder gj&#xF8;r habilitetsvurderinger tydeligere
+Publisert:
+23.10.2026
+Oppdaterte retningslinjer for sikring av legemiddellagre
+Publisert:
+22.10.2026
+Rasjonering av Soluvit
+Publisert:
+22.10.2026
 Ny GLP-1-tablett anbefales godkjent i Europa
 Publisert:
 16.10.2026
@@ -726,18 +736,6 @@ Publisert:
 H&#xF8;ring om endringer i forskrift for medisinsk utstyr &#x2013; kvalitetsstyring og samsvarsvurdering
 Publisert:
 13.10.2026
-Nytt om legemidler nr. 12 2026
-Publisert:
-13.10.2026
-Risiko for leverskade ved bruk av Ocrevus
-Publisert:
-09.10.2026
-H&#xF8;ring - forslag til endringer i grossistforskriften &#xA7;&#xA7; 5 og 5a
-Publisert:
-23.09.2026
-|
-Oppdatert:
-08.10.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook
