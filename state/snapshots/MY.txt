@@ -136,6 +136,7 @@ MADRAC Members
 National Pharmaceutical Regulatory Agency (NPRA)
 Lot 36, Jalan Universiti (Jalan Prof Diraja Ungku Aziz), 46200 Petaling Jaya, Selangor, Malaysia.
 Phone: +603-7883 5400
+images/2026/banner/unscheduled.png
 Slide
 banner-trustid.png
 E-labelling_.jpg
@@ -163,7 +164,7 @@ images/2026/banner/MedSafetyWeek-2026-homepage-banner-ENG-1750-x-400-px.png
 images/2026/banner/gmp_1750.png
 images/2026/banner/MADRAC-Bulletin_62-website-banner-1750-x-400-px.png
 images/2026/banner/Penutupan_2.png
-images/2026/banner/23_Oct_Maint.png
+images/2026/banner/30_Oct_Maint.png
 MedSafetyWeek-2025-mobile-banner-600-x-600-px.png
 E-labelling_.jpg
 images/2026/banner/DCC_mobile.jpg
@@ -190,7 +191,7 @@ images/2026/banner/MedSafetyWeek-2026-mobile-banner-600-x-600-px.png
 images/2026/banner/GMP_600-x-600.png
 images/2026/banner/MADRAC-Bulletin_62_-mobile-banner-600-x-600-px.png
 images/2026/banner/Penutupan_mobile.png
-images/2026/banner/23_Oct_Maint_1.png
+images/2026/banner/30_Oct_Maint_mobil.png
 Consumers
 ConSERF, AEFI Reporting, RiMUP, Product Cancellation & etc
 Health Professionals
@@ -236,26 +237,26 @@ PELAKSANAAN KAJIAN KEPUASAN PELANGGAN LUARAN PROGRAM PERKHIDMATAN FARMASI, KKM
 Apr
 Official Launch of the NPRA GCP, GLP, BE & EC Inspection Dashboard
 View All Announcements
+#MedSafetyWeek 2026 starts today!
+published on 2026-11-02
+We're counting down to #MedSafetyWeek 2026 – join us! ⏱️
+published on 2026-10-30
+Diosmin and Diosmin-Hesperidin Combination: Increased Risk of Bleeding
+published on 2026-10-27
 Biosimilar Approved
 published on 2026-10-26
 Direktif untuk semua produk yang mengandungi non-vitamin K antagonist oral anticoagulants (NOACs) [dabigatran, rivaroxaban, apixaban dan edoxaban]: Pengemaskinian sisip bungkusan dan RiMUP dengan maklumat keselamatan berkaitan risiko anticoagulant-related nephropathy (ARN)
 published on 2026-10-20
-Direktif untuk semua produk yang mengandungi Atorvastatin: Pengemaskinian sisip bungkusan dan RiMUP dengan maklumat keselamatan berkaitan risiko reaksi fotosensitiviti (photosensitivity reaction)
-published on 2026-10-20
-New Products Approved
-published on 2026-10-13
-List of Renewal Approved Veterinary Products
-published on 2026-10-13
 More Recent Updates
+02
+Nov
+Kenyataan Media KKM 31 Oktober 2026- Makluman Kosmetik yang Dikesan Mengandungi Racun Berjadual
 05
 Oct
 Kenyataan Media KKM 1 Oktober 2026- Makluman Kosmetik yang Dikesan Mengandungi Racun Berjadual
 26
 Aug
 Kenyataan Media KKM 24 Ogos 2026- Makluman Kosmetik yang Dikesan Mengandungi Racun Berjadual
-21
-Aug
-Kenyataan Media KKM 21 Ogos 2026- Pemakluman Berkenaan Pensanitasi Tangan (Hand Sanitizer) Yang Dikesan Mengandungi Methanol Melebihi Had Yang Ditetapkan
 View All Press Release
 20
 Oct
@@ -267,15 +268,15 @@ Direktif Pelaksanaan dan Pengendalian Label Keselamatan
 Jul
 Direktif untuk penggunaan Drug Registration Guidance Document (DRGD) Third Edition, 12th Revision July 2026
 View All Directives & Circulars
+29
+Oct
+Crysvita® (Burosumab): Risk of Severe Hypercalcaemia
+27
+Oct
+Diosmin and Diosmin-Hesperidin Combination: Increased Risk of Bleeding
 13
 Oct
 GLP-1 and Dual GLP-1/GIP Receptor Agonists: Risk of Intestinal Obstruction
-06
-Oct
-Products containing Turmeric and Curcuminoids: Risk of Hepatotoxicity
-26
-Aug
-Itraconazole: Risk of Pseudoaldosteronism
 View All Safety Alerts
 No events
 View Full Calendar
@@ -300,7 +301,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Friday 06 November 2026, 17:00:11.
+Last Modified: Tuesday 03 November 2026, 10:00:01.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -446,4 +447,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 26 Oct 2026
+Monday, 2 Nov 2026

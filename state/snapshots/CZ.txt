@@ -27,16 +27,16 @@ Zdravotničtí pracovníci
 Průmysl a organizace
 Důležité informace
 Zobrazit vše
-23. 10. 2026
-Portál Opendata SÚKL je dostupný na nové webové adrese
-Státní ústav pro kontrolu léčiv (SÚKL) informuje uživatele o změně webové adresy portálu Opendata, který nově naleznou výhradně na adrese https://opendata.sukl.gov.cz.
-Změna domény souvisí s…
-22. 10. 2026
-Dočasné omezení elektronického rozhraní SÚKL pro podávání vigilančních…
-V návaznosti na aktuální upozornění Národního úřadu pro kybernetickou a informační bezpečnost (NÚKIB) týkající se zranitelnosti PHP bude z bezpečnostních důvodů dočasně odstaveno elektronické…
-21. 10. 2026
-Informační dopis &#8211; Mycophenolic Acid Accord
-Informace pro provozovatele související se závadou v jakosti léčivého přípravku Mycophenolic Acid Accord, 180mg tbl. ent. 120.
+2. 11. 2026
+Flupentixol/melitracen (fixní kombinace) – zahájeno evropské přehodnocení
+V České republice není registrován žádný léčivý přípravek obsahující tuto fixní kombinaci léčivých látek.
+Státní ústav pro kontrolu léčiv informuje o zahájení evropského přehodnocení…
+2. 11. 2026
+Odstartovala letošní kampaň #MedSafetyWeek
+Státní ústav pro kontrolu léčiv se tradičně každým rokem připojuje ke globální kampani MedSafetyWeek, vedenou Uppsala Monitoring Centre (UMC), která vyzývá, aby lidé věnovali pozornost nežádoucím…
+30. 10. 2026
+Nitromint &#8211; stahování až z úrovně zdravotnických zařízení
+SÚKL informuje distributory a zdravotnická zařízení o stažení uvedené šarže léčivého přípravku Nitromint, 2,6mg tbl. mrl. 60 až z úrovně zdravotnických zařízení. Pacienti balení nevracejí.
 Rychlé odkazy a informace
 Podezření na nežádoucí účinek LP
 Podezření na závažnou nežádoucí příhodu ZP
@@ -53,6 +53,12 @@ Konzultace
 Lékopis
 Nejnovější články
 Zobrazit vše
+1. 11. 2026
+Farmakoterapeutické informace 11/2026
+Přehled klíčových změn v očkovacím kalendáři dětí
+30. 10. 2026
+Seznam IPLP k 1. 11. 2026
+Seznam individuálně připravovaných léčivých přípravků a dalších přípravků, jimž je úhrada stanovena opatřením obecné povahy.
 26. 10. 2026
 Seminář č. 22 –Sekce Cenové a úhradové regulace – Aktuální témata cenové a…
 TÉMA: Seminář sekce Cenové a úhradové regulace [CAU] – aktuální témata | Datum konání: 03.12.2026 9:00 – 15:30
@@ -65,16 +71,6 @@ Výbor pro humánní léčivé přípravky (CHMP) agentury EMA na svém zasedán
 23. 10. 2026
 Seznam cen a úhrad PZLÚ k 1. 11. 2026
 Státní ústav pro kontrolu léčiv v souladu s ustanovením § 39zb odst. 1 zákona č. 48/1997 Sb. o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů (dále jen „zákon“)…
-20. 10. 2026
-Věstník 10/2026
-Obsah
-Důležitá upozornění týkající se léčivých přípravků a zdravotnických prostředků
-Závady v jakosti, padělky a odcizené přípravky
-Dostupnost léčivých přípravků
-…
-19. 10. 2026
-Výzva LEK vybrané léčivé přípravky
-Výzva provozovatelům oprávněným k výdeji léčivých přípravků, k poskytnutí údajů o množství vybraných léčivých přípravků, které mají k dispozici ke dni 20. 10. 2026.
 Databáze
 Databáze léků
 Dostupnost léků

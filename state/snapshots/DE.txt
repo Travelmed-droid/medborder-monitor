@@ -769,6 +769,12 @@ Licensing
 Pharmacovigilance
 Information on medicinal products
 News
+Updated “Bescheidmaske” for national translations in DC/MR procedures
+Date:
+2026.10.30
+Topics:
+Licensing
+“Bescheidmaske” for national translations in DC/MR procedures has been updated.
 Latest information on the allocation of
 EU
 procedure numbers and time slots (08.09.2026)
@@ -785,12 +791,6 @@ Date:
 Topics:
 Licensing
 Guide to the Submission of Applications for Marketing Authorisation of Medicinal Products
-Submission of Variations
-Date:
-2026.07.28
-Topics:
-Licensing
-Submission of Variations
 More news on the subject
 Clinical Trials
 Clinical trials are intended to prove the efficacy of new medicinal products and to demonstrate their safety. Clinical trials are performed before the product concerned is placed on the market and they have to be approved in Germany by the respective competent federal higher authority.

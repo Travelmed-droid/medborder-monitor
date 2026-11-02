@@ -42,7 +42,7 @@ Fornyelse av markedsf&#xF8;ringstillatelse
 Endring av markedsf&#xF8;ringstillatelse
 Overf&#xF8;ring av MT/endret navn og adresse for MT-innehaver
 Artikkel 61(3)-notifikasjoner og VRA G.I.15z (NP)
-Arbeidsdelingsprosedyre (&#xAB;worksharing&#xBB;) med nasjonalt godkjente legemidler
+Arbeidsdelingsprosedyre (&#xAB;worksharing&#xBB;)
 Innsendelse av endringss&#xF8;knader
 DMP-svar p&#xE5; ferdigstilte endringss&#xF8;knader
 Implementeringsfrist for endringer som ikke ber&#xF8;rer norsk produktinformasjon
@@ -60,19 +60,14 @@ RMS og norske kodeverk
 ATC-kodeverk og viktigheten av femte niv&#xE5; for preparater
 Kosttilskudd til FEST og FHIR-tjenesten
 Produktinformasjon
-Preparatomtale og pakningsvedlegg
-Internasjonale enheter (IE) og Enhet (E) har ulik betydning
+Innsending av produktinformasjon
 Templater og veiledninger
 Digitalt pakningsvedlegg
 Merking
 Implementeringsfrist for merking og pakningsvedlegg
 S&#xF8;knad om batchspesifikke unntak relatert til produktinformasjon
 Anbefalinger om oppdateringer
-Oppdateringer som f&#xF8;lge av &#x201D;Paediatric Regulation&#x201D;, art. 45 og 46 arbeidsdeling/ &#x201D;worksharing&#x201D;
-PRAC etter utredning av signaler
-PRAC etter referral med CMDh-konsensus
-Referral vedtatt av Europakommisjonen
-PSUR Single Assessment (PSUSA)
+Norske oversettelser av PRAC-anbefalinger etter utredning av signaler
 Varseltrekantordningen
 Lesbarhetstesting og bridging
 Legemidler som utleveres uten resept - OTC
@@ -308,8 +303,8 @@ Veiledning om reklame for fillere
 Sanksjonsmuligheter - ulovlig reklame
 Vedtak om brudd p&#xE5; reklameregelverket
 Eudamed
-Registrering som akt&#xF8;r
 Registrering av medisinsk utstyr
+Registrering som akt&#xF8;r
 Klinisk utpr&#xF8;ving av medisinsk utstyr
 Introduksjon til klinisk utpr&#xF8;ving av medisinsk utstyr
 S&#xF8;knadspliktige kliniske utpr&#xF8;vinger
@@ -718,6 +713,18 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
+Forh&#xE5;ndsgodkjent refusjon for kvinner med overgangsplager
+Publisert:
+30.10.2026
+Frokostseminar om legemiddelmangel og forsyningssikkerhet 24. november
+Publisert:
+29.10.2026
+Ny sikkerhetsmodul for &#xE5;rsrapporter i Clinical Trials Information System (CTIS)
+Publisert:
+09.09.2026
+|
+Oppdatert:
+27.10.2026
 Veileder gj&#xF8;r habilitetsvurderinger tydeligere
 Publisert:
 23.10.2026
@@ -727,15 +734,6 @@ Publisert:
 Rasjonering av Soluvit
 Publisert:
 22.10.2026
-Ny GLP-1-tablett anbefales godkjent i Europa
-Publisert:
-16.10.2026
-Vedtak om utleveringsbestemmelse for lecanemab og donanemab
-Publisert:
-14.10.2026
-H&#xF8;ring om endringer i forskrift for medisinsk utstyr &#x2013; kvalitetsstyring og samsvarsvurdering
-Publisert:
-13.10.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook
