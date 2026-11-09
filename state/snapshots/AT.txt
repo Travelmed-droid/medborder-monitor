@@ -55,6 +55,7 @@ Gewebevigilanz
 MedSafety Week 2023
 MedSafety Week 2024
 MedSafety Week 2025
+MedSafety Week 2026
 Konsument:innen
 Wissenswertes über Arzneimittel
 Arzneimittel
@@ -185,6 +186,30 @@ Kurzmeldungen
 Mit 10. Februar 2026 beginnt der Echtbetrieb für das neue Medikamenten-Informationssystem des Bundesamtes für Sicherheit im Gesundheitswesen (BASG). Die bisherigen Informationen aus dem “Arzneispezialitätenregister”, dem “Vertriebseinschränkungsregister”, dem “Exportverbotsregister”, den “BASG-Verlautbarungen” und den “BASG-Abstimmungen” werden zu einem kompakten Medikamenten-Informationsportal unter medikamente.basg.gv.at zusammengeführt.
 „Medikamente Info Austria“ liefert kompakte Medikamenten-Information im neuen Design
 Weiterlesen
+Hinweis zur Anmeldung im eService-Portal nach dem Portal-Update
+Neu
+Wartungsarbeiten
+|
+06.11.2026
+Nach dem Update des eService-Portals kann es in Einzelfällen vorkommen, dass die Anmeldemaske nicht vollständig dargestellt wird und die Felder für Benutzername und Kennwort nicht sichtbar sind. Informationen zur Fehlerbehebung finden Sie unten.
+Hinweis zur Anmeldung im eService-Portal nach dem Portal-Update
+Weiterlesen
+Aktualisierung des Q&A Dokuments zu Nitrosaminen
+Neu
+Kurzmeldungen
+|
+06.11.2026
+Im November 2026 stimmte das CHMP in Abstimmung mit dem CMDh einer aktualisierten Version des Q&A - Dokuments für Zulassungsinhaber und Antragsteller zur Umsetzung der gemäß Artikel 5(3) abgegebenen „CHMP – Opinion“ zu Nitrosamin-Verunreinigungen zu.
+Aktualisierung des Q&A Dokuments zu Nitrosaminen
+Weiterlesen
+#MedSafetyWeek 2026: Nebenwirkungen nicht ignorieren, sondern melden!
+Neu
+Kurzmeldungen
+|
+03.11.2026
+BASG und AGES unterstützen internationale Kampagne für mehr Arzneimittelsicherheit. Die #MedSafetyWeek wurde 2016 ins Leben gerufen und findet heuer bereits zum elften Mal, in der Woche vom 2. bis 8. November 2026, statt. Mehr als 130 Organisationen aus über 120 Ländern tragen die Botschaft in mehr als 60 Sprachen weiter.
+#MedSafetyWeek 2026: Nebenwirkungen nicht ignorieren, sondern melden!
+Weiterlesen
 Aktuelle Ausgabe der „RMS NEWS“
 Neu
 Kurzmeldungen
@@ -204,7 +229,6 @@ Rückruf aufgrund von fehlerhafter Griffhilfe der Fertigspritze
 Mynzepli 40 mg/ml - Injektionslösung in einer Fertigspritze
 Weiterlesen
 Maxi-Kalz Vit.D3 500 mg/400 I.E. - Kautabletten
-Neu
 Rückruf
 |
 Humanarzneimittel
@@ -214,7 +238,6 @@ Rückruf aufgrund nicht eingemeldeter Seriennummern
 Maxi-Kalz Vit.D3 500 mg/400 I.E. - Kautabletten
 Weiterlesen
 Runder Tisch zu Freiverkaufszertifikaten für Medizinprodukte
-Neu
 Medizinprodukte
 |
 22.10.2026
@@ -222,7 +245,6 @@ Beim ersten Runden Tisch zu Freiverkaufszertifikaten diskutierten Branchenverbä
 Runder Tisch zu Freiverkaufszertifikaten für Medizinprodukte
 Weiterlesen
 Heparin Gilvasan 1000 IE/ml - Injektions-/Infusionslösung
-Neu
 Rückruf
 |
 Humanarzneimittel
@@ -230,15 +252,6 @@ Humanarzneimittel
 20.10.2026
 Rückruf aufgrund sichtbarer Partikel
 Heparin Gilvasan 1000 IE/ml - Injektions-/Infusionslösung
-Weiterlesen
-Pedmarqsi 80 mg/ml Infusionslösung
-Rückruf
-|
-Humanarzneimittel
-|
-19.10.2026
-Rückruf aufgrund möglicher Verunreinigung mit Partikel
-Pedmarqsi 80 mg/ml Infusionslösung
 Weiterlesen
 Alle Nachrichten anzeigen
 Informationen
@@ -363,6 +376,7 @@ Gewebevigilanz
 MedSafety Week 2023
 MedSafety Week 2024
 MedSafety Week 2025
+MedSafety Week 2026
 Konsument:innen
 &raquo;
 Zurück

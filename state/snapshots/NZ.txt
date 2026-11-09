@@ -60,12 +60,10 @@ History
 Archive
 Contact Us
 What's New
-Hey it's #MedSafetyWeek
-Medicines can have many kinds of side effects. Don't ignore them, report them.
-Some side effects may appear as common symptoms, such as a headache or rash, while others may be more serious. Some are easy to spot, while others may only be detected with medical tests.
-If you think you've had a side effect of a medicine, talk to your healthcare professional and report it to Medsafe/CARM.
-Report a suspected side effect
+Thanks for joining #MedSafetyWeek
+That's a wrap for #MedSafetyWeek, but we still want to hear about your experiences of reporting suspected side effects.
 Complete Medsafe's survey on reporting side effects
+Report a suspected side effect
 Consumers
 Consumer Medicine
 Information
@@ -113,6 +111,9 @@ Title
 6/1/2027
 Notices
 Notice of Medsafe Office Closure Christmas/New Year 2026/2027
+4/11/2026
+Alert Communication
+The risks of unapproved peptide products
 2/11/2026
 Notices
 #MedSafetyWeek 2026

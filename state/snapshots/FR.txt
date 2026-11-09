@@ -151,68 +151,71 @@ Contraception à base de désogestrel et risque de méningiome : questions-répo
 A la une
 Quétiapine LP 50 mg : des mesures de gestion pour faire face aux nouvelles tensions
 Dernières actualités
+Publié le 15/07/2026
+- Mis à jour le 03/11/2026
+Retour d’information sur le PRAC de novembre 2026 (26 – 29 octobre)
+Europe
+Avis du PRAC
+Publié le 03/11/2026
+Épilation et détatouage : l’ANSM rappelle les nouvelles exigences réglementaires applicables aux équipements professionnels
+Surveillance
+Contrôles
 Publié le 29/10/2026
 Rappel de deux lots de médicaments à base d’aflibercept destinés à l’injection dans l’œil en ophtalmologie
 Surveillance
 Retraits de lots
-Publié le 22/10/2026
-Modification des conditions de prescription d’inhibiteurs de Janus kinase (JAKi) indiqués dans le traitement de maladies inflammatoires chroniques
-Surveillance
-Pharmacovigilance
-Publié le 21/10/2026
-Tensions d’approvisionnement en Verkazia : Ikervis peut être dispensé temporairement aux enfants et adolescents
-Disponibilité des produits de santé
-Médicaments
 Plus d&#039;actualités
 Informations de sécurité
-02/11/2026
-RAPPEL DE PRODUIT
-Dispositifs médicaux de diagnostic in vitro
-Biochimie – Réactif Vitros Chemistry Products A1c Slides – QuidelOrtho
-02/11/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Biochimie – Automated Glycohemoglobin Analyzer HLC-723GR01– Tosoh Corporation
-30/10/2026
+09/11/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Steriflush seringues de NaCl 0.9% – Sterisets Manufacturing S.A.
-30/10/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-LAP : logiciel d&#039;aide à la prescription – NETSoins DM – Teranga Software
-30/10/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-LAP : logiciel d&#039;aide à la prescription – Orbis Medication 3.x – DH Healthcare GmbH
-30/10/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Immuno-Hématologie – Réactif ERY Q KKD/MNS – Bag Diagnostics
-30/10/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Bistouri électrique – Câble HF – Olympus
-30/10/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Appareil de radiologie interventionnelle - RX – Azurion Systems – Philips Medical Systems BV
-29/10/2026
-RAPPEL DE PRODUIT
+Implantologie dentaire – Faux Moignon angulé 7° Ø4 - hauteur 3 mm – Deep Company
+09/11/2026
+RISQUES MEDICAMENTEUX
 Médicaments
-Afiveg 40 mg/mL, solution injectable en seringue préremplie et Mynzepli 40 mg/mL, solution injectable en seringue préremplie – Laboratoires Biogaran et Advanz Pharma
-29/10/2026
+Respreeza (alpha-1-antitrypsine humaine) : risque d’impossibilité d’administration et d’infection potentielle en raison d’une altération de l’intégrité du flacon
+09/11/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Prothèse trachéo-bronchique – Aerstent TBY – Bess pro GmbH, Leufen Medical GmbH
-29/10/2026
+Canule de trachéotomie – Tracoe vario – Tracoe medical GmbH
+09/11/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Chirurgie assistée par ordinateur – Logiciel de planification d’implants et de conception de guides chirurgicaux Exoplan – Exocad GmbH
+09/11/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux de diagnostic in vitro
-Biochimie – Réactif I-Stat hs-TnI cartridge – Abbott Point of Care
-29/10/2026
+Autoimmunité – Réactif Aptiva CTD Essential Reagent – Inova Diagnostics
+09/11/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux de diagnostic in vitro
-Hématologie – Réactif CyFlow CD3 Pacific Blue – Sysmex
+Autoimmunité – Réactif Aptiva CTD Essential – Inova Diagnostics
+09/11/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Appareil de radiologie interventionnelle - RX – Artis icono, Artis pheno – Siemens Healthcare GmbH
+19/12/2025
+- MIS À JOUR LE 09/11/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux de diagnostic in vitro
+Automates Cobas c 703 analytical unit – Roche Diagnostics
+10/03/2025
+- MIS À JOUR LE 09/11/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Pompe implantable (accessoires) – Télécommande patient MyPTM – Medtronic Inc
+06/11/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Virologie – Réactif Calibrateur Access HIV Ag/Ab Combo – Beckman Coulter
+06/11/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+LAP : logiciel d&#039;aide à la prescription – Easily - LAPCMP – Hospices Civils de Lyon
+06/11/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux de diagnostic in vitro
+Biochimie – Bandelettes Test Strip 50CT Ket Strip Dual Pack, 20CT Ket Strip Nipro, 50CT Ket Strip Lifescan et 50CT Ket CA Statstrip – Nova Biomedical
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire
@@ -221,24 +224,24 @@ Déclarer un effet indésirable
 Base de données publique des médicaments
 data.ansm
 Évènements
+10 nov. 2026
+Comité Interface avec le réseau de toxicovigilance
+Comités scientifiques permanents (CSP)
+5 nov. 2026
+Comité de Contrôle de qualité des dispositifs médicaux - Groupe de travail relatif au contrôle de qualité des installations de radiologie dentaire
+Comités scientifiques permanents (CSP)
+5 nov. 2026
+Comité français de pharmacopée - Plantes médicinales et huiles essentielles
+Comités français de la pharmacopée
+4 nov. 2026
+Comité de Contrôle de qualité des dispositifs médicaux - Groupe de travail relatif au contrôle de qualité des installations de médecine nucléaire
+Comités scientifiques permanents (CSP)
+3 nov. 2026
+Comité scientifique permanent Pharmaco-surveillance et bon usage - Formation restreinte expertise et bon usage
+Comités scientifiques permanents (CSP)
 22 oct. 2026
 Comité français de pharmacopée - Produits biologiques et thérapies innovantes
 Comités français de la pharmacopée
-22 oct. 2026
-Comité Médicaments de diagnostic et de médecine nucléaire
-Comités scientifiques permanents (CSP)
-16 oct. 2026
-Comité de Contrôle de qualité des dispositifs médicaux - Groupe de travail relatif au contrôle de qualité des installations de radiodiagnostic utilisées pour des procédures interventionnelles radioguidées
-Comités scientifiques permanents (CSP)
-16 oct. 2026
-Comité d&#039;interface avec les représentants des industries du médicament - Médicaments de thérapie innovante
-Comités d&#039;interfaces
-15 oct. 2026
-IncreaseNET x EU Innovation Network 2026 Innovation & Competitiveness Summit le 15 octobre [webinaire]
-Autres événements
-14 oct. 2026
-Comité d&#039;interface avec les représentants des industries du médicament - Groupe de travail Surveillance
-Comités d&#039;interfaces
 Plus d&#039;évènements
 Vidéo à la une
 2 min 30

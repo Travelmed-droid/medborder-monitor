@@ -73,6 +73,7 @@ Denuncia Sanitaria
 Citas
 Pagos
 Formatos
+Verificación de Admisibilidad
 Digital
 Trámites en Línea
 Gestiona tus solicitudes digitalmente
@@ -172,6 +173,7 @@ Denuncia Sanitaria
 Citas
 Pagos
 Formatos
+Verificación de Admisibilidad
 DIGIPRIS (Ventanilla Electrónica)
 VUTCE
 Ventanilla
@@ -209,16 +211,14 @@ Denuncia Sanitaria
 Reporta irregularidades sanitarias anónimamente
 DIGIPRIS
 Ventanilla electrónica de trámites y resoluciones
-&times;
+×
 Búsqueda en
 site:gob.mx/cofepris
 Buscar
-Visor de Registros Sanitarios de
-Dispositivos M&eacute;dicos
-Esta herramienta permite acceder a informaci&oacute;n p&uacute;blica sobre dispositivos m&eacute;dicos,
-facilitando la consulta y
-verificaci&oacute;n de los registros sanitarios vigentes otorgados por esta comisi&oacute;n federal.
-Ver m&aacute;s
+Verificaci&oacute;n de Admisibilidad:
+Gu&iacute;as y Listas
+Consulta las gu&iacute;as de tr&aacute;mites y listas de verificaci&oacute;n documental previa para agilizar el ingreso y resoluci&oacute;n de tus solicitudes ante COFEPRIS.
+Consultar Gu&iacute;as
 Estamos renovando nuestra plataforma para brindarte informaci&oacute;n m&aacute;s
 clara
 y accesible
@@ -575,53 +575,6 @@ Ubicación
 Abrir en Maps
 Oklahoma 14, Col. Nápoles, Alcaldía Benito Juárez, 03810 Ciudad de México, CDMX
 Cómo llegar
-Ligas de Interés
-Grasas Trans riesgos para tu salud
-Ir al sitio
-Plataforma de trámites digitales
-Ir al sitio
-Listado de Resoluciones disponibles
-Ir al sitio
-Alta Directiva Sanitaria
-Ir al sitio
-Una carta de hallazgos es un mensaje oficial a un fabricante o sujeto que ha violado alguna regla en
-Ir al sitio
-Plataforma Sistema Integral de Sustancias
-Ir al sitio
-Plataforma de distribuidores irregulares de medicamentos
-Ir al sitio
-Revista Ciencia Cofepris
-Ir al sitio
-Informe quincenal de ampliación terapeútica
-Ir al sitio
-Podcast Cofepris
-Ir al sitio
-Trámites de Registros Sanitarios
-Ir al sitio
-Lista de Establecimientos Clausurados
-Ir al sitio
-¿Te hizo daño un medicamento?
-Ir al sitio
-Guías de autoverificación y de autoevaluación
-Ir al sitio
-Modificación a la NOM-051-SCFI/SSA1-2010
-Ir al sitio
-Acuerdo de trámites
-Ir al sitio
-Guía de Etiquetado de Suplementos Alimenticios
-Ir al sitio
-Sistema de Alertamiento Sanitario
-Ir al sitio
-Sistema de citas
-Ir al sitio
-Registros Sanitarios de Medicamentos y Gaceta de Patentes de Medicamentos
-Ir al sitio
-Programa de vigilancia Pos-comercialización
-Ir al sitio
-Comunicado del Centro Nacional de Farmacovigilancia a la industria farmacéutica
-Ir al sitio
-Consejo Consultivo de Publicidad
-Ir al sitio
 Enlaces
 Participa
 -->

@@ -136,14 +136,13 @@ MADRAC Members
 National Pharmaceutical Regulatory Agency (NPRA)
 Lot 36, Jalan Universiti (Jalan Prof Diraja Ungku Aziz), 46200 Petaling Jaya, Selangor, Malaysia.
 Phone: +603-7883 5400
-images/2026/banner/unscheduled.png
+images/2026/banner/Pemakluman_Pengarah.png
 Slide
 banner-trustid.png
 E-labelling_.jpg
 npra product search.png
 QCLABENG1750X400mm.png
 images/2026/banner/Desktop_banner.jpg
-images/2026/banner/DCC.png
 images/2026/banner/Borang.png
 Click Here
 images/2026/banner/ADR-AEFI-Google-Form-web-banner-1750--400-px-ENG_1.png
@@ -156,20 +155,15 @@ Direktif
 Direktif1
 images/2026/Home-Banner-template-DRGD-July-2026-Slide1.jpg
 MORE
-images/2026/banner/Kaji_1.png
-images/2026/banner/banner-NPRA-English-19082026.png
 images/2026/banner/LRen_2027_1750_x_400_px_Final_25092026.jpg
 images/2026/banner/reliance-banner-1750x400-v2.jpg
 images/2026/banner/MedSafetyWeek-2026-homepage-banner-ENG-1750-x-400-px.png
 images/2026/banner/gmp_1750.png
 images/2026/banner/MADRAC-Bulletin_62-website-banner-1750-x-400-px.png
 images/2026/banner/Penutupan_2.png
-images/2026/banner/30_Oct_Maint.png
+images/2026/banner/Maint_6_nov.png
 MedSafetyWeek-2025-mobile-banner-600-x-600-px.png
 E-labelling_.jpg
-images/2026/banner/DCC_mobile.jpg
-images/2026/banner/Maintenance_6x6.png
-images/2026/banner/Banner-mobile-PRP-poster-126.png
 images/2026/banner/Borang_600x600.png
 Click Here
 images/2026/banner/Login_mob.png
@@ -183,15 +177,13 @@ direktif
 guideline
 images/2026/Home-Banner-template-DRGD-July-2026-Slide2.jpg
 MORE
-images/2026/banner/Kaji_600x600.png
-images/2026/banner/Banner-mobile-PRP-poster-08092026.png
 images/2026/banner/LRen_2027__600_x_600_px_Final_25092026.jpg
 images/2026/banner/reliance-banner-600x600-v2.jpg
 images/2026/banner/MedSafetyWeek-2026-mobile-banner-600-x-600-px.png
 images/2026/banner/GMP_600-x-600.png
 images/2026/banner/MADRAC-Bulletin_62_-mobile-banner-600-x-600-px.png
 images/2026/banner/Penutupan_mobile.png
-images/2026/banner/30_Oct_Maint_mobil.png
+images/2026/banner/Maint_6_nov_mob.png
 Consumers
 ConSERF, AEFI Reporting, RiMUP, Product Cancellation & etc
 Health Professionals
@@ -237,16 +229,16 @@ PELAKSANAAN KAJIAN KEPUASAN PELANGGAN LUARAN PROGRAM PERKHIDMATAN FARMASI, KKM
 Apr
 Official Launch of the NPRA GCP, GLP, BE & EC Inspection Dashboard
 View All Announcements
-#MedSafetyWeek 2026 starts today!
-published on 2026-11-02
-We're counting down to #MedSafetyWeek 2026 – join us! ⏱️
-published on 2026-10-30
-Diosmin and Diosmin-Hesperidin Combination: Increased Risk of Bleeding
-published on 2026-10-27
+That’s a wrap on #MedSafetyWeek 2026 campaign! 🎉
+published on 2026-11-08
+Every interaction is a chance to spot side effects
+published on 2026-11-07
 Biosimilar Approved
-published on 2026-10-26
-Direktif untuk semua produk yang mengandungi non-vitamin K antagonist oral anticoagulants (NOACs) [dabigatran, rivaroxaban, apixaban dan edoxaban]: Pengemaskinian sisip bungkusan dan RiMUP dengan maklumat keselamatan berkaitan risiko anticoagulant-related nephropathy (ARN)
-published on 2026-10-20
+published on 2026-11-06
+6 simple questions to help you spot suspected side effects 🔎
+published on 2026-11-05
+What do side effects look like? 👀
+published on 2026-11-04
 More Recent Updates
 02
 Nov
@@ -268,15 +260,15 @@ Direktif Pelaksanaan dan Pengendalian Label Keselamatan
 Jul
 Direktif untuk penggunaan Drug Registration Guidance Document (DRGD) Third Edition, 12th Revision July 2026
 View All Directives & Circulars
+05
+Nov
+CellCept® (Mycophenolate mofetil): Update to Post-Treatment Contraception Period for Women of Childbearing Potential (Extension from 6 Weeks to 6 Months)
 29
 Oct
 Crysvita® (Burosumab): Risk of Severe Hypercalcaemia
 27
 Oct
 Diosmin and Diosmin-Hesperidin Combination: Increased Risk of Bleeding
-13
-Oct
-GLP-1 and Dual GLP-1/GIP Receptor Agonists: Risk of Intestinal Obstruction
 View All Safety Alerts
 No events
 View Full Calendar
@@ -301,7 +293,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Tuesday 03 November 2026, 10:00:01.
+Last Modified: Tuesday 10 November 2026, 00:35:39.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -447,4 +439,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 2 Nov 2026
+Monday, 9 Nov 2026

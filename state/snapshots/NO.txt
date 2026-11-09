@@ -64,11 +64,11 @@ Innsending av produktinformasjon
 Templater og veiledninger
 Digitalt pakningsvedlegg
 Merking
-Implementeringsfrist for merking og pakningsvedlegg
-S&#xF8;knad om batchspesifikke unntak relatert til produktinformasjon
+Varseltrekantordningen
 Anbefalinger om oppdateringer
 Norske oversettelser av PRAC-anbefalinger etter utredning av signaler
-Varseltrekantordningen
+Implementeringsfrist for merking og pakningsvedlegg
+S&#xF8;knad om batchspesifikke unntak relatert til produktinformasjon
 Lesbarhetstesting og bridging
 Legemidler som utleveres uten resept - OTC
 Virkestoffrapporter
@@ -117,7 +117,7 @@ Godkjenningsprosessen for koronavaksiner
 Godkjenningsprosessen for legemidler mot covid-19
 Norske legemiddelstandarder
 Om publiseringer i NLS og Ph. Eur. i 2026
-Abbrevations and symbols
+Abbreviations and symbols
 Nye, endrede og utg&#xE5;tte titler i NLS 2026
 Standarder
 Standardbetegnelser (Standard Terms)
@@ -228,7 +228,7 @@ Negativlisten
 Ekspederingslisten
 Legemidler det ofte er sp&#xF8;rsm&#xE5;l om ved godkjenningsfritak
 S&#xF8;knadskjema, innsending og saksbehandlingstid
-S&#xF8;knadskjema, innsending og saksbehandlingstid
+S&#xF8;knadsskjema, innsending og saksbehandlingstid
 Hvilke legemidler kan notifiseres &#x2013; og hvilke m&#xE5; vurderes av DMP f&#xF8;r utlevering?
 Rutine for godkjenningsfritak ved sykehus
 For firmaer som &#xF8;nsker &#xE5; markedsf&#xF8;re legemidler p&#xE5; godkjenningsfritak
@@ -341,16 +341,16 @@ Offentlig finansiering og pris
 Offentlig finansiering av legemidler og medisinsk utstyr
 Prioriteringskriteriene ved offentlig finansiering
 Bruk av nye legemidler i offentlige sykehus f&#xF8;r beslutning om finansiering
-Anmodning og forslag om metodevurdering
-Anmodning og forslag for bl&#xE5;reseptlegemidler
-Metodevarsler for legemidler
-Pipeline-m&#xF8;ter
 Metodevurdering av medisinske produkter
 Metodevurdering av vaksiner
 Innf&#xF8;ring av vaksiner
 Vaksiner under vurdering
 Anmodning
 Metodevurdering av legemidler
+Anmodning og forslag om metodevurdering
+Anmodning og forslag for bl&#xE5;reseptlegemidler
+Metodevarsler for legemidler
+Pipeline-m&#xF8;ter
 Saksbehandlingsstatus
 Prosjektplaner
 Fullf&#xF8;rte metodevurderinger
@@ -624,7 +624,7 @@ Varsler fra DMP
 Godkjenningsfritak
 For leger og tannleger
 For apotek
-S&#xF8;knadskjema, innsending og saksbehandlingstid
+S&#xF8;knadsskjema, innsending og saksbehandlingstid
 For firmaer som &#xF8;nsker &#xE5; markedsf&#xF8;re legemidler p&#xE5; godkjenningsfritak
 &#xC5;rsrapporter om godkjenningsfritak
 Godkjenningsfritak for legemidler til dyr
@@ -643,7 +643,6 @@ Alvorlige hendelser og korrigerende sikkerhetstiltak
 For helsetjenesten
 Offentlig finansiering og pris
 Offentlig finansiering av legemidler og medisinsk utstyr
-Anmodning og forslag om metodevurdering
 Metodevurdering av medisinske produkter
 Pris p&#xE5; legemidler
 Medisinbytte i apotek
@@ -713,27 +712,36 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
-Forh&#xE5;ndsgodkjent refusjon for kvinner med overgangsplager
-Publisert:
-30.10.2026
 Frokostseminar om legemiddelmangel og forsyningssikkerhet 24. november
 Publisert:
 29.10.2026
+|
+Oppdatert:
+06.11.2026
+Ny veileder for saksbehandling av s&#xF8;knader om godkjenningsfritak for legemidler i tidlig utviklingsfase
+Publisert:
+05.11.2026
+|
+Oppdatert:
+05.11.2026
+Mangel p&#xE5; Paralgin forte
+Publisert:
+04.11.2026
+Forh&#xE5;ndsgodkjent refusjon for kvinner med overgangsplager
+Publisert:
+30.10.2026
+|
+Oppdatert:
+04.11.2026
+Nytt om legemidler nr. 13 2026
+Publisert:
+03.11.2026
 Ny sikkerhetsmodul for &#xE5;rsrapporter i Clinical Trials Information System (CTIS)
 Publisert:
 09.09.2026
 |
 Oppdatert:
 27.10.2026
-Veileder gj&#xF8;r habilitetsvurderinger tydeligere
-Publisert:
-23.10.2026
-Oppdaterte retningslinjer for sikring av legemiddellagre
-Publisert:
-22.10.2026
-Rasjonering av Soluvit
-Publisert:
-22.10.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook

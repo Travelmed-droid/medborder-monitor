@@ -137,8 +137,6 @@ Normatividad
 Sala de Prensa
 Síganos
 Inicia Sesión
-​
-​
 Anterior
 Siguiente
 Noticias Recientes
@@ -199,6 +197,8 @@ Información Invima
 Alertas Sanitarias e Informes de Seguridad
 Alertas Sanitarias
 Informes de Seguridad
+Ver alertas sanitarias
+Ver informes de seguridad
 Ver todas las alertas
 Consulta en Línea
 Importaciones / Exportaciones

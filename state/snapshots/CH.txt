@@ -75,30 +75,32 @@ Schliessen
 Visible
 Aktuelles
 Alle Updates anzeigen
-02.11.2026
-Aktualisierung von Publikationen zu Parenteralia ohne medizinische Zweckbestimmung
-Swissmedic hat das Positionspapier &laquo;Parenteralia ohne medizinische Zweckbestimmung &ndash; Vollzug auf Produktebene&raquo; sowie das &laquo;Merkblatt f&uuml;r die Kosmetikbranche &ndash; Parenteralia ohne medizinische Zweckbestimmung&raquo; aktualisiert. Die Anpassungen betreffen sprachliche Pr&auml;zisierungen und haben keine Auswirkungen auf die geltende Vollzugspraxis. Die aktualisierten Fassungen stehen ab sofort zum Download zur Verf&uuml;gung
-02.11.2026
-Augenerkrankungen unter Behandlung mit Amiodaron
-Aus Nebenwirkungsmeldungen lernen &ndash; F&auml;lle aus der Pharmacovigilance
-02.11.2026
-Out-of-Stock &ndash; Duvaxyn WNV ad us. vet., Injektionsemulsion f&uuml;r Pferde
-Befristete Bewilligung zum Vertrieb in spanischer Aufmachung
-02.11.2026
-Erg&auml;nzende Information zur Wegleitung &laquo;Einfuhr eines Humanarzneimittels nach Art. 14 Abs. 2 und 3 HMG (Parallelimport)&quot;
-Bei parallelimportierten Humanarzneimitteln sind zus&auml;tzliche Etiketten auf der Prim&auml;rverpackung nicht zul&auml;ssig. F&uuml;r bereits zugelassene Pr&auml;parate gilt eine &Uuml;bergangsfrist von einem Jahr, um die erforderlichen Anpassungen zu beantragen
-02.11.2026
-Einreichung von Meldungen von wesentlichen &Auml;nderungen &uuml;ber das Swissmedic Portal ab 1. November 2026
-Ab dem 1. November 2026 sind Meldungen zu wesentlichen &Auml;nderungen ausschliesslich &uuml;ber das Swissmedic Portal (SMC Portal) einzureichen
-01.11.2026
-Anpassung des &laquo;Formular DMF&raquo;
-Verschl&uuml;sselter E-Mailversand an DMF-Holder via IncaMail
-01.11.2026
-Aktualisierung der Formulare Neuzulassung Humanarzneimittel und &Auml;nderungen und Zulassungserweiterungen HAM
-Anpassungen bei den Arzneimittelkategorien und die zentrale Publikation von beh&ouml;rdlich angeordnetem Informationsmaterial im Nachvollzug bedingen die Aktualisierung der Formulare Neuzulassung Humanarzneimittel und &Auml;nderungen und Zulassungserweiterungen HAM
-26.10.2026
-Neue Informationen zur Einf&uuml;hrung von eCTD v4.0
-Swissmedic ver&ouml;ffentlicht das Paket des Schweizer Implementation Guide in der Version 2.0
+09.11.2026
+Ver&ouml;ffentlichung eCTD v4.0 Implementation Guide Package v2.0
+Swissmedic ver&ouml;ffentlicht das eCTD v4.0 Implementation Guide Package in der Version 2.0
+09.11.2026
+NAD+-Pr&auml;parate: Wenn Lifestyle-Angebote strafrechtliche Folgen haben
+Gesundheitstrends im Spannungsfeld von Vermarktung und Regulierung
+05.11.2026
+Swissmedic Journal
+Aktuelle Ausgabe
+Swissmedic Journal Oktober 2026
+04.11.2026
+Save the Date: Clinical Trials Symposium 2027
+The Clinical Trials Symposium returns with a fresh format, uniting experts from healthcare institutions, academia and industry
+04.11.2026
+DHPC &ndash; Respreeza (alpha-1-proteinasi inhibitor humanum)
+Defekte der Verschlussintegrit&auml;t mit Risiko einer Dosisvers&auml;umnis und potenziellen Infektion
+03.11.2026
+Swissmedic Vigilance-News Edition 37
+Originalartikel publizieren wir auf Englisch sowie jeweils eine Zusammenfassung der Artikel in allen vier Sprachen
+03.11.2026
+Vigilance der Tierarzneimittel Jahresbericht 2025
+Zusammenfassung zu den in der Schweiz gemeldeten
+unerw&uuml;nschten Wirkungen im Jahr 2025
+03.11.2026
+Wichtige Information von Swissmedic
+Beh&ouml;rdlich angeordnetes Informationsmaterial ist ab sofort einfach und zentral &uuml;ber www.swissmedicinfo-pro.ch abrufbar
 Im Fokus
 Fillerbehandlungen
 Das Video zeigt die Risiken von unsachgemässen Filler-Behandlungen auf und macht deutlich, wie diese reduziert werden können.
