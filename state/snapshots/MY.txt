@@ -210,6 +210,9 @@ PRESS RELEASE
 DIRECTIVES & CIRCULARS
 SAFETY ALERTS
 CALENDAR ACTIVITIES
+16
+Nov
+PENGUMUMAN: Penamatan Permohonan dan Pembaharuan Token untuk Tempoh Dua (2) Tahun
 13
 Oct
 MAKLUMAN PENUTUPAN PEMBAYARAN AKHIR TAHUN 2026
@@ -225,20 +228,17 @@ New Login Method for QUEST3+ System – MyTrustID
 19
 Jun
 PELAKSANAAN KAJIAN KEPUASAN PELANGGAN LUARAN PROGRAM PERKHIDMATAN FARMASI, KKM
-27
-Apr
-Official Launch of the NPRA GCP, GLP, BE & EC Inspection Dashboard
 View All Announcements
+List of GLP Compliant Test Facilities
+published on 2026-11-13
+List of Renewal Approved Veterinary Products
+published on 2026-11-11
+New Products Approved
+published on 2026-11-11
+Additional Indications Approved
+published on 2026-11-11
 That’s a wrap on #MedSafetyWeek 2026 campaign! 🎉
 published on 2026-11-08
-Every interaction is a chance to spot side effects
-published on 2026-11-07
-Biosimilar Approved
-published on 2026-11-06
-6 simple questions to help you spot suspected side effects 🔎
-published on 2026-11-05
-What do side effects look like? 👀
-published on 2026-11-04
 More Recent Updates
 02
 Nov
@@ -293,7 +293,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Tuesday 10 November 2026, 00:35:39.
+Last Modified: Monday 16 November 2026, 11:51:34.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -439,4 +439,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 9 Nov 2026
+Monday, 16 Nov 2026

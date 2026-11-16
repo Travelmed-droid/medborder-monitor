@@ -769,6 +769,20 @@ Licensing
 Pharmacovigilance
 Information on medicinal products
 News
+FAST-EU
+: Accelerated assessment of substantial modifications introduced from 10 November 2026
+Date:
+2026.11.12
+FAST-EU
+is being extended to include the accelerated assessment of certain substantial modifications. From 10 November 2026, sponsors can contact the Reporting Member State (
+RMS
+) to initiate the submission process for substantial modifications related to a conditional approval that is blocking the initiation of a
+FAST-EU
+trial. This extension further strengthens the initiative's objective of facilitating and accelerating multinational clinical trials in the
+EU
+/
+EEA
+.
 Updated “Bescheidmaske” for national translations in DC/MR procedures
 Date:
 2026.10.30
@@ -785,12 +799,6 @@ Licensing
 Update on allocation of
 DCP
 slots
-National Licensing Procedures
-Date:
-2026.09.01
-Topics:
-Licensing
-Guide to the Submission of Applications for Marketing Authorisation of Medicinal Products
 More news on the subject
 Clinical Trials
 Clinical trials are intended to prove the efficacy of new medicinal products and to demonstrate their safety. Clinical trials are performed before the product concerned is placed on the market and they have to be approved in Germany by the respective competent federal higher authority.

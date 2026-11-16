@@ -69,6 +69,7 @@ Regulatory advice for medical device companies
 CE marking
 Notified bodies
 Registration and marketing
+Borderline - Medical Devices
 Clinical investigations
 Performance studies of in vitro diagnostic medical devices (IVDs)
 Certificates of Free Sale
@@ -213,6 +214,7 @@ Regulatory advice for medical device companies
 CE marking
 Notified bodies
 Registration and marketing
+Borderline - Medical Devices
 Clinical investigations
 Performance studies of in vitro diagnostic medical devices (IVDs)
 Certificates of Free Sale

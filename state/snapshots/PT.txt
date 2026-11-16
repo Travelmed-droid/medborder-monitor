@@ -375,6 +375,7 @@ Menu
 PRAC
 Recomendações do PRAC decorrentes da avaliação de sinais de segurança
 Segurança dos Ensaios Clínicos
+Pósteres científicos
 Certificação de medicamentos de uso humano
 Menu
 Certificação de medicamentos de uso humano
@@ -737,6 +738,7 @@ Boletim de farmacovigilância
 Estudos PASS
 PRAC
 Segurança dos Ensaios Clínicos
+Pósteres científicos
 Perguntas frequentes - Certificado de um medicamento (modelo OMS) - Em atualização
 Perguntas frequentes - Declaração relativa à AIM de medicamentos (modelo OMS) - Em atualização
 Boas Práticas de Laboratório
@@ -905,20 +907,20 @@ Notícias
 Imprensa
 Agenda
 Notícias
-09 nov 2026
-Jemperli (dostarlimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
+16 nov 2026
+Sistema de Preços de Referência | Aditamento de novos grupos homogéneos (4.º trimestre de 2026)
 Notícias
-09 nov 2026
-Infarmed abre concurso para diretor(a) da Unidade de Transformação Digital
+16 nov 2026
+Real4Reg: Infarmed reúne especialistas europeus para debater utilização de dados do mundo real nas decisões em saúde
 Agenda
-29 out 2026
-4.º Fórum Incluir | 29 de outubro de 2026 | Apresentações e gravação disponíveis
+03 dez 2026
+Manhãs Informativas: Implementação Nacional de Materiais Educacionais | 3 de dezembro de 2026 | Inscrições abertas
 Notícias
-05 nov 2026
-FAST-EU alarga avaliação acelerada a alterações substanciais nos ensaios clínicos
+13 nov 2026
+Infarmed acolhe reunião nacional do EATRIS Portugal para reforçar investigação translacional
 Notícias
-05 nov 2026
-Refixia (Nonacog beta pegol) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
+12 nov 2026
+EUDAMED | Fim do período transitório para o registo de dispositivos: 28 de novembro de 2026
 Alertas
 04 set 2026
 Medicamentos contendo compostos de ferro para administração intravenosa: início da revisão de segurança do risco de hipofosfatemia e problemas ósseos relacionados
@@ -935,32 +937,32 @@ Alertas
 29 jul 2026
 Acesso a medicamentos contendo Dapagliflozina, 10 mg | Sistema de Preços de Referência
 Notícias
-09 nov 2026
-Jemperli (dostarlimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
+16 nov 2026
+Sistema de Preços de Referência | Aditamento de novos grupos homogéneos (4.º trimestre de 2026)
 Notícias
-09 nov 2026
-Infarmed abre concurso para diretor(a) da Unidade de Transformação Digital
+16 nov 2026
+Real4Reg: Infarmed reúne especialistas europeus para debater utilização de dados do mundo real nas decisões em saúde
 Notícias
-05 nov 2026
-FAST-EU alarga avaliação acelerada a alterações substanciais nos ensaios clínicos
+13 nov 2026
+Infarmed acolhe reunião nacional do EATRIS Portugal para reforçar investigação translacional
 Notícias
-05 nov 2026
-Refixia (Nonacog beta pegol) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
+12 nov 2026
+EUDAMED | Fim do período transitório para o registo de dispositivos: 28 de novembro de 2026
 Notícias
-04 nov 2026
-Serviços de exploração de cafetaria/refeitório nas instalações do INFARMED, I.P (Consulta Preliminar ao Mercado n.º 33/2026 )
+12 nov 2026
+Atualização da lista de medicamentos cuja exportação é temporariamente suspensa | novembro de 2026
 Imprensa
 02 nov 2026
 Comunicado de Imprensa - #MedSafetyWeek 2026
-Imprensa
-18 mai 2026
-Comunicado de Imprensa - Acesso a medicamentos inovadores em Portugal
+Agenda
+03 dez 2026
+Manhãs Informativas: Implementação Nacional de Materiais Educacionais | 3 de dezembro de 2026 | Inscrições abertas
+Agenda
+18 nov 2026
+Falta 1 semana | Dia Europeu dos Antibióticos: Prevenção de infeções e resistência aos antimicrobianos em debate | 18/11/2026
 Agenda
 29 out 2026
 4.º Fórum Incluir | 29 de outubro de 2026 | Apresentações e gravação disponíveis
-Agenda
-18 nov 2026
-Dia Europeu dos Antibióticos: Prevenção de infeções e resistência aos antimicrobianos em debate | 18 de novembro de 2026 | Inscrições abertas
 Real4Reg
 | 3 e 4 de novembro | Consulte a agenda  final e inscreva-se">
 Agenda
@@ -975,27 +977,21 @@ Agenda
 Manhãs Informativas
 online:
 Pessoa de contacto sobre questões de farmacovigilância a nível nacional| Apresentação e vídeo disponíveis
-Webinar
-"Alertas de qualidade e medicamentos falsificados: o que é necessário saber" | Apresentação e vídeo disponíveis">
+Notícias
+16 nov 2026
+Sistema de Preços de Referência | Aditamento de novos grupos homogéneos (4.º trimestre de 2026)
+Notícias
+16 nov 2026
+Real4Reg: Infarmed reúne especialistas europeus para debater utilização de dados do mundo real nas decisões em saúde
 Agenda
-11 set 2026
-Webinar
-"Alertas de qualidade e medicamentos falsificados: o que é necessário saber" | Apresentação e vídeo disponíveis
+03 dez 2026
+Manhãs Informativas: Implementação Nacional de Materiais Educacionais | 3 de dezembro de 2026 | Inscrições abertas
 Notícias
-09 nov 2026
-Jemperli (dostarlimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
+13 nov 2026
+Infarmed acolhe reunião nacional do EATRIS Portugal para reforçar investigação translacional
 Notícias
-09 nov 2026
-Infarmed abre concurso para diretor(a) da Unidade de Transformação Digital
-Agenda
-29 out 2026
-4.º Fórum Incluir | 29 de outubro de 2026 | Apresentações e gravação disponíveis
-Notícias
-05 nov 2026
-FAST-EU alarga avaliação acelerada a alterações substanciais nos ensaios clínicos
-Notícias
-05 nov 2026
-Refixia (Nonacog beta pegol) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
+12 nov 2026
+EUDAMED | Fim do período transitório para o registo de dispositivos: 28 de novembro de 2026
 Alertas
 04 set 2026
 Medicamentos contendo compostos de ferro para administração intravenosa: início da revisão de segurança do risco de hipofosfatemia e problemas ósseos relacionados
@@ -1013,34 +1009,34 @@ Alertas
 Acesso a medicamentos contendo Dapagliflozina, 10 mg | Sistema de Preços de Referência
 Ver mais
 Notícias
-09 nov 2026
-Jemperli (dostarlimab) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento
+16 nov 2026
+Sistema de Preços de Referência | Aditamento de novos grupos homogéneos (4.º trimestre de 2026)
 Notícias
-09 nov 2026
-Infarmed abre concurso para diretor(a) da Unidade de Transformação Digital
+16 nov 2026
+Real4Reg: Infarmed reúne especialistas europeus para debater utilização de dados do mundo real nas decisões em saúde
 Notícias
-05 nov 2026
-FAST-EU alarga avaliação acelerada a alterações substanciais nos ensaios clínicos
+13 nov 2026
+Infarmed acolhe reunião nacional do EATRIS Portugal para reforçar investigação translacional
 Notícias
-05 nov 2026
-Refixia (Nonacog beta pegol) | Relatório de avaliação de financiamento público disponível na Infomed | Deferimento do pedido de avaliação prévia
+12 nov 2026
+EUDAMED | Fim do período transitório para o registo de dispositivos: 28 de novembro de 2026
 Notícias
-04 nov 2026
-Serviços de exploração de cafetaria/refeitório nas instalações do INFARMED, I.P (Consulta Preliminar ao Mercado n.º 33/2026 )
+12 nov 2026
+Atualização da lista de medicamentos cuja exportação é temporariamente suspensa | novembro de 2026
 Ver mais
 Imprensa
 02 nov 2026
 Comunicado de Imprensa - #MedSafetyWeek 2026
-Imprensa
-18 mai 2026
-Comunicado de Imprensa - Acesso a medicamentos inovadores em Portugal
 Ver mais
+Agenda
+03 dez 2026
+Manhãs Informativas: Implementação Nacional de Materiais Educacionais | 3 de dezembro de 2026 | Inscrições abertas
+Agenda
+18 nov 2026
+Falta 1 semana | Dia Europeu dos Antibióticos: Prevenção de infeções e resistência aos antimicrobianos em debate | 18/11/2026
 Agenda
 29 out 2026
 4.º Fórum Incluir | 29 de outubro de 2026 | Apresentações e gravação disponíveis
-Agenda
-18 nov 2026
-Dia Europeu dos Antibióticos: Prevenção de infeções e resistência aos antimicrobianos em debate | 18 de novembro de 2026 | Inscrições abertas
 Real4Reg
 | 3 e 4 de novembro | Consulte a agenda  final e inscreva-se">
 Agenda
@@ -1055,12 +1051,6 @@ Agenda
 Manhãs Informativas
 online:
 Pessoa de contacto sobre questões de farmacovigilância a nível nacional| Apresentação e vídeo disponíveis
-Webinar
-"Alertas de qualidade e medicamentos falsificados: o que é necessário saber" | Apresentação e vídeo disponíveis">
-Agenda
-11 set 2026
-Webinar
-"Alertas de qualidade e medicamentos falsificados: o que é necessário saber" | Apresentação e vídeo disponíveis
 Ver mais
 Acessibilidade
 O Infarmed

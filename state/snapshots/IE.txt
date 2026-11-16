@@ -269,20 +269,23 @@ Monitoring the safety and compliance of cosmetics to protect consumer health and
 Learn more
 Safety notices
 View all
+Medical devices
+Summary of field safety notices (FSN)
+Summary of Field Safety Notices October 2026
+13/11/26
 Medicines for animal use
 Caution-in-use notification (CIUN)
 Heptavac&#174; P Plus - potential risk of reduced protection against blackleg
 09/11/26
-Medicines for human use
-Direct healthcare professional communication (DHPC)
-PEDMARQSI (sodium thiosulfate) 80 mg/mL solution for infusion: requirement to visually inspect each vial before administration and mandatory use of an in-line filter
-30/10/26
 Medicines for human use
 Pharmacovigilance risk assessment committee (PRAC)
 PRAC meeting highlights 26 - 29 October 2026
 30/10/26
 News
 View all
+Public health update
+EMA Committee for Medicinal Products for Human Use – Meeting Highlights – November 2026
+13/11/2026
 Regulatory news
 Regulatory news - Medicines for human use
 Planning to submit a new DCP application in 2027?
@@ -291,9 +294,6 @@ Regulatory news
 Regulatory news - Medical devices
 EUDAMED UDI/Device registration deadline
 09/11/2026
-Public health update
-Verifying compliance of medical devices and IVDs before using them for patient care
-04/11/2026
 Homepage link
 My Alerts
 Get the latest HPRA safety and regulatory updates delivered directly to your inbox.

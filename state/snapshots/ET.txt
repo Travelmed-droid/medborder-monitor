@@ -23,7 +23,7 @@ Services
 Our Services
 e-service
 Traceability
-FAQ&#8217;s
+FAQ’s
 Electronic Regulatory Information System(eRIS)
 How eRIS works
 e-Reporting of ADR
@@ -44,9 +44,11 @@ Medical Device Directives
 Cosmetic Directive
 Food Directives
 Pharmacovigilance
-Clinical Trials
+Clinical Trial
 Clinical Trials
 Evaluation Summary Report
+Clinical Trial
+Clinical Trials
 Tobacco
 Strategies
 Manuals
@@ -130,7 +132,7 @@ Services
 Our Services
 e-service
 Traceability
-FAQ&#8217;s
+FAQ’s
 Electronic Regulatory Information System(eRIS)
 How eRIS works
 e-Reporting of ADR
@@ -151,9 +153,11 @@ Medical Device Directives
 Cosmetic Directive
 Food Directives
 Pharmacovigilance
-Clinical Trials
+Clinical Trial
 Clinical Trials
 Evaluation Summary Report
+Clinical Trial
+Clinical Trials
 Tobacco
 Strategies
 Manuals
@@ -245,7 +249,6 @@ Welcome to EFDA!
 About EFDA
 The Ethiopian Food and Drug Authority (EFDA) is a federal regulatory body established under Proclamation No. 1263/2021 and its mandate defined under regulation No. 531/2023. EFDA was established to safeguard the public&#8217;s health by ensuring the safety and quality of food, the safety, quality, and efficacy of medicines, the safety, quality, and functionality of medical devices, as well as the safety of cosmetics and other health products. It also regulates alcohol and tobacco products to reduce their consumption and protect the public from devastating consequences of death, disability and disease.
 MORE ABOUT EFDA
-I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 Organization
 EFDA is the National Regulatory Body of Ethiopia which is under the Ministry of Health. The Authority is responsible to ensure the quality, safety and/or efficacy of medicines, food, cosmetics and medical devices.
 Establishment
@@ -293,6 +296,28 @@ Request, review, and approve of facility licensing
 Request, review, and approve of facility licensing for existing facilities being renewed
 Request, review, and approve certificates for changes on existing facilities
 Recent News & Events
+Aug
+11
+2026
+Tobacco
+Key Efforts Required Alongside Regular Inspection to Make Dire Dawa Smoke-Free
+Tobacco
+By
+EFDA
+August 11, 2026
+Key Efforts Required Alongside Regular Inspection to Make Dire Dawa Smoke-Free Dire Dawa, August 2026 — During a training session&hellip;
+Read more
+Jul
+28
+2026
+Medical Device
+EFDA Takes Historic Step Toward WHO Maturity Level 3 for Medical Devices Regulation ADDIS ABABA
+Medical Device
+By
+EFDA
+July 28, 2026
+EFDA Takes Historic Step Toward WHO Maturity Level 3 for Medical Devices Regulation ADDIS ABABA In a major milestone for&hellip;
+Read more
 Jul
 23
 2026
@@ -337,34 +362,6 @@ EFDA
 September 10, 2025
 EFDA Officials Meet with Brazilian Pharmaceutical Investors ADDIS ABABA, ETHIOPIA — The Ethiopian Food and Drug Authority (EFDA) has held&hellip;
 Read more
-Sep
-10
-2025
-Food
-Medical Device
-Medicine
-Ethiopian Food and Drug Authority’s Advisory Board Holds Its Meeting
-Food
-,
-Medical Device
-,
-Medicine
-By
-EFDA
-September 10, 2025
-Ethiopian Food and Drug Authority’s Advisory Board Holds Its Meeting Addis Ababa, August 15, 2025: The Advisory Board established in&hellip;
-Read more
-Sep
-9
-2025
-Medicine
-Staff Urged to Actively Participate in Completing and Handing Over the Excellence Center Project
-Medicine
-By
-EFDA
-September 9, 2025
-Staff Urged to Actively Participate in Completing and Handing Over the Excellence Center Project On June 22, 2025, employees of&hellip;
-Read more
 OUR VISION
 To be a center of excellence in food and health products regulation in Africa.
 OUR MISSION
@@ -377,7 +374,8 @@ Mon - Fri: 8:30 AM - 5:30 PM
 Phone number:
 Tel: +25111-5-524122,
 Fax: +251115521392 & +25111552411
-E-Mail: contactefda@efda.gov.et
+E-Mail:
+[email&#160;protected]
 Find us on:
 Facebook
 Twitter
@@ -385,12 +383,12 @@ YouTube
 Linkedin
 Telegram
 Recent News
+Key Efforts Required Alongside Regular Inspection to Make Dire Dawa Smoke-Free
+August 11, 2026
+EFDA Takes Historic Step Toward WHO Maturity Level 3 for Medical Devices Regulation ADDIS ABABA
+July 28, 2026
 Commitment to Strengthen Tobacco Control Efforts Reiterated
 July 23, 2026
-Stakeholders Urged to Sustain Support as Ethiopia Eyes Regulatory Excellence in Vaccine Production
-February 19, 2026
-EFDA Attains WHO Maturity Level 3 in Medicine Regulation
-October 1, 2025
 Like Us On Facebook
 Copyright © All rights reserved. EFDA.
 Go to Top

@@ -103,6 +103,7 @@ CBD &#x2013; hva er det, og hva sier regelverket?
 Definisjon p&#xE5; ulike typer legemiddel
 Er produktet et legemiddel?
 Hvordan tolke klassifiseringsvedtak
+Ikke-godkjente peptider til injeksjon &#x2013; dette b&#xF8;r du vite
 Informasjon om cannabidiol (CBD) for virksomheter
 Klassifisering av legemidler til dyr
 Medisinske p&#xE5;stander
@@ -175,7 +176,8 @@ Legemiddeloverv&#xE5;king
 Slik overv&#xE5;kes bivirkninger av legemidler
 &#x25BC;Svart trekant - kva vil det seie?
 Laboratoriekontroll av legemiddel
-R&#xE5;d til pasienter
+R&#xE5;d til pasienter og forbrukere
+Jodtabletter til bruk ved atomhendelser
 CBD og cannabis - import, omsetning og medisinsk bruk
 10 medisintips for ferien
 R&#xE5;d til helsepersonell
@@ -292,7 +294,7 @@ Ulike roller for markedsdeltakere
 Krav til produsenter
 Krav til autoriserte representanter
 Krav til import&#xF8;rer og distribut&#xF8;rer
-Krav til Helseinstitusjoner
+Krav til helseinstitusjoner
 N&#xE5;r gjelder produsentenes forpliktelser for import&#xF8;rer, distribut&#xF8;rer eller andre personer
 Fjernsalg og netthandel med medisinsk utstyr
 Tilsyn med import&#xF8;rer og distribut&#xF8;rer
@@ -344,8 +346,8 @@ Bruk av nye legemidler i offentlige sykehus f&#xF8;r beslutning om finansiering
 Metodevurdering av medisinske produkter
 Metodevurdering av vaksiner
 Innf&#xF8;ring av vaksiner
-Vaksiner under vurdering
 Anmodning
+Vaksiner under vurdering
 Metodevurdering av legemidler
 Anmodning og forslag om metodevurdering
 Anmodning og forslag for bl&#xE5;reseptlegemidler
@@ -615,7 +617,7 @@ Bivirkninger og legemiddelsikkerhet
 Bivirkningsmelding og Bivirkningsregisteret
 Bivirkningsrapporter og oversikter
 Legemiddeloverv&#xE5;king
-R&#xE5;d til pasienter
+R&#xE5;d til pasienter og forbrukere
 R&#xE5;d til helsepersonell
 Interaksjonsdata fra DMP
 Tiltak for &#xE5; forebygge bivirkninger av legemidler
@@ -694,11 +696,11 @@ Medisinsk utstyr
 Byttelisten
 Godkjenningsfritak
 Hormonplaster og -spray - slik er forsyningssituasjonen
+Ikke-godkjente peptider til injeksjon &#x2013; dette b&#xF8;r du vite
 Legemiddelmangel - oversikt, r&#xE5;d og tiltak
 Maksimalpris p&#xE5; legemidler
 Melde bivirkninger
 Metodevurderinger - oversikt over rapporter
-Wegovy i tablettform
 Veiledning og regelverk
 Utvikling og produksjon
 Omsetning
@@ -712,6 +714,24 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
+DMPs systemer fungerer n&#xE5; som normalt igjen
+Publisert:
+13.11.2026
+|
+Oppdatert:
+16.11.2026
+Mangel p&#xE5; hostedempende mikstur
+Publisert:
+16.11.2026
+Utvikler du KI eller programvare som medisinsk utstyr?
+Publisert:
+11.11.2026
+Regulatorisk informasjonsm&#xF8;te 15. desember
+Publisert:
+28.09.2026
+|
+Oppdatert:
+10.11.2026
 Frokostseminar om legemiddelmangel og forsyningssikkerhet 24. november
 Publisert:
 29.10.2026
@@ -724,24 +744,6 @@ Publisert:
 |
 Oppdatert:
 05.11.2026
-Mangel p&#xE5; Paralgin forte
-Publisert:
-04.11.2026
-Forh&#xE5;ndsgodkjent refusjon for kvinner med overgangsplager
-Publisert:
-30.10.2026
-|
-Oppdatert:
-04.11.2026
-Nytt om legemidler nr. 13 2026
-Publisert:
-03.11.2026
-Ny sikkerhetsmodul for &#xE5;rsrapporter i Clinical Trials Information System (CTIS)
-Publisert:
-09.09.2026
-|
-Oppdatert:
-27.10.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook
