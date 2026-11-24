@@ -145,12 +145,17 @@ Chercheur
 Expertises et publications scientifiques
 Rapports d&#039;enquêtes de vigilance
 Publications scientifiques
+Tensions en furosémide 20 et 40 mg : l’ANSM met en place de nouvelles mesures pour permettre la continuité de traitement des patients
 Quétiapine LP 50 mg : des mesures de gestion pour faire face aux nouvelles tensions
-L’ANSM active le plan 2026-2027 de suivi des médicaments et des dispositifs médicaux de l’hiver
 Contraception à base de désogestrel et risque de méningiome : questions-réponses
 A la une
-Quétiapine LP 50 mg : des mesures de gestion pour faire face aux nouvelles tensions
+Tensions en furosémide 20 et 40 mg : l’ANSM met en place de nouvelles mesures pour permettre la continuité de traitement des patients
 Dernières actualités
+Publié le 14/11/2025
+- Mis à jour le 19/11/2026
+Défaut qualité lénalidomide : les mesures de réduction des risques doivent être strictement respectées
+Surveillance
+Pharmacovigilance
 Publié le 10/11/2026
 Une collaboration renforcée entre l’ARS Hauts-de-France et l’ANSM
 Vie de l’Agence
@@ -160,60 +165,57 @@ Publié le 30/04/2025
 Point de situation sur les approvisionnements des produits de contraste
 Disponibilité des produits de santé
 Médicaments
-Publié le 10/11/2026
-Tensions sur l’antituberculeux Rifinah : une recommandation de remplacement temporaire pour préserver la continuité des traitements
-Disponibilité des produits de santé
-Médicaments
 Plus d&#039;actualités
 Informations de sécurité
-16/11/2026
+23/11/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Appareils de mesure du glucose en continu – Capteur - FreeStyle Libre 2 Plus – Abbott Diabetes Care Ltd – Rappel de produit et conduites à tenir
-16/11/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Logiciel EdgeLab – In Log
-16/11/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Biologie moléculaire – Logiciel Ion Torrent Genexus Dx – Life Technologies Holdings
-16/11/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Automate FlexLab X – Inpeco
-16/11/2026
+Préservatifs Amor Thin 12pc et Vibratissimo Mix 100pc – Amor Gummiwaren GmbH
+23/11/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
-Kit de préparation pour cathéter d’occlusion Philips Bridge –  Merit Medical
-13/11/2026
+Logiciel – Functional MR V1.0 – Olea Medical
+23/11/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+PACS – InteleShare – Intelerad Holdings USA Ltd.
+23/11/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux
-Vis (chirurgie maxillo faciale) – 2.0 Cortical Screw 19mm, HD6, 1/Pkg – Medartis
-13/11/2026
+Materiel ancillaire (rachis) – Broche de Kirschner en nitinol, mousse du système rachidien ES2 – Stryker Spine, Inc.
+18/05/2026
+- MIS À JOUR LE 23/11/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Système de détachement (utilisé avec les coils détachables neurovasculaire) InZone – Stryker Neurovascular
+20/11/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux de diagnostic in vitro
-Biochimie – Réactifs Hydragel 15 ISO-PAL et Hydragel 7 ISO-PAL – Sebia
-13/11/2026
+Biochimie – Réactif LPa Calibrator – Randox Laboratories
+20/11/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Chaise de douche/toilette mobile Raz – Raz Design Inc.
+19/11/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Lève-personne fixe au plafond (rail) – Système Likorall de lève-personne plafonnier sur rail – Liko AB
+19/11/2026
+RAPPEL DE PRODUIT
+Dispositifs médicaux
+Endoprothèses thoraciques Relay Plus et Relay Pro et endoprothèse abdominale Treo – Terumo Aortic
+19/11/2026
+INFORMATION AUX UTILISATEURS
+Dispositifs médicaux
+Console de contre-pulsion intra-aortique Cardiosave Hybrid et Cardiosave Rescue - Getinge
+19/11/2026
 RAPPEL DE PRODUIT
 Dispositifs médicaux de diagnostic in vitro
-Biochimie – Réactif Infinity Ammonia pour analyseurs chimiques Beckman Coulter AU – Fisher Diagnostics (Thermo Fisher Scientific)
-13/11/2026
+Bactériologie – Test rapide Xpert MRSA/SA SSTI – Cepheid
+18/11/2026
 INFORMATION AUX UTILISATEURS
 Dispositifs médicaux
-ECMO/CEC – Console Rotaflow – Getinge/Maquet Cardiopulmonary AG
-12/11/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Neurostimulateur implantable – Programmateur du médecin concernant les systèmes de stimulation cérébrale profonde Vercise – Boston Scientific Neuromodulation Corporation
-12/11/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux
-Lève-personne mobile Majorque – Identites
-12/11/2026
-INFORMATION AUX UTILISATEURS
-Dispositifs médicaux de diagnostic in vitro
-Hémostase – Automates CN-series CN-3000, CN-3500, CN-6000, CN-6500 – Sysmex
+Logiciel de radiothérapie – RayStation v 4.7 0 V2026 – RaySearch Laboratories AB
 Toutes les informations de sécurité
 Accès rapides
 Faire une demande d’accès dérogatoire
@@ -222,6 +224,12 @@ Déclarer un effet indésirable
 Base de données publique des médicaments
 data.ansm
 Évènements
+24 nov. 2026
+Comité Reproduction, grossesse et allaitement - Formation « Analyses pharmaco-épidémiologiques »
+Comités scientifiques permanents (CSP)
+20 nov. 2026
+Comité d&#039;interface avec les représentants des industries du médicament - Transition écologique et durabilité des produits de santé
+Comités d&#039;interfaces
 17 nov. 2026
 Comité de Contrôle de qualité des dispositifs médicaux - Séance plénière
 Comités scientifiques permanents (CSP)
@@ -234,12 +242,6 @@ Autres événements
 10 nov. 2026
 Comité Interface avec le réseau de toxicovigilance
 Comités scientifiques permanents (CSP)
-5 nov. 2026
-Comité de Contrôle de qualité des dispositifs médicaux - Groupe de travail relatif au contrôle de qualité des installations de radiologie dentaire
-Comités scientifiques permanents (CSP)
-5 nov. 2026
-Comité français de pharmacopée - Plantes médicinales et huiles essentielles
-Comités français de la pharmacopée
 Plus d&#039;évènements
 Vidéo à la une
 2 min 30

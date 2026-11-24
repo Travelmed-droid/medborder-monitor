@@ -91,20 +91,14 @@ Ctrl + K
 Arama
 ESC
 Kapat
-GETAT Duyurusu
-Kongre ve Detaylı Bilgi İçin Tıklayınız.
-Afişe Dön
-T.C. Sağlık Bakanlığı
-Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK)
-Dış Bağlantı ve Resmi Hizmet Bilgilendirmesi
-Değerli Ziyaretçimiz, ilgili resmi işlem/bilgi sayfasına yönlendiriliyorsunuz. Hedef adrese güvenle devam etmek için lütfen onaylayınız.
-Hedef Bağlantı:
-https://ecim2026turkiye.org/
-Vazgeç / Sayfada Kal
-Sayfaya Devam Et
-Bağlantı yeni bir sekmede açılacaktır. Popup 1 hafta boyunca size tekrar gösterilmeyecektir.
+Dünya Antimikrobiyal Direnç Farkındalık Haftası
+Tarayıcınız video oynatmayı desteklemiyor.
+Detaylı Bilgi İçin Tıklayınız
 T.C. Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK)
 T.C. Sağlık Bakanlığı Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK) Resmî Web Portalı. İlaç, tıbbi cihaz, kozmetik ve biyosidal ürünlerin ruhsatlandırma, piyasa gözetimi ve denetimi, klinik araştırmalar, mevzuat kütüphanesi, güncel duyurular, İlaç Takip Sistemi (İTS), Ürün Takip Sistemi (ÜTS) ve Elektronik Başvuru Sistemi (EBS) e-hizmetler merkezi.
+İlaç Denetiminin Geleceğine Türkiye İmzası!
+58 ülkeden 200’ü aşkın katılımcıyla rekor düzeyde uluslararası katılıma ulaşan 59. PIC/S Semineri, 2–6 Kasım 2026 tarihlerinde Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK) ev sahipliğinde İstanbul’da ge...
+İncele
 Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin Kılavuz Hakkında Duyuru
 &quot;Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına İlişkin Kılavuz&quot; 31 Ağustos 2026 tarihinde yayımlanmıştır.
 İncele
@@ -131,6 +125,8 @@ Sağlık Beyanı
 Tüm Hızlı Erişimler
 Haberler
 Tümü &raquo;
+İlaç Denetiminin Geleceğine Türkiye İmzası!
+23.11.2026
 Kurum Başkanımızın 10 Kasım Atatürk&#039;ü Anma Günü Mesajı
 09.11.2026
 TİTCK Başkanı Hüseyin Çelik’in 29 Ekim Cumhuriyet Bayramı Mesajı
@@ -145,20 +141,18 @@ Beşeri Tıbbi Ürünlerin İsimlendirmesine Dair Kılavuz Hakkında Duyuru
 05.09.2026
 Kozmetik Ürünlerde Kullanılan Parfüm Alerjenlerinin Etiketlenmesine İlişkin Kılavuz Hakkında Duyuru
 05.09.2026
-Beşeri Tıbbi Ürünlerin Fiyatlandırılması Hakkında Tebliğ
-04.09.2026
 Duyurular
 /
 Önemli
 Tümü &raquo;
-12.11.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+23.11.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Kamuoyunun Dikkatine
 DUYURU
-11.11.2026 - Kozmetik Ürünler Dairesi Başkanlığı
-BİYOSİDAL FİRMALARININ DİKKATİNE
-Duyuru
-09.11.2026 - Farmakovijilans ve Kontrole Tabi Maddeler Dairesi Başkanlığı
-FARMAKOVİJİLANS İRTİBAT NOKTALARININ DİKKATİNE
+20.11.2026 - Bilgi Sistemleri Dairesi Başkanlığı
+EBS-ESY Sisteminde Firma Bilgilerinin MERSİS Üzerinden Güncellenmesi
+Hakkında Duyuru
+20.11.2026 - Ekonomik Değerlendirmeler ve İlaç Tedarik Yönetimi Dairesi Başkanlığı
+FİRMALARIN DİKKATİNE
 Duyuru
 01.09.2026 - KURUM BAŞKANI
 KAMUOYUNUN DİKKATİNE
@@ -171,10 +165,10 @@ Ecza Ticarethanesi Haricinde Yapılacak İhracat Koşullarına İlişkin Kılavu
 Hakkında Duyuru
 Geri Çekmeler
 Tümü &raquo;
-12.11.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+23.11.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Kamuoyunun Dikkatine
 DUYURU
-03.11.2026 - Denetim Hizmetleri Başkan Yardımcılığı
+12.11.2026 - Denetim Hizmetleri Başkan Yardımcılığı
 Kamuoyunun Dikkatine
 DUYURU
 03.11.2026 - Denetim Hizmetleri Başkan Yardımcılığı

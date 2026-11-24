@@ -190,42 +190,42 @@ Briciole di pane
 home
 Aggregatore Risorse
 In evidenza
-02 nov 2026
+23 nov 2026
 Comunicati Stampa
-#MedSafetyWeek 2026: AIFA aderisce alla campagna di comunicazione internazionale per sensibilizzare sull’importanza della segnalazione dei sospetti effetti indesiderati dei farmaci
-La campagna globale #MedSafetyWeek di quest’anno, in programma dal 2 all’8 novembre, lancia un messaggio chiaro: «Non ignorare i sospetti effetti indesiderati dei farmaci, segnalali sempre», per contribuire a proteggere tutti da eventuali danni.
+L’App AIFA Medicinali si rinnova
+Gestione dei farmaci più semplice, promemoria ancora più personalizzati, possibilità di condividere le informazioni con familiari e caregiver e accesso diretto ai contenuti ufficiali dell’Agenzia: la versione aggiornata dell’App AIFA Medicinali introduce nuove funzionalità e miglioramenti, pensati per rendere l’esperienza di utilizzo più intuitiva, completa e flessibile e semplificare la gestione dei farmaci e delle informazioni.
+19 nov 2026
+Comunicati Stampa
+Il CdA AIFA approva la rimborsabilità di un farmaco orfano per una malattia renale, di 3 nuove molecole, di 5 estensioni di indicazione terapeutica e di 2 equivalenti
+Via libera a trattamenti per nefropatie rare, angioedema ereditario, asma severo, sintomi correlati alle terapie oncologiche ed estensioni pediatriche e infettivologiche.
+18 nov 2026
+Comunicati Stampa
+La campagna AIFA per l’uso consapevole degli antibiotici in collaborazione con il Ministero della Salute
+“Te lo direbbe anche un bambino” è il messaggio della campagna 2026 dell’Agenzia Italiana del Farmaco realizzata in collaborazione con il Ministero della Salute per promuovere l’uso consapevole degli antibiotici e contrastare l’antibiotico-resistenza.
+18 nov 2026
+L'agenzia
+Farmaco per il tumore del pancreas, AIFA già al lavoro
+AIFA ha avviato un processo di valutazione progressiva dei dati disponibili, secondo un approccio di rolling review in linea con il percorso adottato dall'Agenzia Europea per i Medicinali.
+Aggregatore Risorse
+Notizie
 29 ott 2026
 Comunicati Stampa
 Sarà rimborsata dal SSN la prima terapia genica topica per i “bambini farfalla”
-Via libera dal CdA AIFA al trattamento topico dell'epidermolisi bollosa distrofica, la patologia nota anche come “sindrome dei bambini farfalla”, per l’estrema fragilità della pelle e delle mucose dei pazienti. Approvato anche il rimborso di farmaci per il tumore della cervice e per malattie polmonari nei bambini e negli adolescenti.
-16 ott 2026
-Comunicati Stampa
-AIFA a Genova: il valore dell’innovazione farmaceutica al centro del confronto con le Regioni
-Si è svolto a Genova, presso il Palazzo Ducale, il convegno “Misurare il valore dell’innovazione - Dalla valutazione del farmaco agli esiti di salute”, organizzato dall'Agenzia Italiana del Farmaco (AIFA) con il patrocinio della Regione Liguria.
-15 ott 2026
-Comunicati Stampa
-Il CdA AIFA approva la rimborsabilità per un nuovo farmaco orfano, 6 estensioni di indicazione anche in ambito pediatrico e 3 equivalenti
-Via libera a nuove opzioni terapeutiche per l'oncologia, l'infezione da HIV-1, la salute mentale negli adolescenti e le malattie rare.
-Aggregatore Risorse
-Notizie
+20 nov 2026
+Monitoraggio spesa farmaceutica
+Spesa farmaceutica gennaio-giugno 2026: monitoraggio AIFA
+20 nov 2026
+Commissione scientifica ed economica
+Esiti runione Commissione Scientifica e Economica del Farmaco (CSE)
+19 nov 2026
+L'agenzia
+AIFA incontra delegazione ufficiale del Regno d’Arabia Saudita
+18 nov 2026
+Sperimentazione clinica dei farmaci
+Richiamo alle indicazioni sulle modalità di pagamento della tariffa per la relazione annuale di sicurezza (Annual Safety Report, ASR)
 16 nov 2026
 Farmaci carenti
 Cessata commercializzazione di Emend (aprepitant)
-16 nov 2026
-Liste di trasparenza
-AIFA aggiorna le Liste di Trasparenza
-10 nov 2026
-Accesso al farmaco
-Proroga autorizzazione transitoria all’uso di apteni per patch test in assenza di alternative cliniche in commercio
-10 nov 2026
-Informazione medico-scientifica
-Chiarimenti sull’utilizzo delle fonti bibliografiche dei materiali promozionali dei medicinali
-09 nov 2026
-Monitoraggio spesa farmaceutica
-Spesa farmaceutica gennaio-aprile 2026: monitoraggio AIFA
-04 nov 2026
-Qualità e Ispezioni
-Nota Informativa Importante di qualità su Respreeza
 Tutte le notizie
 Banca dati dei farmaci 2024
 Cerca un farmaco
@@ -250,28 +250,27 @@ OsMed
 Open data
 Aggregatore Risorse
 Agenda
-09 - 13
-NOV
-Roma
-11:30 - 19:00
-CSE
-Riunione della Commissione Scientifica e Economica del Farmaco (CSE)
-18
-NOV
-Roma
-Da definire
-CDA
-Riunione CDA
 20
 NOV
 Roma
-Da definire
+10:00
+Straordinaria CSE
+Riunione straordinaria della Commissione Scientifica e Economica del Farmaco (CSE)
+30
+NOV
+Roma
+12:30
+CDA
+Riunione CDA
+23
+NOV
+11:30
 Straordinaria CSE
 Riunione straordinaria della Commissione Scientifica e Economica del Farmaco (CSE)
 TUTTI GLI EVENTI
 Aggregatore Risorse
 Comunicati
-#MedSafetyWeek 2026: AIFA aderisce alla campagna di comunicazione internazionale per sensibilizzare sull’importanza della segnalazione dei sospetti effetti indesiderati dei farmaci
+L’App AIFA Medicinali si rinnova
 Tutti i comunicati
 Media
 Media
@@ -280,18 +279,17 @@ Multimedia
 Vai al canale Youtube
 Instagram
 Instagram
-Una legislazione farmaceutica moderna è fondamentale per accompagnare l'#innovazione e garantire ai ...
+🎬 Ciak, si gira! Uno sguardo dietro le quinte dello spot “Te lo direbbe anche un bambino”, la campa...
 Vai al post →
-Si conclude la campagna #MedSafetyWeek di quest’anno! 🎉
-Grazie per aver seguito i nostri canali in...
+💊 Scopri i cinque errori da evitare con gli #antibiotici, perché un impiego scorretto può compromet...
 Vai al post →
-Se sei un professionista sanitario, cogli l’occasione per discutere e individuare gli effetti indesi...
+📢 Via libera dal CdA di #AIFA alla rimborsabilità di 4 nuovi #farmaci, tra cui un medicinale orfano...
 Vai al post →
-💬 Ti è mai capitato di pensare “è solo un’eruzione cutanea”, “sono soltanto stressato” o “probabilm...
+Quando si parla di #antibiotici, le nostre scelte possono avere conseguenze che vanno oltre la #salu...
 Vai al post →
-Esistono diversi tipi di effetti indesiderati dei #farmaci: il modo in cui si manifestano può dipend...
+👉 Un antibiotico che ha funzionato in passato non è necessariamente quello giusto per una nuova inf...
 Vai al post →
-📍 A Roma la seconda edizione del Policy & Business Forum del Gruppo Editoriale @urania.news, import...
+💊 Gli #antibiotici sono alleati preziosi per la nostra #salute, ma utilizzarli quando non serve può...
 Vai al post →
 VAI AL PROFILO INSTAGRAM
 Aggregatore Risorse

@@ -75,6 +75,12 @@ Schliessen
 Visible
 Aktuelles
 Alle Updates anzeigen
+19.11.2026
+Korrektur der Angaben zur Grundlage der Pilotphase 1
+In der Aufschaltung zur Einf&uuml;hrung von eCTD v4.0 und der Anmeldung an der Pilotphase war eine falsche Angabe zur Grundlage der Pilotphase 1 angegeben. Korrekt muss es heissen, dass die Phase 1 basierend auf dem Implementation Guide v1.1, ver&ouml;ffentlicht am 01.07.2026, durchgef&uuml;hrt wird. Der Text wurde entsprechend korrigiert
+17.11.2026
+Regulatory & Beyond 2026
+Pr&auml;sentationen jetzt verf&uuml;gbar
 13.11.2026
 HPC &ndash; Credelio ad us. vet., Kautabletten f&uuml;r Katzen
 Sehr seltene F&auml;lle von Krampfanf&auml;llen bei Katzen
@@ -91,15 +97,8 @@ Neue synthetische Drogen k&ouml;nnen erhebliche Gesundheitsgefahren bergen
 Chargenr&uuml;ckruf &ndash; Ologynelle, Filmtabletten
 R&uuml;ckzug der Chargen 260513 und 260514 bis auf Stufe Detailhandel
 09.11.2026
-Ver&ouml;ffentlichung eCTD v4.0 Implementation Guide Package v2.0
-Swissmedic ver&ouml;ffentlicht das eCTD v4.0 Implementation Guide Package in der Version 2.0
-09.11.2026
 NAD+-Pr&auml;parate: Wenn Lifestyle-Angebote strafrechtliche Folgen haben
 Gesundheitstrends im Spannungsfeld von Vermarktung und Regulierung
-05.11.2026
-Swissmedic Journal
-Aktuelle Ausgabe
-Swissmedic Journal Oktober 2026
 Im Fokus
 Fillerbehandlungen
 Das Video zeigt die Risiken von unsachgemässen Filler-Behandlungen auf und macht deutlich, wie diese reduziert werden können.

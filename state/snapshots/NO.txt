@@ -41,7 +41,7 @@ Nasjonale MT s&#xF8;knader til dyr som er trukket
 Fornyelse av markedsf&#xF8;ringstillatelse
 Endring av markedsf&#xF8;ringstillatelse
 Overf&#xF8;ring av MT/endret navn og adresse for MT-innehaver
-Artikkel 61(3)-notifikasjoner og VRA G.I.15z (NP)
+61(3)-notifikasjoner og VRA G.I.15z (NP)
 Arbeidsdelingsprosedyre (&#xAB;worksharing&#xBB;)
 Innsendelse av endringss&#xF8;knader
 DMP-svar p&#xE5; ferdigstilte endringss&#xF8;knader
@@ -336,6 +336,7 @@ For helsetjenesten
 Melde fra om alvorlige hendelser i helsetjenesten
 Korrigerende sikkerhetstiltak p&#xE5; utstyr i helsetjenesten
 H&#xE5;ndtering av medisinsk utstyr
+Anskaffelser av medisinsk utstyr
 Reprosessering av medisinsk utstyr
 Egentilvirkning av medisinsk utstyr i helseinstitusjoner (in-house)
 Sentralgassanlegg for medisinske gasser
@@ -714,12 +715,18 @@ Produksjon og salg av enkelte insulinprodukter avsluttes i hele Europa. Bruker d
 Les v&#xE5;re r&#xE5;d
 Nyheter
 Se alle nyheter
-DMPs systemer fungerer n&#xE5; som normalt igjen
+Forh&#xE5;ndsgodkjent refusjon for kvinner med overgangsplager
 Publisert:
-13.11.2026
+30.10.2026
 |
 Oppdatert:
-16.11.2026
+23.11.2026
+Kosmetiske klinikker m&#xE5; ta ansvar for &#xE5; bruke lovlige og trygge produkter
+Publisert:
+18.11.2026
+18. november: Den europeiske antibiotikadagen
+Publisert:
+18.11.2026
 Mangel p&#xE5; hostedempende mikstur
 Publisert:
 16.11.2026
@@ -732,18 +739,6 @@ Publisert:
 |
 Oppdatert:
 10.11.2026
-Frokostseminar om legemiddelmangel og forsyningssikkerhet 24. november
-Publisert:
-29.10.2026
-|
-Oppdatert:
-06.11.2026
-Ny veileder for saksbehandling av s&#xF8;knader om godkjenningsfritak for legemidler i tidlig utviklingsfase
-Publisert:
-05.11.2026
-|
-Oppdatert:
-05.11.2026
 Abonner p&#xE5; nyhetsbrev
 Abonner p&#xE5; e-postvarsel
 Facebook

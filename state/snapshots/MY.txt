@@ -162,6 +162,7 @@ images/2026/banner/gmp_1750.png
 images/2026/banner/MADRAC-Bulletin_62-website-banner-1750-x-400-px.png
 images/2026/banner/Penutupan_2.png
 images/2026/banner/Maint_6_nov.png
+images/2026/banner/Tamat_token_3.png
 MedSafetyWeek-2025-mobile-banner-600-x-600-px.png
 E-labelling_.jpg
 images/2026/banner/Borang_600x600.png
@@ -210,6 +211,9 @@ PRESS RELEASE
 DIRECTIVES & CIRCULARS
 SAFETY ALERTS
 CALENDAR ACTIVITIES
+19
+Nov
+NPRA–INDUSTRY FORUM 2026: Strengthening Pharmacovigilance in Malaysia
 16
 Nov
 PENGUMUMAN: Penamatan Permohonan dan Pembaharuan Token untuk Tempoh Dua (2) Tahun
@@ -225,20 +229,17 @@ Latihan Sangkutan di NPRA bagi Latihan Liberalisasi Ahli Farmasi Provisional (PR
 07
 Jul
 New Login Method for QUEST3+ System – MyTrustID
-19
-Jun
-PELAKSANAAN KAJIAN KEPUASAN PELANGGAN LUARAN PROGRAM PERKHIDMATAN FARMASI, KKM
 View All Announcements
+Pekeliling Berkenaan Peluasan Skop Permohonan Pertukaran Tapak Pengilang/Change of Manufacturing Site (COS) Bagi Kategori Produk Suplemen Kesihatan dan Semula Jadi
+published on 2026-11-20
+NPRA–INDUSTRY FORUM 2026: Strengthening Pharmacovigilance in Malaysia
+published on 2026-11-19
 List of GLP Compliant Test Facilities
 published on 2026-11-13
 List of Renewal Approved Veterinary Products
 published on 2026-11-11
 New Products Approved
 published on 2026-11-11
-Additional Indications Approved
-published on 2026-11-11
-That’s a wrap on #MedSafetyWeek 2026 campaign! 🎉
-published on 2026-11-08
 More Recent Updates
 02
 Nov
@@ -251,14 +252,14 @@ Aug
 Kenyataan Media KKM 24 Ogos 2026- Makluman Kosmetik yang Dikesan Mengandungi Racun Berjadual
 View All Press Release
 20
+Nov
+Pekeliling Berkenaan Peluasan Skop Permohonan Pertukaran Tapak Pengilang/Change of Manufacturing Site (COS) Bagi Kategori Produk Suplemen Kesihatan dan Semula Jadi
+20
 Oct
 Direktif untuk semua produk yang mengandungi non-vitamin K antagonist oral anticoagulants (NOACs) [dabigatran, rivaroxaban, apixaban dan edoxaban]: Pengemaskinian sisip bungkusan dan RiMUP dengan maklumat keselamatan berkaitan risiko anticoagulant-related nephropathy (ARN)
 18
 Sep
 Direktif Pelaksanaan dan Pengendalian Label Keselamatan
-16
-Jul
-Direktif untuk penggunaan Drug Registration Guidance Document (DRGD) Third Edition, 12th Revision July 2026
 View All Directives & Circulars
 05
 Nov
@@ -293,7 +294,7 @@ DISCLAIMER
 The Government of Malaysia and the National Pharmaceutical Regulatory Agency are not responsible for any loss or damage caused by the usage of any information obtained from this website.
 Daily PopUp By YannickTanguy.com
 Site Last Modified
-Last Modified: Monday 16 November 2026, 11:51:34.
+Last Modified: Friday 20 November 2026, 10:48:49.
 Online Services
 QUEST3+ System
 NPRA Support System
@@ -439,4 +440,4 @@ Choose Your Language
 Bahasa Melayu
 English (UK)
 Home
-Monday, 16 Nov 2026
+Tuesday, 24 Nov 2026
